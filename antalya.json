@@ -1,0 +1,942 @@
+[
+  {
+    "id": "place_ANT_001",
+    "name": "Kaleiçi (Tarihi Şehir Merkezi)",
+    "category": [
+      "Tarihi",
+      "Meydan"
+    ],
+    "coordinates": {
+      "lat": 36.8874,
+      "lng": 30.7076
+    },
+    "city": "Antalya",
+    "district": "Muratpaşa",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 200,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Cuma",
+        "Cumartesi"
+      ],
+      "hours": [
+        "10:00-22:00"
+      ]
+    },
+    "tags": [
+      "tarih",
+      "sokaklar",
+      "kafe",
+      "marina"
+    ],
+    "popularity_score": 93,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.7,
+    "review_count": 9800,
+    "sources": [
+      "Tripadvisor",
+      "Ekşi Sözlük"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ANT_002",
+    "name": "Hadrian Kapısı (Üçkapılar)",
+    "category": [
+      "Tarihi",
+      "Anıt"
+    ],
+    "coordinates": {
+      "lat": 36.8841,
+      "lng": 30.7075
+    },
+    "city": "Antalya",
+    "district": "Muratpaşa",
+    "average_stay_minutes": 30,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Tüm yıl"
+      ],
+      "days": [
+        "Hafta içi"
+      ],
+      "hours": [
+        "09:00-20:00"
+      ]
+    },
+    "tags": [
+      "roma",
+      "anıt",
+      "fotoğraf"
+    ],
+    "popularity_score": 90,
+    "virality_trend": "stabil",
+    "average_rating": 4.6,
+    "review_count": 5400,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ANT_003",
+    "name": "Konyaaltı Plajı",
+    "category": [
+      "Plaj",
+      "Doğal"
+    ],
+    "coordinates": {
+      "lat": 36.856,
+      "lng": 30.639
+    },
+    "city": "Antalya",
+    "district": "Konyaaltı",
+    "average_stay_minutes": 180,
+    "average_spend": {
+      "amount": 150,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "İlkbahar"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-19:00"
+      ]
+    },
+    "tags": [
+      "deniz",
+      "sahil",
+      "gün batımı"
+    ],
+    "popularity_score": 92,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.5,
+    "review_count": 8700,
+    "sources": [
+      "Tripadvisor",
+      "Foursquare"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ANT_004",
+    "name": "Lara Plajı",
+    "category": [
+      "Plaj",
+      "Doğal"
+    ],
+    "coordinates": {
+      "lat": 36.857,
+      "lng": 30.892
+    },
+    "city": "Antalya",
+    "district": "Muratpaşa",
+    "average_stay_minutes": 180,
+    "average_spend": {
+      "amount": 150,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "İlkbahar"
+      ],
+      "days": [
+        "Hafta içi"
+      ],
+      "hours": [
+        "09:00-19:00"
+      ]
+    },
+    "tags": [
+      "kumsal",
+      "deniz",
+      "aile"
+    ],
+    "popularity_score": 89,
+    "virality_trend": "stabil",
+    "average_rating": 4.4,
+    "review_count": 6400,
+    "sources": [
+      "Tripadvisor",
+      "Foursquare"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ANT_005",
+    "name": "Düden Şelalesi (Aşağı)",
+    "category": [
+      "Doğal",
+      "Park"
+    ],
+    "coordinates": {
+      "lat": 36.8428,
+      "lng": 30.7591
+    },
+    "city": "Antalya",
+    "district": "Muratpaşa",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 50,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "10:00-18:00"
+      ]
+    },
+    "tags": [
+      "şelale",
+      "manzara",
+      "fotoğraf"
+    ],
+    "popularity_score": 88,
+    "virality_trend": "stabil",
+    "average_rating": 4.5,
+    "review_count": 5200,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ANT_006",
+    "name": "Düden Şelalesi (Yukarı)",
+    "category": [
+      "Doğal",
+      "Park"
+    ],
+    "coordinates": {
+      "lat": 36.9517,
+      "lng": 30.7133
+    },
+    "city": "Antalya",
+    "district": "Kepez",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 60,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Hafta sonu"
+      ],
+      "hours": [
+        "10:00-18:00"
+      ]
+    },
+    "tags": [
+      "şelale",
+      "piknik",
+      "yürüyüş"
+    ],
+    "popularity_score": 86,
+    "virality_trend": "stabil",
+    "average_rating": 4.4,
+    "review_count": 4300,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ANT_007",
+    "name": "Kurşunlu Şelalesi Tabiat Parkı",
+    "category": [
+      "Doğal",
+      "Park"
+    ],
+    "coordinates": {
+      "lat": 37.0031,
+      "lng": 30.8526
+    },
+    "city": "Antalya",
+    "district": "Aksu",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 80,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Sonbahar"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "şelale",
+      "doğa",
+      "yürüyüş"
+    ],
+    "popularity_score": 85,
+    "virality_trend": "stabil",
+    "average_rating": 4.6,
+    "review_count": 3900,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ANT_008",
+    "name": "Antalya Müzesi",
+    "category": [
+      "Müze",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 36.8891,
+      "lng": 30.657
+    },
+    "city": "Antalya",
+    "district": "Konyaaltı",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 300,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Tüm yıl"
+      ],
+      "days": [
+        "Salı",
+        "Perşembe"
+      ],
+      "hours": [
+        "10:00-17:00"
+      ]
+    },
+    "tags": [
+      "arkeoloji",
+      "koleksiyon",
+      "müze"
+    ],
+    "popularity_score": 90,
+    "virality_trend": "stabil",
+    "average_rating": 4.8,
+    "review_count": 5100,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ANT_009",
+    "name": "Perge Antik Kenti",
+    "category": [
+      "Tarihi",
+      "Açıkhava"
+    ],
+    "coordinates": {
+      "lat": 36.9629,
+      "lng": 30.851
+    },
+    "city": "Antalya",
+    "district": "Aksu",
+    "average_stay_minutes": 150,
+    "average_spend": {
+      "amount": 400,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Sonbahar"
+      ],
+      "days": [
+        "Hafta içi"
+      ],
+      "hours": [
+        "09:00-17:00"
+      ]
+    },
+    "tags": [
+      "antik",
+      "roma",
+      "arkeoloji"
+    ],
+    "popularity_score": 88,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.7,
+    "review_count": 4600,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ANT_010",
+    "name": "Aspendos Antik Tiyatrosu",
+    "category": [
+      "Tarihi",
+      "Açıkhava"
+    ],
+    "coordinates": {
+      "lat": 36.939,
+      "lng": 31.1706
+    },
+    "city": "Antalya",
+    "district": "Serik",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 400,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Sonbahar"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-17:00"
+      ]
+    },
+    "tags": [
+      "tiyatro",
+      "antik",
+      "konser"
+    ],
+    "popularity_score": 89,
+    "virality_trend": "stabil",
+    "average_rating": 4.8,
+    "review_count": 5200,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ANT_011",
+    "name": "Side Antik Kenti",
+    "category": [
+      "Tarihi",
+      "Açıkhava"
+    ],
+    "coordinates": {
+      "lat": 36.765,
+      "lng": 31.3888
+    },
+    "city": "Antalya",
+    "district": "Manavgat",
+    "average_stay_minutes": 180,
+    "average_spend": {
+      "amount": 300,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Hafta içi"
+      ],
+      "hours": [
+        "09:00-19:00"
+      ]
+    },
+    "tags": [
+      "tapınak",
+      "liman",
+      "antik"
+    ],
+    "popularity_score": 90,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.7,
+    "review_count": 7800,
+    "sources": [
+      "Tripadvisor",
+      "Foursquare"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ANT_012",
+    "name": "Olympos & Çıralı",
+    "category": [
+      "Doğal",
+      "Plaj"
+    ],
+    "coordinates": {
+      "lat": 36.3964,
+      "lng": 30.4733
+    },
+    "city": "Antalya",
+    "district": "Kumluca",
+    "average_stay_minutes": 240,
+    "average_spend": {
+      "amount": 250,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "İlkbahar"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-19:00"
+      ]
+    },
+    "tags": [
+      "caretta",
+      "doğa",
+      "kamp"
+    ],
+    "popularity_score": 88,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.6,
+    "review_count": 6200,
+    "sources": [
+      "Tripadvisor",
+      "Foursquare"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ANT_013",
+    "name": "Olympos Teleferik (Tahtalı Dağı)",
+    "category": [
+      "Manzara",
+      "Aktivite"
+    ],
+    "coordinates": {
+      "lat": 36.521,
+      "lng": 30.531
+    },
+    "city": "Antalya",
+    "district": "Kemer",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 900,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Hafta içi"
+      ],
+      "hours": [
+        "10:00-17:00"
+      ]
+    },
+    "tags": [
+      "teleferik",
+      "zirve",
+      "manzara"
+    ],
+    "popularity_score": 87,
+    "virality_trend": "stabil",
+    "average_rating": 4.5,
+    "review_count": 4100,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ANT_014",
+    "name": "Phaselis Antik Kenti",
+    "category": [
+      "Tarihi",
+      "Plaj"
+    ],
+    "coordinates": {
+      "lat": 36.5238,
+      "lng": 30.5537
+    },
+    "city": "Antalya",
+    "district": "Kemer",
+    "average_stay_minutes": 150,
+    "average_spend": {
+      "amount": 300,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Cumartesi"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "antik",
+      "koy",
+      "yüzme"
+    ],
+    "popularity_score": 86,
+    "virality_trend": "stabil",
+    "average_rating": 4.6,
+    "review_count": 3700,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ANT_015",
+    "name": "Köprülü Kanyon Milli Parkı",
+    "category": [
+      "Doğal",
+      "Macera"
+    ],
+    "coordinates": {
+      "lat": 37.179,
+      "lng": 31.1839
+    },
+    "city": "Antalya",
+    "district": "Manavgat",
+    "average_stay_minutes": 240,
+    "average_spend": {
+      "amount": 500,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "İlkbahar"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-17:00"
+      ]
+    },
+    "tags": [
+      "rafting",
+      "doğa",
+      "yürüyüş"
+    ],
+    "popularity_score": 88,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.7,
+    "review_count": 5200,
+    "sources": [
+      "Tripadvisor",
+      "Foursquare"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ANT_016",
+    "name": "The Land of Legends",
+    "category": [
+      "Tema Park",
+      "Eğlence"
+    ],
+    "coordinates": {
+      "lat": 36.8625,
+      "lng": 31.0055
+    },
+    "city": "Antalya",
+    "district": "Serik",
+    "average_stay_minutes": 300,
+    "average_spend": {
+      "amount": 1500,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz"
+      ],
+      "days": [
+        "Hafta içi"
+      ],
+      "hours": [
+        "10:00-18:00"
+      ]
+    },
+    "tags": [
+      "su parkı",
+      "aile",
+      "etkinlik"
+    ],
+    "popularity_score": 85,
+    "virality_trend": "stabil",
+    "average_rating": 4.4,
+    "review_count": 4800,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ANT_017",
+    "name": "Antalya Akvaryum",
+    "category": [
+      "Aile",
+      "Eğlence"
+    ],
+    "coordinates": {
+      "lat": 36.8796,
+      "lng": 30.6503
+    },
+    "city": "Antalya",
+    "district": "Konyaaltı",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 700,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Tüm yıl"
+      ],
+      "days": [
+        "Cuma",
+        "Cumartesi"
+      ],
+      "hours": [
+        "10:00-18:00"
+      ]
+    },
+    "tags": [
+      "akvaryum",
+      "aile",
+      "eğitim"
+    ],
+    "popularity_score": 83,
+    "virality_trend": "stabil",
+    "average_rating": 4.3,
+    "review_count": 3600,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ANT_018",
+    "name": "TerraCity AVM",
+    "category": [
+      "AVM",
+      "Alışveriş"
+    ],
+    "coordinates": {
+      "lat": 36.8539,
+      "lng": 30.7726
+    },
+    "city": "Antalya",
+    "district": "Muratpaşa",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 400,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Tüm yıl"
+      ],
+      "days": [
+        "Hafta içi"
+      ],
+      "hours": [
+        "10:00-22:00"
+      ]
+    },
+    "tags": [
+      "alışveriş",
+      "yeme-içme",
+      "sinema"
+    ],
+    "popularity_score": 80,
+    "virality_trend": "stabil",
+    "average_rating": 4.3,
+    "review_count": 3000,
+    "sources": [
+      "Foursquare"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ANT_019",
+    "name": "MarkAntalya AVM",
+    "category": [
+      "AVM",
+      "Alışveriş"
+    ],
+    "coordinates": {
+      "lat": 36.8926,
+      "lng": 30.7035
+    },
+    "city": "Antalya",
+    "district": "Muratpaşa",
+    "average_stay_minutes": 110,
+    "average_spend": {
+      "amount": 350,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Tüm yıl"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "10:00-22:00"
+      ]
+    },
+    "tags": [
+      "alışveriş",
+      "merkez"
+    ],
+    "popularity_score": 79,
+    "virality_trend": "stabil",
+    "average_rating": 4.2,
+    "review_count": 2800,
+    "sources": [
+      "Foursquare"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ANT_020",
+    "name": "Tünektepe Teleferik",
+    "category": [
+      "Manzara",
+      "Aktivite"
+    ],
+    "coordinates": {
+      "lat": 36.8297,
+      "lng": 30.5748
+    },
+    "city": "Antalya",
+    "district": "Konyaaltı",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 200,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Hafta içi"
+      ],
+      "hours": [
+        "10:00-18:00"
+      ]
+    },
+    "tags": [
+      "teleferik",
+      "seyir",
+      "fotoğraf"
+    ],
+    "popularity_score": 82,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.4,
+    "review_count": 3200,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ANT_021",
+    "name": "Karain Mağarası",
+    "category": [
+      "Tarihi",
+      "Doğal"
+    ],
+    "coordinates": {
+      "lat": 37.0351,
+      "lng": 30.6305
+    },
+    "city": "Antalya",
+    "district": "Döşemealtı",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 50,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Sonbahar"
+      ],
+      "days": [
+        "Cumartesi"
+      ],
+      "hours": [
+        "10:00-17:00"
+      ]
+    },
+    "tags": [
+      "mağara",
+      "arkeoloji",
+      "tarihöncesi"
+    ],
+    "popularity_score": 78,
+    "virality_trend": "stabil",
+    "average_rating": 4.2,
+    "review_count": 1600,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  }
+]

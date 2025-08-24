@@ -1,0 +1,223 @@
+[
+    {
+      "id": "place_021",
+      "name": "Mevlana Kültür Merkezi (Sema Gösterisi)",
+      "category": ["Kültür", "Performans"],
+      "coordinates": { "lat": 37.871, "lng": 32.492 },
+      "city": "Konya",
+      "district": "Karatay",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 30, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz", "Sonbahar"],
+        "days": ["Cumartesi"],
+        "hours": ["19:00-21:00"]
+      },
+      "tags": ["sema", "gösteri", "kültürel"],
+      "popularity_score": 92,
+      "virality_trend": "yükselişte",
+      "average_rating": null,
+      "review_count": null,
+      "sources": ["Lonely Planet"],
+      "photos": []
+    },
+    {
+      "id": "place_022",
+      "name": "Konya Bilim Merkezi",
+      "category": ["Müze", "Bilim"],
+      "coordinates": { "lat": 37.871, "lng": 32.495 },
+      "city": "Konya",
+      "district": "Meram",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 70, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz", "Kış"],
+        "days": ["Hafta içi"],
+        "hours": ["10:00-17:00"]
+      },
+      "tags": ["etkileşimli", "bilim", "çocuk dostu"],
+      "popularity_score": 89,
+      "virality_trend": "stabil",
+      "average_rating": 4.7,
+      "review_count": 300,
+      "sources": ["Tripadvisor"],
+      "photos": []
+    },
+    {
+      "id": "place_023",
+      "name": "Sahip Ata Külliyesi",
+      "category": ["Tarih", "Mimari"],
+      "coordinates": { "lat": 37.865, "lng": 32.490 },
+      "city": "Konya",
+      "district": "Meram",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 20, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Salı", "Cumartesi"],
+        "hours": ["10:00-16:00"]
+      },
+      "tags": ["selçuklu", "külliye", "mimari"],
+      "popularity_score": 86,
+      "virality_trend": "stabil",
+      "average_rating": null,
+      "review_count": null,
+      "sources": ["Wikipedia"],
+      "photos": []
+    },
+    {
+      "id": "place_024",
+      "name": "Konya Etnografya Müzesi",
+      "category": ["Müze", "Etnografya"],
+      "coordinates": { "lat": 37.864, "lng": 32.488 },
+      "city": "Konya",
+      "district": "Meram",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 30, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz", "Kış"],
+        "days": ["Çarşamba", "Pazar"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["etnografi", "yerel kültür"],
+      "popularity_score": 80,
+      "virality_trend": "stabil",
+      "average_rating": null,
+      "review_count": null,
+      "sources": ["Wikipedia"],
+      "photos": []
+    },
+    {
+      "id": "place_025",
+      "name": "Sırçalı Medrese",
+      "category": ["Tarih", "Mimari"],
+      "coordinates": { "lat": 37.865, "lng": 32.492 },
+      "city": "Konya",
+      "district": "Karatay",
+      "average_stay_minutes": 45,
+      "average_spend": { "amount": 20, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Perşembe", "Cumartesi"],
+        "hours": ["10:00-16:00"]
+      },
+      "tags": ["selçuk", "çini", "medrese"],
+      "popularity_score": 85,
+      "virality_trend": "stabil",
+      "average_rating": null,
+      "review_count": null,
+      "sources": ["Wikipedia"],
+      "photos": []
+    },
+    {
+      "id": "place_026",
+      "name": "Koyunoğlu Müzesi",
+      "category": ["Müze", "Sanat"],
+      "coordinates": { "lat": 37.866, "lng": 32.491 },
+      "city": "Konya",
+      "district": "Karatay",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 50, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz", "Kış"],
+        "days": ["Salı", "Perşembe"],
+        "hours": ["10:00-17:00"]
+      },
+      "tags": ["sanat", "bağış koleksiyonu"],
+      "popularity_score": 75,
+      "virality_trend": "düşüşte",
+      "average_rating": null,
+      "review_count": null,
+      "sources": ["Planetware"],
+      "photos": []
+    },
+    {
+      "id": "place_027",
+      "name": "Sille Kültür Evi",
+      "category": ["Kültür", "Tarih"],
+      "coordinates": { "lat": 37.891, "lng": 32.454 },
+      "city": "Konya",
+      "district": "Meram",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 25, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["10:00-17:00"]
+      },
+      "tags": ["yerel kültür", "etnografya"],
+      "popularity_score": 82,
+      "virality_trend": "stabil",
+      "average_rating": 4.5,
+      "review_count": 5,
+      "sources": ["Expedia"],
+      "photos": []
+    },
+    {
+      "id": "place_028",
+      "name": "Sille Baraj Parkı",
+      "category": ["Bahçe", "Doğal"],
+      "coordinates": { "lat": 37.887, "lng": 32.459 },
+      "city": "Konya",
+      "district": "Meram",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 15, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yahar", "İlkbahar"],
+        "days": ["Hafta sonu"],
+        "hours": ["09:00-19:00"]
+      },
+      "tags": ["doğal", "piknik", "çocuk"],
+      "popularity_score": 80,
+      "virality_trend": "stabil",
+      "average_rating": 4.5,
+      "review_count": 54,
+      "sources": ["Tripadvisor"],
+      "photos": []
+    },
+    {
+      "id": "place_029",
+      "name": "Sahip Ata Vakıf Müzesi",
+      "category": ["Müze", "Etnografya"],
+      "coordinates": { "lat": 37.8655, "lng": 32.4905 },
+      "city": "Konya",
+      "district": "Meram",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz", "İlkbahar"],
+        "days": ["Hafta içi"],
+        "hours": ["10:00-17:00"]
+      },
+      "tags": ["vakıf", "etnografya"],
+      "popularity_score": 78,
+      "virality_trend": "stabil",
+      "average_rating": null,
+      "review_count": null,
+      "sources": ["Wikipedia"],
+      "photos": []
+    },
+    {
+      "id": "place_030",
+      "name": "Sarayini Yeraltı Şehri",
+      "category": ["Arkeoloji", "Yeraltı Şehri"],
+      "coordinates": { "lat": 37.950, "lng": 32.600 },
+      "city": "Konya",
+      "district": "Merkez",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 70, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Cumartesi"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["arkeolojik", "yeraltı"],
+      "popularity_score": 88,
+      "virality_trend": "yükselişte",
+      "average_rating": null,
+      "review_count": null,
+      "sources": ["News–Archaeology"],
+      "photos": []
+    }
+  ]
+  

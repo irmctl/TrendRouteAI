@@ -1,0 +1,1017 @@
+[
+  {
+    "id": "place_ADA_001",
+    "name": "Sabancı Merkez Camii",
+    "category": [
+      "Cami",
+      "Tarihi"
+    ],
+    "coordinates": {
+      "lat": 36.9955,
+      "lng": 35.325
+    },
+    "city": "Adana",
+    "district": "Seyhan",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Sonbahar"
+      ],
+      "days": [
+        "Salı",
+        "Perşembe"
+      ],
+      "hours": [
+        "09:00-19:00"
+      ]
+    },
+    "tags": [
+      "dini",
+      "ikonik",
+      "nehir kenarı"
+    ],
+    "popularity_score": 95,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.8,
+    "review_count": 8200,
+    "sources": [
+      "Tripadvisor",
+      "Ekşi Sözlük"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ADA_002",
+    "name": "Taşköprü",
+    "category": [
+      "Anıt",
+      "Tarihi"
+    ],
+    "coordinates": {
+      "lat": 36.9856,
+      "lng": 35.3253
+    },
+    "city": "Adana",
+    "district": "Seyhan",
+    "average_stay_minutes": 30,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Tüm yıl"
+      ],
+      "days": [
+        "Hafta içi"
+      ],
+      "hours": [
+        "08:00-22:00"
+      ]
+    },
+    "tags": [
+      "roma köprüsü",
+      "fotoğraf",
+      "gün batımı"
+    ],
+    "popularity_score": 92,
+    "virality_trend": "stabil",
+    "average_rating": 4.7,
+    "review_count": 6100,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ADA_003",
+    "name": "Merkez Park",
+    "category": [
+      "Park",
+      "Doğal"
+    ],
+    "coordinates": {
+      "lat": 36.995,
+      "lng": 35.328
+    },
+    "city": "Adana",
+    "district": "Seyhan",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-20:00"
+      ]
+    },
+    "tags": [
+      "yürüyüş",
+      "piknik",
+      "seyir"
+    ],
+    "popularity_score": 88,
+    "virality_trend": "stabil",
+    "average_rating": 4.5,
+    "review_count": 4300,
+    "sources": [
+      "Tripadvisor",
+      "Foursquare"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ADA_004",
+    "name": "Adana Müze Kompleksi (Arkeoloji Müzesi)",
+    "category": [
+      "Müze",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 36.9837,
+      "lng": 35.3089
+    },
+    "city": "Adana",
+    "district": "Seyhan",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 200,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Tüm yıl"
+      ],
+      "days": [
+        "Salı",
+        "Perşembe"
+      ],
+      "hours": [
+        "10:00-17:00"
+      ]
+    },
+    "tags": [
+      "arkeoloji",
+      "koleksiyon"
+    ],
+    "popularity_score": 86,
+    "virality_trend": "stabil",
+    "average_rating": 4.6,
+    "review_count": 2100,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ADA_005",
+    "name": "Adana Ulu Camii",
+    "category": [
+      "Cami",
+      "Tarihi"
+    ],
+    "coordinates": {
+      "lat": 36.9834,
+      "lng": 35.3312
+    },
+    "city": "Adana",
+    "district": "Seyhan",
+    "average_stay_minutes": 45,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Tüm yıl"
+      ],
+      "days": [
+        "Hafta içi"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "memlük",
+      "selçuklu",
+      "mimari"
+    ],
+    "popularity_score": 84,
+    "virality_trend": "stabil",
+    "average_rating": 4.6,
+    "review_count": 1900,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ADA_006",
+    "name": "Büyük Saat Kulesi",
+    "category": [
+      "Anıt",
+      "Tarihi"
+    ],
+    "coordinates": {
+      "lat": 36.9859,
+      "lng": 35.3259
+    },
+    "city": "Adana",
+    "district": "Seyhan",
+    "average_stay_minutes": 20,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Tüm yıl"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-21:00"
+      ]
+    },
+    "tags": [
+      "sembol",
+      "tarihi çarşı"
+    ],
+    "popularity_score": 83,
+    "virality_trend": "stabil",
+    "average_rating": 4.4,
+    "review_count": 2500,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ADA_007",
+    "name": "Kazancılar Çarşısı",
+    "category": [
+      "Çarşı",
+      "Yeme-İçme"
+    ],
+    "coordinates": {
+      "lat": 36.9839,
+      "lng": 35.329
+    },
+    "city": "Adana",
+    "district": "Seyhan",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 250,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Tüm yıl"
+      ],
+      "days": [
+        "Cuma",
+        "Cumartesi"
+      ],
+      "hours": [
+        "10:00-20:00"
+      ]
+    },
+    "tags": [
+      "kebap",
+      "tatlı",
+      "alışveriş"
+    ],
+    "popularity_score": 85,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.5,
+    "review_count": 3300,
+    "sources": [
+      "Foursquare",
+      "Ekşi Sözlük"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ADA_008",
+    "name": "Adana Sinema Müzesi",
+    "category": [
+      "Müze",
+      "Kültür"
+    ],
+    "coordinates": {
+      "lat": 36.9969,
+      "lng": 35.3275
+    },
+    "city": "Adana",
+    "district": "Seyhan",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 100,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Tüm yıl"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "10:00-18:00"
+      ]
+    },
+    "tags": [
+      "sinema",
+      "kültür",
+      "sergi"
+    ],
+    "popularity_score": 80,
+    "virality_trend": "stabil",
+    "average_rating": 4.4,
+    "review_count": 1400,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ADA_009",
+    "name": "Dilberler Sekisi",
+    "category": [
+      "Park",
+      "Sahil"
+    ],
+    "coordinates": {
+      "lat": 37.001,
+      "lng": 35.31
+    },
+    "city": "Adana",
+    "district": "Seyhan",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Hafta sonu"
+      ],
+      "hours": [
+        "09:00-20:00"
+      ]
+    },
+    "tags": [
+      "seyhan nehri",
+      "yürüyüş",
+      "bisiklet"
+    ],
+    "popularity_score": 79,
+    "virality_trend": "stabil",
+    "average_rating": 4.3,
+    "review_count": 1600,
+    "sources": [
+      "Foursquare"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ADA_010",
+    "name": "Seyhan Baraj Gölü - Çoban Dede",
+    "category": [
+      "Manzara",
+      "Doğal"
+    ],
+    "coordinates": {
+      "lat": 37.0357,
+      "lng": 35.2896
+    },
+    "city": "Adana",
+    "district": "Çukurova",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 50,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "10:00-19:00"
+      ]
+    },
+    "tags": [
+      "manzara",
+      "piknik",
+      "fotoğraf"
+    ],
+    "popularity_score": 82,
+    "virality_trend": "stabil",
+    "average_rating": 4.4,
+    "review_count": 2200,
+    "sources": [
+      "Foursquare"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ADA_011",
+    "name": "Çukurova Üniversitesi Kampüsü (Balcalı)",
+    "category": [
+      "Kampüs",
+      "Park"
+    ],
+    "coordinates": {
+      "lat": 36.9996,
+      "lng": 35.355
+    },
+    "city": "Adana",
+    "district": "Sarıçam",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Sonbahar"
+      ],
+      "days": [
+        "Hafta içi"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "yeşil alan",
+      "göl",
+      "yürüyüş"
+    ],
+    "popularity_score": 77,
+    "virality_trend": "stabil",
+    "average_rating": 4.4,
+    "review_count": 1300,
+    "sources": [
+      "Foursquare"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ADA_012",
+    "name": "01 Burda AVM",
+    "category": [
+      "AVM",
+      "Alışveriş"
+    ],
+    "coordinates": {
+      "lat": 36.9897,
+      "lng": 35.2976
+    },
+    "city": "Adana",
+    "district": "Seyhan",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 400,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Tüm yıl"
+      ],
+      "days": [
+        "Hafta içi"
+      ],
+      "hours": [
+        "10:00-22:00"
+      ]
+    },
+    "tags": [
+      "alışveriş",
+      "yeme-içme",
+      "sinema"
+    ],
+    "popularity_score": 78,
+    "virality_trend": "stabil",
+    "average_rating": 4.3,
+    "review_count": 2400,
+    "sources": [
+      "Foursquare"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ADA_013",
+    "name": "M1 Adana AVM",
+    "category": [
+      "AVM",
+      "Alışveriş"
+    ],
+    "coordinates": {
+      "lat": 36.9742,
+      "lng": 35.2707
+    },
+    "city": "Adana",
+    "district": "Yüreğir",
+    "average_stay_minutes": 110,
+    "average_spend": {
+      "amount": 350,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Tüm yıl"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "10:00-22:00"
+      ]
+    },
+    "tags": [
+      "alışveriş",
+      "aile"
+    ],
+    "popularity_score": 76,
+    "virality_trend": "stabil",
+    "average_rating": 4.2,
+    "review_count": 2100,
+    "sources": [
+      "Foursquare"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ADA_014",
+    "name": "Adana Optimum AVM",
+    "category": [
+      "AVM",
+      "Alışveriş"
+    ],
+    "coordinates": {
+      "lat": 36.9906,
+      "lng": 35.3612
+    },
+    "city": "Adana",
+    "district": "Yüreğir",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 450,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Tüm yıl"
+      ],
+      "days": [
+        "Hafta içi"
+      ],
+      "hours": [
+        "10:00-22:00"
+      ]
+    },
+    "tags": [
+      "alışveriş",
+      "eğlence"
+    ],
+    "popularity_score": 77,
+    "virality_trend": "stabil",
+    "average_rating": 4.3,
+    "review_count": 2200,
+    "sources": [
+      "Foursquare"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ADA_015",
+    "name": "Varda (Alman) Köprüsü",
+    "category": [
+      "Anıt",
+      "Manzara"
+    ],
+    "coordinates": {
+      "lat": 37.2508,
+      "lng": 34.9955
+    },
+    "city": "Adana",
+    "district": "Karaisalı",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 50,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Sonbahar"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "10:00-18:00"
+      ]
+    },
+    "tags": [
+      "köprü",
+      "doğa",
+      "fotoğraf"
+    ],
+    "popularity_score": 88,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.7,
+    "review_count": 3500,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ADA_016",
+    "name": "Kapıkaya Kanyonu",
+    "category": [
+      "Doğal",
+      "Macera"
+    ],
+    "coordinates": {
+      "lat": 37.2384,
+      "lng": 35.0492
+    },
+    "city": "Adana",
+    "district": "Karaisalı",
+    "average_stay_minutes": 150,
+    "average_spend": {
+      "amount": 100,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Cumartesi"
+      ],
+      "hours": [
+        "09:00-17:00"
+      ]
+    },
+    "tags": [
+      "yürüyüş",
+      "kanyon",
+      "fotoğraf"
+    ],
+    "popularity_score": 84,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.6,
+    "review_count": 1900,
+    "sources": [
+      "Tripadvisor",
+      "Foursquare"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ADA_017",
+    "name": "Belemedik Tabiat Parkı",
+    "category": [
+      "Doğal",
+      "Park"
+    ],
+    "coordinates": {
+      "lat": 37.4615,
+      "lng": 34.9077
+    },
+    "city": "Adana",
+    "district": "Pozantı",
+    "average_stay_minutes": 180,
+    "average_spend": {
+      "amount": 150,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Sonbahar"
+      ],
+      "days": [
+        "Hafta sonu"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "piknik",
+      "doğa",
+      "fotoğraf"
+    ],
+    "popularity_score": 83,
+    "virality_trend": "stabil",
+    "average_rating": 4.5,
+    "review_count": 1700,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ADA_018",
+    "name": "Yumurtalık Lagünü Milli Parkı",
+    "category": [
+      "Doğal",
+      "Kuş Gözlemi"
+    ],
+    "coordinates": {
+      "lat": 36.774,
+      "lng": 35.686
+    },
+    "city": "Adana",
+    "district": "Yumurtalık",
+    "average_stay_minutes": 150,
+    "average_spend": {
+      "amount": 50,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Kış",
+        "İlkbahar"
+      ],
+      "days": [
+        "Hafta içi"
+      ],
+      "hours": [
+        "08:00-17:00"
+      ]
+    },
+    "tags": [
+      "kuş",
+      "doğa",
+      "fotoğraf"
+    ],
+    "popularity_score": 82,
+    "virality_trend": "stabil",
+    "average_rating": 4.5,
+    "review_count": 1200,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ADA_019",
+    "name": "Yumurtalık Ayas Kalesi",
+    "category": [
+      "Tarihi",
+      "Sahil"
+    ],
+    "coordinates": {
+      "lat": 36.7781,
+      "lng": 35.7831
+    },
+    "city": "Adana",
+    "district": "Yumurtalık",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 20,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "İlkbahar"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "10:00-19:00"
+      ]
+    },
+    "tags": [
+      "kale",
+      "sahil",
+      "fotoğraf"
+    ],
+    "popularity_score": 80,
+    "virality_trend": "stabil",
+    "average_rating": 4.3,
+    "review_count": 1400,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ADA_020",
+    "name": "Misis Mozaik Müzesi",
+    "category": [
+      "Müze",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 36.9936,
+      "lng": 35.6832
+    },
+    "city": "Adana",
+    "district": "Yüreğir",
+    "average_stay_minutes": 75,
+    "average_spend": {
+      "amount": 100,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Tüm yıl"
+      ],
+      "days": [
+        "Hafta içi"
+      ],
+      "hours": [
+        "10:00-17:00"
+      ]
+    },
+    "tags": [
+      "mozaik",
+      "antik",
+      "arkeoloji"
+    ],
+    "popularity_score": 79,
+    "virality_trend": "stabil",
+    "average_rating": 4.4,
+    "review_count": 1100,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ADA_021",
+    "name": "Anavarza Antik Kenti",
+    "category": [
+      "Tarihi",
+      "Açıkhava"
+    ],
+    "coordinates": {
+      "lat": 37.2572,
+      "lng": 35.8975
+    },
+    "city": "Adana",
+    "district": "Kozan",
+    "average_stay_minutes": 150,
+    "average_spend": {
+      "amount": 200,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Sonbahar"
+      ],
+      "days": [
+        "Cumartesi"
+      ],
+      "hours": [
+        "09:00-17:00"
+      ]
+    },
+    "tags": [
+      "antik kent",
+      "kale",
+      "arkeoloji"
+    ],
+    "popularity_score": 85,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.6,
+    "review_count": 2000,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ADA_022",
+    "name": "Kozan Kalesi",
+    "category": [
+      "Tarihi",
+      "Manzara"
+    ],
+    "coordinates": {
+      "lat": 37.4431,
+      "lng": 35.8155
+    },
+    "city": "Adana",
+    "district": "Kozan",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Sonbahar"
+      ],
+      "days": [
+        "Hafta sonu"
+      ],
+      "hours": [
+        "10:00-18:00"
+      ]
+    },
+    "tags": [
+      "kale",
+      "panoramik",
+      "tarih"
+    ],
+    "popularity_score": 80,
+    "virality_trend": "stabil",
+    "average_rating": 4.4,
+    "review_count": 1500,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_ADA_023",
+    "name": "Karataş Plajı",
+    "category": [
+      "Plaj",
+      "Doğal"
+    ],
+    "coordinates": {
+      "lat": 36.567,
+      "lng": 35.377
+    },
+    "city": "Adana",
+    "district": "Karataş",
+    "average_stay_minutes": 180,
+    "average_spend": {
+      "amount": 150,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "İlkbahar"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-19:00"
+      ]
+    },
+    "tags": [
+      "deniz",
+      "kum",
+      "aile"
+    ],
+    "popularity_score": 78,
+    "virality_trend": "stabil",
+    "average_rating": 4.2,
+    "review_count": 1700,
+    "sources": [
+      "Foursquare"
+    ],
+    "photos": []
+  }
+]

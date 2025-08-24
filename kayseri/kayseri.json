@@ -1,0 +1,444 @@
+[
+  {
+    "id": "place_KAY_001",
+    "name": "Erciyes Kayak Merkezi",
+    "category": [
+      "Doğal",
+      "Kış Sporları"
+    ],
+    "coordinates": {
+      "lat": 38.5322,
+      "lng": 35.5092
+    },
+    "city": "Kayseri",
+    "district": "Melikgazi",
+    "average_stay_minutes": 240,
+    "average_spend": {
+      "amount": 1000,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Kış"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-17:00"
+      ]
+    },
+    "tags": [
+      "kayak",
+      "snowboard",
+      "kış"
+    ],
+    "popularity_score": 95,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.8,
+    "review_count": 8700,
+    "sources": [
+      "Tripadvisor",
+      "Foursquare"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_KAY_002",
+    "name": "Kapalı Çarşı",
+    "category": [
+      "Çarşı",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 38.7225,
+      "lng": 35.4875
+    },
+    "city": "Kayseri",
+    "district": "Kocasinan",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 200,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Tüm yıl"
+      ],
+      "days": [
+        "Cuma",
+        "Cumartesi"
+      ],
+      "hours": [
+        "10:00-19:00"
+      ]
+    },
+    "tags": [
+      "alışveriş",
+      "baharat",
+      "tarih"
+    ],
+    "popularity_score": 88,
+    "virality_trend": "stabil",
+    "average_rating": 4.5,
+    "review_count": 4200,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_KAY_003",
+    "name": "Kayseri Kalesi",
+    "category": [
+      "Tarihi",
+      "Anıt"
+    ],
+    "coordinates": {
+      "lat": 38.722,
+      "lng": 35.4862
+    },
+    "city": "Kayseri",
+    "district": "Kocasinan",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Sonbahar"
+      ],
+      "days": [
+        "Hafta içi"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "tarih",
+      "kale",
+      "mimari"
+    ],
+    "popularity_score": 87,
+    "virality_trend": "stabil",
+    "average_rating": 4.4,
+    "review_count": 3100,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_KAY_004",
+    "name": "Hunat Hatun Camii ve Külliyesi",
+    "category": [
+      "Cami",
+      "Tarihi"
+    ],
+    "coordinates": {
+      "lat": 38.7197,
+      "lng": 35.4866
+    },
+    "city": "Kayseri",
+    "district": "Kocasinan",
+    "average_stay_minutes": 45,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Tüm yıl"
+      ],
+      "days": [
+        "Hafta içi"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "selçuklu",
+      "dini",
+      "mimari"
+    ],
+    "popularity_score": 86,
+    "virality_trend": "stabil",
+    "average_rating": 4.6,
+    "review_count": 2100,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_KAY_005",
+    "name": "Sahabiye Medresesi",
+    "category": [
+      "Tarihi",
+      "Medrese"
+    ],
+    "coordinates": {
+      "lat": 38.7213,
+      "lng": 35.4867
+    },
+    "city": "Kayseri",
+    "district": "Kocasinan",
+    "average_stay_minutes": 40,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Tüm yıl"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "selçuklu",
+      "eğitim",
+      "mimari"
+    ],
+    "popularity_score": 82,
+    "virality_trend": "stabil",
+    "average_rating": 4.3,
+    "review_count": 1400,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_KAY_006",
+    "name": "Gevher Nesibe Tıp Tarihi Müzesi",
+    "category": [
+      "Müze",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 38.7201,
+      "lng": 35.4829
+    },
+    "city": "Kayseri",
+    "district": "Kocasinan",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 100,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Tüm yıl"
+      ],
+      "days": [
+        "Hafta içi"
+      ],
+      "hours": [
+        "10:00-17:00"
+      ]
+    },
+    "tags": [
+      "selçuklu",
+      "tıp",
+      "müze"
+    ],
+    "popularity_score": 83,
+    "virality_trend": "stabil",
+    "average_rating": 4.5,
+    "review_count": 1700,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_KAY_007",
+    "name": "Kayseri Arkeoloji Müzesi",
+    "category": [
+      "Müze",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 38.7207,
+      "lng": 35.4823
+    },
+    "city": "Kayseri",
+    "district": "Kocasinan",
+    "average_stay_minutes": 75,
+    "average_spend": {
+      "amount": 100,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Tüm yıl"
+      ],
+      "days": [
+        "Salı",
+        "Perşembe"
+      ],
+      "hours": [
+        "10:00-17:00"
+      ]
+    },
+    "tags": [
+      "arkeoloji",
+      "eserler"
+    ],
+    "popularity_score": 81,
+    "virality_trend": "stabil",
+    "average_rating": 4.4,
+    "review_count": 1500,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_KAY_008",
+    "name": "Kapuzbaşı Şelaleleri",
+    "category": [
+      "Doğal",
+      "Şelale"
+    ],
+    "coordinates": {
+      "lat": 38.625,
+      "lng": 35.85
+    },
+    "city": "Kayseri",
+    "district": "Yahyalı",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 50,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "şelale",
+      "doğa",
+      "piknik"
+    ],
+    "popularity_score": 89,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.7,
+    "review_count": 2400,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_KAY_009",
+    "name": "Soğanlı Vadisi",
+    "category": [
+      "Doğal",
+      "Vadiler"
+    ],
+    "coordinates": {
+      "lat": 38.3569,
+      "lng": 35.0183
+    },
+    "city": "Kayseri",
+    "district": "Yeşilhisar",
+    "average_stay_minutes": 150,
+    "average_spend": {
+      "amount": 50,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Sonbahar"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "vadiler",
+      "doğa",
+      "fotoğraf"
+    ],
+    "popularity_score": 87,
+    "virality_trend": "stabil",
+    "average_rating": 4.6,
+    "review_count": 2000,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_KAY_010",
+    "name": "Sultan Sazlığı Milli Parkı",
+    "category": [
+      "Doğal",
+      "Milli Park"
+    ],
+    "coordinates": {
+      "lat": 38.207,
+      "lng": 35.254
+    },
+    "city": "Kayseri",
+    "district": "Develi",
+    "average_stay_minutes": 180,
+    "average_spend": {
+      "amount": 30,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-19:00"
+      ]
+    },
+    "tags": [
+      "kuş gözlemi",
+      "doğa",
+      "fotoğraf"
+    ],
+    "popularity_score": 85,
+    "virality_trend": "stabil",
+    "average_rating": 4.5,
+    "review_count": 1800,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  }
+]

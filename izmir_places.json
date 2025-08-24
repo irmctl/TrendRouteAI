@@ -1,0 +1,1163 @@
+[
+  {
+    "id": "place_001",
+    "name": "İzmir Saat Kulesi",
+    "category": [
+      "Tarih",
+      "Yapı"
+    ],
+    "coordinates": {
+      "lat": 38.4191,
+      "lng": 27.1286
+    },
+    "city": "İzmir",
+    "district": "Konak",
+    "average_stay_minutes": 30,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "06:00-22:00"
+      ]
+    },
+    "tags": [
+      "ikon",
+      "fotoğraf",
+      "şehir simgesi"
+    ],
+    "popularity_score": 95,
+    "virality_trend": "çok yüksek",
+    "average_rating": 4.8,
+    "review_count": 8000,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/%C4%B0zmir_Clock_Tower"
+    ]
+  },
+  {
+    "id": "place_002",
+    "name": "Kemeraltı Çarşısı",
+    "category": [
+      "Pazar",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 38.41833,
+      "lng": 27.13222
+    },
+    "city": "İzmir",
+    "district": "Konak",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 150,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-20:00"
+      ]
+    },
+    "tags": [
+      "alışveriş",
+      "yerel lezzet",
+      "tarih"
+    ],
+    "popularity_score": 93,
+    "virality_trend": "çok yüksek",
+    "average_rating": 4.7,
+    "review_count": 6000,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Kemeralt%C4%B1"
+    ]
+  },
+  {
+    "id": "place_003",
+    "name": "Agora of Smyrna (İzmir Agorası)",
+    "category": [
+      "Tarih",
+      "Harabeler"
+    ],
+    "coordinates": {
+      "lat": 38.4223,
+      "lng": 27.133
+    },
+    "city": "İzmir",
+    "district": "Konak",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 50,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-17:00"
+      ]
+    },
+    "tags": [
+      "arkeoloji",
+      "antik",
+      "UNESCO aday"
+    ],
+    "popularity_score": 89,
+    "virality_trend": "yüksek",
+    "average_rating": 4.6,
+    "review_count": 2500,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Agora_of_Smyrna"
+    ]
+  },
+  {
+    "id": "place_004",
+    "name": "Kadifekale",
+    "category": [
+      "Tarih",
+      "Kaleler"
+    ],
+    "coordinates": {
+      "lat": 38.4182,
+      "lng": 27.115
+    },
+    "city": "İzmir",
+    "district": "Konak",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "08:00-19:00"
+      ]
+    },
+    "tags": [
+      "tarih",
+      "panorama",
+      "kale"
+    ],
+    "popularity_score": 90,
+    "virality_trend": "yüksek",
+    "average_rating": 4.6,
+    "review_count": 5000,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Kadifekale"
+    ]
+  },
+  {
+    "id": "place_005",
+    "name": "Asansör (İzmir)",
+    "category": [
+      "Tarih",
+      "Manzara"
+    ],
+    "coordinates": {
+      "lat": 38.4089,
+      "lng": 27.1167
+    },
+    "city": "İzmir",
+    "district": "Konak",
+    "average_stay_minutes": 45,
+    "average_spend": {
+      "amount": 50,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-23:00"
+      ]
+    },
+    "tags": [
+      "manzara",
+      "fotoğraf"
+    ],
+    "popularity_score": 88,
+    "virality_trend": "yüksek",
+    "average_rating": 4.6,
+    "review_count": 7000,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Asans%C3%B6r"
+    ]
+  },
+  {
+    "id": "place_006",
+    "name": "Konak Pier",
+    "category": [
+      "Tarih",
+      "Alışveriş"
+    ],
+    "coordinates": {
+      "lat": 38.4222,
+      "lng": 27.1315
+    },
+    "city": "İzmir",
+    "district": "Konak",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 150,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-22:00"
+      ]
+    },
+    "tags": [
+      "iskele",
+      "alışveriş",
+      "dining"
+    ],
+    "popularity_score": 85,
+    "virality_trend": "orta",
+    "average_rating": 4.3,
+    "review_count": 4000,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Konak_Pier"
+    ]
+  },
+  {
+    "id": "place_007",
+    "name": "Hisar Camii",
+    "category": [
+      "Dini",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 38.4205,
+      "lng": 27.1328
+    },
+    "city": "İzmir",
+    "district": "Konak",
+    "average_stay_minutes": 30,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "ibadet",
+      "Osmanlı",
+      "tarih"
+    ],
+    "popularity_score": 84,
+    "virality_trend": "istikrarlı",
+    "average_rating": 4.7,
+    "review_count": 1500,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Hisar_Mosque_(İzmir)"
+    ]
+  },
+  {
+    "id": "place_008",
+    "name": "Kızlarağası Hanı",
+    "category": [
+      "Tarih",
+      "Pazar"
+    ],
+    "coordinates": {
+      "lat": 38.4202,
+      "lng": 27.1336
+    },
+    "city": "İzmir",
+    "district": "Konak",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 120,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-20:00"
+      ]
+    },
+    "tags": [
+      "tarih",
+      "alışveriş",
+      "kahve"
+    ],
+    "popularity_score": 87,
+    "virality_trend": "yüksek",
+    "average_rating": 4.7,
+    "review_count": 3500,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/K%C4%B1zlara%C4%9Fas%C4%B1_Han"
+    ]
+  },
+  {
+    "id": "place_009",
+    "name": "Alsancak Kordon",
+    "category": [
+      "Sahil",
+      "Yürüyüş"
+    ],
+    "coordinates": {
+      "lat": 38.44,
+      "lng": 27.1425
+    },
+    "city": "İzmir",
+    "district": "Konak",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 80,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-23:00"
+      ]
+    },
+    "tags": [
+      "sahil",
+      "bisiklet",
+      "gün batımı"
+    ],
+    "popularity_score": 92,
+    "virality_trend": "çok yüksek",
+    "average_rating": 4.8,
+    "review_count": 9000,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Alsancak"
+    ]
+  },
+  {
+    "id": "place_010",
+    "name": "Kültürpark (İzmir Fuarı)",
+    "category": [
+      "Park",
+      "Etkinlik"
+    ],
+    "coordinates": {
+      "lat": 38.4336,
+      "lng": 27.1481
+    },
+    "city": "İzmir",
+    "district": "Konak",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 60,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "08:00-22:00"
+      ]
+    },
+    "tags": [
+      "park",
+      "festival",
+      "fuar"
+    ],
+    "popularity_score": 86,
+    "virality_trend": "orta",
+    "average_rating": 4.4,
+    "review_count": 7000,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/K%C3%BClt%C3%BCrpark"
+    ]
+  },
+  {
+    "id": "place_011",
+    "name": "İzmir Arkeoloji Müzesi",
+    "category": [
+      "Müze",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 38.4145,
+      "lng": 27.1287
+    },
+    "city": "İzmir",
+    "district": "Konak",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 50,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Pazartesi",
+        "Çarşamba",
+        "Cuma"
+      ],
+      "hours": [
+        "09:00-17:00"
+      ]
+    },
+    "tags": [
+      "arkeoloji",
+      "tarih",
+      "aile dostu"
+    ],
+    "popularity_score": 88,
+    "virality_trend": "yüksek",
+    "average_rating": 4.4,
+    "review_count": 3000,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/%C4%B0zmir_Archaeological_Museum"
+    ]
+  },
+  {
+    "id": "place_012",
+    "name": "İzmir Etnografya Müzesi",
+    "category": [
+      "Müze",
+      "Kültür"
+    ],
+    "coordinates": {
+      "lat": 38.4122,
+      "lng": 27.128
+    },
+    "city": "İzmir",
+    "district": "Konak",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 40,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Sonbahar"
+      ],
+      "days": [
+        "Salı",
+        "Perşembe",
+        "Cumartesi"
+      ],
+      "hours": [
+        "09:00-17:00"
+      ]
+    },
+    "tags": [
+      "etnografya",
+      "kültür",
+      "sanat"
+    ],
+    "popularity_score": 80,
+    "virality_trend": "istikrarlı",
+    "average_rating": 4.2,
+    "review_count": 1500,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/%C4%B0zmir_Ethnography_Museum"
+    ]
+  },
+  {
+    "id": "place_013",
+    "name": "Atatürk Müzesi (İzmir)",
+    "category": [
+      "Müze",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 38.4148,
+      "lng": 27.1271
+    },
+    "city": "İzmir",
+    "district": "Konak",
+    "average_stay_minutes": 75,
+    "average_spend": {
+      "amount": 30,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Pazartesi",
+        "Cumartesi"
+      ],
+      "hours": [
+        "10:00-18:00"
+      ]
+    },
+    "tags": [
+      "tarih",
+      "Atatürk"
+    ],
+    "popularity_score": 85,
+    "virality_trend": "orta",
+    "average_rating": 4.5,
+    "review_count": 2000,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/%C4%B0zmir_Atat%C3%BCrk_Museum"
+    ]
+  },
+  {
+    "id": "place_014",
+    "name": "Arkas Sanat Merkezi",
+    "category": [
+      "Sanat",
+      "Müze"
+    ],
+    "coordinates": {
+      "lat": 38.4332,
+      "lng": 27.1405
+    },
+    "city": "İzmir",
+    "district": "Konak",
+    "average_stay_minutes": 70,
+    "average_spend": {
+      "amount": 60,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Sonbahar"
+      ],
+      "days": [
+        "Çarşamba",
+        "Cuma",
+        "Cumartesi"
+      ],
+      "hours": [
+        "10:00-18:00"
+      ]
+    },
+    "tags": [
+      "sanat",
+      "sergi",
+      "kültür"
+    ],
+    "popularity_score": 82,
+    "virality_trend": "istikrarlı",
+    "average_rating": 4.6,
+    "review_count": 1800,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Arkas_Art_Center"
+    ]
+  },
+  {
+    "id": "place_015",
+    "name": "Ahmed Adnan Saygun Sanat Merkezi",
+    "category": [
+      "Sanat",
+      "Konser"
+    ],
+    "coordinates": {
+      "lat": 38.4012,
+      "lng": 27.1034
+    },
+    "city": "İzmir",
+    "district": "Konak",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 200,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Her mevsim"
+      ],
+      "days": [
+        "Etkinlik günleri"
+      ],
+      "hours": [
+        "Etkinlik saatleri"
+      ]
+    },
+    "tags": [
+      "müzik",
+      "konser",
+      "kültür"
+    ],
+    "popularity_score": 84,
+    "virality_trend": "orta",
+    "average_rating": 4.7,
+    "review_count": 2200,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Ahmed_Adnan_Saygun_Arts_Center"
+    ]
+  },
+  {
+    "id": "place_016",
+    "name": "İzmir Doğal Yaşam Parkı (Sasalı)",
+    "category": [
+      "Park",
+      "Hayvanat Bahçesi"
+    ],
+    "coordinates": {
+      "lat": 38.5288,
+      "lng": 26.9057
+    },
+    "city": "İzmir",
+    "district": "Çiğli",
+    "average_stay_minutes": 150,
+    "average_spend": {
+      "amount": 150,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Hafta içi"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "aile dostu",
+      "doğa",
+      "hayvanlar"
+    ],
+    "popularity_score": 91,
+    "virality_trend": "yüksek",
+    "average_rating": 4.7,
+    "review_count": 12000,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/İzmir_Wildlife_Park"
+    ]
+  },
+  {
+    "id": "place_017",
+    "name": "İnciraltı Deniz Müzesi",
+    "category": [
+      "Müze",
+      "Denizcilik"
+    ],
+    "coordinates": {
+      "lat": 38.4307,
+      "lng": 27.0101
+    },
+    "city": "İzmir",
+    "district": "Balçova",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 40,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Salı",
+        "Perşembe",
+        "Cumartesi"
+      ],
+      "hours": [
+        "10:00-18:00"
+      ]
+    },
+    "tags": [
+      "denizcilik",
+      "müze"
+    ],
+    "popularity_score": 78,
+    "virality_trend": "istikrarlı",
+    "average_rating": 4.4,
+    "review_count": 900,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/İnciraltı_Sea_Museum"
+    ]
+  },
+  {
+    "id": "place_018",
+    "name": "İzmir Resim ve Heykel Müzesi",
+    "category": [
+      "Müze",
+      "Sanat"
+    ],
+    "coordinates": {
+      "lat": 38.4337,
+      "lng": 27.1408
+    },
+    "city": "İzmir",
+    "district": "Konak",
+    "average_stay_minutes": 75,
+    "average_spend": {
+      "amount": 50,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Sonbahar"
+      ],
+      "days": [
+        "Çarşamba",
+        "Cuma",
+        "Cumartesi"
+      ],
+      "hours": [
+        "10:00-18:00"
+      ]
+    },
+    "tags": [
+      "sanat",
+      "resim",
+      "heykel"
+    ],
+    "popularity_score": 79,
+    "virality_trend": "istikrarlı",
+    "average_rating": 4.3,
+    "review_count": 1100,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/İzmir_Art_and_Sculpture_Museum"
+    ]
+  },
+  {
+    "id": "place_019",
+    "name": "İzmir Oyuncak Müzesi",
+    "category": [
+      "Müze",
+      "Aile"
+    ],
+    "coordinates": {
+      "lat": 38.4315,
+      "lng": 27.1501
+    },
+    "city": "İzmir",
+    "district": "Konak",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 40,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "10:00-18:00"
+      ]
+    },
+    "tags": [
+      "aile dostu",
+      "oyuncak",
+      "çocuk"
+    ],
+    "popularity_score": 76,
+    "virality_trend": "orta",
+    "average_rating": 4.2,
+    "review_count": 800,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/İzmir_Toy_Museum"
+    ]
+  },
+  {
+    "id": "place_020",
+    "name": "İzmir Kadın Müzesi",
+    "category": [
+      "Müze",
+      "Kültür"
+    ],
+    "coordinates": {
+      "lat": 38.4243,
+      "lng": 27.1355
+    },
+    "city": "İzmir",
+    "district": "Konak",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 30,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Sonbahar"
+      ],
+      "days": [
+        "Çarşamba",
+        "Cuma",
+        "Cumartesi"
+      ],
+      "hours": [
+        "10:00-18:00"
+      ]
+    },
+    "tags": [
+      "kültür",
+      "toplumsal cinsiyet"
+    ],
+    "popularity_score": 74,
+    "virality_trend": "istikrarlı",
+    "average_rating": 4.3,
+    "review_count": 600,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/İzmir_Women%27s_Museum"
+    ]
+  },
+  {
+    "id": "place_021",
+    "name": "Saint Polycarp Kilisesi",
+    "category": [
+      "Dini",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 38.4363,
+      "lng": 27.146
+    },
+    "city": "İzmir",
+    "district": "Konak",
+    "average_stay_minutes": 40,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Randevu ile"
+      ],
+      "hours": [
+        "Ziyaret saatleri"
+      ]
+    },
+    "tags": [
+      "kilise",
+      "tarih"
+    ],
+    "popularity_score": 75,
+    "virality_trend": "orta",
+    "average_rating": 4.5,
+    "review_count": 500,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Saint_Polycarp_Church,_İzmir"
+    ]
+  },
+  {
+    "id": "place_022",
+    "name": "Beth Israel Sinagogu (İzmir)",
+    "category": [
+      "Dini",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 38.4369,
+      "lng": 27.1451
+    },
+    "city": "İzmir",
+    "district": "Konak",
+    "average_stay_minutes": 40,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Randevu ile"
+      ],
+      "hours": [
+        "Ziyaret saatleri"
+      ]
+    },
+    "tags": [
+      "sinagog",
+      "tarih"
+    ],
+    "popularity_score": 73,
+    "virality_trend": "istikrarlı",
+    "average_rating": 4.4,
+    "review_count": 400,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Beth_Israel_Synagogue_(İzmir)"
+    ]
+  },
+  {
+    "id": "place_023",
+    "name": "Konak Meydanı",
+    "category": [
+      "Meydan",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 38.4193,
+      "lng": 27.1287
+    },
+    "city": "İzmir",
+    "district": "Konak",
+    "average_stay_minutes": 45,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "Gün boyu"
+      ]
+    },
+    "tags": [
+      "merkez",
+      "simge"
+    ],
+    "popularity_score": 92,
+    "virality_trend": "çok yüksek",
+    "average_rating": 4.7,
+    "review_count": 10000,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Konak_Square"
+    ]
+  },
+  {
+    "id": "place_024",
+    "name": "Karagöl Tabiat Parkı (Menemen)",
+    "category": [
+      "Doğa",
+      "Park"
+    ],
+    "coordinates": {
+      "lat": 38.6154,
+      "lng": 27.1188
+    },
+    "city": "İzmir",
+    "district": "Menemen",
+    "average_stay_minutes": 180,
+    "average_spend": {
+      "amount": 100,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Hafta içi"
+      ],
+      "hours": [
+        "08:00-19:00"
+      ]
+    },
+    "tags": [
+      "doğa",
+      "piknik",
+      "yürüyüş"
+    ],
+    "popularity_score": 82,
+    "virality_trend": "orta",
+    "average_rating": 4.5,
+    "review_count": 2500,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Karag%C3%B6l_(Menemen)"
+    ]
+  },
+  {
+    "id": "place_025",
+    "name": "Çeşme Kalesi",
+    "category": [
+      "Tarih",
+      "Kale"
+    ],
+    "coordinates": {
+      "lat": 38.322,
+      "lng": 26.3062
+    },
+    "city": "İzmir",
+    "district": "Çeşme",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 60,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-19:00"
+      ]
+    },
+    "tags": [
+      "tarih",
+      "manzara"
+    ],
+    "popularity_score": 88,
+    "virality_trend": "yüksek",
+    "average_rating": 4.6,
+    "review_count": 4000,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/%C3%87e%C5%9Fme_Castle"
+    ]
+  }
+]

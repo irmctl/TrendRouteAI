@@ -1,0 +1,203 @@
+[
+    {
+      "id": "place_001",
+      "name": "Zeugma Mozaik Müzesi",
+      "category": ["Müze", "Tarihi"],
+      "coordinates": { "lat": 37.0665, "lng": 37.3833 },
+      "city": "Gaziantep",
+      "district": "Şehitkamil",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 80, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Salı", "Çarşamba", "Cumartesi"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["tarihi", "müze", "aile dostu"],
+      "popularity_score": 92,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.8,
+      "review_count": 18000,
+      "sources": ["Google Maps", "TripAdvisor"],
+      "photos": [
+        "https://maps.googleapis.com/photo/zeugma1",
+        "https://instagram.com/zeugma_museum.jpg"
+      ]
+    },
+    {
+      "id": "place_002",
+      "name": "Gaziantep Kalesi",
+      "category": ["Tarihi", "Kale"],
+      "coordinates": { "lat": 37.0669, "lng": 37.3786 },
+      "city": "Gaziantep",
+      "district": "Şahinbey",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 50, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Pazar", "Cumartesi"],
+        "hours": ["10:00-18:00"]
+      },
+      "tags": ["tarihi", "manzara", "fotoğraf"],
+      "popularity_score": 88,
+      "virality_trend": "stabil",
+      "average_rating": 4.6,
+      "review_count": 9500,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/kale1",
+        "https://instagram.com/gaziantep_kalesi.jpg"
+      ]
+    },
+    {
+      "id": "place_003",
+      "name": "Bakırcılar Çarşısı",
+      "category": ["Alışveriş", "Tarihi"],
+      "coordinates": { "lat": 37.0661, "lng": 37.3792 },
+      "city": "Gaziantep",
+      "district": "Şahinbey",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 200, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Sonbahar", "İlkbahar"],
+        "days": ["Her gün"],
+        "hours": ["09:00-20:00"]
+      },
+      "tags": ["alışveriş", "el sanatları", "hediyelik"],
+      "popularity_score": 85,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.5,
+      "review_count": 7400,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/bakircilar1",
+        "https://instagram.com/bakircilar.jpg"
+      ]
+    },
+    {
+      "id": "place_004",
+      "name": "Tahmis Kahvesi",
+      "category": ["Kafe", "Tarihi"],
+      "coordinates": { "lat": 37.0672, "lng": 37.3798 },
+      "city": "Gaziantep",
+      "district": "Şahinbey",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 70, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Her gün"],
+        "hours": ["08:00-23:00"]
+      },
+      "tags": ["kahve", "tarihi mekan", "sıcak içecek"],
+      "popularity_score": 90,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.7,
+      "review_count": 5600,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/tahmis1",
+        "https://instagram.com/tahmis_kahvesi.jpg"
+      ]
+    },
+    {
+      "id": "place_005",
+      "name": "Emine Göğüş Mutfak Müzesi",
+      "category": ["Müze", "Yemek"],
+      "coordinates": { "lat": 37.0653, "lng": 37.3790 },
+      "city": "Gaziantep",
+      "district": "Şahinbey",
+      "average_stay_minutes": 75,
+      "average_spend": { "amount": 60, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Çarşamba", "Perşembe", "Pazar"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["yemek", "müze", "kültür"],
+      "popularity_score": 83,
+      "virality_trend": "stabil",
+      "average_rating": 4.6,
+      "review_count": 4300,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/mutfakmuzesi1",
+        "https://instagram.com/mutfak_muzesi.jpg"
+      ]
+    },
+    {
+      "id": "place_006",
+      "name": "Dülük Antik Kenti",
+      "category": ["Tarihi", "Doğa"],
+      "coordinates": { "lat": 37.1575, "lng": 37.2467 },
+      "city": "Gaziantep",
+      "district": "Şehitkamil",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 40, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz", "İlkbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["10:00-18:00"]
+      },
+      "tags": ["antik", "tarih", "doğa"],
+      "popularity_score": 80,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.4,
+      "review_count": 2900,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/duluk1",
+        "https://instagram.com/duluk_antik.jpg"
+      ]
+    },
+    {
+      "id": "place_007",
+      "name": "Gaziantep Hayvanat Bahçesi",
+      "category": ["Doğa", "Aile"],
+      "coordinates": { "lat": 37.0308, "lng": 37.3251 },
+      "city": "Gaziantep",
+      "district": "Şahinbey",
+      "average_stay_minutes": 150,
+      "average_spend": { "amount": 120, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-19:00"]
+      },
+      "tags": ["hayvanat bahçesi", "çocuk dostu", "aile"],
+      "popularity_score": 91,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.5,
+      "review_count": 11000,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/hayvanat1",
+        "https://instagram.com/hayvanatbahcesi.jpg"
+      ]
+    },
+    {
+      "id": "place_008",
+      "name": "Gaziantep Arkeoloji Müzesi",
+      "category": ["Müze", "Tarihi"],
+      "coordinates": { "lat": 37.0711, "lng": 37.3830 },
+      "city": "Gaziantep",
+      "district": "Şehitkamil",
+      "average_stay_minutes": 100,
+      "average_spend": { "amount": 75, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Sonbahar", "Kış"],
+        "days": ["Salı", "Çarşamba"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["arkeoloji", "tarih", "müze"],
+      "popularity_score": 82,
+      "virality_trend": "stabil",
+      "average_rating": 4.6,
+      "review_count": 3900,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/arkeoloji1",
+        "https://instagram.com/arkeoloji_muzesi.jpg"
+      ]
+    }
+  ]
+  

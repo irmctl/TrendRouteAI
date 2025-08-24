@@ -1,0 +1,553 @@
+[
+    {
+      "id": "place_029",
+      "name": "Gaziantep Tarihi Millet Hanı",
+      "category": ["Tarihi", "Kültür"],
+      "coordinates": { "lat": 37.0669, "lng": 37.3802 },
+      "city": "Gaziantep",
+      "district": "Şahinbey",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 70, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Her gün"],
+        "hours": ["09:00-20:00"]
+      },
+      "tags": ["tarihi", "han", "kültür"],
+      "popularity_score": 77,
+      "virality_trend": "stabil",
+      "average_rating": 4.3,
+      "review_count": 2100,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/millethan1",
+        "https://instagram.com/millet_hani.jpg"
+      ]
+    },
+    {
+      "id": "place_030",
+      "name": "Gaziantep Tarihi Naip Hamamı",
+      "category": ["Hamam", "Tarihi"],
+      "coordinates": { "lat": 37.0674, "lng": 37.3788 },
+      "city": "Gaziantep",
+      "district": "Şahinbey",
+      "average_stay_minutes": 100,
+      "average_spend": { "amount": 150, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Kış", "Sonbahar"],
+        "days": ["Her gün"],
+        "hours": ["09:00-22:00"]
+      },
+      "tags": ["hamam", "spa", "tarihi"],
+      "popularity_score": 85,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.6,
+      "review_count": 3200,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/naiphamam1",
+        "https://instagram.com/naiphamam.jpg"
+      ]
+    },
+    {
+      "id": "place_031",
+      "name": "Gaziantep Atatürk Anı Müzesi",
+      "category": ["Müze", "Tarihi"],
+      "coordinates": { "lat": 37.0660, "lng": 37.3810 },
+      "city": "Gaziantep",
+      "district": "Şahinbey",
+      "average_stay_minutes": 70,
+      "average_spend": { "amount": 30, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Her gün"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["atatürk", "müze", "tarih"],
+      "popularity_score": 80,
+      "virality_trend": "stabil",
+      "average_rating": 4.5,
+      "review_count": 2100,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/atamuzesi1",
+        "https://instagram.com/ataturkmuzesi.jpg"
+      ]
+    },
+    {
+      "id": "place_032",
+      "name": "Gaziantep Şirehan Otel & Han",
+      "category": ["Otel", "Tarihi"],
+      "coordinates": { "lat": 37.0659, "lng": 37.3796 },
+      "city": "Gaziantep",
+      "district": "Şahinbey",
+      "average_stay_minutes": 180,
+      "average_spend": { "amount": 400, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Her gün"],
+        "hours": ["24 saat"]
+      },
+      "tags": ["otel", "han", "lüks"],
+      "popularity_score": 88,
+      "virality_trend": "stabil",
+      "average_rating": 4.7,
+      "review_count": 2700,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/sirehan1",
+        "https://instagram.com/sirehan.jpg"
+      ]
+    },
+    {
+      "id": "place_033",
+      "name": "Gaziantep Emine Göğüş Yemek Kültürü Merkezi",
+      "category": ["Yemek", "Kültür"],
+      "coordinates": { "lat": 37.0663, "lng": 37.3790 },
+      "city": "Gaziantep",
+      "district": "Şahinbey",
+      "average_stay_minutes": 100,
+      "average_spend": { "amount": 120, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Salı", "Çarşamba", "Pazar"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["yemek", "gastronomi", "kültür"],
+      "popularity_score": 86,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.6,
+      "review_count": 3300,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/eminegogus1",
+        "https://instagram.com/eminegogus.jpg"
+      ]
+    },
+    {
+      "id": "place_034",
+      "name": "Gaziantep Oyuncakçılar Çarşısı",
+      "category": ["Alışveriş", "Çocuk"],
+      "coordinates": { "lat": 37.0672, "lng": 37.3815 },
+      "city": "Gaziantep",
+      "district": "Şahinbey",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 90, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Her gün"],
+        "hours": ["09:00-20:00"]
+      },
+      "tags": ["alışveriş", "oyuncak", "çocuk"],
+      "popularity_score": 75,
+      "virality_trend": "stabil",
+      "average_rating": 4.2,
+      "review_count": 1400,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/oyuncakcar1",
+        "https://instagram.com/oyuncakcar.jpg"
+      ]
+    },
+    {
+      "id": "place_035",
+      "name": "Gaziantep Arasa Hamamı",
+      "category": ["Hamam", "Tarihi"],
+      "coordinates": { "lat": 37.0670, "lng": 37.3782 },
+      "city": "Gaziantep",
+      "district": "Şahinbey",
+      "average_stay_minutes": 110,
+      "average_spend": { "amount": 130, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Kış", "Sonbahar"],
+        "days": ["Her gün"],
+        "hours": ["10:00-22:00"]
+      },
+      "tags": ["hamam", "spa", "tarihi"],
+      "popularity_score": 82,
+      "virality_trend": "stabil",
+      "average_rating": 4.4,
+      "review_count": 1900,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/arasa1",
+        "https://instagram.com/arasa.jpg"
+      ]
+    },
+    {
+      "id": "place_036",
+      "name": "Gaziantep Sabun Hanı",
+      "category": ["Tarihi", "Alışveriş"],
+      "coordinates": { "lat": 37.0661, "lng": 37.3795 },
+      "city": "Gaziantep",
+      "district": "Şahinbey",
+      "average_stay_minutes": 80,
+      "average_spend": { "amount": 100, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Her gün"],
+        "hours": ["09:00-20:00"]
+      },
+      "tags": ["tarihi", "alışveriş", "han"],
+      "popularity_score": 79,
+      "virality_trend": "stabil",
+      "average_rating": 4.3,
+      "review_count": 1700,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/sabunhan1",
+        "https://instagram.com/sabunhan.jpg"
+      ]
+    },
+    {
+      "id": "place_037",
+      "name": "Gaziantep Hışvahan",
+      "category": ["Tarihi", "Restoran"],
+      "coordinates": { "lat": 37.0667, "lng": 37.3792 },
+      "city": "Gaziantep",
+      "district": "Şahinbey",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 250, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Her gün"],
+        "hours": ["09:00-23:00"]
+      },
+      "tags": ["tarihi", "restoran", "lüks"],
+      "popularity_score": 90,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.7,
+      "review_count": 4300,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/hisvahan1",
+        "https://instagram.com/hisvahan.jpg"
+      ]
+    },
+    {
+      "id": "place_038",
+      "name": "Gaziantep Mutfak Sanatları Merkezi",
+      "category": ["Yemek", "Kültür"],
+      "coordinates": { "lat": 37.0671, "lng": 37.3803 },
+      "city": "Gaziantep",
+      "district": "Şahinbey",
+      "average_stay_minutes": 100,
+      "average_spend": { "amount": 180, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["10:00-20:00"]
+      },
+      "tags": ["gastronomi", "yemek", "kültür"],
+      "popularity_score": 89,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.7,
+      "review_count": 3800,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/msm1",
+        "https://instagram.com/mutfaksanatlari.jpg"
+      ]
+    },
+    {
+      "id": "place_039",
+      "name": "Gaziantep Erikçe Piknik Alanı",
+      "category": ["Doğa", "Aile"],
+      "coordinates": { "lat": 37.1150, "lng": 37.4080 },
+      "city": "Gaziantep",
+      "district": "Şehitkamil",
+      "average_stay_minutes": 180,
+      "average_spend": { "amount": 70, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-21:00"]
+      },
+      "tags": ["doğa", "piknik", "aile"],
+      "popularity_score": 84,
+      "virality_trend": "stabil",
+      "average_rating": 4.4,
+      "review_count": 2600,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/erikce1",
+        "https://instagram.com/erikce.jpg"
+      ]
+    },
+    {
+      "id": "place_040",
+      "name": "Gaziantep Burç Ormanı",
+      "category": ["Doğa", "Park"],
+      "coordinates": { "lat": 37.1500, "lng": 37.3200 },
+      "city": "Gaziantep",
+      "district": "Şahinbey",
+      "average_stay_minutes": 150,
+      "average_spend": { "amount": 50, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Her gün"],
+        "hours": ["08:00-20:00"]
+      },
+      "tags": ["doğa", "orman", "piknik"],
+      "popularity_score": 83,
+      "virality_trend": "stabil",
+      "average_rating": 4.3,
+      "review_count": 2200,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/burcor1",
+        "https://instagram.com/burcor.jpg"
+      ]
+    },
+    {
+      "id": "place_041",
+      "name": "Gaziantep Kalealtı Kahvaltıcıları",
+      "category": ["Yemek", "Kahvaltı"],
+      "coordinates": { "lat": 37.0675, "lng": 37.3789 },
+      "city": "Gaziantep",
+      "district": "Şahinbey",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 200, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["07:00-13:00"]
+      },
+      "tags": ["kahvaltı", "yemek", "tarihi mekan"],
+      "popularity_score": 91,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.8,
+      "review_count": 5100,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/kalealtikah1",
+        "https://instagram.com/kalealtikah.jpg"
+      ]
+    },
+    {
+      "id": "place_042",
+      "name": "Gaziantep Festival Park",
+      "category": ["Park", "Eğlence"],
+      "coordinates": { "lat": 37.0732, "lng": 37.3841 },
+      "city": "Gaziantep",
+      "district": "Şehitkamil",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 80, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz", "İlkbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-22:00"]
+      },
+      "tags": ["eğlence", "park", "festival"],
+      "popularity_score": 85,
+      "virality_trend": "stabil",
+      "average_rating": 4.5,
+      "review_count": 2900,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/festival1",
+        "https://instagram.com/festivalpark.jpg"
+      ]
+    },
+    {
+      "id": "place_043",
+      "name": "Gaziantep Şahinbey Parkı",
+      "category": ["Park", "Doğa"],
+      "coordinates": { "lat": 37.0600, "lng": 37.4000 },
+      "city": "Gaziantep",
+      "district": "Şahinbey",
+      "average_stay_minutes": 150,
+      "average_spend": { "amount": 40, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Her gün"],
+        "hours": ["08:00-22:00"]
+      },
+      "tags": ["park", "çocuk", "aile"],
+      "popularity_score": 88,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.6,
+      "review_count": 4200,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/sahinbeypark1",
+        "https://instagram.com/sahinbeypark.jpg"
+      ]
+    },
+    {
+      "id": "place_044",
+      "name": "Gaziantep Masal Parkı",
+      "category": ["Park", "Çocuk"],
+      "coordinates": { "lat": 37.0680, "lng": 37.3880 },
+      "city": "Gaziantep",
+      "district": "Şehitkamil",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 50, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-21:00"]
+      },
+      "tags": ["çocuk", "park", "masal"],
+      "popularity_score": 82,
+      "virality_trend": "stabil",
+      "average_rating": 4.3,
+      "review_count": 2300,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/masal1",
+        "https://instagram.com/masalpark.jpg"
+      ]
+    },
+    {
+      "id": "place_045",
+      "name": "Gaziantep Dondurma Müzesi",
+      "category": ["Müze", "Yemek"],
+      "coordinates": { "lat": 37.0652, "lng": 37.3798 },
+      "city": "Gaziantep",
+      "district": "Şahinbey",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 70, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz"],
+        "days": ["Her gün"],
+        "hours": ["10:00-20:00"]
+      },
+      "tags": ["dondurma", "müze", "çocuk"],
+      "popularity_score": 79,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.4,
+      "review_count": 1600,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/dondurma1",
+        "https://instagram.com/dondurmamuzesi.jpg"
+      ]
+    },
+    {
+      "id": "place_046",
+      "name": "Gaziantep İpek Yolu Hanları",
+      "category": ["Tarihi", "Kültür"],
+      "coordinates": { "lat": 37.0668, "lng": 37.3808 },
+      "city": "Gaziantep",
+      "district": "Şahinbey",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 100, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Sonbahar", "İlkbahar"],
+        "days": ["Her gün"],
+        "hours": ["09:00-20:00"]
+      },
+      "tags": ["tarih", "han", "ipek yolu"],
+      "popularity_score": 84,
+      "virality_trend": "stabil",
+      "average_rating": 4.5,
+      "review_count": 2600,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/ipekyolu1",
+        "https://instagram.com/ipekyoluhan.jpg"
+      ]
+    },
+    {
+      "id": "place_047",
+      "name": "Gaziantep Bey Mahallesi",
+      "category": ["Tarihi", "Kültür"],
+      "coordinates": { "lat": 37.0660, "lng": 37.3784 },
+      "city": "Gaziantep",
+      "district": "Şahinbey",
+      "average_stay_minutes": 100,
+      "average_spend": { "amount": 80, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-21:00"]
+      },
+      "tags": ["tarihi mahalle", "evler", "kültür"],
+      "popularity_score": 87,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.7,
+      "review_count": 3500,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/beymah1",
+        "https://instagram.com/beymah.jpg"
+      ]
+    },
+    {
+      "id": "place_048",
+      "name": "Gaziantep Şahinbey Milli Mücadele Parkı",
+      "category": ["Park", "Tarihi"],
+      "coordinates": { "lat": 37.0605, "lng": 37.3905 },
+      "city": "Gaziantep",
+      "district": "Şahinbey",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 60, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Sonbahar", "Kış"],
+        "days": ["Her gün"],
+        "hours": ["09:00-21:00"]
+      },
+      "tags": ["park", "tarih", "mücadele"],
+      "popularity_score": 85,
+      "virality_trend": "stabil",
+      "average_rating": 4.5,
+      "review_count": 2700,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/mucadelepark1",
+        "https://instagram.com/mucadelepark.jpg"
+      ]
+    },
+    {
+      "id": "place_049",
+      "name": "Gaziantep Cam Seyir Terası",
+      "category": ["Doğa", "Manzara"],
+      "coordinates": { "lat": 37.1800, "lng": 37.3000 },
+      "city": "Gaziantep",
+      "district": "Şehitkamil",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 40, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-20:00"]
+      },
+      "tags": ["seyir", "manzara", "fotoğraf"],
+      "popularity_score": 89,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.7,
+      "review_count": 3100,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/camseyir1",
+        "https://instagram.com/camseyir.jpg"
+      ]
+    },
+    {
+      "id": "place_050",
+      "name": "Gaziantep Zeugma Kültür Merkezi",
+      "category": ["Sanat", "Kültür"],
+      "coordinates": { "lat": 37.0722, "lng": 37.3855 },
+      "city": "Gaziantep",
+      "district": "Şehitkamil",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 100, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Sonbahar", "Kış"],
+        "days": ["Her gün"],
+        "hours": ["10:00-21:00"]
+      },
+      "tags": ["kültür", "sergi", "sanat"],
+      "popularity_score": 86,
+      "virality_trend": "stabil",
+      "average_rating": 4.6,
+      "review_count": 2500,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/zeugmakult1",
+        "https://instagram.com/zeugmakult.jpg"
+      ]
+    }
+  ]
+  

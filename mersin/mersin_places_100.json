@@ -1,0 +1,4673 @@
+[
+  {
+    "id": "place_001",
+    "name": "Aynalıgöl (Gilindire) Mağarası",
+    "category": [
+      "Mağara",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.63,
+      "lng": 33.8986
+    },
+    "city": "Mersin",
+    "district": "Aydıncık",
+    "average_stay_minutes": 30,
+    "average_spend": {
+      "amount": 20,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "08:00-16:00"
+      ]
+    },
+    "tags": [
+      "aile dostu",
+      "manzara",
+      "plaj"
+    ],
+    "popularity_score": 84,
+    "virality_trend": "istikrarlı",
+    "average_rating": 4.1,
+    "review_count": 379,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Aynalıgöl_(Gilindire)_Mağarası"
+    ]
+  },
+  {
+    "id": "place_002",
+    "name": "Cennet-Cehennem Mağaraları",
+    "category": [
+      "Mağara",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.2889,
+      "lng": 33.7978
+    },
+    "city": "Mersin",
+    "district": "Silifke",
+    "average_stay_minutes": 45,
+    "average_spend": {
+      "amount": 30,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Kış"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-20:00"
+      ]
+    },
+    "tags": [
+      "şehir simgesi",
+      "doğa",
+      "aile dostu"
+    ],
+    "popularity_score": 88,
+    "virality_trend": "çok yüksek",
+    "average_rating": 4.6,
+    "review_count": 3618,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Cennet-Cehennem_Mağaraları"
+    ]
+  },
+  {
+    "id": "place_003",
+    "name": "Mamure Kalesi",
+    "category": [
+      "Kale",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 36.63,
+      "lng": 34.156
+    },
+    "city": "Mersin",
+    "district": "Anamur",
+    "average_stay_minutes": 45,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "Kış"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-16:00"
+      ]
+    },
+    "tags": [
+      "dalış",
+      "tarih",
+      "fotoğraf"
+    ],
+    "popularity_score": 74,
+    "virality_trend": "yüksek",
+    "average_rating": 4.5,
+    "review_count": 3745,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Mamure_Kalesi"
+    ]
+  },
+  {
+    "id": "place_004",
+    "name": "Kızkalesi",
+    "category": [
+      "Kale",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 36.402,
+      "lng": 34.026
+    },
+    "city": "Mersin",
+    "district": "Erdemli",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 50,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-19:00"
+      ]
+    },
+    "tags": [
+      "güneşlenme",
+      "fotoğraf",
+      "yürüyüş"
+    ],
+    "popularity_score": 72,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.6,
+    "review_count": 2366,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Kızkalesi"
+    ]
+  },
+  {
+    "id": "place_005",
+    "name": "Kanlıdivane",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.556,
+      "lng": 34.307
+    },
+    "city": "Mersin",
+    "district": "Erdemli",
+    "average_stay_minutes": 45,
+    "average_spend": {
+      "amount": 80,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Kış"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-19:00"
+      ]
+    },
+    "tags": [
+      "tarih",
+      "güneşlenme",
+      "yürüyüş"
+    ],
+    "popularity_score": 91,
+    "virality_trend": "çok yüksek",
+    "average_rating": 4.6,
+    "review_count": 4653,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Kanlıdivane"
+    ]
+  },
+  {
+    "id": "place_006",
+    "name": "Adamkayalar",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.572,
+      "lng": 34.197
+    },
+    "city": "Mersin",
+    "district": "Silifke",
+    "average_stay_minutes": 150,
+    "average_spend": {
+      "amount": 60,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Kış",
+        "İlkbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-17:00"
+      ]
+    },
+    "tags": [
+      "güneşlenme",
+      "aile dostu",
+      "dalış"
+    ],
+    "popularity_score": 95,
+    "virality_trend": "yüksek",
+    "average_rating": 4.5,
+    "review_count": 4161,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Adamkayalar"
+    ]
+  },
+  {
+    "id": "place_007",
+    "name": "Uzuncaburç (Olba Antik Kenti)",
+    "category": [
+      "Antik",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 36.876,
+      "lng": 33.951
+    },
+    "city": "Mersin",
+    "district": "Silifke",
+    "average_stay_minutes": 75,
+    "average_spend": {
+      "amount": 150,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-17:00"
+      ]
+    },
+    "tags": [
+      "kamp",
+      "doğa",
+      "aile dostu"
+    ],
+    "popularity_score": 95,
+    "virality_trend": "istikrarlı",
+    "average_rating": 3.9,
+    "review_count": 4486,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Uzuncaburç_(Olba_Antik_Kenti)"
+    ]
+  },
+  {
+    "id": "place_008",
+    "name": "Tarsus Şelalesi",
+    "category": [
+      "Şelale",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.923,
+      "lng": 34.8925
+    },
+    "city": "Mersin",
+    "district": "Tarsus",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Kış",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "08:00-17:00"
+      ]
+    },
+    "tags": [
+      "kamp",
+      "manzara",
+      "dalış"
+    ],
+    "popularity_score": 89,
+    "virality_trend": "orta",
+    "average_rating": 3.9,
+    "review_count": 5429,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Tarsus_Şelalesi"
+    ]
+  },
+  {
+    "id": "place_009",
+    "name": "St. Paul Kilisesi (Tarsus)",
+    "category": [
+      "Dini",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 36.9185,
+      "lng": 34.892
+    },
+    "city": "Mersin",
+    "district": "Tarsus",
+    "average_stay_minutes": 30,
+    "average_spend": {
+      "amount": 20,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Kış"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-19:00"
+      ]
+    },
+    "tags": [
+      "şehir simgesi",
+      "arkeoloji",
+      "manzara"
+    ],
+    "popularity_score": 71,
+    "virality_trend": "orta",
+    "average_rating": 4.5,
+    "review_count": 955,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/St._Paul_Kilisesi_(Tarsus)"
+    ]
+  },
+  {
+    "id": "place_010",
+    "name": "Cleopatra Kapısı (Tarsus)",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.9165,
+      "lng": 34.898
+    },
+    "city": "Mersin",
+    "district": "Tarsus",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 40,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Sonbahar",
+        "İlkbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-17:00"
+      ]
+    },
+    "tags": [
+      "kamp",
+      "dalış",
+      "manzara"
+    ],
+    "popularity_score": 89,
+    "virality_trend": "yüksek",
+    "average_rating": 4.3,
+    "review_count": 3552,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Cleopatra_Kapısı_(Tarsus)"
+    ]
+  },
+  {
+    "id": "place_011",
+    "name": "Anamurium Antik Kenti",
+    "category": [
+      "Antik",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 36.084,
+      "lng": 32.821
+    },
+    "city": "Mersin",
+    "district": "Anamur",
+    "average_stay_minutes": 150,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "08:00-20:00"
+      ]
+    },
+    "tags": [
+      "şehir simgesi",
+      "fotoğraf",
+      "plaj"
+    ],
+    "popularity_score": 93,
+    "virality_trend": "orta",
+    "average_rating": 3.9,
+    "review_count": 1898,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Anamurium_Antik_Kenti"
+    ]
+  },
+  {
+    "id": "place_012",
+    "name": "Yerköprü Şelalesi (Mut)",
+    "category": [
+      "Şelale",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 37.402,
+      "lng": 33.86
+    },
+    "city": "Mersin",
+    "district": "Mut",
+    "average_stay_minutes": 45,
+    "average_spend": {
+      "amount": 100,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Kış",
+        "İlkbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-20:00"
+      ]
+    },
+    "tags": [
+      "şehir simgesi",
+      "kamp",
+      "doğa"
+    ],
+    "popularity_score": 91,
+    "virality_trend": "istikrarlı",
+    "average_rating": 4.7,
+    "review_count": 4482,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Yerköprü_Şelalesi_(Mut)"
+    ]
+  },
+  {
+    "id": "place_013",
+    "name": "Alahan Manastırı",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 37.267,
+      "lng": 34.63
+    },
+    "city": "Mersin",
+    "district": "Mut",
+    "average_stay_minutes": 30,
+    "average_spend": {
+      "amount": 150,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-16:00"
+      ]
+    },
+    "tags": [
+      "plaj",
+      "fotoğraf",
+      "dalış"
+    ],
+    "popularity_score": 87,
+    "virality_trend": "çok yüksek",
+    "average_rating": 4.7,
+    "review_count": 6560,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Alahan_Manastırı"
+    ]
+  },
+  {
+    "id": "place_014",
+    "name": "Elaiussa Sebaste Antik Kenti",
+    "category": [
+      "Antik",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 36.073,
+      "lng": 34.597
+    },
+    "city": "Mersin",
+    "district": "Anamur",
+    "average_stay_minutes": 30,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Kış",
+        "Yaz"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "08:00-19:00"
+      ]
+    },
+    "tags": [
+      "doğa",
+      "manzara",
+      "aile dostu"
+    ],
+    "popularity_score": 96,
+    "virality_trend": "yükselişte",
+    "average_rating": 3.8,
+    "review_count": 4572,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Elaiussa_Sebaste_Antik_Kenti"
+    ]
+  },
+  {
+    "id": "place_015",
+    "name": "Soli-Pompeiopolis (Mezitli)",
+    "category": [
+      "Antik",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 36.792,
+      "lng": 34.624
+    },
+    "city": "Mersin",
+    "district": "Mezitli",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 80,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Kış",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "08:00-16:00"
+      ]
+    },
+    "tags": [
+      "arkeoloji",
+      "dalış",
+      "aile dostu"
+    ],
+    "popularity_score": 70,
+    "virality_trend": "çok yüksek",
+    "average_rating": 3.9,
+    "review_count": 970,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Soli-Pompeiopolis_(Mezitli)"
+    ]
+  },
+  {
+    "id": "place_016",
+    "name": "Mersin Marina",
+    "category": [
+      "Sahil",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.798,
+      "lng": 34.632
+    },
+    "city": "Mersin",
+    "district": "Akdeniz",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 150,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Sonbahar",
+        "Kış"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "08:00-18:00"
+      ]
+    },
+    "tags": [
+      "manzara",
+      "tarih",
+      "aile dostu"
+    ],
+    "popularity_score": 97,
+    "virality_trend": "çok yüksek",
+    "average_rating": 4.0,
+    "review_count": 7569,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Mersin_Marina"
+    ]
+  },
+  {
+    "id": "place_017",
+    "name": "Mersin Arkeoloji Müzesi",
+    "category": [
+      "Müze",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 36.8035,
+      "lng": 34.6335
+    },
+    "city": "Mersin",
+    "district": "Akdeniz",
+    "average_stay_minutes": 150,
+    "average_spend": {
+      "amount": 40,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Kış",
+        "İlkbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "08:00-17:00"
+      ]
+    },
+    "tags": [
+      "fotoğraf",
+      "yürüyüş",
+      "doğa"
+    ],
+    "popularity_score": 80,
+    "virality_trend": "istikrarlı",
+    "average_rating": 3.8,
+    "review_count": 5821,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Mersin_Arkeoloji_Müzesi"
+    ]
+  },
+  {
+    "id": "place_018",
+    "name": "Atatürk Parkı (Mersin)",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.797,
+      "lng": 34.634
+    },
+    "city": "Mersin",
+    "district": "Yenişehir",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 30,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Kış",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-17:00"
+      ]
+    },
+    "tags": [
+      "fotoğraf",
+      "kamp",
+      "manzara"
+    ],
+    "popularity_score": 88,
+    "virality_trend": "istikrarlı",
+    "average_rating": 4.4,
+    "review_count": 7051,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Atatürk_Parkı_(Mersin)"
+    ]
+  },
+  {
+    "id": "place_019",
+    "name": "Yumuktepe (ancient mound)",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.797,
+      "lng": 34.642
+    },
+    "city": "Mersin",
+    "district": "Akdeniz",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 20,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Sonbahar",
+        "Kış"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-17:00"
+      ]
+    },
+    "tags": [
+      "yürüyüş",
+      "manzara",
+      "aile dostu"
+    ],
+    "popularity_score": 72,
+    "virality_trend": "istikrarlı",
+    "average_rating": 3.8,
+    "review_count": 1959,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Yumuktepe_(ancient_mound)"
+    ]
+  },
+  {
+    "id": "place_020",
+    "name": "Silifke Castle",
+    "category": [
+      "Kale",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 36.377,
+      "lng": 33.933
+    },
+    "city": "Mersin",
+    "district": "Silifke",
+    "average_stay_minutes": 150,
+    "average_spend": {
+      "amount": 80,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Sonbahar",
+        "İlkbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-17:00"
+      ]
+    },
+    "tags": [
+      "kamp",
+      "fotoğraf",
+      "plaj"
+    ],
+    "popularity_score": 74,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.6,
+    "review_count": 5819,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Silifke_Castle"
+    ]
+  },
+  {
+    "id": "place_021",
+    "name": "Gülek Kalesi",
+    "category": [
+      "Kale",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 37.129,
+      "lng": 34.66
+    },
+    "city": "Mersin",
+    "district": "Tarsus",
+    "average_stay_minutes": 150,
+    "average_spend": {
+      "amount": 50,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-18:00"
+      ]
+    },
+    "tags": [
+      "güneşlenme",
+      "arkeoloji",
+      "tarih"
+    ],
+    "popularity_score": 91,
+    "virality_trend": "yüksek",
+    "average_rating": 4.6,
+    "review_count": 972,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Gülek_Kalesi"
+    ]
+  },
+  {
+    "id": "place_022",
+    "name": "Mut Castle",
+    "category": [
+      "Kale",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 37.1998,
+      "lng": 33.4347
+    },
+    "city": "Mersin",
+    "district": "Mut",
+    "average_stay_minutes": 75,
+    "average_spend": {
+      "amount": 40,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Sonbahar",
+        "İlkbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-18:00"
+      ]
+    },
+    "tags": [
+      "tarih",
+      "kamp",
+      "manzara"
+    ],
+    "popularity_score": 75,
+    "virality_trend": "çok yüksek",
+    "average_rating": 4.5,
+    "review_count": 5167,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Mut_Castle"
+    ]
+  },
+  {
+    "id": "place_023",
+    "name": "Bozyazı Harbor",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.01,
+      "lng": 32.935
+    },
+    "city": "Mersin",
+    "district": "Bozyazı",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 20,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "İlkbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-16:00"
+      ]
+    },
+    "tags": [
+      "güneşlenme",
+      "fotoğraf",
+      "manzara"
+    ],
+    "popularity_score": 88,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.8,
+    "review_count": 6749,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Bozyazı_Harbor"
+    ]
+  },
+  {
+    "id": "place_024",
+    "name": "Aydıncık Harbor",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.373,
+      "lng": 33.927
+    },
+    "city": "Mersin",
+    "district": "Aydıncık",
+    "average_stay_minutes": 30,
+    "average_spend": {
+      "amount": 80,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Kış",
+        "Yaz"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-17:00"
+      ]
+    },
+    "tags": [
+      "doğa",
+      "manzara",
+      "dalış"
+    ],
+    "popularity_score": 91,
+    "virality_trend": "orta",
+    "average_rating": 4.3,
+    "review_count": 5279,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Aydıncık_Harbor"
+    ]
+  },
+  {
+    "id": "place_025",
+    "name": "Taşucu Marina",
+    "category": [
+      "Sahil",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.33,
+      "lng": 33.96
+    },
+    "city": "Mersin",
+    "district": "Silifke",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 30,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "08:00-16:00"
+      ]
+    },
+    "tags": [
+      "kamp",
+      "dalış",
+      "aile dostu"
+    ],
+    "popularity_score": 79,
+    "virality_trend": "istikrarlı",
+    "average_rating": 4.5,
+    "review_count": 500,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Taşucu_Marina"
+    ]
+  },
+  {
+    "id": "place_026",
+    "name": "Narlıkuyu Bay",
+    "category": [
+      "Sahil",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.13,
+      "lng": 34.12
+    },
+    "city": "Mersin",
+    "district": "Silifke",
+    "average_stay_minutes": 75,
+    "average_spend": {
+      "amount": 150,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Sonbahar",
+        "Kış"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-17:00"
+      ]
+    },
+    "tags": [
+      "şehir simgesi",
+      "plaj",
+      "aile dostu"
+    ],
+    "popularity_score": 81,
+    "virality_trend": "çok yüksek",
+    "average_rating": 4.1,
+    "review_count": 7574,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Narlıkuyu_Bay"
+    ]
+  },
+  {
+    "id": "place_027",
+    "name": "Mezitli Coastline",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.77,
+      "lng": 34.6
+    },
+    "city": "Mersin",
+    "district": "Mezitli",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 40,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-18:00"
+      ]
+    },
+    "tags": [
+      "yürüyüş",
+      "kamp",
+      "doğa"
+    ],
+    "popularity_score": 88,
+    "virality_trend": "çok yüksek",
+    "average_rating": 4.0,
+    "review_count": 3366,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Mezitli_Coastline"
+    ]
+  },
+  {
+    "id": "place_028",
+    "name": "Kargıpınarı Beach",
+    "category": [
+      "Sahil",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.514,
+      "lng": 34.275
+    },
+    "city": "Mersin",
+    "district": "Erdemli",
+    "average_stay_minutes": 45,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Kış"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "plaj",
+      "şehir simgesi",
+      "arkeoloji"
+    ],
+    "popularity_score": 87,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.5,
+    "review_count": 6359,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Kargıpınarı_Beach"
+    ]
+  },
+  {
+    "id": "place_029",
+    "name": "Çamlıyayla",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 37.069,
+      "lng": 34.938
+    },
+    "city": "Mersin",
+    "district": "Çamlıyayla",
+    "average_stay_minutes": 150,
+    "average_spend": {
+      "amount": 100,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "08:00-17:00"
+      ]
+    },
+    "tags": [
+      "doğa",
+      "kamp",
+      "yürüyüş"
+    ],
+    "popularity_score": 96,
+    "virality_trend": "orta",
+    "average_rating": 3.9,
+    "review_count": 5148,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Çamlıyayla"
+    ]
+  },
+  {
+    "id": "place_030",
+    "name": "Gülnar Town Square",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.354,
+      "lng": 33.471
+    },
+    "city": "Mersin",
+    "district": "Gülnar",
+    "average_stay_minutes": 75,
+    "average_spend": {
+      "amount": 50,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Sonbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-19:00"
+      ]
+    },
+    "tags": [
+      "güneşlenme",
+      "tarih",
+      "aile dostu"
+    ],
+    "popularity_score": 77,
+    "virality_trend": "orta",
+    "average_rating": 4.7,
+    "review_count": 877,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Gülnar_Town_Square"
+    ]
+  },
+  {
+    "id": "place_031",
+    "name": "Kızkalesi Museum area",
+    "category": [
+      "Müze",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 36.402,
+      "lng": 34.026
+    },
+    "city": "Mersin",
+    "district": "Erdemli",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 60,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "08:00-16:00"
+      ]
+    },
+    "tags": [
+      "güneşlenme",
+      "manzara",
+      "doğa"
+    ],
+    "popularity_score": 84,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.7,
+    "review_count": 510,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Kızkalesi_Museum_area"
+    ]
+  },
+  {
+    "id": "place_032",
+    "name": "Kocahasanlı Coast",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.51,
+      "lng": 34.31
+    },
+    "city": "Mersin",
+    "district": "Erdemli",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 150,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Sonbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "08:00-18:00"
+      ]
+    },
+    "tags": [
+      "kamp",
+      "doğa",
+      "yürüyüş"
+    ],
+    "popularity_score": 76,
+    "virality_trend": "çok yüksek",
+    "average_rating": 4.7,
+    "review_count": 3475,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Kocahasanlı_Coast"
+    ]
+  },
+  {
+    "id": "place_033",
+    "name": "Soli Ruins Park",
+    "category": [
+      "Antik",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 36.792,
+      "lng": 34.624
+    },
+    "city": "Mersin",
+    "district": "Mezitli",
+    "average_stay_minutes": 30,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Kış",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-20:00"
+      ]
+    },
+    "tags": [
+      "şehir simgesi",
+      "dalış",
+      "aile dostu"
+    ],
+    "popularity_score": 95,
+    "virality_trend": "çok yüksek",
+    "average_rating": 4.3,
+    "review_count": 2197,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Soli_Ruins_Park"
+    ]
+  },
+  {
+    "id": "place_034",
+    "name": "Tarsus Museum",
+    "category": [
+      "Müze",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 36.914,
+      "lng": 34.888
+    },
+    "city": "Mersin",
+    "district": "Tarsus",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 60,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "İlkbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-17:00"
+      ]
+    },
+    "tags": [
+      "plaj",
+      "güneşlenme",
+      "aile dostu"
+    ],
+    "popularity_score": 73,
+    "virality_trend": "istikrarlı",
+    "average_rating": 3.9,
+    "review_count": 2827,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Tarsus_Museum"
+    ]
+  },
+  {
+    "id": "place_035",
+    "name": "Anıt (Tarsus)",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.917,
+      "lng": 34.895
+    },
+    "city": "Mersin",
+    "district": "Tarsus",
+    "average_stay_minutes": 150,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Kış",
+        "Yaz"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "08:00-16:00"
+      ]
+    },
+    "tags": [
+      "arkeoloji",
+      "tarih",
+      "doğa"
+    ],
+    "popularity_score": 95,
+    "virality_trend": "istikrarlı",
+    "average_rating": 4.2,
+    "review_count": 666,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Anıt_(Tarsus)"
+    ]
+  },
+  {
+    "id": "place_036",
+    "name": "Mersin Opera & Ballet (cultural)",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.8,
+      "lng": 34.64
+    },
+    "city": "Mersin",
+    "district": "Yenişehir",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 20,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Kış",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-17:00"
+      ]
+    },
+    "tags": [
+      "manzara",
+      "güneşlenme",
+      "tarih"
+    ],
+    "popularity_score": 85,
+    "virality_trend": "yüksek",
+    "average_rating": 4.4,
+    "review_count": 6514,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Mersin_Opera_&_Ballet_(cultural)"
+    ]
+  },
+  {
+    "id": "place_037",
+    "name": "Mersin Old Bazaar Area",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.797,
+      "lng": 34.63
+    },
+    "city": "Mersin",
+    "district": "Akdeniz",
+    "average_stay_minutes": 30,
+    "average_spend": {
+      "amount": 80,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Kış",
+        "İlkbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-17:00"
+      ]
+    },
+    "tags": [
+      "güneşlenme",
+      "arkeoloji",
+      "doğa"
+    ],
+    "popularity_score": 74,
+    "virality_trend": "çok yüksek",
+    "average_rating": 4.4,
+    "review_count": 1137,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Mersin_Old_Bazaar_Area"
+    ]
+  },
+  {
+    "id": "place_038",
+    "name": "Köprülü Picnic Area (Mut)",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 37.1,
+      "lng": 33.6
+    },
+    "city": "Mersin",
+    "district": "Mut",
+    "average_stay_minutes": 45,
+    "average_spend": {
+      "amount": 40,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Sonbahar",
+        "İlkbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-17:00"
+      ]
+    },
+    "tags": [
+      "kamp",
+      "plaj",
+      "güneşlenme"
+    ],
+    "popularity_score": 81,
+    "virality_trend": "orta",
+    "average_rating": 4.0,
+    "review_count": 5414,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Köprülü_Picnic_Area_(Mut)"
+    ]
+  },
+  {
+    "id": "place_039",
+    "name": "Büyükeceli Beach",
+    "category": [
+      "Sahil",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.06,
+      "lng": 33.78
+    },
+    "city": "Mersin",
+    "district": "Gülnar",
+    "average_stay_minutes": 45,
+    "average_spend": {
+      "amount": 60,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Sonbahar",
+        "İlkbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "08:00-18:00"
+      ]
+    },
+    "tags": [
+      "kamp",
+      "yürüyüş",
+      "manzara"
+    ],
+    "popularity_score": 86,
+    "virality_trend": "istikrarlı",
+    "average_rating": 4.2,
+    "review_count": 4832,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Büyükeceli_Beach"
+    ]
+  },
+  {
+    "id": "place_040",
+    "name": "Akkuyu coast view point",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.07,
+      "lng": 33.61
+    },
+    "city": "Mersin",
+    "district": "Akkuyu",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 50,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Sonbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-17:00"
+      ]
+    },
+    "tags": [
+      "aile dostu",
+      "manzara",
+      "şehir simgesi"
+    ],
+    "popularity_score": 80,
+    "virality_trend": "çok yüksek",
+    "average_rating": 4.3,
+    "review_count": 6478,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Akkuyu_coast_view_point"
+    ]
+  },
+  {
+    "id": "place_041",
+    "name": "Narlıkuyu Seafood Strip",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.13,
+      "lng": 34.12
+    },
+    "city": "Mersin",
+    "district": "Silifke",
+    "average_stay_minutes": 75,
+    "average_spend": {
+      "amount": 20,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "08:00-19:00"
+      ]
+    },
+    "tags": [
+      "manzara",
+      "fotoğraf",
+      "arkeoloji"
+    ],
+    "popularity_score": 89,
+    "virality_trend": "orta",
+    "average_rating": 4.3,
+    "review_count": 4199,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Narlıkuyu_Seafood_Strip"
+    ]
+  },
+  {
+    "id": "place_042",
+    "name": "Boğsak Bay",
+    "category": [
+      "Sahil",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.182,
+      "lng": 34.08
+    },
+    "city": "Mersin",
+    "district": "Silifke",
+    "average_stay_minutes": 150,
+    "average_spend": {
+      "amount": 50,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Sonbahar",
+        "Kış"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-19:00"
+      ]
+    },
+    "tags": [
+      "arkeoloji",
+      "fotoğraf",
+      "doğa"
+    ],
+    "popularity_score": 73,
+    "virality_trend": "yüksek",
+    "average_rating": 4.7,
+    "review_count": 416,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Boğsak_Bay"
+    ]
+  },
+  {
+    "id": "place_043",
+    "name": "Kizilot Beach",
+    "category": [
+      "Sahil",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.58,
+      "lng": 33.9
+    },
+    "city": "Mersin",
+    "district": "Silifke",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Sonbahar",
+        "Kış"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-18:00"
+      ]
+    },
+    "tags": [
+      "yürüyüş",
+      "güneşlenme",
+      "aile dostu"
+    ],
+    "popularity_score": 97,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.4,
+    "review_count": 2746,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Kizilot_Beach"
+    ]
+  },
+  {
+    "id": "place_044",
+    "name": "Soli Amphitheatre (Mezitli)",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.792,
+      "lng": 34.624
+    },
+    "city": "Mersin",
+    "district": "Mezitli",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 20,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Kış",
+        "İlkbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-16:00"
+      ]
+    },
+    "tags": [
+      "güneşlenme",
+      "yürüyüş",
+      "arkeoloji"
+    ],
+    "popularity_score": 93,
+    "virality_trend": "yüksek",
+    "average_rating": 4.7,
+    "review_count": 6810,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Soli_Amphitheatre_(Mezitli)"
+    ]
+  },
+  {
+    "id": "place_045",
+    "name": "Mersin Clock Tower area",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.7985,
+      "lng": 34.6315
+    },
+    "city": "Mersin",
+    "district": "Akdeniz",
+    "average_stay_minutes": 150,
+    "average_spend": {
+      "amount": 30,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Sonbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-16:00"
+      ]
+    },
+    "tags": [
+      "doğa",
+      "kamp",
+      "şehir simgesi"
+    ],
+    "popularity_score": 90,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.2,
+    "review_count": 6905,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Mersin_Clock_Tower_area"
+    ]
+  },
+  {
+    "id": "place_046",
+    "name": "Mersin Atatürk Monument",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.797,
+      "lng": 34.634
+    },
+    "city": "Mersin",
+    "district": "Yenişehir",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 50,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Kış",
+        "İlkbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-20:00"
+      ]
+    },
+    "tags": [
+      "aile dostu",
+      "fotoğraf",
+      "şehir simgesi"
+    ],
+    "popularity_score": 83,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.2,
+    "review_count": 2544,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Mersin_Atatürk_Monument"
+    ]
+  },
+  {
+    "id": "place_047",
+    "name": "Mersin Botanical Garden (approx)",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.81,
+      "lng": 34.65
+    },
+    "city": "Mersin",
+    "district": "Yenişehir",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 80,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "08:00-20:00"
+      ]
+    },
+    "tags": [
+      "kamp",
+      "tarih",
+      "arkeoloji"
+    ],
+    "popularity_score": 79,
+    "virality_trend": "orta",
+    "average_rating": 4.3,
+    "review_count": 159,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Mersin_Botanical_Garden_(approx)"
+    ]
+  },
+  {
+    "id": "place_048",
+    "name": "Erdemli Marina area",
+    "category": [
+      "Sahil",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.52,
+      "lng": 34.28
+    },
+    "city": "Mersin",
+    "district": "Erdemli",
+    "average_stay_minutes": 30,
+    "average_spend": {
+      "amount": 30,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Kış",
+        "Yaz"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "08:00-16:00"
+      ]
+    },
+    "tags": [
+      "yürüyüş",
+      "kamp",
+      "tarih"
+    ],
+    "popularity_score": 74,
+    "virality_trend": "istikrarlı",
+    "average_rating": 4.7,
+    "review_count": 7648,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Erdemli_Marina_area"
+    ]
+  },
+  {
+    "id": "place_049",
+    "name": "Mut Yerköprü (other spot)",
+    "category": [
+      "Şelale",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.671,
+      "lng": 33.453
+    },
+    "city": "Mersin",
+    "district": "Mut",
+    "average_stay_minutes": 150,
+    "average_spend": {
+      "amount": 40,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Sonbahar",
+        "İlkbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "08:00-19:00"
+      ]
+    },
+    "tags": [
+      "tarih",
+      "doğa",
+      "şehir simgesi"
+    ],
+    "popularity_score": 87,
+    "virality_trend": "orta",
+    "average_rating": 4.1,
+    "review_count": 1998,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Mut_Yerköprü_(other_spot)"
+    ]
+  },
+  {
+    "id": "place_050",
+    "name": "Alaaddin Camii (local)",
+    "category": [
+      "Dini",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 36.799,
+      "lng": 34.632
+    },
+    "city": "Mersin",
+    "district": "Mersin",
+    "average_stay_minutes": 150,
+    "average_spend": {
+      "amount": 60,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "İlkbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "08:00-16:00"
+      ]
+    },
+    "tags": [
+      "tarih",
+      "şehir simgesi",
+      "doğa"
+    ],
+    "popularity_score": 77,
+    "virality_trend": "istikrarlı",
+    "average_rating": 3.8,
+    "review_count": 7199,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Alaaddin_Camii_(local)"
+    ]
+  },
+  {
+    "id": "place_051",
+    "name": "Kalepark (Anamur local)",
+    "category": [
+      "Kale",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 36.08,
+      "lng": 34.61
+    },
+    "city": "Mersin",
+    "district": "Anamur",
+    "average_stay_minutes": 30,
+    "average_spend": {
+      "amount": 80,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Kış"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "08:00-17:00"
+      ]
+    },
+    "tags": [
+      "doğa",
+      "aile dostu",
+      "tarih"
+    ],
+    "popularity_score": 83,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.6,
+    "review_count": 7129,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Kalepark_(Anamur_local)"
+    ]
+  },
+  {
+    "id": "place_052",
+    "name": "Gözne (Çamlıyayla)",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 37.038,
+      "lng": 34.925
+    },
+    "city": "Mersin",
+    "district": "Çamlıyayla",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 40,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-20:00"
+      ]
+    },
+    "tags": [
+      "doğa",
+      "kamp",
+      "tarih"
+    ],
+    "popularity_score": 72,
+    "virality_trend": "yüksek",
+    "average_rating": 4.2,
+    "review_count": 1633,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Gözne_(Çamlıyayla)"
+    ]
+  },
+  {
+    "id": "place_053",
+    "name": "Berdan River area (Tarsus)",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.912,
+      "lng": 34.9
+    },
+    "city": "Mersin",
+    "district": "Tarsus",
+    "average_stay_minutes": 30,
+    "average_spend": {
+      "amount": 100,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Kış",
+        "İlkbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-19:00"
+      ]
+    },
+    "tags": [
+      "fotoğraf",
+      "plaj",
+      "yürüyüş"
+    ],
+    "popularity_score": 80,
+    "virality_trend": "istikrarlı",
+    "average_rating": 4.1,
+    "review_count": 2875,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Berdan_River_area_(Tarsus)"
+    ]
+  },
+  {
+    "id": "place_054",
+    "name": "Kargıpınarı Park",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.515,
+      "lng": 34.275
+    },
+    "city": "Mersin",
+    "district": "Erdemli",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 80,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Kış"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-17:00"
+      ]
+    },
+    "tags": [
+      "plaj",
+      "fotoğraf",
+      "aile dostu"
+    ],
+    "popularity_score": 74,
+    "virality_trend": "orta",
+    "average_rating": 4.7,
+    "review_count": 6879,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Kargıpınarı_Park"
+    ]
+  },
+  {
+    "id": "place_055",
+    "name": "Kızılkaya Picnic Area",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 37.11,
+      "lng": 34.21
+    },
+    "city": "Mersin",
+    "district": "Toroslar",
+    "average_stay_minutes": 150,
+    "average_spend": {
+      "amount": 100,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Sonbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "08:00-16:00"
+      ]
+    },
+    "tags": [
+      "dalış",
+      "tarih",
+      "şehir simgesi"
+    ],
+    "popularity_score": 92,
+    "virality_trend": "orta",
+    "average_rating": 4.0,
+    "review_count": 5072,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Kızılkaya_Picnic_Area"
+    ]
+  },
+  {
+    "id": "place_056",
+    "name": "Arslanköy village",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 37.05,
+      "lng": 34.85
+    },
+    "city": "Mersin",
+    "district": "Toroslar",
+    "average_stay_minutes": 150,
+    "average_spend": {
+      "amount": 150,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Kış",
+        "İlkbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-19:00"
+      ]
+    },
+    "tags": [
+      "manzara",
+      "arkeoloji",
+      "dalış"
+    ],
+    "popularity_score": 78,
+    "virality_trend": "yüksek",
+    "average_rating": 3.9,
+    "review_count": 5072,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Arslanköy_village"
+    ]
+  },
+  {
+    "id": "place_057",
+    "name": "Küçükeceli Beach",
+    "category": [
+      "Sahil",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.02,
+      "lng": 34.35
+    },
+    "city": "Mersin",
+    "district": "Erdemli",
+    "average_stay_minutes": 45,
+    "average_spend": {
+      "amount": 50,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Kış",
+        "Yaz"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "08:00-18:00"
+      ]
+    },
+    "tags": [
+      "manzara",
+      "fotoğraf",
+      "güneşlenme"
+    ],
+    "popularity_score": 85,
+    "virality_trend": "çok yüksek",
+    "average_rating": 4.7,
+    "review_count": 1795,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Küçükeceli_Beach"
+    ]
+  },
+  {
+    "id": "place_058",
+    "name": "Altınkum Beach (Anamur)",
+    "category": [
+      "Sahil",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.02,
+      "lng": 34.35
+    },
+    "city": "Mersin",
+    "district": "Anamur",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 80,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "08:00-18:00"
+      ]
+    },
+    "tags": [
+      "şehir simgesi",
+      "arkeoloji",
+      "manzara"
+    ],
+    "popularity_score": 79,
+    "virality_trend": "çok yüksek",
+    "average_rating": 4.2,
+    "review_count": 2045,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Altınkum_Beach_(Anamur)"
+    ]
+  },
+  {
+    "id": "place_059",
+    "name": "Kaledran Bay",
+    "category": [
+      "Kale",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 36.05,
+      "lng": 34.52
+    },
+    "city": "Mersin",
+    "district": "Anamur",
+    "average_stay_minutes": 45,
+    "average_spend": {
+      "amount": 150,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Sonbahar",
+        "Kış"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "güneşlenme",
+      "yürüyüş",
+      "aile dostu"
+    ],
+    "popularity_score": 92,
+    "virality_trend": "istikrarlı",
+    "average_rating": 4.7,
+    "review_count": 3289,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Kaledran_Bay"
+    ]
+  },
+  {
+    "id": "place_060",
+    "name": "Sarıbük Bay",
+    "category": [
+      "Sahil",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.12,
+      "lng": 34.09
+    },
+    "city": "Mersin",
+    "district": "Silifke",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 30,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-19:00"
+      ]
+    },
+    "tags": [
+      "tarih",
+      "aile dostu",
+      "arkeoloji"
+    ],
+    "popularity_score": 70,
+    "virality_trend": "yüksek",
+    "average_rating": 3.8,
+    "review_count": 3461,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Sarıbük_Bay"
+    ]
+  },
+  {
+    "id": "place_061",
+    "name": "Gölcük Plateau",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 37.2,
+      "lng": 33.78
+    },
+    "city": "Mersin",
+    "district": "Mut",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 60,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Sonbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-20:00"
+      ]
+    },
+    "tags": [
+      "dalış",
+      "yürüyüş",
+      "plaj"
+    ],
+    "popularity_score": 74,
+    "virality_trend": "istikrarlı",
+    "average_rating": 4.1,
+    "review_count": 3873,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Gölcük_Plateau"
+    ]
+  },
+  {
+    "id": "place_062",
+    "name": "Erdemli Public Gardens",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.52,
+      "lng": 34.28
+    },
+    "city": "Mersin",
+    "district": "Erdemli",
+    "average_stay_minutes": 75,
+    "average_spend": {
+      "amount": 50,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "Kış"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-17:00"
+      ]
+    },
+    "tags": [
+      "manzara",
+      "aile dostu",
+      "güneşlenme"
+    ],
+    "popularity_score": 95,
+    "virality_trend": "istikrarlı",
+    "average_rating": 4.3,
+    "review_count": 89,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Erdemli_Public_Gardens"
+    ]
+  },
+  {
+    "id": "place_063",
+    "name": "Yenişehir Cultural Center",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.8,
+      "lng": 34.64
+    },
+    "city": "Mersin",
+    "district": "Yenişehir",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 50,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Kış"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-19:00"
+      ]
+    },
+    "tags": [
+      "fotoğraf",
+      "plaj",
+      "kamp"
+    ],
+    "popularity_score": 93,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.6,
+    "review_count": 4565,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Yenişehir_Cultural_Center"
+    ]
+  },
+  {
+    "id": "place_064",
+    "name": "Mezitli Night Market (seasonal)",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.77,
+      "lng": 34.6
+    },
+    "city": "Mersin",
+    "district": "Mezitli",
+    "average_stay_minutes": 75,
+    "average_spend": {
+      "amount": 60,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-20:00"
+      ]
+    },
+    "tags": [
+      "tarih",
+      "manzara",
+      "şehir simgesi"
+    ],
+    "popularity_score": 81,
+    "virality_trend": "yüksek",
+    "average_rating": 4.3,
+    "review_count": 6723,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Mezitli_Night_Market_(seasonal)"
+    ]
+  },
+  {
+    "id": "place_065",
+    "name": "Tisan Bay ruins",
+    "category": [
+      "Sahil",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.159,
+      "lng": 33.859
+    },
+    "city": "Mersin",
+    "district": "Silifke",
+    "average_stay_minutes": 30,
+    "average_spend": {
+      "amount": 80,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Sonbahar",
+        "İlkbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-19:00"
+      ]
+    },
+    "tags": [
+      "tarih",
+      "yürüyüş",
+      "fotoğraf"
+    ],
+    "popularity_score": 85,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.2,
+    "review_count": 3895,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Tisan_Bay_ruins"
+    ]
+  },
+  {
+    "id": "place_066",
+    "name": "Mersin Fish Market area",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.798,
+      "lng": 34.63
+    },
+    "city": "Mersin",
+    "district": "Akdeniz",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 100,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Sonbahar",
+        "İlkbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-18:00"
+      ]
+    },
+    "tags": [
+      "tarih",
+      "plaj",
+      "fotoğraf"
+    ],
+    "popularity_score": 75,
+    "virality_trend": "istikrarlı",
+    "average_rating": 4.6,
+    "review_count": 5907,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Mersin_Fish_Market_area"
+    ]
+  },
+  {
+    "id": "place_067",
+    "name": "Yumuktepe Museum area",
+    "category": [
+      "Müze",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 36.797,
+      "lng": 34.642
+    },
+    "city": "Mersin",
+    "district": "Akdeniz",
+    "average_stay_minutes": 45,
+    "average_spend": {
+      "amount": 30,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-16:00"
+      ]
+    },
+    "tags": [
+      "plaj",
+      "tarih",
+      "güneşlenme"
+    ],
+    "popularity_score": 86,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.4,
+    "review_count": 3114,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Yumuktepe_Museum_area"
+    ]
+  },
+  {
+    "id": "place_068",
+    "name": "Kızkalesi Promenade",
+    "category": [
+      "Kale",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 36.402,
+      "lng": 34.026
+    },
+    "city": "Mersin",
+    "district": "Erdemli",
+    "average_stay_minutes": 150,
+    "average_spend": {
+      "amount": 60,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "şehir simgesi",
+      "yürüyüş",
+      "manzara"
+    ],
+    "popularity_score": 94,
+    "virality_trend": "yüksek",
+    "average_rating": 4.3,
+    "review_count": 6750,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Kızkalesi_Promenade"
+    ]
+  },
+  {
+    "id": "place_069",
+    "name": "Sultan's Bath (local/historical)",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.919,
+      "lng": 34.897
+    },
+    "city": "Mersin",
+    "district": "Tarsus",
+    "average_stay_minutes": 45,
+    "average_spend": {
+      "amount": 100,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Sonbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "08:00-19:00"
+      ]
+    },
+    "tags": [
+      "arkeoloji",
+      "dalış",
+      "güneşlenme"
+    ],
+    "popularity_score": 89,
+    "virality_trend": "orta",
+    "average_rating": 4.6,
+    "review_count": 5590,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Sultan's_Bath_(local/historical)"
+    ]
+  },
+  {
+    "id": "place_070",
+    "name": "Erdemli Picnic Groves",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.53,
+      "lng": 34.29
+    },
+    "city": "Mersin",
+    "district": "Erdemli",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 30,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Sonbahar",
+        "İlkbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-20:00"
+      ]
+    },
+    "tags": [
+      "güneşlenme",
+      "dalış",
+      "tarih"
+    ],
+    "popularity_score": 91,
+    "virality_trend": "istikrarlı",
+    "average_rating": 4.3,
+    "review_count": 187,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Erdemli_Picnic_Groves"
+    ]
+  },
+  {
+    "id": "place_071",
+    "name": "Mut Historical Center",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 37.199,
+      "lng": 33.434
+    },
+    "city": "Mersin",
+    "district": "Mut",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 20,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Kış"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-20:00"
+      ]
+    },
+    "tags": [
+      "manzara",
+      "plaj",
+      "fotoğraf"
+    ],
+    "popularity_score": 90,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.6,
+    "review_count": 7968,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Mut_Historical_Center"
+    ]
+  },
+  {
+    "id": "place_072",
+    "name": "Tarsus Ancient Road",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.92,
+      "lng": 34.9
+    },
+    "city": "Mersin",
+    "district": "Tarsus",
+    "average_stay_minutes": 30,
+    "average_spend": {
+      "amount": 60,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Kış",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-20:00"
+      ]
+    },
+    "tags": [
+      "dalış",
+      "kamp",
+      "manzara"
+    ],
+    "popularity_score": 90,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.3,
+    "review_count": 1585,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Tarsus_Ancient_Road"
+    ]
+  },
+  {
+    "id": "place_073",
+    "name": "Bozyazı Castle",
+    "category": [
+      "Kale",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 36.009,
+      "lng": 32.936
+    },
+    "city": "Mersin",
+    "district": "Bozyazı",
+    "average_stay_minutes": 45,
+    "average_spend": {
+      "amount": 150,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Kış",
+        "Yaz"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-19:00"
+      ]
+    },
+    "tags": [
+      "yürüyüş",
+      "arkeoloji",
+      "plaj"
+    ],
+    "popularity_score": 82,
+    "virality_trend": "orta",
+    "average_rating": 4.2,
+    "review_count": 1830,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Bozyazı_Castle"
+    ]
+  },
+  {
+    "id": "place_074",
+    "name": "Silifke Market Area",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.377,
+      "lng": 33.933
+    },
+    "city": "Mersin",
+    "district": "Silifke",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 100,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Sonbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-19:00"
+      ]
+    },
+    "tags": [
+      "yürüyüş",
+      "dalış",
+      "kamp"
+    ],
+    "popularity_score": 81,
+    "virality_trend": "yüksek",
+    "average_rating": 4.0,
+    "review_count": 2993,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Silifke_Market_Area"
+    ]
+  },
+  {
+    "id": "place_075",
+    "name": "Anamur Sugar Museum (local)",
+    "category": [
+      "Müze",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 36.07,
+      "lng": 34.6
+    },
+    "city": "Mersin",
+    "district": "Anamur",
+    "average_stay_minutes": 45,
+    "average_spend": {
+      "amount": 100,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Kış",
+        "İlkbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-20:00"
+      ]
+    },
+    "tags": [
+      "güneşlenme",
+      "aile dostu",
+      "plaj"
+    ],
+    "popularity_score": 96,
+    "virality_trend": "orta",
+    "average_rating": 3.9,
+    "review_count": 1161,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Anamur_Sugar_Museum_(local)"
+    ]
+  },
+  {
+    "id": "place_076",
+    "name": "Mersin Contemporary Art Gallery (local)",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.805,
+      "lng": 34.64
+    },
+    "city": "Mersin",
+    "district": "Yenişehir",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 60,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "Kış"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "08:00-19:00"
+      ]
+    },
+    "tags": [
+      "fotoğraf",
+      "güneşlenme",
+      "kamp"
+    ],
+    "popularity_score": 97,
+    "virality_trend": "orta",
+    "average_rating": 4.0,
+    "review_count": 7220,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Mersin_Contemporary_Art_Gallery_(local)"
+    ]
+  },
+  {
+    "id": "place_077",
+    "name": "Kızıltepe (local hill)",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.3,
+      "lng": 33.45
+    },
+    "city": "Mersin",
+    "district": "Gülnar",
+    "average_stay_minutes": 30,
+    "average_spend": {
+      "amount": 80,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Kış",
+        "Yaz"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "08:00-18:00"
+      ]
+    },
+    "tags": [
+      "tarih",
+      "doğa",
+      "plaj"
+    ],
+    "popularity_score": 89,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.6,
+    "review_count": 2946,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Kızıltepe_(local_hill)"
+    ]
+  },
+  {
+    "id": "place_078",
+    "name": "Belen Pass viewpoint",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 37.05,
+      "lng": 34.1
+    },
+    "city": "Mersin",
+    "district": "Toroslar",
+    "average_stay_minutes": 30,
+    "average_spend": {
+      "amount": 150,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Kış",
+        "Yaz"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-16:00"
+      ]
+    },
+    "tags": [
+      "manzara",
+      "doğa",
+      "dalış"
+    ],
+    "popularity_score": 94,
+    "virality_trend": "istikrarlı",
+    "average_rating": 4.7,
+    "review_count": 427,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Belen_Pass_viewpoint"
+    ]
+  },
+  {
+    "id": "place_079",
+    "name": "Kocaköy (village)",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 37.12,
+      "lng": 33.7
+    },
+    "city": "Mersin",
+    "district": "Mut",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 60,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Kış",
+        "İlkbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-20:00"
+      ]
+    },
+    "tags": [
+      "güneşlenme",
+      "şehir simgesi",
+      "manzara"
+    ],
+    "popularity_score": 79,
+    "virality_trend": "istikrarlı",
+    "average_rating": 4.6,
+    "review_count": 4169,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Kocaköy_(village)"
+    ]
+  },
+  {
+    "id": "place_080",
+    "name": "Suluk Cave (approx)",
+    "category": [
+      "Mağara",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.5,
+      "lng": 34.33
+    },
+    "city": "Mersin",
+    "district": "Erdemli",
+    "average_stay_minutes": 75,
+    "average_spend": {
+      "amount": 60,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-20:00"
+      ]
+    },
+    "tags": [
+      "arkeoloji",
+      "dalış",
+      "şehir simgesi"
+    ],
+    "popularity_score": 96,
+    "virality_trend": "yüksek",
+    "average_rating": 4.6,
+    "review_count": 5954,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Suluk_Cave_(approx)"
+    ]
+  },
+  {
+    "id": "place_081",
+    "name": "Turan Market (local)",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.798,
+      "lng": 34.631
+    },
+    "city": "Mersin",
+    "district": "Mersin",
+    "average_stay_minutes": 150,
+    "average_spend": {
+      "amount": 150,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Sonbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "08:00-16:00"
+      ]
+    },
+    "tags": [
+      "tarih",
+      "dalış",
+      "fotoğraf"
+    ],
+    "popularity_score": 82,
+    "virality_trend": "istikrarlı",
+    "average_rating": 4.2,
+    "review_count": 2493,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Turan_Market_(local)"
+    ]
+  },
+  {
+    "id": "place_082",
+    "name": "Seaport promenade (Mezitli)",
+    "category": [
+      "Sahil",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.77,
+      "lng": 34.6
+    },
+    "city": "Mersin",
+    "district": "Mezitli",
+    "average_stay_minutes": 30,
+    "average_spend": {
+      "amount": 20,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Kış",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "yürüyüş",
+      "kamp",
+      "manzara"
+    ],
+    "popularity_score": 82,
+    "virality_trend": "yüksek",
+    "average_rating": 4.2,
+    "review_count": 4558,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Seaport_promenade_(Mezitli)"
+    ]
+  },
+  {
+    "id": "place_083",
+    "name": "Marina Events Ground",
+    "category": [
+      "Sahil",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.798,
+      "lng": 34.632
+    },
+    "city": "Mersin",
+    "district": "Akdeniz",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Kış",
+        "Yaz"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-19:00"
+      ]
+    },
+    "tags": [
+      "arkeoloji",
+      "doğa",
+      "şehir simgesi"
+    ],
+    "popularity_score": 82,
+    "virality_trend": "yükselişte",
+    "average_rating": 3.9,
+    "review_count": 6472,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Marina_Events_Ground"
+    ]
+  },
+  {
+    "id": "place_084",
+    "name": "Köprüçay excursion area",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.92,
+      "lng": 34.9
+    },
+    "city": "Mersin",
+    "district": "Tarsus",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 50,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "Kış"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-16:00"
+      ]
+    },
+    "tags": [
+      "şehir simgesi",
+      "kamp",
+      "doğa"
+    ],
+    "popularity_score": 95,
+    "virality_trend": "yüksek",
+    "average_rating": 3.8,
+    "review_count": 1555,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Köprüçay_excursion_area"
+    ]
+  },
+  {
+    "id": "place_085",
+    "name": "Eshab-ı Kehf (Tarsus cave)",
+    "category": [
+      "Mağara",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.918,
+      "lng": 34.89
+    },
+    "city": "Mersin",
+    "district": "Tarsus",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 40,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Sonbahar",
+        "İlkbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "doğa",
+      "plaj",
+      "dalış"
+    ],
+    "popularity_score": 70,
+    "virality_trend": "orta",
+    "average_rating": 4.5,
+    "review_count": 968,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Eshab-ı_Kehf_(Tarsus_cave)"
+    ]
+  },
+  {
+    "id": "place_086",
+    "name": "Tarsus Cleopatra's Gate area",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.916,
+      "lng": 34.898
+    },
+    "city": "Mersin",
+    "district": "Tarsus",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 150,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Kış"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-19:00"
+      ]
+    },
+    "tags": [
+      "kamp",
+      "fotoğraf",
+      "aile dostu"
+    ],
+    "popularity_score": 76,
+    "virality_trend": "istikrarlı",
+    "average_rating": 4.6,
+    "review_count": 991,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Tarsus_Cleopatra's_Gate_area"
+    ]
+  },
+  {
+    "id": "place_087",
+    "name": "Local Fishing Pier (Anamur)",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.073,
+      "lng": 34.597
+    },
+    "city": "Mersin",
+    "district": "Anamur",
+    "average_stay_minutes": 45,
+    "average_spend": {
+      "amount": 30,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-16:00"
+      ]
+    },
+    "tags": [
+      "arkeoloji",
+      "tarih",
+      "kamp"
+    ],
+    "popularity_score": 90,
+    "virality_trend": "istikrarlı",
+    "average_rating": 3.9,
+    "review_count": 887,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Local_Fishing_Pier_(Anamur)"
+    ]
+  },
+  {
+    "id": "place_088",
+    "name": "Boat Tour Start (Taşucu)",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.33,
+      "lng": 33.96
+    },
+    "city": "Mersin",
+    "district": "Silifke",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 60,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "İlkbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-19:00"
+      ]
+    },
+    "tags": [
+      "arkeoloji",
+      "kamp",
+      "dalış"
+    ],
+    "popularity_score": 88,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.2,
+    "review_count": 3954,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Boat_Tour_Start_(Taşucu)"
+    ]
+  },
+  {
+    "id": "place_089",
+    "name": "Silifke Harbor Walk",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.33,
+      "lng": 33.96
+    },
+    "city": "Mersin",
+    "district": "Silifke",
+    "average_stay_minutes": 75,
+    "average_spend": {
+      "amount": 100,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Kış",
+        "Yaz"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "plaj",
+      "tarih",
+      "aile dostu"
+    ],
+    "popularity_score": 74,
+    "virality_trend": "orta",
+    "average_rating": 4.8,
+    "review_count": 697,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Silifke_Harbor_Walk"
+    ]
+  },
+  {
+    "id": "place_090",
+    "name": "Local Beach 90",
+    "category": [
+      "Sahil",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.519329,
+      "lng": 34.262372
+    },
+    "city": "Mersin",
+    "district": "Erdemli",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 100,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "İlkbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-20:00"
+      ]
+    },
+    "tags": [
+      "doğa",
+      "tarih",
+      "fotoğraf"
+    ],
+    "popularity_score": 71,
+    "virality_trend": "istikrarlı",
+    "average_rating": 4.6,
+    "review_count": 2884,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Local_Beach_90"
+    ]
+  },
+  {
+    "id": "place_091",
+    "name": "Local Ruins 91",
+    "category": [
+      "Antik",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 36.085687,
+      "lng": 34.583256
+    },
+    "city": "Mersin",
+    "district": "Anamur",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 100,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-17:00"
+      ]
+    },
+    "tags": [
+      "manzara",
+      "fotoğraf",
+      "arkeoloji"
+    ],
+    "popularity_score": 80,
+    "virality_trend": "yükselişte",
+    "average_rating": 3.9,
+    "review_count": 7801,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Local_Ruins_91"
+    ]
+  },
+  {
+    "id": "place_092",
+    "name": "Local Picnic Area 92",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 37.192542,
+      "lng": 33.694818
+    },
+    "city": "Mersin",
+    "district": "Mut",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 100,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Sonbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-17:00"
+      ]
+    },
+    "tags": [
+      "plaj",
+      "kamp",
+      "şehir simgesi"
+    ],
+    "popularity_score": 90,
+    "virality_trend": "yüksek",
+    "average_rating": 3.9,
+    "review_count": 4774,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Local_Picnic_Area_92"
+    ]
+  },
+  {
+    "id": "place_093",
+    "name": "Scenic Viewpoint 93",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 37.041031,
+      "lng": 34.90415
+    },
+    "city": "Mersin",
+    "district": "Toroslar",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 30,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Sonbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "08:00-18:00"
+      ]
+    },
+    "tags": [
+      "tarih",
+      "plaj",
+      "şehir simgesi"
+    ],
+    "popularity_score": 77,
+    "virality_trend": "istikrarlı",
+    "average_rating": 4.7,
+    "review_count": 7645,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Scenic_Viewpoint_93"
+    ]
+  },
+  {
+    "id": "place_094",
+    "name": "Small Harbor 94",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.330454,
+      "lng": 33.941993
+    },
+    "city": "Mersin",
+    "district": "Silifke",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 30,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Kış",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "08:00-17:00"
+      ]
+    },
+    "tags": [
+      "aile dostu",
+      "plaj",
+      "tarih"
+    ],
+    "popularity_score": 70,
+    "virality_trend": "çok yüksek",
+    "average_rating": 3.8,
+    "review_count": 2300,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Small_Harbor_94"
+    ]
+  },
+  {
+    "id": "place_095",
+    "name": "Village Museum 95",
+    "category": [
+      "Müze",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 36.359344,
+      "lng": 33.476423
+    },
+    "city": "Mersin",
+    "district": "Gülnar",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 60,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-17:00"
+      ]
+    },
+    "tags": [
+      "yürüyüş",
+      "doğa",
+      "tarih"
+    ],
+    "popularity_score": 79,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.4,
+    "review_count": 3862,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Village_Museum_95"
+    ]
+  },
+  {
+    "id": "place_096",
+    "name": "Historic House 96",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.905452,
+      "lng": 34.916687
+    },
+    "city": "Mersin",
+    "district": "Tarsus",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Sonbahar",
+        "Kış"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-20:00"
+      ]
+    },
+    "tags": [
+      "fotoğraf",
+      "doğa",
+      "güneşlenme"
+    ],
+    "popularity_score": 86,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.4,
+    "review_count": 7886,
+    "sources": [
+      "Wikipedia"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Historic_House_96"
+    ]
+  },
+  {
+    "id": "place_097",
+    "name": "Coastal Walk 97",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.783881,
+      "lng": 34.599816
+    },
+    "city": "Mersin",
+    "district": "Mezitli",
+    "average_stay_minutes": 45,
+    "average_spend": {
+      "amount": 30,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Kış",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-17:00"
+      ]
+    },
+    "tags": [
+      "dalış",
+      "şehir simgesi",
+      "arkeoloji"
+    ],
+    "popularity_score": 95,
+    "virality_trend": "yüksek",
+    "average_rating": 4.7,
+    "review_count": 4818,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Coastal_Walk_97"
+    ]
+  },
+  {
+    "id": "place_098",
+    "name": "Seaside Park 98",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.802886,
+      "lng": 34.64415
+    },
+    "city": "Mersin",
+    "district": "Yenişehir",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 20,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "10:00-18:00"
+      ]
+    },
+    "tags": [
+      "arkeoloji",
+      "aile dostu",
+      "yürüyüş"
+    ],
+    "popularity_score": 75,
+    "virality_trend": "orta",
+    "average_rating": 3.9,
+    "review_count": 7649,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Seaside_Park_98"
+    ]
+  },
+  {
+    "id": "place_099",
+    "name": "Nature Trail 99",
+    "category": [
+      "Turistik",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 37.062977,
+      "lng": 34.9369
+    },
+    "city": "Mersin",
+    "district": "Çamlıyayla",
+    "average_stay_minutes": 150,
+    "average_spend": {
+      "amount": 80,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-19:00"
+      ]
+    },
+    "tags": [
+      "güneşlenme",
+      "dalış",
+      "tarih"
+    ],
+    "popularity_score": 80,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.4,
+    "review_count": 3593,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Nature_Trail_99"
+    ]
+  },
+  {
+    "id": "place_100",
+    "name": "Local Beach 100",
+    "category": [
+      "Sahil",
+      "Doğa"
+    ],
+    "coordinates": {
+      "lat": 36.528539,
+      "lng": 34.289377
+    },
+    "city": "Mersin",
+    "district": "Erdemli",
+    "average_stay_minutes": 150,
+    "average_spend": {
+      "amount": 50,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Kış",
+        "Sonbahar"
+      ],
+      "days": [
+        "Her gün"
+      ],
+      "hours": [
+        "09:00-20:00"
+      ]
+    },
+    "tags": [
+      "manzara",
+      "doğa",
+      "fotoğraf"
+    ],
+    "popularity_score": 72,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.6,
+    "review_count": 6833,
+    "sources": [
+      "Wikipedia",
+      "TripAdvisor"
+    ],
+    "photos": [
+      "https://en.wikipedia.org/wiki/Local_Beach_100"
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "id": "place_001",
+  "name": "Mevlana Müzesi",
+  "category": ["Müze", "Tarihi"],
+  "coordinates": { "lat": 37.8700, "lng": 32.5044 },
+  "city": "Konya",
+  "district": "Karatay",
+  "average_stay_minutes": 90,
+  "average_spend": { "amount": 100, "currency": "TRY" },
+  "best_visit_times": {
+    "season": ["İlkbahar", "Yaz"],
+    "days": ["Pazartesi", "Salı", "Pazar"],
+    "hours": ["09:00-18:00"]
+  },
+  "tags": ["tarihi", "müze", "aile dostu"],
+  "popularity_score": 87,
+  "virality_trend": "yükselişte",
+  "average_rating": 4.7,
+  "review_count": 12500,
+  "sources": ["Google Maps", "Instagram"],
+  "photos": [
+    "https://maps.googleapis.com/photo/abc123",
+    "https://instagram.com/place_xyz.jpg"
+  ]
+}

@@ -1,0 +1,15 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+pytest==7.4.3
+python-multipart==0.0.6
+python-dateutil==2.8.2
+
+# Opsiyonel: OpenAI entegrasyonu için
+# openai==1.3.7
+
+# Opsiyonel: HTTP istekleri için
+# requests==2.31.0
+
+# Opsiyonel: Cache için
+# redis==5.0.1 

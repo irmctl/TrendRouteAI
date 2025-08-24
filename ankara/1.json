@@ -1,0 +1,253 @@
+[
+    {
+      "id": "ankara_011",
+      "name": "Hamamönü",
+      "category": ["Tarihi", "Kültürel"],
+      "coordinates": { "lat": 39.9345, "lng": 32.8681 },
+      "city": "Ankara",
+      "district": "Altındağ",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 120, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["10:00-22:00"]
+      },
+      "tags": ["osmanlı", "kültür", "yeme içme"],
+      "popularity_score": 89,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.6,
+      "review_count": 17500,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/hamamonu",
+        "https://instagram.com/hamamonu.jpg"
+      ]
+    },
+    {
+      "id": "ankara_012",
+      "name": "Kale İçi",
+      "category": ["Tarihi", "Gezi"],
+      "coordinates": { "lat": 39.9411, "lng": 32.8627 },
+      "city": "Ankara",
+      "district": "Altındağ",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 80, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Her gün"],
+        "hours": ["09:00-20:00"]
+      },
+      "tags": ["kale", "tarihi", "manzara"],
+      "popularity_score": 84,
+      "virality_trend": "stabil",
+      "average_rating": 4.5,
+      "review_count": 9500,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/kaleici",
+        "https://instagram.com/kaleici.jpg"
+      ]
+    },
+    {
+      "id": "ankara_013",
+      "name": "Atakule",
+      "category": ["Manzara", "Alışveriş"],
+      "coordinates": { "lat": 39.8949, "lng": 32.8608 },
+      "city": "Ankara",
+      "district": "Çankaya",
+      "average_stay_minutes": 100,
+      "average_spend": { "amount": 150, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz", "Sonbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["10:00-22:00"]
+      },
+      "tags": ["manzara", "alışveriş", "restoran"],
+      "popularity_score": 88,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.6,
+      "review_count": 13000,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/atakule",
+        "https://instagram.com/atakule.jpg"
+      ]
+    },
+    {
+      "id": "ankara_014",
+      "name": "Seğmenler Parkı",
+      "category": ["Park", "Doğa"],
+      "coordinates": { "lat": 39.9009, "lng": 32.8583 },
+      "city": "Ankara",
+      "district": "Çankaya",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Hafta sonu"],
+        "hours": ["07:00-22:00"]
+      },
+      "tags": ["doğa", "piknik", "aile dostu"],
+      "popularity_score": 82,
+      "virality_trend": "stabil",
+      "average_rating": 4.5,
+      "review_count": 7200,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/segmenler",
+        "https://instagram.com/segmenler.jpg"
+      ]
+    },
+    {
+      "id": "ankara_015",
+      "name": "MTA Tabiat Tarihi Müzesi",
+      "category": ["Müze", "Bilim"],
+      "coordinates": { "lat": 39.9203, "lng": 32.8162 },
+      "city": "Ankara",
+      "district": "Çankaya",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 40, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm yıl"],
+        "days": ["Çarşamba", "Perşembe"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["bilim", "doğa", "çocuk"],
+      "popularity_score": 79,
+      "virality_trend": "stabil",
+      "average_rating": 4.4,
+      "review_count": 6400,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/mta",
+        "https://instagram.com/mta.jpg"
+      ]
+    },
+    {
+      "id": "ankara_016",
+      "name": "Kızılay Meydanı",
+      "category": ["Şehir", "Alışveriş"],
+      "coordinates": { "lat": 39.9208, "lng": 32.8541 },
+      "city": "Ankara",
+      "district": "Çankaya",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 100, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm yıl"],
+        "days": ["Her gün"],
+        "hours": ["Gün boyu"]
+      },
+      "tags": ["merkez", "alışveriş", "şehir hayatı"],
+      "popularity_score": 95,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.3,
+      "review_count": 50000,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/kizilay",
+        "https://instagram.com/kizilay.jpg"
+      ]
+    },
+    {
+      "id": "ankara_017",
+      "name": "Aqua Vega Akvaryum",
+      "category": ["Eğlence", "Akvaryum"],
+      "coordinates": { "lat": 39.9672, "lng": 32.7415 },
+      "city": "Ankara",
+      "district": "Mamak",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 85, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz", "Kış"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["10:00-20:00"]
+      },
+      "tags": ["çocuk", "eğlence", "akvaryum"],
+      "popularity_score": 81,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.4,
+      "review_count": 9200,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/aquavega",
+        "https://instagram.com/aquavega.jpg"
+      ]
+    },
+    {
+      "id": "ankara_018",
+      "name": "Harikalar Diyarı",
+      "category": ["Eğlence", "Park"],
+      "coordinates": { "lat": 39.9728, "lng": 32.7354 },
+      "city": "Ankara",
+      "district": "Sincan",
+      "average_stay_minutes": 180,
+      "average_spend": { "amount": 60, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-23:00"]
+      },
+      "tags": ["lunapark", "aile", "çocuk"],
+      "popularity_score": 83,
+      "virality_trend": "stabil",
+      "average_rating": 4.2,
+      "review_count": 10500,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/harikalar",
+        "https://instagram.com/harikalar.jpg"
+      ]
+    },
+    {
+      "id": "ankara_019",
+      "name": "Armada AVM",
+      "category": ["Alışveriş", "Eğlence"],
+      "coordinates": { "lat": 39.9111, "lng": 32.7982 },
+      "city": "Ankara",
+      "district": "Söğütözü",
+      "average_stay_minutes": 180,
+      "average_spend": { "amount": 250, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm yıl"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["10:00-22:00"]
+      },
+      "tags": ["alışveriş", "sinema", "restoran"],
+      "popularity_score": 87,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.5,
+      "review_count": 23000,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/armada",
+        "https://instagram.com/armada.jpg"
+      ]
+    },
+    {
+      "id": "ankara_020",
+      "name": "Next Level AVM",
+      "category": ["Alışveriş", "Yeme-İçme"],
+      "coordinates": { "lat": 39.9120, "lng": 32.8060 },
+      "city": "Ankara",
+      "district": "Çankaya",
+      "average_stay_minutes": 150,
+      "average_spend": { "amount": 200, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm yıl"],
+        "days": ["Cuma", "Cumartesi", "Pazar"],
+        "hours": ["10:00-22:00"]
+      },
+      "tags": ["alışveriş", "lüks", "yeme içme"],
+      "popularity_score": 84,
+      "virality_trend": "stabil",
+      "average_rating": 4.4,
+      "review_count": 15000,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/nextlevel",
+        "https://instagram.com/nextlevel.jpg"
+      ]
+    }
+  ]
+  

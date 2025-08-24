@@ -1,0 +1,503 @@
+[
+    {
+      "id": "ankara_041",
+      "name": "Çıngırlı Höyük",
+      "category": ["Arkeoloji", "Tarihi"],
+      "coordinates": { "lat": 40.1590, "lng": 33.0850 },
+      "city": "Ankara",
+      "district": "Polatlı",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Hafta içi"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["arkeoloji", "höyük", "tarih"],
+      "popularity_score": 68,
+      "virality_trend": "stabil",
+      "average_rating": 4.1,
+      "review_count": 600,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/cingirli",
+        "https://instagram.com/cingirli.jpg"
+      ]
+    },
+    {
+      "id": "ankara_042",
+      "name": "Polatlı Sakarya Meydan Muharebesi Tarihi Milli Parkı",
+      "category": ["Tarihi", "Milli Park"],
+      "coordinates": { "lat": 39.5842, "lng": 32.1471 },
+      "city": "Ankara",
+      "district": "Polatlı",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 30, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["tarih", "savaş", "park"],
+      "popularity_score": 82,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.7,
+      "review_count": 4800,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/sakaryaparki",
+        "https://instagram.com/sakarya.jpg"
+      ]
+    },
+    {
+      "id": "ankara_043",
+      "name": "Nallıhan Kuş Cenneti",
+      "category": ["Doğa", "Gözlem"],
+      "coordinates": { "lat": 40.1845, "lng": 31.3456 },
+      "city": "Ankara",
+      "district": "Nallıhan",
+      "average_stay_minutes": 180,
+      "average_spend": { "amount": 20, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["07:00-19:00"]
+      },
+      "tags": ["kuş", "doğa", "fotoğraf"],
+      "popularity_score": 87,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.8,
+      "review_count": 7400,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/nallihan",
+        "https://instagram.com/nallihan.jpg"
+      ]
+    },
+    {
+      "id": "ankara_044",
+      "name": "Ayaş Kaplıcaları",
+      "category": ["Sağlık", "Kaplıca"],
+      "coordinates": { "lat": 40.0180, "lng": 32.3400 },
+      "city": "Ankara",
+      "district": "Ayaş",
+      "average_stay_minutes": 150,
+      "average_spend": { "amount": 120, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Kış", "İlkbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-22:00"]
+      },
+      "tags": ["kaplıca", "sağlık", "dinlenme"],
+      "popularity_score": 81,
+      "virality_trend": "stabil",
+      "average_rating": 4.4,
+      "review_count": 3200,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/ayas",
+        "https://instagram.com/ayas.jpg"
+      ]
+    },
+    {
+      "id": "ankara_045",
+      "name": "Kızılcahamam Soğuksu Milli Parkı",
+      "category": ["Doğa", "Milli Park"],
+      "coordinates": { "lat": 40.4692, "lng": 32.6450 },
+      "city": "Ankara",
+      "district": "Kızılcahamam",
+      "average_stay_minutes": 240,
+      "average_spend": { "amount": 50, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz", "Sonbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["08:00-20:00"]
+      },
+      "tags": ["doğa", "milli park", "piknik"],
+      "popularity_score": 89,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.8,
+      "review_count": 11200,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/soguksu",
+        "https://instagram.com/soguksu.jpg"
+      ]
+    },
+    {
+      "id": "ankara_046",
+      "name": "Elmadağ Kayak Merkezi",
+      "category": ["Spor", "Kış"],
+      "coordinates": { "lat": 39.9200, "lng": 33.2300 },
+      "city": "Ankara",
+      "district": "Elmadağ",
+      "average_stay_minutes": 300,
+      "average_spend": { "amount": 250, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Kış"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["kayak", "spor", "kış"],
+      "popularity_score": 83,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.5,
+      "review_count": 5200,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/elmadağ",
+        "https://instagram.com/elmadağ.jpg"
+      ]
+    },
+    {
+      "id": "ankara_047",
+      "name": "Şereflikoçhisar Tuz Gölü",
+      "category": ["Doğa", "Göl"],
+      "coordinates": { "lat": 38.7500, "lng": 33.3333 },
+      "city": "Ankara",
+      "district": "Şereflikoçhisar",
+      "average_stay_minutes": 150,
+      "average_spend": { "amount": 10, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz", "Sonbahar"],
+        "days": ["Her gün"],
+        "hours": ["08:00-21:00"]
+      },
+      "tags": ["doğa", "fotoğraf", "göl"],
+      "popularity_score": 90,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.7,
+      "review_count": 15800,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/tuzgolu",
+        "https://instagram.com/tuzgolu.jpg"
+      ]
+    },
+    {
+      "id": "ankara_048",
+      "name": "Güdül İnönü Mağaraları",
+      "category": ["Tarihi", "Doğa"],
+      "coordinates": { "lat": 40.2100, "lng": 32.2400 },
+      "city": "Ankara",
+      "district": "Güdül",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["tarih", "mağara", "doğa"],
+      "popularity_score": 77,
+      "virality_trend": "stabil",
+      "average_rating": 4.3,
+      "review_count": 1900,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/gudul",
+        "https://instagram.com/gudul.jpg"
+      ]
+    },
+    {
+      "id": "ankara_049",
+      "name": "Kalecik Bağları",
+      "category": ["Doğa", "Yeme-İçme"],
+      "coordinates": { "lat": 40.0970, "lng": 33.4100 },
+      "city": "Ankara",
+      "district": "Kalecik",
+      "average_stay_minutes": 180,
+      "average_spend": { "amount": 200, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Sonbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["10:00-19:00"]
+      },
+      "tags": ["üzüm", "şarap", "doğa"],
+      "popularity_score": 84,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.6,
+      "review_count": 3100,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/kalecik",
+        "https://instagram.com/kalecik.jpg"
+      ]
+    },
+    {
+      "id": "ankara_050",
+      "name": "Ayaş Güvercinlik Vadisi",
+      "category": ["Doğa", "Yürüyüş"],
+      "coordinates": { "lat": 40.1000, "lng": 32.3100 },
+      "city": "Ankara",
+      "district": "Ayaş",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 20, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["08:00-20:00"]
+      },
+      "tags": ["doğa", "vadiler", "yürüyüş"],
+      "popularity_score": 80,
+      "virality_trend": "stabil",
+      "average_rating": 4.4,
+      "review_count": 2200,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/guvercinlik",
+        "https://instagram.com/guvercinlik.jpg"
+      ]
+    },
+    {
+      "id": "ankara_051",
+      "name": "Ayaş Çayı",
+      "category": ["Doğa", "Piknik"],
+      "coordinates": { "lat": 40.0150, "lng": 32.2800 },
+      "city": "Ankara",
+      "district": "Ayaş",
+      "average_stay_minutes": 150,
+      "average_spend": { "amount": 10, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Her gün"],
+        "hours": ["08:00-21:00"]
+      },
+      "tags": ["piknik", "su kenarı", "doğa"],
+      "popularity_score": 73,
+      "virality_trend": "stabil",
+      "average_rating": 4.2,
+      "review_count": 1200,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/ayasçay",
+        "https://instagram.com/ayasçay.jpg"
+      ]
+    },
+    {
+      "id": "ankara_052",
+      "name": "Çubuk Karagöl Tabiat Parkı",
+      "category": ["Doğa", "Milli Park"],
+      "coordinates": { "lat": 40.4900, "lng": 32.7800 },
+      "city": "Ankara",
+      "district": "Çubuk",
+      "average_stay_minutes": 240,
+      "average_spend": { "amount": 30, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz", "Sonbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["08:00-20:00"]
+      },
+      "tags": ["doğa", "kamp", "piknik"],
+      "popularity_score": 91,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.8,
+      "review_count": 9400,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/karagol",
+        "https://instagram.com/karagol.jpg"
+      ]
+    },
+    {
+      "id": "ankara_053",
+      "name": "Beynam Ormanı",
+      "category": ["Doğa", "Orman"],
+      "coordinates": { "lat": 39.6360, "lng": 32.9920 },
+      "city": "Ankara",
+      "district": "Bala",
+      "average_stay_minutes": 180,
+      "average_spend": { "amount": 15, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["07:00-21:00"]
+      },
+      "tags": ["doğa", "orman", "piknik"],
+      "popularity_score": 84,
+      "virality_trend": "stabil",
+      "average_rating": 4.5,
+      "review_count": 5600,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/beynam",
+        "https://instagram.com/beynam.jpg"
+      ]
+    },
+    {
+      "id": "ankara_054",
+      "name": "Ayaş Tarihi Hamamı",
+      "category": ["Tarihi", "Hamam"],
+      "coordinates": { "lat": 40.0155, "lng": 32.3200 },
+      "city": "Ankara",
+      "district": "Ayaş",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 70, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Kış"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-22:00"]
+      },
+      "tags": ["hamam", "tarih", "sağlık"],
+      "popularity_score": 76,
+      "virality_trend": "stabil",
+      "average_rating": 4.3,
+      "review_count": 1700,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/ayashamam",
+        "https://instagram.com/ayashamam.jpg"
+      ]
+    },
+    {
+      "id": "ankara_055",
+      "name": "Ayaş Dutlu Mesire Alanı",
+      "category": ["Doğa", "Piknik"],
+      "coordinates": { "lat": 40.0200, "lng": 32.3300 },
+      "city": "Ankara",
+      "district": "Ayaş",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 20, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["08:00-22:00"]
+      },
+      "tags": ["doğa", "piknik", "mesire"],
+      "popularity_score": 72,
+      "virality_trend": "stabil",
+      "average_rating": 4.2,
+      "review_count": 950,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/dutlu",
+        "https://instagram.com/dutlu.jpg"
+      ]
+    },
+    {
+      "id": "ankara_056",
+      "name": "Ayaş Çamlıdere Yaylası",
+      "category": ["Doğa", "Yayla"],
+      "coordinates": { "lat": 40.5000, "lng": 32.4500 },
+      "city": "Ankara",
+      "district": "Çamlıdere",
+      "average_stay_minutes": 180,
+      "average_spend": { "amount": 25, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["08:00-20:00"]
+      },
+      "tags": ["yayla", "doğa", "piknik"],
+      "popularity_score": 80,
+      "virality_trend": "stabil",
+      "average_rating": 4.4,
+      "review_count": 2500,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/yayla",
+        "https://instagram.com/yayla.jpg"
+      ]
+    },
+    {
+      "id": "ankara_057",
+      "name": "Ayaş İnözü Vadisi",
+      "category": ["Doğa", "Vadiler"],
+      "coordinates": { "lat": 40.1050, "lng": 32.2950 },
+      "city": "Ankara",
+      "district": "Ayaş",
+      "average_stay_minutes": 150,
+      "average_spend": { "amount": 15, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["08:00-19:00"]
+      },
+      "tags": ["doğa", "vadi", "fotoğraf"],
+      "popularity_score": 79,
+      "virality_trend": "stabil",
+      "average_rating": 4.3,
+      "review_count": 1900,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/inozu",
+        "https://instagram.com/inozu.jpg"
+      ]
+    },
+    {
+      "id": "ankara_058",
+      "name": "Ayaş Köy Pazarı",
+      "category": ["Alışveriş", "Yerel"],
+      "coordinates": { "lat": 40.0170, "lng": 32.3150 },
+      "city": "Ankara",
+      "district": "Ayaş",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 100, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Sonbahar"],
+        "days": ["Pazar"],
+        "hours": ["08:00-15:00"]
+      },
+      "tags": ["yerel", "alışveriş", "köy"],
+      "popularity_score": 74,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.5,
+      "review_count": 800,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/koypazari",
+        "https://instagram.com/koypazari.jpg"
+      ]
+    },
+    {
+      "id": "ankara_059",
+      "name": "Ayaş Kale Kalıntıları",
+      "category": ["Tarihi", "Arkeolojik"],
+      "coordinates": { "lat": 40.0250, "lng": 32.3250 },
+      "city": "Ankara",
+      "district": "Ayaş",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["tarih", "kale", "arkeoloji"],
+      "popularity_score": 70,
+      "virality_trend": "stabil",
+      "average_rating": 4.1,
+      "review_count": 600,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/ayaskale",
+        "https://instagram.com/ayaskale.jpg"
+      ]
+    },
+    {
+      "id": "ankara_060",
+      "name": "Ayaş Ziraat Çiftliği",
+      "category": ["Doğa", "Çiftlik"],
+      "coordinates": { "lat": 40.0300, "lng": 32.3350 },
+      "city": "Ankara",
+      "district": "Ayaş",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 80, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-19:00"]
+      },
+      "tags": ["çiftlik", "organik", "doğa"],
+      "popularity_score": 77,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.4,
+      "review_count": 1300,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/ciftlik",
+        "https://instagram.com/ciftlik.jpg"
+      ]
+    }
+  ]
+  

@@ -1,0 +1,253 @@
+[
+    {
+      "id": "ankara_021",
+      "name": "Beypazarı Tarihi Evleri",
+      "category": ["Tarihi", "Kültürel"],
+      "coordinates": { "lat": 40.1683, "lng": 31.9211 },
+      "city": "Ankara",
+      "district": "Beypazarı",
+      "average_stay_minutes": 180,
+      "average_spend": { "amount": 150, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-19:00"]
+      },
+      "tags": ["osmanlı", "tarihi ev", "gezi"],
+      "popularity_score": 91,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.8,
+      "review_count": 9800,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/beypazari",
+        "https://instagram.com/beypazari.jpg"
+      ]
+    },
+    {
+      "id": "ankara_022",
+      "name": "Trilye Balık Lokantası",
+      "category": ["Restoran", "Gurme"],
+      "coordinates": { "lat": 39.9011, "lng": 32.8610 },
+      "city": "Ankara",
+      "district": "Çankaya",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 400, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm yıl"],
+        "days": ["Cuma", "Cumartesi"],
+        "hours": ["12:00-23:00"]
+      },
+      "tags": ["balık", "lüks", "gurme"],
+      "popularity_score": 88,
+      "virality_trend": "stabil",
+      "average_rating": 4.7,
+      "review_count": 8700,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/trilye",
+        "https://instagram.com/trilye.jpg"
+      ]
+    },
+    {
+      "id": "ankara_023",
+      "name": "Seğmenler Sokak Kahvecileri",
+      "category": ["Kafe", "Yeme-İçme"],
+      "coordinates": { "lat": 39.9005, "lng": 32.8590 },
+      "city": "Ankara",
+      "district": "Çankaya",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 60, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Sonbahar", "Kış"],
+        "days": ["Hafta içi"],
+        "hours": ["10:00-22:00"]
+      },
+      "tags": ["kahve", "gençlik", "sosyalleşme"],
+      "popularity_score": 80,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.5,
+      "review_count": 4200,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/kahve",
+        "https://instagram.com/ankarakahve.jpg"
+      ]
+    },
+    {
+      "id": "ankara_024",
+      "name": "Botanik Parkı",
+      "category": ["Park", "Doğa"],
+      "coordinates": { "lat": 39.9289, "lng": 32.8620 },
+      "city": "Ankara",
+      "district": "Çankaya",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Her gün"],
+        "hours": ["07:00-22:00"]
+      },
+      "tags": ["botanik", "yeşillik", "aile"],
+      "popularity_score": 78,
+      "virality_trend": "stabil",
+      "average_rating": 4.3,
+      "review_count": 6100,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/botanik",
+        "https://instagram.com/botanik.jpg"
+      ]
+    },
+    {
+      "id": "ankara_025",
+      "name": "Altınpark",
+      "category": ["Park", "Eğlence"],
+      "coordinates": { "lat": 39.9720, "lng": 32.8830 },
+      "city": "Ankara",
+      "district": "Altındağ",
+      "average_stay_minutes": 180,
+      "average_spend": { "amount": 40, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-23:00"]
+      },
+      "tags": ["lunapark", "çocuk", "göl"],
+      "popularity_score": 82,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.2,
+      "review_count": 7200,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/altinpark",
+        "https://instagram.com/altinpark.jpg"
+      ]
+    },
+    {
+      "id": "ankara_026",
+      "name": "Panora AVM",
+      "category": ["Alışveriş", "Yeme-İçme"],
+      "coordinates": { "lat": 39.8510, "lng": 32.8162 },
+      "city": "Ankara",
+      "district": "Oran",
+      "average_stay_minutes": 150,
+      "average_spend": { "amount": 220, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm yıl"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["10:00-22:00"]
+      },
+      "tags": ["alışveriş", "lüks", "sinema"],
+      "popularity_score": 85,
+      "virality_trend": "stabil",
+      "average_rating": 4.4,
+      "review_count": 11000,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/panora",
+        "https://instagram.com/panora.jpg"
+      ]
+    },
+    {
+      "id": "ankara_027",
+      "name": "Kentpark AVM",
+      "category": ["Alışveriş", "Moda"],
+      "coordinates": { "lat": 39.9115, "lng": 32.7950 },
+      "city": "Ankara",
+      "district": "Söğütözü",
+      "average_stay_minutes": 160,
+      "average_spend": { "amount": 250, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm yıl"],
+        "days": ["Hafta sonu"],
+        "hours": ["10:00-22:00"]
+      },
+      "tags": ["alışveriş", "moda", "restoran"],
+      "popularity_score": 87,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.5,
+      "review_count": 17500,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/kentpark",
+        "https://instagram.com/kentpark.jpg"
+      ]
+    },
+    {
+      "id": "ankara_028",
+      "name": "Ankara Üniversitesi Botanik Bahçesi",
+      "category": ["Doğa", "Bilim"],
+      "coordinates": { "lat": 39.9370, "lng": 32.8672 },
+      "city": "Ankara",
+      "district": "Tandoğan",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Salı", "Çarşamba"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["botanik", "araştırma", "doğa"],
+      "popularity_score": 74,
+      "virality_trend": "stabil",
+      "average_rating": 4.2,
+      "review_count": 2100,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/unibotanik",
+        "https://instagram.com/unibotanik.jpg"
+      ]
+    },
+    {
+      "id": "ankara_029",
+      "name": "ODTÜ Ormanı",
+      "category": ["Doğa", "Yürüyüş"],
+      "coordinates": { "lat": 39.8905, "lng": 32.7800 },
+      "city": "Ankara",
+      "district": "Çankaya",
+      "average_stay_minutes": 180,
+      "average_spend": { "amount": 10, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["07:00-20:00"]
+      },
+      "tags": ["doğa", "spor", "orman"],
+      "popularity_score": 83,
+      "virality_trend": "stabil",
+      "average_rating": 4.6,
+      "review_count": 6800,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/odtu",
+        "https://instagram.com/odtu.jpg"
+      ]
+    },
+    {
+      "id": "ankara_030",
+      "name": "Dikmen Vadisi",
+      "category": ["Doğa", "Park"],
+      "coordinates": { "lat": 39.8791, "lng": 32.8523 },
+      "city": "Ankara",
+      "district": "Çankaya",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 20, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Hafta sonu"],
+        "hours": ["08:00-22:00"]
+      },
+      "tags": ["doğa", "vadiler", "park"],
+      "popularity_score": 81,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.4,
+      "review_count": 8900,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/dikmen",
+        "https://instagram.com/dikmen.jpg"
+      ]
+    }
+  ]
+  

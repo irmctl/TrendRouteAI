@@ -1,0 +1,203 @@
+[
+    {
+      "id": "place_021",
+      "name": "Gaziantep Zooloji ve Doğa Müzesi",
+      "category": ["Müze", "Doğa"],
+      "coordinates": { "lat": 37.0733, "lng": 37.3850 },
+      "city": "Gaziantep",
+      "district": "Şehitkamil",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 45, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Salı", "Çarşamba"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["doğa", "müze", "aile"],
+      "popularity_score": 74,
+      "virality_trend": "stabil",
+      "average_rating": 4.3,
+      "review_count": 1900,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/zoodoga1",
+        "https://instagram.com/zoodoga.jpg"
+      ]
+    },
+    {
+      "id": "place_022",
+      "name": "Gaziantep Panorama 25 Aralık Müzesi",
+      "category": ["Müze", "Tarihi"],
+      "coordinates": { "lat": 37.0655, "lng": 37.3785 },
+      "city": "Gaziantep",
+      "district": "Şahinbey",
+      "average_stay_minutes": 80,
+      "average_spend": { "amount": 40, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Sonbahar", "Kış"],
+        "days": ["Her gün"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["panorama", "tarih", "kurtuluş savaşı"],
+      "popularity_score": 86,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.7,
+      "review_count": 5400,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/panorama25aralik1",
+        "https://instagram.com/panorama25.jpg"
+      ]
+    },
+    {
+      "id": "place_023",
+      "name": "Gaziantep Bakırcılar Çarşısı Kahvaltı Evleri",
+      "category": ["Restoran", "Tarihi"],
+      "coordinates": { "lat": 37.0665, "lng": 37.3799 },
+      "city": "Gaziantep",
+      "district": "Şahinbey",
+      "average_stay_minutes": 100,
+      "average_spend": { "amount": 180, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["08:00-13:00"]
+      },
+      "tags": ["kahvaltı", "tarihi mekan", "yemek"],
+      "popularity_score": 88,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.6,
+      "review_count": 3600,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/bakircilarkahvalti1",
+        "https://instagram.com/bakircilarkahvalti.jpg"
+      ]
+    },
+    {
+      "id": "place_024",
+      "name": "Sanko Park AVM",
+      "category": ["Alışveriş", "Eğlence"],
+      "coordinates": { "lat": 37.0705, "lng": 37.3781 },
+      "city": "Gaziantep",
+      "district": "Şehitkamil",
+      "average_stay_minutes": 180,
+      "average_spend": { "amount": 250, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["10:00-22:00"]
+      },
+      "tags": ["alışveriş", "sinema", "eğlence"],
+      "popularity_score": 89,
+      "virality_trend": "stabil",
+      "average_rating": 4.5,
+      "review_count": 8700,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/sanko1",
+        "https://instagram.com/sankopark.jpg"
+      ]
+    },
+    {
+      "id": "place_025",
+      "name": "Gaziantep Mevlevihanesi Vakıf Müzesi",
+      "category": ["Müze", "Tarihi"],
+      "coordinates": { "lat": 37.0662, "lng": 37.3787 },
+      "city": "Gaziantep",
+      "district": "Şahinbey",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 50, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Her gün"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["mevlevihane", "tarih", "kültür"],
+      "popularity_score": 84,
+      "virality_trend": "stabil",
+      "average_rating": 4.5,
+      "review_count": 3200,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/mevlevihane1",
+        "https://instagram.com/mevlevihane.jpg"
+      ]
+    },
+    {
+      "id": "place_026",
+      "name": "Gaziantep Milli Mücadele Müzesi",
+      "category": ["Müze", "Tarihi"],
+      "coordinates": { "lat": 37.0660, "lng": 37.3779 },
+      "city": "Gaziantep",
+      "district": "Şahinbey",
+      "average_stay_minutes": 100,
+      "average_spend": { "amount": 45, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Sonbahar", "Kış"],
+        "days": ["Her gün"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["tarih", "milli mücadele", "müze"],
+      "popularity_score": 87,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.6,
+      "review_count": 4000,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/millimucadele1",
+        "https://instagram.com/millimucadele.jpg"
+      ]
+    },
+    {
+      "id": "place_027",
+      "name": "Gaziantep Oyuncak Atölyesi",
+      "category": ["Atölye", "Çocuk"],
+      "coordinates": { "lat": 37.0670, "lng": 37.3805 },
+      "city": "Gaziantep",
+      "district": "Şahinbey",
+      "average_stay_minutes": 70,
+      "average_spend": { "amount": 60, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["10:00-18:00"]
+      },
+      "tags": ["atölye", "çocuk", "oyuncak"],
+      "popularity_score": 73,
+      "virality_trend": "stabil",
+      "average_rating": 4.2,
+      "review_count": 1600,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/oyuncakatolye1",
+        "https://instagram.com/oyuncakatolye.jpg"
+      ]
+    },
+    {
+      "id": "place_028",
+      "name": "Gaziantep Gastronomi Müzesi",
+      "category": ["Müze", "Yemek"],
+      "coordinates": { "lat": 37.0658, "lng": 37.3795 },
+      "city": "Gaziantep",
+      "district": "Şahinbey",
+      "average_stay_minutes": 80,
+      "average_spend": { "amount": 60, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Her gün"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["yemek", "gastronomi", "müze"],
+      "popularity_score": 90,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.7,
+      "review_count": 5000,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/gastronomi1",
+        "https://instagram.com/gastronomi.jpg"
+      ]
+    }
+  ]
+  

@@ -1,0 +1,449 @@
+[
+  {
+    "id": "place_DIA_001",
+    "name": "Diyarbakır Surları",
+    "category": [
+      "Tarihi",
+      "Anıt"
+    ],
+    "coordinates": {
+      "lat": 37.9144,
+      "lng": 40.2306
+    },
+    "city": "Diyarbakır",
+    "district": "Sur",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Sonbahar"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "unesco",
+      "tarih",
+      "kale"
+    ],
+    "popularity_score": 95,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.8,
+    "review_count": 9200,
+    "sources": [
+      "Tripadvisor",
+      "Ekşi Sözlük"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_DIA_002",
+    "name": "Ulu Camii",
+    "category": [
+      "Cami",
+      "Tarihi"
+    ],
+    "coordinates": {
+      "lat": 37.9127,
+      "lng": 40.2383
+    },
+    "city": "Diyarbakır",
+    "district": "Sur",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Tüm yıl"
+      ],
+      "days": [
+        "Hafta içi"
+      ],
+      "hours": [
+        "09:00-19:00"
+      ]
+    },
+    "tags": [
+      "dini",
+      "selçuklu",
+      "mimari"
+    ],
+    "popularity_score": 92,
+    "virality_trend": "stabil",
+    "average_rating": 4.7,
+    "review_count": 6100,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_DIA_003",
+    "name": "Hasan Paşa Hanı",
+    "category": [
+      "Tarihi",
+      "Çarşı"
+    ],
+    "coordinates": {
+      "lat": 37.9134,
+      "lng": 40.2377
+    },
+    "city": "Diyarbakır",
+    "district": "Sur",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 150,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-21:00"
+      ]
+    },
+    "tags": [
+      "kahvaltı",
+      "alışveriş",
+      "tarih"
+    ],
+    "popularity_score": 90,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.6,
+    "review_count": 5400,
+    "sources": [
+      "Tripadvisor",
+      "Foursquare"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_DIA_004",
+    "name": "On Gözlü Köprü (Dicle Köprüsü)",
+    "category": [
+      "Anıt",
+      "Manzara"
+    ],
+    "coordinates": {
+      "lat": 37.8895,
+      "lng": 40.2415
+    },
+    "city": "Diyarbakır",
+    "district": "Sur",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-20:00"
+      ]
+    },
+    "tags": [
+      "roma",
+      "fotoğraf",
+      "nehir"
+    ],
+    "popularity_score": 88,
+    "virality_trend": "stabil",
+    "average_rating": 4.5,
+    "review_count": 4300,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_DIA_005",
+    "name": "Hevsel Bahçeleri",
+    "category": [
+      "Doğal",
+      "UNESCO"
+    ],
+    "coordinates": {
+      "lat": 37.9022,
+      "lng": 40.2361
+    },
+    "city": "Diyarbakır",
+    "district": "Sur",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Sonbahar"
+      ],
+      "days": [
+        "Hafta içi"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "unesco",
+      "doğa",
+      "fotoğraf"
+    ],
+    "popularity_score": 87,
+    "virality_trend": "stabil",
+    "average_rating": 4.6,
+    "review_count": 3200,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_DIA_006",
+    "name": "Cahit Sıtkı Tarancı Müzesi",
+    "category": [
+      "Müze",
+      "Kültür"
+    ],
+    "coordinates": {
+      "lat": 37.9131,
+      "lng": 40.2388
+    },
+    "city": "Diyarbakır",
+    "district": "Sur",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 50,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Tüm yıl"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "10:00-17:00"
+      ]
+    },
+    "tags": [
+      "edebiyat",
+      "müze",
+      "kültür"
+    ],
+    "popularity_score": 82,
+    "virality_trend": "stabil",
+    "average_rating": 4.5,
+    "review_count": 1500,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_DIA_007",
+    "name": "Ziya Gökalp Müzesi",
+    "category": [
+      "Müze",
+      "Kültür"
+    ],
+    "coordinates": {
+      "lat": 37.9137,
+      "lng": 40.2393
+    },
+    "city": "Diyarbakır",
+    "district": "Sur",
+    "average_stay_minutes": 45,
+    "average_spend": {
+      "amount": 50,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Tüm yıl"
+      ],
+      "days": [
+        "Hafta içi"
+      ],
+      "hours": [
+        "10:00-17:00"
+      ]
+    },
+    "tags": [
+      "müze",
+      "edebiyat",
+      "kültür"
+    ],
+    "popularity_score": 80,
+    "virality_trend": "stabil",
+    "average_rating": 4.4,
+    "review_count": 1200,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_DIA_008",
+    "name": "Sülüklü Han",
+    "category": [
+      "Tarihi",
+      "Çarşı"
+    ],
+    "coordinates": {
+      "lat": 37.9139,
+      "lng": 40.2382
+    },
+    "city": "Diyarbakır",
+    "district": "Sur",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 100,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-22:00"
+      ]
+    },
+    "tags": [
+      "kahve",
+      "tarih",
+      "çarşı"
+    ],
+    "popularity_score": 85,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.6,
+    "review_count": 3100,
+    "sources": [
+      "Foursquare",
+      "Ekşi Sözlük"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_DIA_009",
+    "name": "Dört Ayaklı Minare",
+    "category": [
+      "Tarihi",
+      "Anıt"
+    ],
+    "coordinates": {
+      "lat": 37.9115,
+      "lng": 40.2392
+    },
+    "city": "Diyarbakır",
+    "district": "Sur",
+    "average_stay_minutes": 30,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Tüm yıl"
+      ],
+      "days": [
+        "Hafta içi"
+      ],
+      "hours": [
+        "09:00-19:00"
+      ]
+    },
+    "tags": [
+      "tarih",
+      "mimari"
+    ],
+    "popularity_score": 81,
+    "virality_trend": "stabil",
+    "average_rating": 4.3,
+    "review_count": 1400,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_DIA_010",
+    "name": "Malabadi Köprüsü",
+    "category": [
+      "Tarihi",
+      "Anıt"
+    ],
+    "coordinates": {
+      "lat": 38.1053,
+      "lng": 41.0306
+    },
+    "city": "Diyarbakır",
+    "district": "Silvan",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 20,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "köprü",
+      "selçuklu",
+      "tarih"
+    ],
+    "popularity_score": 89,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.7,
+    "review_count": 2600,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  }
+]

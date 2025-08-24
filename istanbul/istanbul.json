@@ -1,0 +1,894 @@
+[
+  {
+    "id": "place_IST_001",
+    "name": "Ayasofya-i Kebir Cami-i Şerifi",
+    "category": [
+      "Cami",
+      "Tarihi"
+    ],
+    "coordinates": {
+      "lat": 41.0086,
+      "lng": 28.9802
+    },
+    "city": "İstanbul",
+    "district": "Fatih",
+    "average_stay_minutes": 75,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Sonbahar"
+      ],
+      "days": [
+        "Salı",
+        "Perşembe"
+      ],
+      "hours": [
+        "09:00-17:00"
+      ]
+    },
+    "tags": [
+      "tarih",
+      "dini",
+      "ikonik"
+    ],
+    "popularity_score": 97,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.7,
+    "review_count": 12000,
+    "sources": [
+      "Tripadvisor",
+      "Ekşi Sözlük"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_IST_002",
+    "name": "Topkapı Sarayı Müzesi",
+    "category": [
+      "Müze",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 41.012,
+      "lng": 28.984
+    },
+    "city": "İstanbul",
+    "district": "Fatih",
+    "average_stay_minutes": 150,
+    "average_spend": {
+      "amount": 750,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Salı",
+        "Çarşamba"
+      ],
+      "hours": [
+        "10:00-17:00"
+      ]
+    },
+    "tags": [
+      "osmanlı",
+      "müze",
+      "tarih"
+    ],
+    "popularity_score": 95,
+    "virality_trend": "stabil",
+    "average_rating": 4.8,
+    "review_count": 8900,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_IST_003",
+    "name": "Sultanahmet Meydanı",
+    "category": [
+      "Meydan",
+      "Tarihi"
+    ],
+    "coordinates": {
+      "lat": 41.0063,
+      "lng": 28.9768
+    },
+    "city": "İstanbul",
+    "district": "Fatih",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-20:00"
+      ]
+    },
+    "tags": [
+      "açık alan",
+      "tarih",
+      "fotoğraf"
+    ],
+    "popularity_score": 92,
+    "virality_trend": "stabil",
+    "average_rating": 4.6,
+    "review_count": 5400,
+    "sources": [
+      "Tripadvisor",
+      "Foursquare"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_IST_004",
+    "name": "Kapalıçarşı",
+    "category": [
+      "Çarşı",
+      "Kültür"
+    ],
+    "coordinates": {
+      "lat": 41.0106,
+      "lng": 28.968
+    },
+    "city": "İstanbul",
+    "district": "Fatih",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 300,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Tüm yıl"
+      ],
+      "days": [
+        "Pazartesi",
+        "Perşembe"
+      ],
+      "hours": [
+        "10:00-18:00"
+      ]
+    },
+    "tags": [
+      "alışveriş",
+      "tarih",
+      "kapalı alan"
+    ],
+    "popularity_score": 91,
+    "virality_trend": "stabil",
+    "average_rating": 4.4,
+    "review_count": 10200,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_IST_005",
+    "name": "Galata Kulesi",
+    "category": [
+      "Tarihi",
+      "Manzara"
+    ],
+    "coordinates": {
+      "lat": 41.0257,
+      "lng": 28.9744
+    },
+    "city": "İstanbul",
+    "district": "Beyoğlu",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 650,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Hafta içi"
+      ],
+      "hours": [
+        "10:00-19:00"
+      ]
+    },
+    "tags": [
+      "seyir",
+      "tarih",
+      "fotoğraf"
+    ],
+    "popularity_score": 93,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.7,
+    "review_count": 8800,
+    "sources": [
+      "Tripadvisor",
+      "Ekşi Sözlük"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_IST_006",
+    "name": "İstiklal Caddesi",
+    "category": [
+      "Sosyal",
+      "Alışveriş"
+    ],
+    "coordinates": {
+      "lat": 41.035,
+      "lng": 28.976
+    },
+    "city": "İstanbul",
+    "district": "Beyoğlu",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 200,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Tüm yıl"
+      ],
+      "days": [
+        "Cuma",
+        "Cumartesi"
+      ],
+      "hours": [
+        "12:00-23:00"
+      ]
+    },
+    "tags": [
+      "yürüyüş",
+      "kafe",
+      "gece hayatı"
+    ],
+    "popularity_score": 90,
+    "virality_trend": "stabil",
+    "average_rating": 4.2,
+    "review_count": 15000,
+    "sources": [
+      "Tripadvisor",
+      "Foursquare"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_IST_007",
+    "name": "Dolmabahçe Sarayı",
+    "category": [
+      "Müze",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 41.039,
+      "lng": 29.001
+    },
+    "city": "İstanbul",
+    "district": "Beşiktaş",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 800,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Sonbahar"
+      ],
+      "days": [
+        "Salı",
+        "Çarşamba"
+      ],
+      "hours": [
+        "10:00-17:00"
+      ]
+    },
+    "tags": [
+      "saray",
+      "boğaz",
+      "tarih"
+    ],
+    "popularity_score": 92,
+    "virality_trend": "stabil",
+    "average_rating": 4.8,
+    "review_count": 7600,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_IST_008",
+    "name": "İstanbul Arkeoloji Müzeleri",
+    "category": [
+      "Müze",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 41.0112,
+      "lng": 28.9812
+    },
+    "city": "İstanbul",
+    "district": "Fatih",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 500,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Kış"
+      ],
+      "days": [
+        "Perşembe",
+        "Pazar"
+      ],
+      "hours": [
+        "10:00-17:00"
+      ]
+    },
+    "tags": [
+      "arkeoloji",
+      "koleksiyon"
+    ],
+    "popularity_score": 88,
+    "virality_trend": "stabil",
+    "average_rating": 4.6,
+    "review_count": 4200,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_IST_009",
+    "name": "Rahmi M. Koç Müzesi",
+    "category": [
+      "Müze",
+      "Bilim"
+    ],
+    "coordinates": {
+      "lat": 41.0431,
+      "lng": 28.949
+    },
+    "city": "İstanbul",
+    "district": "Beyoğlu",
+    "average_stay_minutes": 150,
+    "average_spend": {
+      "amount": 400,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Sonbahar"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "10:00-18:00"
+      ]
+    },
+    "tags": [
+      "endüstri",
+      "aile dostu"
+    ],
+    "popularity_score": 87,
+    "virality_trend": "stabil",
+    "average_rating": 4.7,
+    "review_count": 3900,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_IST_010",
+    "name": "İstanbul Modern",
+    "category": [
+      "Müze",
+      "Sanat"
+    ],
+    "coordinates": {
+      "lat": 41.023,
+      "lng": 28.977
+    },
+    "city": "İstanbul",
+    "district": "Beyoğlu",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 600,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Tüm yıl"
+      ],
+      "days": [
+        "Cuma",
+        "Cumartesi"
+      ],
+      "hours": [
+        "10:00-18:00"
+      ]
+    },
+    "tags": [
+      "modern sanat",
+      "sergi"
+    ],
+    "popularity_score": 85,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.5,
+    "review_count": 2100,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_IST_011",
+    "name": "Pera Müzesi",
+    "category": [
+      "Müze",
+      "Sanat"
+    ],
+    "coordinates": {
+      "lat": 41.0322,
+      "lng": 28.977
+    },
+    "city": "İstanbul",
+    "district": "Beyoğlu",
+    "average_stay_minutes": 75,
+    "average_spend": {
+      "amount": 300,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Tüm yıl"
+      ],
+      "days": [
+        "Perşembe",
+        "Cumartesi"
+      ],
+      "hours": [
+        "11:00-18:00"
+      ]
+    },
+    "tags": [
+      "sergi",
+      "kültür"
+    ],
+    "popularity_score": 82,
+    "virality_trend": "stabil",
+    "average_rating": 4.5,
+    "review_count": 1600,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_IST_012",
+    "name": "Pierre Loti Tepesi",
+    "category": [
+      "Manzara",
+      "Kafe"
+    ],
+    "coordinates": {
+      "lat": 41.062,
+      "lng": 28.936
+    },
+    "city": "İstanbul",
+    "district": "Eyüpsultan",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 150,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Hafta sonu"
+      ],
+      "hours": [
+        "10:00-20:00"
+      ]
+    },
+    "tags": [
+      "boğaz",
+      "seyir",
+      "fotoğraf"
+    ],
+    "popularity_score": 86,
+    "virality_trend": "stabil",
+    "average_rating": 4.4,
+    "review_count": 5000,
+    "sources": [
+      "Tripadvisor",
+      "Foursquare"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_IST_013",
+    "name": "Emirgan Korusu",
+    "category": [
+      "Park",
+      "Doğal"
+    ],
+    "coordinates": {
+      "lat": 41.1118,
+      "lng": 29.0533
+    },
+    "city": "İstanbul",
+    "district": "Sarıyer",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 50,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-19:00"
+      ]
+    },
+    "tags": [
+      "lale",
+      "yürüyüş",
+      "piknik"
+    ],
+    "popularity_score": 84,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.6,
+    "review_count": 4300,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_IST_014",
+    "name": "Gülhane Parkı",
+    "category": [
+      "Park",
+      "Tarih"
+    ],
+    "coordinates": {
+      "lat": 41.0128,
+      "lng": 28.9792
+    },
+    "city": "İstanbul",
+    "district": "Fatih",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-19:00"
+      ]
+    },
+    "tags": [
+      "yeşil alan",
+      "aile dostu"
+    ],
+    "popularity_score": 83,
+    "virality_trend": "stabil",
+    "average_rating": 4.5,
+    "review_count": 3700,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_IST_015",
+    "name": "Büyük Çamlıca Tepesi",
+    "category": [
+      "Manzara",
+      "Doğal"
+    ],
+    "coordinates": {
+      "lat": 41.024,
+      "lng": 29.068
+    },
+    "city": "İstanbul",
+    "district": "Üsküdar",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 100,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Hafta içi"
+      ],
+      "hours": [
+        "10:00-20:00"
+      ]
+    },
+    "tags": [
+      "panoramik",
+      "boğaz",
+      "seyir"
+    ],
+    "popularity_score": 85,
+    "virality_trend": "stabil",
+    "average_rating": 4.4,
+    "review_count": 5200,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_IST_016",
+    "name": "Büyükada (Merkez)",
+    "category": [
+      "Ada",
+      "Doğal"
+    ],
+    "coordinates": {
+      "lat": 40.874,
+      "lng": 29.132
+    },
+    "city": "İstanbul",
+    "district": "Adalar",
+    "average_stay_minutes": 240,
+    "average_spend": {
+      "amount": 400,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Yaz",
+        "İlkbahar"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "10:00-18:00"
+      ]
+    },
+    "tags": [
+      "bisiklet",
+      "sahil",
+      "gezi"
+    ],
+    "popularity_score": 89,
+    "virality_trend": "stabil",
+    "average_rating": 4.3,
+    "review_count": 6100,
+    "sources": [
+      "Tripadvisor",
+      "Foursquare"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_IST_017",
+    "name": "Kadıköy Çarşısı",
+    "category": [
+      "Çarşı",
+      "Yeme-İçme"
+    ],
+    "coordinates": {
+      "lat": 40.99,
+      "lng": 29.028
+    },
+    "city": "İstanbul",
+    "district": "Kadıköy",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 250,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Tüm yıl"
+      ],
+      "days": [
+        "Cuma",
+        "Cumartesi"
+      ],
+      "hours": [
+        "11:00-22:00"
+      ]
+    },
+    "tags": [
+      "meze",
+      "balık",
+      "kafe"
+    ],
+    "popularity_score": 86,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.5,
+    "review_count": 7200,
+    "sources": [
+      "Foursquare",
+      "Ekşi Sözlük"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_IST_018",
+    "name": "Bağdat Caddesi",
+    "category": [
+      "Alışveriş",
+      "Sosyal"
+    ],
+    "coordinates": {
+      "lat": 40.968,
+      "lng": 29.073
+    },
+    "city": "İstanbul",
+    "district": "Kadıköy",
+    "average_stay_minutes": 150,
+    "average_spend": {
+      "amount": 300,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Tüm yıl"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "12:00-21:00"
+      ]
+    },
+    "tags": [
+      "yürüyüş",
+      "alışveriş"
+    ],
+    "popularity_score": 84,
+    "virality_trend": "stabil",
+    "average_rating": 4.4,
+    "review_count": 4100,
+    "sources": [
+      "Foursquare"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_IST_019",
+    "name": "Zorlu Center",
+    "category": [
+      "AVM",
+      "Alışveriş"
+    ],
+    "coordinates": {
+      "lat": 41.068,
+      "lng": 29.017
+    },
+    "city": "İstanbul",
+    "district": "Beşiktaş",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 500,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Tüm yıl"
+      ],
+      "days": [
+        "Hafta içi"
+      ],
+      "hours": [
+        "10:00-22:00"
+      ]
+    },
+    "tags": [
+      "alışveriş",
+      "yeme-içme",
+      "konser"
+    ],
+    "popularity_score": 82,
+    "virality_trend": "stabil",
+    "average_rating": 4.3,
+    "review_count": 3500,
+    "sources": [
+      "Foursquare"
+    ],
+    "photos": []
+  },
+  {
+    "id": "place_IST_020",
+    "name": "İstinyePark",
+    "category": [
+      "AVM",
+      "Alışveriş"
+    ],
+    "coordinates": {
+      "lat": 41.105,
+      "lng": 29.026
+    },
+    "city": "İstanbul",
+    "district": "Sarıyer",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 600,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "Tüm yıl"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "10:00-22:00"
+      ]
+    },
+    "tags": [
+      "alışveriş",
+      "sinema",
+      "yeme-içme"
+    ],
+    "popularity_score": 81,
+    "virality_trend": "stabil",
+    "average_rating": 4.4,
+    "review_count": 3300,
+    "sources": [
+      "Foursquare"
+    ],
+    "photos": []
+  }
+]

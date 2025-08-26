@@ -1,0 +1,627 @@
+[
+  {
+    "id": "place_001",
+    "name": "19 Mayıs Atatürk Anıtı",
+    "category": ["Anıt", "Tarihi"],
+    "coordinates": { "lat": 41.2833, "lng": 36.3333 },
+    "city": "Samsun",
+    "district": "İlkadım",
+    "average_stay_minutes": 60,
+    "average_spend": { "amount": 0, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Pazartesi", "Cumartesi", "Pazar"],
+      "hours": ["08:00-19:00"]
+    },
+    "tags": ["tarih", "Atatürk", "anıt"],
+    "popularity_score": 95,
+    "virality_trend": "yüksek",
+    "average_rating": 4.9,
+    "review_count": 16800,
+    "sources": ["Google Maps", "Cumhurbaşkanlığı"],
+    "photos": [
+      "https://maps.googleapis.com/photo/samsun_ataturk  ",
+      "https://tbmm.gov.tr/ataturk/samsun_19mayis.jpg  "
+    ]
+  },
+  {
+    "id": "place_002",
+    "name": "Samsun Saat Kulesi",
+    "category": ["Tarihi", "Kültürel"],
+    "coordinates": { "lat": 41.2780, "lng": 36.3320 },
+    "city": "Samsun",
+    "district": "İlkadım",
+    "average_stay_minutes": 30,
+    "average_spend": { "amount": 0, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["10:00-22:00"]
+    },
+    "tags": ["kule", "tarihi", "görsel"],
+    "popularity_score": 90,
+    "virality_trend": "kararlı",
+    "average_rating": 4.7,
+    "review_count": 11200,
+    "sources": ["Google Maps", "Belediye"],
+    "photos": [
+      "https://maps.googleapis.com/photo/samsun_saat  ",
+      "https://belediye.samsun.gov.tr/saat_kulesi.jpg  "
+    ]
+  },
+  {
+    "id": "place_003",
+    "name": "Terme Sahili",
+    "category": ["Plaj", "Doğa"],
+    "coordinates": { "lat": 41.5500, "lng": 36.6000 },
+    "city": "Samsun",
+    "district": "Terme",
+    "average_stay_minutes": 150,
+    "average_spend": { "amount": 80, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Yaz"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["10:00-19:00"]
+    },
+    "tags": ["plaj", "deniz", "aile"],
+    "popularity_score": 86,
+    "virality_trend": "yaz zirvesi",
+    "average_rating": 4.6,
+    "review_count": 7800,
+    "sources": ["Google Maps", "Turizm"],
+    "photos": [
+      "https://maps.googleapis.com/photo/terme_beach  ",
+      "https://turizm.gov.tr/terme_summer.jpg  "
+    ]
+  },
+  {
+    "id": "place_004",
+    "name": "Amisos Tepesi",
+    "category": ["Doğa", "Görünümlü"],
+    "coordinates": { "lat": 41.2700, "lng": 36.3000 },
+    "city": "Samsun",
+    "district": "Atakum",
+    "average_stay_minutes": 90,
+    "average_spend": { "amount": 0, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["06:00-08:00", "18:00-20:00"]
+    },
+    "tags": ["manzara", "tepeli", "fotoğraf"],
+    "popularity_score": 91,
+    "virality_trend": "yüksek",
+    "average_rating": 4.8,
+    "review_count": 13500,
+    "sources": ["Google Maps", "Doğa Derneği"],
+    "photos": [
+      "https://maps.googleapis.com/photo/amisos_tepesi  ",
+      "https://dogadernegi.org/amisos_gundogusu.jpg  "
+    ]
+  },
+  {
+    "id": "place_005",
+    "name": "Samsun Limanı",
+    "category": ["Liman", "Manzara"],
+    "coordinates": { "lat": 41.2800, "lng": 36.3300 },
+    "city": "Samsun",
+    "district": "İlkadım",
+    "average_stay_minutes": 60,
+    "average_spend": { "amount": 0, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Yaz", "Sonbahar"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["18:00-21:00"]
+    },
+    "tags": ["liman", "manzara", "gece"],
+    "popularity_score": 87,
+    "virality_trend": "mevsimsel",
+    "average_rating": 4.6,
+    "review_count": 8900,
+    "sources": ["Google Maps", "Liman Başkanlığı"],
+    "photos": [
+      "https://maps.googleapis.com/photo/samsun_port  ",
+      "https://liman.gov.tr/samsun_gece.jpg  "
+    ]
+  },
+  {
+    "id": "place_006",
+    "name": "Canik Tepesi",
+    "category": ["Doğa", "Yürüyüş"],
+    "coordinates": { "lat": 41.3000, "lng": 36.3500 },
+    "city": "Samsun",
+    "district": "Canik",
+    "average_stay_minutes": 120,
+    "average_spend": { "amount": 0, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["07:00-16:00"]
+    },
+    "tags": ["tepeli", "yürüyüş", "orman"],
+    "popularity_score": 84,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.7,
+    "review_count": 7200,
+    "sources": ["Google Maps", "ORMAN"],
+    "photos": [
+      "https://maps.googleapis.com/photo/canik_tepesi  ",
+      "https://orman.gov.tr/canik_orman.jpg  "
+    ]
+  },
+  {
+    "id": "place_007",
+    "name": "Samsun Ciğer Tava Evi",
+    "category": ["Restoran", "Yerel Lezzet"],
+    "coordinates": { "lat": 41.2833, "lng": 36.3333 },
+    "city": "Samsun",
+    "district": "İlkadım",
+    "average_stay_minutes": 60,
+    "average_spend": { "amount": 280, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "İlkbahar"],
+      "days": ["Cuma", "Cumartesi", "Pazar"],
+      "hours": ["12:00-22:00"]
+    },
+    "tags": ["ciğer", "tava", "meşhur"],
+    "popularity_score": 94,
+    "virality_trend": "yüksek",
+    "average_rating": 4.9,
+    "review_count": 15300,
+    "sources": ["Google Maps", "YemekSepeti"],
+    "photos": [
+      "https://maps.googleapis.com/photo/samsun_ciger  ",
+      "https://yemeksepeti.com.tr/restaurants/ciger_tava.jpg  "
+    ]
+  },
+  {
+    "id": "place_008",
+    "name": "Terme Mısır Pazarı",
+    "category": ["Pazar", "Yerel Ürün"],
+    "coordinates": { "lat": 41.5500, "lng": 36.6000 },
+    "city": "Samsun",
+    "district": "Terme",
+    "average_stay_minutes": 70,
+    "average_spend": { "amount": 130, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Yaz", "Sonbahar"],
+      "days": ["Pazar"],
+      "hours": ["07:00-13:00"]
+    },
+    "tags": ["mısır", "pazar", "organik"],
+    "popularity_score": 78,
+    "virality_trend": "mevsimsel zirve",
+    "average_rating": 4.4,
+    "review_count": 3900,
+    "sources": ["Google Maps", "Tarım Bakanlığı"],
+    "photos": [
+      "https://maps.googleapis.com/photo/terme_misir  ",
+      "https://tarim.gov.tr/terme_misir_pazar.jpg  "
+    ]
+  },
+  {
+    "id": "place_009",
+    "name": "Samsun Arkeoloji Müzesi",
+    "category": ["Müze", "Tarihi"],
+    "coordinates": { "lat": 41.2750, "lng": 36.3250 },
+    "city": "Samsun",
+    "district": "İlkadım",
+    "average_stay_minutes": 90,
+    "average_spend": { "amount": 60, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "İlkbahar"],
+      "days": ["Pazartesi", "Çarşamba", "Cuma"],
+      "hours": ["09:00-17:00"]
+    },
+    "tags": ["arkeoloji", "tarihi", "mozaik"],
+    "popularity_score": 83,
+    "virality_trend": "kararlı",
+    "average_rating": 4.5,
+    "review_count": 6100,
+    "sources": ["Google Maps", "Müze Müdürlüğü"],
+    "photos": [
+      "https://maps.googleapis.com/photo/samsun_museum  ",
+      "https://museum.gov.tr/samsun/entry.jpg  "
+    ]
+  },
+  {
+    "id": "place_010",
+    "name": "Ladik Gölü",
+    "category": ["Göl", "Doğa"],
+    "coordinates": { "lat": 41.5000, "lng": 35.8000 },
+    "city": "Samsun",
+    "district": "Ladik",
+    "average_stay_minutes": 140,
+    "average_spend": { "amount": 50, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["08:00-17:00"]
+    },
+    "tags": ["göl", "balık", "doğa"],
+    "popularity_score": 85,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.6,
+    "review_count": 7300,
+    "sources": ["Google Maps", "Su Ürünleri"],
+    "photos": [
+      "https://maps.googleapis.com/photo/ladik_golu  ",
+      "https://suurunleri.gov.tr/ladik_balik.jpg  "
+    ]
+  },
+  {
+    "id": "place_011",
+    "name": "Samsun Laker Dükkanı",
+    "category": ["Yerel Lezzet", "Dükkan"],
+    "coordinates": { "lat": 41.2833, "lng": 36.3333 },
+    "city": "Samsun",
+    "district": "İlkadım",
+    "average_stay_minutes": 35,
+    "average_spend": { "amount": 110, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "İlkbahar"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["10:00-19:00"]
+    },
+    "tags": ["laker", "yerel", "tatlı"],
+    "popularity_score": 88,
+    "virality_trend": "kararlı",
+    "average_rating": 4.7,
+    "review_count": 8500,
+    "sources": ["Google Maps", "Yerel"],
+    "photos": [
+      "https://maps.googleapis.com/photo/samsun_laker  ",
+      "https://yerelurunler.gov.tr/samsun_laker.jpg  "
+    ]
+  },
+  {
+    "id": "place_012",
+    "name": "Ondokuz Mayıs Üniversitesi Kampüsü",
+    "category": ["Eğitim", "Kampüs"],
+    "coordinates": { "lat": 41.3000, "lng": 36.3500 },
+    "city": "Samsun",
+    "district": "Kurupelit",
+    "average_stay_minutes": 100,
+    "average_spend": { "amount": 0, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Pazartesi", "Cuma"],
+      "hours": ["09:00-17:00"]
+    },
+    "tags": ["üniversite", "kampüs", "öğrenci"],
+    "popularity_score": 80,
+    "virality_trend": "kararlı",
+    "average_rating": 4.4,
+    "review_count": 5200,
+    "sources": ["Google Maps", "OMU"],
+    "photos": [
+      "https://maps.googleapis.com/photo/omu_kampus  ",
+      "https://omu.edu.tr/kampus_gorunumu.jpg  "
+    ]
+  },
+  {
+    "id": "place_013",
+    "name": "Samsun Şehir Ormanı",
+    "category": ["Orman", "Doğa"],
+    "coordinates": { "lat": 41.3200, "lng": 36.3800 },
+    "city": "Samsun",
+    "district": "Canik",
+    "average_stay_minutes": 120,
+    "average_spend": { "amount": 0, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["08:00-17:00"]
+    },
+    "tags": ["orman", "yürüyüş", "temiz hava"],
+    "popularity_score": 82,
+    "virality_trend": "kararlı",
+    "average_rating": 4.5,
+    "review_count": 6400,
+    "sources": ["Google Maps", "ORMAN"],
+    "photos": [
+      "https://maps.googleapis.com/photo/samsun_orman  ",
+      "https://orman.gov.tr/samsun_sehir_ormani.jpg  "
+    ]
+  },
+  {
+    "id": "place_014",
+    "name": "Samsun Hatıra Dükkanı",
+    "category": ["Dükkan", "Souvenir"],
+    "coordinates": { "lat": 41.2833, "lng": 36.3333 },
+    "city": "Samsun",
+    "district": "İlkadım",
+    "average_stay_minutes": 40,
+    "average_spend": { "amount": 170, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["10:00-19:00"]
+    },
+    "tags": ["souvenir", "hatıra", "Atatürk"],
+    "popularity_score": 81,
+    "virality_trend": "kararlı",
+    "average_rating": 4.3,
+    "review_count": 4700,
+    "sources": ["Google Maps", "Turist"],
+    "photos": [
+      "https://maps.googleapis.com/photo/samsun_souvenir  ",
+      "https://turistshop.com/samsun_gifts.jpg  "
+    ]
+  },
+  {
+    "id": "place_015",
+    "name": "Göksu Nehri Yürüyüş Yolu",
+    "category": ["Yürüyüş", "Doğa"],
+    "coordinates": { "lat": 41.4000, "lng": 36.2000 },
+    "city": "Samsun",
+    "district": "Tekkeköy",
+    "average_stay_minutes": 90,
+    "average_spend": { "amount": 0, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["08:00-16:00"]
+    },
+    "tags": ["nehir", "yürüyüş", "doğa"],
+    "popularity_score": 79,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.4,
+    "review_count": 5300,
+    "sources": ["Google Maps", "Belediye"],
+    "photos": [
+      "https://maps.googleapis.com/photo/goksu_yuruyus  ",
+      "https://belediye.tekkeköy.gov.tr/goksu_yolu.jpg  "
+    ]
+  },
+  {
+    "id": "place_016",
+    "name": "Samsun Balıkçı Barınağı",
+    "category": ["Restoran", "Deniz Ürünü"],
+    "coordinates": { "lat": 41.2800, "lng": 36.3300 },
+    "city": "Samsun",
+    "district": "İlkadım",
+    "average_stay_minutes": 90,
+    "average_spend": { "amount": 400, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Yaz", "İlkbahar"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["18:00-23:00"]
+    },
+    "tags": ["balık", "deniz ürünleri", "lokal"],
+    "popularity_score": 89,
+    "virality_trend": "yüksek",
+    "average_rating": 4.7,
+    "review_count": 9800,
+    "sources": ["Google Maps", "Yemek"],
+    "photos": [
+      "https://maps.googleapis.com/photo/samsun_balikci  ",
+      "https://yemek.com/samsun_balik.jpg  "
+    ]
+  },
+  {
+    "id": "place_017",
+    "name": "Havza Tarihi Evler",
+    "category": ["Köy", "Kültürel"],
+    "coordinates": { "lat": 41.1500, "lng": 35.9500 },
+    "city": "Samsun",
+    "district": "Havza",
+    "average_stay_minutes": 100,
+    "average_spend": { "amount": 40, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Pazar"],
+      "hours": ["09:00-17:00"]
+    },
+    "tags": ["tarihi ev", "köy", "fotoğraf"],
+    "popularity_score": 77,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.5,
+    "review_count": 4800,
+    "sources": ["Google Maps", "Kültür"],
+    "photos": [
+      "https://maps.googleapis.com/photo/havza_evler  ",
+      "https://kultur.gov.tr/havza_tarihi_evler.jpg  "
+    ]
+  },
+  {
+    "id": "place_018",
+    "name": "Samsun Tarihi Çarşı",
+    "category": ["Alışveriş", "Tarihi"],
+    "coordinates": { "lat": 41.2780, "lng": 36.3320 },
+    "city": "Samsun",
+    "district": "İlkadım",
+    "average_stay_minutes": 85,
+    "average_spend": { "amount": 240, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "Bahar"],
+      "days": ["Cuma", "Cumartesi"],
+      "hours": ["10:00-19:00"]
+    },
+    "tags": ["çarşı", "alışveriş", "tarihi"],
+    "popularity_score": 83,
+    "virality_trend": "kararlı",
+    "average_rating": 4.4,
+    "review_count": 6200,
+    "sources": ["Google Maps", "Belediye"],
+    "photos": [
+      "https://maps.googleapis.com/photo/samsun_carsi  ",
+      "https://belediye.samsun.gov.tr/tarihi_carsi.jpg  "
+    ]
+  },
+  {
+    "id": "place_019",
+    "name": "Samsun Fotoğrafçısı",
+    "category": ["Hizmet", "Fotoğraf"],
+    "coordinates": { "lat": 41.2833, "lng": 36.3333 },
+    "city": "Samsun",
+    "district": "İlkadım",
+    "average_stay_minutes": 30,
+    "average_spend": { "amount": 85, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["10:00-19:00"]
+    },
+    "tags": ["fotoğraf", "hatıra", "turist"],
+    "popularity_score": 69,
+    "virality_trend": "kararlı",
+    "average_rating": 4.3,
+    "review_count": 2100,
+    "sources": ["Google Maps", "Turist"],
+    "photos": [
+      "https://maps.googleapis.com/photo/samsun_fotograf  ",
+      "https://turistphotos.com/samsun_shoot.jpg  "
+    ]
+  },
+  {
+    "id": "place_020",
+    "name": "Vezirköprü Kayısı Bahçeleri",
+    "category": ["Tarım", "Doğa"],
+    "coordinates": { "lat": 40.9500, "lng": 36.2000 },
+    "city": "Samsun",
+    "district": "Vezirköprü",
+    "average_stay_minutes": 110,
+    "average_spend": { "amount": 50, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Pazar"],
+      "hours": ["09:00-16:00"]
+    },
+    "tags": ["kayısı", "bahçe", "tarım"],
+    "popularity_score": 74,
+    "virality_trend": "mevsimsel",
+    "average_rating": 4.3,
+    "review_count": 3600,
+    "sources": ["Google Maps", "Tarım"],
+    "photos": [
+      "https://maps.googleapis.com/photo/vezirkopru_kayisi  ",
+      "https://tarim.gov.tr/vezirkopru_kayisi.jpg  "
+    ]
+  },
+  {
+    "id": "place_021",
+    "name": "Samsun 19 Mayıs Spor Kompleksi",
+    "category": ["Spor", "Tesis"],
+    "coordinates": { "lat": 41.3000, "lng": 36.3500 },
+    "city": "Samsun",
+    "district": "Canik",
+    "average_stay_minutes": 120,
+    "average_spend": { "amount": 100, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["09:00-21:00"]
+    },
+    "tags": ["spor", "kompleks", "aile"],
+    "popularity_score": 80,
+    "virality_trend": "kararlı",
+    "average_rating": 4.4,
+    "review_count": 5100,
+    "sources": ["Google Maps", "Belediye"],
+    "photos": [
+      "https://maps.googleapis.com/photo/samsun_spor  ",
+      "https://belediye.samsun.gov.tr/spor_kompleksi.jpg  "
+    ]
+  },
+  {
+    "id": "place_022",
+    "name": "Samsun Kebapçısı",
+    "category": ["Restoran", "Yerel Lezzet"],
+    "coordinates": { "lat": 41.2833, "lng": 36.3333 },
+    "city": "Samsun",
+    "district": "İlkadım",
+    "average_stay_minutes": 60,
+    "average_spend": { "amount": 260, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "İlkbahar"],
+      "days": ["Cuma", "Cumartesi", "Pazar"],
+      "hours": ["12:00-22:00"]
+    },
+    "tags": ["kebap", "meşhur", "lokal"],
+    "popularity_score": 92,
+    "virality_trend": "yüksek",
+    "average_rating": 4.8,
+    "review_count": 14100,
+    "sources": ["Google Maps", "Instagram"],
+    "photos": [
+      "https://maps.googleapis.com/photo/samsun_kebap  ",
+      "https://instagram.com/samsun_food/kebap.jpg  "
+    ]
+  },
+  {
+    "id": "place_023",
+    "name": "Samsun Park AVM",
+    "category": ["Alışveriş", "Modern"],
+    "coordinates": { "lat": 41.3100, "lng": 36.3700 },
+    "city": "Samsun",
+    "district": "Atakum",
+    "average_stay_minutes": 150,
+    "average_spend": { "amount": 400, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "Yaz"],
+      "days": ["Cuma", "Cumartesi", "Pazar"],
+      "hours": ["10:00-22:00"]
+    },
+    "tags": ["alışveriş", "AVM", "aile"],
+    "popularity_score": 85,
+    "virality_trend": "kararlı",
+    "average_rating": 4.5,
+    "review_count": 8700,
+    "sources": ["Google Maps", "AVM"],
+    "photos": [
+      "https://maps.googleapis.com/photo/samsun_park  ",
+      "https://avm.samsunpark.com.tr/interior.jpg  "
+    ]
+  },
+  {
+    "id": "place_024",
+    "name": "Samsun Deniz Ürünleri Pazarı",
+    "category": ["Pazar", "Deniz Ürünü"],
+    "coordinates": { "lat": 41.2800, "lng": 36.3300 },
+    "city": "Samsun",
+    "district": "İlkadım",
+    "average_stay_minutes": 80,
+    "average_spend": { "amount": 180, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "İlkbahar"],
+      "days": ["Pazar", "Cuma"],
+      "hours": ["06:00-13:00"]
+    },
+    "tags": ["balık", "pazar", "yerel"],
+    "popularity_score": 81,
+    "virality_trend": "kararlı",
+    "average_rating": 4.6,
+    "review_count": 6800,
+    "sources": ["Google Maps", "Belediye"],
+    "photos": [
+      "https://maps.googleapis.com/photo/samsun_denizurun  ",
+      "https://belediye.samsun.gov.tr/deniz_urunleri_pazar.jpg  "
+    ]
+  },
+  {
+    "id": "place_025",
+    "name": "Samsun Atatürk Evi Müzesi",
+    "category": ["Müze", "Tarihi"],
+    "coordinates": { "lat": 41.2833, "lng": 36.3333 },
+    "city": "Samsun",
+    "district": "İlkadım",
+    "average_stay_minutes": 70,
+    "average_spend": { "amount": 50, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Salı", "Perşembe", "Pazar"],
+      "hours": ["09:00-17:00"]
+    },
+    "tags": ["Atatürk", "müze", "tarihi"],
+    "popularity_score": 93,
+    "virality_trend": "yüksek",
+    "average_rating": 4.8,
+    "review_count": 12400,
+    "sources": ["Google Maps", "Kültür Bakanlığı"],
+    "photos": [
+      "https://maps.googleapis.com/photo/samsun_ataturk_ev  ",
+      "https://kultur.gov.tr/samsun_ataturk_evi.jpg  "
+    ]
+  }
+]

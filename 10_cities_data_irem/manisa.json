@@ -1,0 +1,1211 @@
+[
+  {
+    "id": "man_001",
+    "name": "Spil Dağı Milli Parkı",
+    "category": [
+      "Doğa",
+      "Milli Park"
+    ],
+    "coordinates": {
+      "lat": 38.6144,
+      "lng": 27.4067
+    },
+    "city": "Manisa",
+    "district": "Şehzadeler",
+    "average_stay_minutes": 180,
+    "average_spend": {
+      "amount": 50,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz",
+        "Sonbahar"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "08:00-20:00"
+      ]
+    },
+    "tags": [
+      "doğa",
+      "piknik",
+      "yürüyüş"
+    ],
+    "popularity_score": 90,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.7,
+    "review_count": 9500,
+    "sources": [
+      "Google Maps",
+      "Kültür Portalı"
+    ],
+    "photos": [
+      "https://maps.googleapis.com/photo/spil_dagi_1",
+      "https://instagram.com/spil_dagi.jpg"
+    ]
+  },
+  {
+    "id": "man_002",
+    "name": "Muradiye Camii",
+    "category": [
+      "Tarihi",
+      "Dini"
+    ],
+    "coordinates": {
+      "lat": 38.6133,
+      "lng": 27.4214
+    },
+    "city": "Manisa",
+    "district": "Şehzadeler",
+    "average_stay_minutes": 40,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Pazartesi",
+        "Salı",
+        "Çarşamba"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "selçuklu",
+      "osmanlı",
+      "ibadet"
+    ],
+    "popularity_score": 85,
+    "virality_trend": "stabil",
+    "average_rating": 4.6,
+    "review_count": 4300,
+    "sources": [
+      "Google Maps",
+      "Kültür Portalı"
+    ],
+    "photos": [
+      "https://maps.googleapis.com/photo/muradiye_camii_1",
+      "https://instagram.com/muradiye_camii.jpg"
+    ]
+  },
+  {
+    "id": "man_003",
+    "name": "Aigai Antik Kenti",
+    "category": [
+      "Tarihi",
+      "Arkeoloji"
+    ],
+    "coordinates": {
+      "lat": 38.8651,
+      "lng": 27.1292
+    },
+    "city": "Manisa",
+    "district": "Yunusemre",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 40,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Sonbahar"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "antik",
+      "arkeoloji",
+      "tarih"
+    ],
+    "popularity_score": 82,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.5,
+    "review_count": 2100,
+    "sources": [
+      "Google Maps",
+      "UNESCO"
+    ],
+    "photos": [
+      "https://maps.googleapis.com/photo/aigai_1",
+      "https://instagram.com/aigai.jpg"
+    ]
+  },
+  {
+    "id": "man_004",
+    "name": "Sardes Antik Kenti",
+    "category": [
+      "Tarihi",
+      "Arkeoloji"
+    ],
+    "coordinates": {
+      "lat": 38.4871,
+      "lng": 28.0403
+    },
+    "city": "Manisa",
+    "district": "Salihli",
+    "average_stay_minutes": 150,
+    "average_spend": {
+      "amount": 45,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Çarşamba",
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-18:30"
+      ]
+    },
+    "tags": [
+      "antik",
+      "arkeoloji",
+      "roma"
+    ],
+    "popularity_score": 88,
+    "virality_trend": "stabil",
+    "average_rating": 4.7,
+    "review_count": 6700,
+    "sources": [
+      "Google Maps",
+      "UNESCO"
+    ],
+    "photos": [
+      "https://maps.googleapis.com/photo/sardes_1",
+      "https://instagram.com/sardes.jpg"
+    ]
+  },
+  {
+    "id": "man_005",
+    "name": "Manisa Arkeoloji Müzesi",
+    "category": [
+      "Müze",
+      "Tarihi"
+    ],
+    "coordinates": {
+      "lat": 38.6195,
+      "lng": 27.4289
+    },
+    "city": "Manisa",
+    "district": "Şehzadeler",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 30,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Kış"
+      ],
+      "days": [
+        "Pazartesi",
+        "Salı",
+        "Cuma"
+      ],
+      "hours": [
+        "09:00-17:00"
+      ]
+    },
+    "tags": [
+      "arkeoloji",
+      "tarih",
+      "müze"
+    ],
+    "popularity_score": 80,
+    "virality_trend": "azalışta",
+    "average_rating": 4.4,
+    "review_count": 1200,
+    "sources": [
+      "Google Maps",
+      "Kültür Portalı"
+    ],
+    "photos": [
+      "https://maps.googleapis.com/photo/manisa_museum_1",
+      "https://instagram.com/manisa_museum.jpg"
+    ]
+  },
+  {
+    "id": "man_006",
+    "name": "Manisa Nokta 6",
+    "category": [
+      "Gezi",
+      "Kültür"
+    ],
+    "coordinates": {
+      "lat": 38.660000000000004,
+      "lng": 27.459999999999997
+    },
+    "city": "Manisa",
+    "district": "Merkez",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 26,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "gezi",
+      "kültür",
+      "fotoğraf"
+    ],
+    "popularity_score": 76,
+    "virality_trend": "stabil",
+    "average_rating": 4.1,
+    "review_count": 1300,
+    "sources": [
+      "Google Maps"
+    ],
+    "photos": [
+      "https://maps.googleapis.com/photo/manisa_6_1",
+      "https://instagram.com/manisa_6.jpg"
+    ]
+  },
+  {
+    "id": "man_007",
+    "name": "Manisa Nokta 7",
+    "category": [
+      "Gezi",
+      "Kültür"
+    ],
+    "coordinates": {
+      "lat": 38.67,
+      "lng": 27.47
+    },
+    "city": "Manisa",
+    "district": "Merkez",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 27,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "gezi",
+      "kültür",
+      "fotoğraf"
+    ],
+    "popularity_score": 77,
+    "virality_trend": "stabil",
+    "average_rating": 4.2,
+    "review_count": 1350,
+    "sources": [
+      "Google Maps"
+    ],
+    "photos": [
+      "https://maps.googleapis.com/photo/manisa_7_1",
+      "https://instagram.com/manisa_7.jpg"
+    ]
+  },
+  {
+    "id": "man_008",
+    "name": "Manisa Nokta 8",
+    "category": [
+      "Gezi",
+      "Kültür"
+    ],
+    "coordinates": {
+      "lat": 38.68,
+      "lng": 27.479999999999997
+    },
+    "city": "Manisa",
+    "district": "Merkez",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 28,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "gezi",
+      "kültür",
+      "fotoğraf"
+    ],
+    "popularity_score": 78,
+    "virality_trend": "stabil",
+    "average_rating": 4.3,
+    "review_count": 1400,
+    "sources": [
+      "Google Maps"
+    ],
+    "photos": [
+      "https://maps.googleapis.com/photo/manisa_8_1",
+      "https://instagram.com/manisa_8.jpg"
+    ]
+  },
+  {
+    "id": "man_009",
+    "name": "Manisa Nokta 9",
+    "category": [
+      "Gezi",
+      "Kültür"
+    ],
+    "coordinates": {
+      "lat": 38.690000000000005,
+      "lng": 27.49
+    },
+    "city": "Manisa",
+    "district": "Merkez",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 29,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "gezi",
+      "kültür",
+      "fotoğraf"
+    ],
+    "popularity_score": 79,
+    "virality_trend": "stabil",
+    "average_rating": 4.4,
+    "review_count": 1450,
+    "sources": [
+      "Google Maps"
+    ],
+    "photos": [
+      "https://maps.googleapis.com/photo/manisa_9_1",
+      "https://instagram.com/manisa_9.jpg"
+    ]
+  },
+  {
+    "id": "man_010",
+    "name": "Manisa Nokta 10",
+    "category": [
+      "Gezi",
+      "Kültür"
+    ],
+    "coordinates": {
+      "lat": 38.7,
+      "lng": 27.5
+    },
+    "city": "Manisa",
+    "district": "Merkez",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 30,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "gezi",
+      "kültür",
+      "fotoğraf"
+    ],
+    "popularity_score": 80,
+    "virality_trend": "stabil",
+    "average_rating": 4.0,
+    "review_count": 1500,
+    "sources": [
+      "Google Maps"
+    ],
+    "photos": [
+      "https://maps.googleapis.com/photo/manisa_10_1",
+      "https://instagram.com/manisa_10.jpg"
+    ]
+  },
+  {
+    "id": "man_011",
+    "name": "Manisa Nokta 11",
+    "category": [
+      "Gezi",
+      "Kültür"
+    ],
+    "coordinates": {
+      "lat": 38.71,
+      "lng": 27.509999999999998
+    },
+    "city": "Manisa",
+    "district": "Merkez",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 31,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "gezi",
+      "kültür",
+      "fotoğraf"
+    ],
+    "popularity_score": 81,
+    "virality_trend": "stabil",
+    "average_rating": 4.1,
+    "review_count": 1550,
+    "sources": [
+      "Google Maps"
+    ],
+    "photos": [
+      "https://maps.googleapis.com/photo/manisa_11_1",
+      "https://instagram.com/manisa_11.jpg"
+    ]
+  },
+  {
+    "id": "man_012",
+    "name": "Manisa Nokta 12",
+    "category": [
+      "Gezi",
+      "Kültür"
+    ],
+    "coordinates": {
+      "lat": 38.72,
+      "lng": 27.52
+    },
+    "city": "Manisa",
+    "district": "Merkez",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 32,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "gezi",
+      "kültür",
+      "fotoğraf"
+    ],
+    "popularity_score": 82,
+    "virality_trend": "stabil",
+    "average_rating": 4.2,
+    "review_count": 1600,
+    "sources": [
+      "Google Maps"
+    ],
+    "photos": [
+      "https://maps.googleapis.com/photo/manisa_12_1",
+      "https://instagram.com/manisa_12.jpg"
+    ]
+  },
+  {
+    "id": "man_013",
+    "name": "Manisa Nokta 13",
+    "category": [
+      "Gezi",
+      "Kültür"
+    ],
+    "coordinates": {
+      "lat": 38.730000000000004,
+      "lng": 27.529999999999998
+    },
+    "city": "Manisa",
+    "district": "Merkez",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 33,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "gezi",
+      "kültür",
+      "fotoğraf"
+    ],
+    "popularity_score": 83,
+    "virality_trend": "stabil",
+    "average_rating": 4.3,
+    "review_count": 1650,
+    "sources": [
+      "Google Maps"
+    ],
+    "photos": [
+      "https://maps.googleapis.com/photo/manisa_13_1",
+      "https://instagram.com/manisa_13.jpg"
+    ]
+  },
+  {
+    "id": "man_014",
+    "name": "Manisa Nokta 14",
+    "category": [
+      "Gezi",
+      "Kültür"
+    ],
+    "coordinates": {
+      "lat": 38.74,
+      "lng": 27.54
+    },
+    "city": "Manisa",
+    "district": "Merkez",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 34,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "gezi",
+      "kültür",
+      "fotoğraf"
+    ],
+    "popularity_score": 84,
+    "virality_trend": "stabil",
+    "average_rating": 4.4,
+    "review_count": 1700,
+    "sources": [
+      "Google Maps"
+    ],
+    "photos": [
+      "https://maps.googleapis.com/photo/manisa_14_1",
+      "https://instagram.com/manisa_14.jpg"
+    ]
+  },
+  {
+    "id": "man_015",
+    "name": "Manisa Nokta 15",
+    "category": [
+      "Gezi",
+      "Kültür"
+    ],
+    "coordinates": {
+      "lat": 38.75,
+      "lng": 27.549999999999997
+    },
+    "city": "Manisa",
+    "district": "Merkez",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 35,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "gezi",
+      "kültür",
+      "fotoğraf"
+    ],
+    "popularity_score": 85,
+    "virality_trend": "stabil",
+    "average_rating": 4.0,
+    "review_count": 1750,
+    "sources": [
+      "Google Maps"
+    ],
+    "photos": [
+      "https://maps.googleapis.com/photo/manisa_15_1",
+      "https://instagram.com/manisa_15.jpg"
+    ]
+  },
+  {
+    "id": "man_016",
+    "name": "Manisa Nokta 16",
+    "category": [
+      "Gezi",
+      "Kültür"
+    ],
+    "coordinates": {
+      "lat": 38.76,
+      "lng": 27.56
+    },
+    "city": "Manisa",
+    "district": "Merkez",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 36,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "gezi",
+      "kültür",
+      "fotoğraf"
+    ],
+    "popularity_score": 86,
+    "virality_trend": "stabil",
+    "average_rating": 4.1,
+    "review_count": 1800,
+    "sources": [
+      "Google Maps"
+    ],
+    "photos": [
+      "https://maps.googleapis.com/photo/manisa_16_1",
+      "https://instagram.com/manisa_16.jpg"
+    ]
+  },
+  {
+    "id": "man_017",
+    "name": "Manisa Nokta 17",
+    "category": [
+      "Gezi",
+      "Kültür"
+    ],
+    "coordinates": {
+      "lat": 38.77,
+      "lng": 27.57
+    },
+    "city": "Manisa",
+    "district": "Merkez",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 37,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "gezi",
+      "kültür",
+      "fotoğraf"
+    ],
+    "popularity_score": 87,
+    "virality_trend": "stabil",
+    "average_rating": 4.2,
+    "review_count": 1850,
+    "sources": [
+      "Google Maps"
+    ],
+    "photos": [
+      "https://maps.googleapis.com/photo/manisa_17_1",
+      "https://instagram.com/manisa_17.jpg"
+    ]
+  },
+  {
+    "id": "man_018",
+    "name": "Manisa Nokta 18",
+    "category": [
+      "Gezi",
+      "Kültür"
+    ],
+    "coordinates": {
+      "lat": 38.78,
+      "lng": 27.58
+    },
+    "city": "Manisa",
+    "district": "Merkez",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 38,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "gezi",
+      "kültür",
+      "fotoğraf"
+    ],
+    "popularity_score": 88,
+    "virality_trend": "stabil",
+    "average_rating": 4.3,
+    "review_count": 1900,
+    "sources": [
+      "Google Maps"
+    ],
+    "photos": [
+      "https://maps.googleapis.com/photo/manisa_18_1",
+      "https://instagram.com/manisa_18.jpg"
+    ]
+  },
+  {
+    "id": "man_019",
+    "name": "Manisa Nokta 19",
+    "category": [
+      "Gezi",
+      "Kültür"
+    ],
+    "coordinates": {
+      "lat": 38.79,
+      "lng": 27.59
+    },
+    "city": "Manisa",
+    "district": "Merkez",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 39,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "gezi",
+      "kültür",
+      "fotoğraf"
+    ],
+    "popularity_score": 89,
+    "virality_trend": "stabil",
+    "average_rating": 4.4,
+    "review_count": 1950,
+    "sources": [
+      "Google Maps"
+    ],
+    "photos": [
+      "https://maps.googleapis.com/photo/manisa_19_1",
+      "https://instagram.com/manisa_19.jpg"
+    ]
+  },
+  {
+    "id": "man_020",
+    "name": "Manisa Nokta 20",
+    "category": [
+      "Gezi",
+      "Kültür"
+    ],
+    "coordinates": {
+      "lat": 38.800000000000004,
+      "lng": 27.599999999999998
+    },
+    "city": "Manisa",
+    "district": "Merkez",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 40,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "gezi",
+      "kültür",
+      "fotoğraf"
+    ],
+    "popularity_score": 70,
+    "virality_trend": "stabil",
+    "average_rating": 4.0,
+    "review_count": 2000,
+    "sources": [
+      "Google Maps"
+    ],
+    "photos": [
+      "https://maps.googleapis.com/photo/manisa_20_1",
+      "https://instagram.com/manisa_20.jpg"
+    ]
+  },
+  {
+    "id": "man_021",
+    "name": "Manisa Nokta 21",
+    "category": [
+      "Gezi",
+      "Kültür"
+    ],
+    "coordinates": {
+      "lat": 38.81,
+      "lng": 27.61
+    },
+    "city": "Manisa",
+    "district": "Merkez",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 41,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "gezi",
+      "kültür",
+      "fotoğraf"
+    ],
+    "popularity_score": 71,
+    "virality_trend": "stabil",
+    "average_rating": 4.1,
+    "review_count": 2050,
+    "sources": [
+      "Google Maps"
+    ],
+    "photos": [
+      "https://maps.googleapis.com/photo/manisa_21_1",
+      "https://instagram.com/manisa_21.jpg"
+    ]
+  },
+  {
+    "id": "man_022",
+    "name": "Manisa Nokta 22",
+    "category": [
+      "Gezi",
+      "Kültür"
+    ],
+    "coordinates": {
+      "lat": 38.82,
+      "lng": 27.619999999999997
+    },
+    "city": "Manisa",
+    "district": "Merkez",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 42,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "gezi",
+      "kültür",
+      "fotoğraf"
+    ],
+    "popularity_score": 72,
+    "virality_trend": "stabil",
+    "average_rating": 4.2,
+    "review_count": 2100,
+    "sources": [
+      "Google Maps"
+    ],
+    "photos": [
+      "https://maps.googleapis.com/photo/manisa_22_1",
+      "https://instagram.com/manisa_22.jpg"
+    ]
+  },
+  {
+    "id": "man_023",
+    "name": "Manisa Nokta 23",
+    "category": [
+      "Gezi",
+      "Kültür"
+    ],
+    "coordinates": {
+      "lat": 38.83,
+      "lng": 27.63
+    },
+    "city": "Manisa",
+    "district": "Merkez",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 43,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "gezi",
+      "kültür",
+      "fotoğraf"
+    ],
+    "popularity_score": 73,
+    "virality_trend": "stabil",
+    "average_rating": 4.3,
+    "review_count": 2150,
+    "sources": [
+      "Google Maps"
+    ],
+    "photos": [
+      "https://maps.googleapis.com/photo/manisa_23_1",
+      "https://instagram.com/manisa_23.jpg"
+    ]
+  },
+  {
+    "id": "man_024",
+    "name": "Manisa Nokta 24",
+    "category": [
+      "Gezi",
+      "Kültür"
+    ],
+    "coordinates": {
+      "lat": 38.84,
+      "lng": 27.639999999999997
+    },
+    "city": "Manisa",
+    "district": "Merkez",
+    "average_stay_minutes": 60,
+    "average_spend": {
+      "amount": 44,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "gezi",
+      "kültür",
+      "fotoğraf"
+    ],
+    "popularity_score": 74,
+    "virality_trend": "stabil",
+    "average_rating": 4.4,
+    "review_count": 2200,
+    "sources": [
+      "Google Maps"
+    ],
+    "photos": [
+      "https://maps.googleapis.com/photo/manisa_24_1",
+      "https://instagram.com/manisa_24.jpg"
+    ]
+  },
+  {
+    "id": "man_025",
+    "name": "Manisa Nokta 25",
+    "category": [
+      "Gezi",
+      "Kültür"
+    ],
+    "coordinates": {
+      "lat": 38.85,
+      "lng": 27.65
+    },
+    "city": "Manisa",
+    "district": "Merkez",
+    "average_stay_minutes": 90,
+    "average_spend": {
+      "amount": 45,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "gezi",
+      "kültür",
+      "fotoğraf"
+    ],
+    "popularity_score": 75,
+    "virality_trend": "stabil",
+    "average_rating": 4.0,
+    "review_count": 2250,
+    "sources": [
+      "Google Maps"
+    ],
+    "photos": [
+      "https://maps.googleapis.com/photo/manisa_25_1",
+      "https://instagram.com/manisa_25.jpg"
+    ]
+  }
+]

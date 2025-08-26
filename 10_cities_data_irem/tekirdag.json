@@ -1,0 +1,627 @@
+[
+  {
+    "id": "place_051",
+    "name": "Tekirdağ Sahil Bandı",
+    "category": ["Sahil", "Yürüyüş"],
+    "coordinates": { "lat": 40.9833, "lng": 27.5167 },
+    "city": "Tekirdağ",
+    "district": "Süleymanpaşa",
+    "average_stay_minutes": 120,
+    "average_spend": { "amount": 80, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz", "Sonbahar"],
+      "days": ["Pazar", "Cumartesi", "Cuma"],
+      "hours": ["06:00-23:00"]
+    },
+    "tags": ["sahil", "yürüyüş", "deniz manzarası", "balık tutma", "sunset"],
+    "popularity_score": 89,
+    "virality_trend": "stabil",
+    "average_rating": 4.6,
+    "review_count": 7840,
+    "sources": ["Google Maps", "Instagram"],
+    "photos": [
+      "https://maps.googleapis.com/photo/tekirdag_sahil001",
+      "https://instagram.com/tekirdag_sahil.jpg"
+    ]
+  },
+  {
+    "id": "place_052",
+    "name": "Rakoczi Müzesi",
+    "category": ["Müze", "Tarihi"],
+    "coordinates": { "lat": 40.9778, "lng": 27.5111 },
+    "city": "Tekirdağ",
+    "district": "Süleymanpaşa",
+    "average_stay_minutes": 75,
+    "average_spend": { "amount": 50, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "İlkbahar", "Sonbahar"],
+      "days": ["Salı", "Çarşamba", "Perşembe"],
+      "hours": ["09:00-17:00"]
+    },
+    "tags": ["müze", "Rakoczi", "Macar prens", "tarihi", "kültür"],
+    "popularity_score": 73,
+    "virality_trend": "stabil",
+    "average_rating": 4.2,
+    "review_count": 1560,
+    "sources": ["Google Maps", "Kültür Bakanlığı"],
+    "photos": [
+      "https://maps.googleapis.com/photo/rakoczi_muze001",
+      "https://kulturvarliklari.gov.tr/rakoczi_muze.jpg"
+    ]
+  },
+  {
+    "id": "place_053",
+    "name": "Barbaros Hayrettin Paşa Türbesi",
+    "category": ["Türbe", "Tarihi"],
+    "coordinates": { "lat": 40.9722, "lng": 27.5056 },
+    "city": "Tekirdağ",
+    "district": "Süleymanpaşa",
+    "average_stay_minutes": 45,
+    "average_spend": { "amount": 0, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar", "Kış"],
+      "days": ["Pazartesi", "Salı", "Çarşamba"],
+      "hours": ["09:00-17:00"]
+    },
+    "tags": ["türbe", "Barbaros", "Osmanlı", "denizci", "tarihi"],
+    "popularity_score": 81,
+    "virality_trend": "stabil",
+    "average_rating": 4.5,
+    "review_count": 3240,
+    "sources": ["Google Maps", "Instagram"],
+    "photos": [
+      "https://maps.googleapis.com/photo/barbaros_turbe001",
+      "https://instagram.com/barbaros_turbe.jpg"
+    ]
+  },
+  {
+    "id": "place_054",
+    "name": "Namık Kemal Evi",
+    "category": ["Müze", "Edebiyat"],
+    "coordinates": { "lat": 40.9806, "lng": 27.5139 },
+    "city": "Tekirdağ",
+    "district": "Süleymanpaşa",
+    "average_stay_minutes": 60,
+    "average_spend": { "amount": 40, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "İlkbahar", "Sonbahar"],
+      "days": ["Salı", "Çarşamba", "Perşembe"],
+      "hours": ["09:00-17:00"]
+    },
+    "tags": ["müze evi", "Namık Kemal", "edebiyat", "şair", "Osmanlı"],
+    "popularity_score": 76,
+    "virality_trend": "stabil",
+    "average_rating": 4.3,
+    "review_count": 2180,
+    "sources": ["Google Maps", "Kültür Bakanlığı"],
+    "photos": [
+      "https://maps.googleapis.com/photo/namik_kemal_evi001",
+      "https://kulturvarliklari.gov.tr/namik_kemal_evi.jpg"
+    ]
+  },
+  {
+    "id": "place_055",
+    "name": "Tekirdağ Köftecisi",
+    "category": ["Restoran", "Yerel Lezzet"],
+    "coordinates": { "lat": 40.9789, "lng": 27.5122 },
+    "city": "Tekirdağ",
+    "district": "Süleymanpaşa",
+    "average_stay_minutes": 60,
+    "average_spend": { "amount": 120, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "İlkbahar", "Yaz", "Sonbahar"],
+      "days": ["Cumartesi", "Pazar", "Cuma"],
+      "hours": ["12:00-22:00"]
+    },
+    "tags": ["köfte", "yerel lezzet", "geleneksel", "restoran", "ünlü"],
+    "popularity_score": 94,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.8,
+    "review_count": 12540,
+    "sources": ["Google Maps", "Instagram", "TripAdvisor"],
+    "photos": [
+      "https://maps.googleapis.com/photo/tekirdag_kofte001",
+      "https://instagram.com/tekirdag_kofte.jpg"
+    ]
+  },
+  {
+    "id": "place_056",
+    "name": "Şarköy Plajları",
+    "category": ["Plaj", "Deniz"],
+    "coordinates": { "lat": 40.6167, "lng": 27.1167 },
+    "city": "Tekirdağ",
+    "district": "Şarköy",
+    "average_stay_minutes": 300,
+    "average_spend": { "amount": 150, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Yaz", "İlkbahar"],
+      "days": ["Cumartesi", "Pazar", "Cuma"],
+      "hours": ["08:00-20:00"]
+    },
+    "tags": ["plaj", "deniz", "yüzme", "güneşlenme", "tatil"],
+    "popularity_score": 92,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.7,
+    "review_count": 9870,
+    "sources": ["Google Maps", "Instagram", "TripAdvisor"],
+    "photos": [
+      "https://maps.googleapis.com/photo/sarkoy_plaj001",
+      "https://instagram.com/sarkoy_plajlari.jpg"
+    ]
+  },
+  {
+    "id": "place_057",
+    "name": "Tekira Outlet",
+    "category": ["Alışveriş", "Outlet"],
+    "coordinates": { "lat": 41.0167, "lng": 27.5500 },
+    "city": "Tekirdağ",
+    "district": "Çorlu",
+    "average_stay_minutes": 240,
+    "average_spend": { "amount": 400, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "Yaz", "İlkbahar", "Sonbahar"],
+      "days": ["Cumartesi", "Pazar", "Cuma"],
+      "hours": ["10:00-22:00"]
+    },
+    "tags": ["outlet", "alışveriş", "marka", "indirim", "aile dostu"],
+    "popularity_score": 88,
+    "virality_trend": "stabil",
+    "average_rating": 4.4,
+    "review_count": 6750,
+    "sources": ["Google Maps", "Foursquare"],
+    "photos": [
+      "https://maps.googleapis.com/photo/tekira_outlet001",
+      "https://foursquare.com/tekira_outlet.jpg"
+    ]
+  },
+  {
+    "id": "place_058",
+    "name": "Marmara Ereğlisi Marina",
+    "category": ["Marina", "Eğlence"],
+    "coordinates": { "lat": 40.9667, "lng": 27.9500 },
+    "city": "Tekirdağ",
+    "district": "Marmara Ereğlisi",
+    "average_stay_minutes": 150,
+    "average_spend": { "amount": 180, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz", "Sonbahar"],
+      "days": ["Cumartesi", "Pazar", "Cuma"],
+      "hours": ["10:00-23:00"]
+    },
+    "tags": ["marina", "yacht", "deniz manzarası", "restoran", "lüks"],
+    "popularity_score": 85,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.5,
+    "review_count": 4560,
+    "sources": ["Google Maps", "Instagram"],
+    "photos": [
+      "https://maps.googleapis.com/photo/marmara_ereglisi_marina001",
+      "https://instagram.com/marmara_ereglisi_marina.jpg"
+    ]
+  },
+  {
+    "id": "place_059",
+    "name": "Tekirdağ Bağları",
+    "category": ["Bağcılık", "Tarım Turizmi"],
+    "coordinates": { "lat": 40.9500, "lng": 27.4500 },
+    "city": "Tekirdağ",
+    "district": "Süleymanpaşa",
+    "average_stay_minutes": 180,
+    "average_spend": { "amount": 200, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Sonbahar", "Yaz"],
+      "days": ["Cumartesi", "Pazar", "Cuma"],
+      "hours": ["10:00-18:00"]
+    },
+    "tags": ["bağcılık", "şarap", "tarım turizmi", "bağ turu", "tadım"],
+    "popularity_score": 87,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.6,
+    "review_count": 5430,
+    "sources": ["Google Maps", "Instagram", "TripAdvisor"],
+    "photos": [
+      "https://maps.googleapis.com/photo/tekirdag_baglari001",
+      "https://instagram.com/tekirdag_baglari.jpg"
+    ]
+  },
+  {
+    "id": "place_060",
+    "name": "Kumbağ Plajı",
+    "category": ["Plaj", "Tatil"],
+    "coordinates": { "lat": 40.8667, "lng": 27.6667 },
+    "city": "Tekirdağ",
+    "district": "Saray",
+    "average_stay_minutes": 360,
+    "average_spend": { "amount": 200, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Yaz", "İlkbahar"],
+      "days": ["Cumartesi", "Pazar", "Cuma"],
+      "hours": ["08:00-20:00"]
+    },
+    "tags": ["plaj", "kumsal", "tatil köyü", "aile dostu", "aktivite"],
+    "popularity_score": 90,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.5,
+    "review_count": 8230,
+    "sources": ["Google Maps", "Instagram", "TripAdvisor"],
+    "photos": [
+      "https://maps.googleapis.com/photo/kumbag_plaj001",
+      "https://instagram.com/kumbag_plaji.jpg"
+    ]
+  },
+  {
+    "id": "place_061",
+    "name": "Çorlu Kent Ormanı",
+    "category": ["Orman", "Rekreasyon"],
+    "coordinates": { "lat": 41.1667, "lng": 27.8000 },
+    "city": "Tekirdağ",
+    "district": "Çorlu",
+    "average_stay_minutes": 120,
+    "average_spend": { "amount": 60, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz", "Sonbahar"],
+      "days": ["Pazar", "Cumartesi", "Cuma"],
+      "hours": ["07:00-20:00"]
+    },
+    "tags": ["kent ormanı", "yürüyüş", "piknik", "aile dostu", "doğa"],
+    "popularity_score": 82,
+    "virality_trend": "stabil",
+    "average_rating": 4.3,
+    "review_count": 3670,
+    "sources": ["Google Maps", "Instagram"],
+    "photos": [
+      "https://maps.googleapis.com/photo/corlu_kent_ormani001",
+      "https://instagram.com/corlu_kent_ormani.jpg"
+    ]
+  },
+  {
+    "id": "place_062",
+    "name": "Tekirdağ Müzesi",
+    "category": ["Müze", "Arkeoloji"],
+    "coordinates": { "lat": 40.9795, "lng": 27.5118 },
+    "city": "Tekirdağ",
+    "district": "Süleymanpaşa",
+    "average_stay_minutes": 90,
+    "average_spend": { "amount": 55, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "İlkbahar", "Sonbahar"],
+      "days": ["Salı", "Çarşamba", "Perşembe"],
+      "hours": ["09:00-17:00"]
+    },
+    "tags": ["müze", "arkeoloji", "etnografya", "Trakya", "kültür"],
+    "popularity_score": 75,
+    "virality_trend": "stabil",
+    "average_rating": 4.2,
+    "review_count": 1890,
+    "sources": ["Google Maps", "Kültür Bakanlığı"],
+    "photos": [
+      "https://maps.googleapis.com/photo/tekirdag_muze001",
+      "https://kulturvarliklari.gov.tr/tekirdag_muze.jpg"
+    ]
+  },
+  {
+    "id": "place_063",
+    "name": "Hayrabolu Tarihi Çarşı",
+    "category": ["Çarşı", "Tarihi"],
+    "coordinates": { "lat": 41.2167, "lng": 27.1000 },
+    "city": "Tekirdağ",
+    "district": "Hayrabolu",
+    "average_stay_minutes": 90,
+    "average_spend": { "amount": 100, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar", "Kış"],
+      "days": ["Salı", "Çarşamba", "Perşembe"],
+      "hours": ["09:00-18:00"]
+    },
+    "tags": ["tarihi çarşı", "alışveriş", "geleneksel", "el sanatları", "yerel"],
+    "popularity_score": 71,
+    "virality_trend": "stabil",
+    "average_rating": 4.0,
+    "review_count": 980,
+    "sources": ["Google Maps"],
+    "photos": [
+      "https://maps.googleapis.com/photo/hayrabolu_carsi001",
+      "https://maps.googleapis.com/photo/hayrabolu_carsi002"
+    ]
+  },
+  {
+    "id": "place_064",
+    "name": "Saray Göleti",
+    "category": ["Gölet", "Doğal"],
+    "coordinates": { "lat": 40.9000, "lng": 27.9333 },
+    "city": "Tekirdağ",
+    "district": "Saray",
+    "average_stay_minutes": 120,
+    "average_spend": { "amount": 70, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Pazar", "Cumartesi", "Pazartesi"],
+      "hours": ["08:00-18:00"]
+    },
+    "tags": ["gölet", "balık tutma", "doğa", "piknik", "sakin"],
+    "popularity_score": 74,
+    "virality_trend": "stabil",
+    "average_rating": 4.1,
+    "review_count": 1450,
+    "sources": ["Google Maps", "Instagram"],
+    "photos": [
+      "https://maps.googleapis.com/photo/saray_goleti001",
+      "https://instagram.com/saray_goleti.jpg"
+    ]
+  },
+  {
+    "id": "place_065",
+    "name": "Tekirdağ Rüstem Paşa Camii",
+    "category": ["Cami", "Tarihi"],
+    "coordinates": { "lat": 40.9833, "lng": 27.5083 },
+    "city": "Tekirdağ",
+    "district": "Süleymanpaşa",
+    "average_stay_minutes": 40,
+    "average_spend": { "amount": 0, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar", "Kış"],
+      "days": ["Pazartesi", "Salı", "Çarşamba"],
+      "hours": ["09:00-17:00"]
+    },
+    "tags": ["cami", "Rüstem Paşa", "Osmanlı", "mimari", "çini"],
+    "popularity_score": 79,
+    "virality_trend": "stabil",
+    "average_rating": 4.4,
+    "review_count": 2340,
+    "sources": ["Google Maps", "Instagram"],
+    "photos": [
+      "https://maps.googleapis.com/photo/rustem_pasa_camii001",
+      "https://instagram.com/rustem_pasa_camii_tekirdag.jpg"
+    ]
+  },
+  {
+    "id": "place_066",
+    "name": "Çorlu Atatürk Parkı",
+    "category": ["Park", "Rekreasyon"],
+    "coordinates": { "lat": 41.1583, "lng": 27.8000 },
+    "city": "Tekirdağ",
+    "district": "Çorlu",
+    "average_stay_minutes": 90,
+    "average_spend": { "amount": 50, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz", "Sonbahar"],
+      "days": ["Pazar", "Cumartesi", "Çarşamba"],
+      "hours": ["07:00-22:00"]
+    },
+    "tags": ["park", "aile dostu", "çocuk oyun alanı", "spor", "dinlence"],
+    "popularity_score": 77,
+    "virality_trend": "stabil",
+    "average_rating": 4.2,
+    "review_count": 2890,
+    "sources": ["Google Maps"],
+    "photos": [
+      "https://maps.googleapis.com/photo/corlu_ataturk_park001",
+      "https://maps.googleapis.com/photo/corlu_ataturk_park002"
+    ]
+  },
+  {
+    "id": "place_067",
+    "name": "Vize Kalesi",
+    "category": ["Kale", "Tarihi"],
+    "coordinates": { "lat": 41.5667, "lng": 27.7667 },
+    "city": "Tekirdağ",
+    "district": "Vize",
+    "average_stay_minutes": 75,
+    "average_spend": { "amount": 60, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Salı", "Çarşamba", "Perşembe"],
+      "hours": ["09:00-17:00"]
+    },
+    "tags": ["kale", "Bizans", "tarihi", "manzara", "antik"],
+    "popularity_score": 72,
+    "virality_trend": "stabil",
+    "average_rating": 4.1,
+    "review_count": 890,
+    "sources": ["Google Maps", "Instagram"],
+    "photos": [
+      "https://maps.googleapis.com/photo/vize_kalesi001",
+      "https://instagram.com/vize_kalesi.jpg"
+    ]
+  },
+  {
+    "id": "place_068",
+    "name": "Tekirdağ Liman",
+    "category": ["Liman", "Denizcilik"],
+    "coordinates": { "lat": 40.9667, "lng": 27.5333 },
+    "city": "Tekirdağ",
+    "district": "Süleymanpaşa",
+    "average_stay_minutes": 60,
+    "average_spend": { "amount": 40, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Pazartesi", "Salı", "Çarşamba"],
+      "hours": ["10:00-16:00"]
+    },
+    "tags": ["liman", "ticaret", "denizcilik", "gemi", "balıkçılık"],
+    "popularity_score": 68,
+    "virality_trend": "stabil",
+    "average_rating": 3.9,
+    "review_count": 560,
+    "sources": ["Google Maps"],
+    "photos": [
+      "https://maps.googleapis.com/photo/tekirdag_liman001",
+      "https://maps.googleapis.com/photo/tekirdag_liman002"
+    ]
+  },
+  {
+    "id": "place_069",
+    "name": "Ergene Nehri",
+    "category": ["Nehir", "Doğal"],
+    "coordinates": { "lat": 41.0000, "lng": 27.8000 },
+    "city": "Tekirdağ",
+    "district": "Çerkezköy",
+    "average_stay_minutes": 90,
+    "average_spend": { "amount": 50, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Pazar", "Cumartesi", "Pazartesi"],
+      "hours": ["08:00-18:00"]
+    },
+    "tags": ["nehir", "doğa", "kuş gözlemi", "yürüyüş", "sakin"],
+    "popularity_score": 70,
+    "virality_trend": "stabil",
+    "average_rating": 4.0,
+    "review_count": 780,
+    "sources": ["Google Maps", "Instagram"],
+    "photos": [
+      "https://maps.googleapis.com/photo/ergene_nehri001",
+      "https://instagram.com/ergene_nehri.jpg"
+    ]
+  },
+  {
+    "id": "place_070",
+    "name": "Tekirdağ Kültür Merkezi",
+    "category": ["Kültür", "Sanat"],
+    "coordinates": { "lat": 40.9806, "lng": 27.5167 },
+    "city": "Tekirdağ",
+    "district": "Süleymanpaşa",
+    "average_stay_minutes": 135,
+    "average_spend": { "amount": 100, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "İlkbahar", "Sonbahar"],
+      "days": ["Cumartesi", "Pazar", "Perşembe"],
+      "hours": ["19:00-22:00"]
+    },
+    "tags": ["kültür merkezi", "tiyatro", "konser", "sanat", "etkinlik"],
+    "popularity_score": 76,
+    "virality_trend": "stabil",
+    "average_rating": 4.3,
+    "review_count": 1670,
+    "sources": ["Google Maps", "Biletix"],
+    "photos": [
+      "https://maps.googleapis.com/photo/tekirdag_kultur_merkezi001",
+      "https://biletix.com/tekirdag_kultur_merkezi.jpg"
+    ]
+  },
+  {
+    "id": "place_071",
+    "name": "Şarköy Bağları",
+    "category": ["Bağcılık", "Tarım Turizmi"],
+    "coordinates": { "lat": 40.6000, "lng": 27.1333 },
+    "city": "Tekirdağ",
+    "district": "Şarköy",
+    "average_stay_minutes": 200,
+    "average_spend": { "amount": 220, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Sonbahar", "Yaz"],
+      "days": ["Cumartesi", "Pazar", "Cuma"],
+      "hours": ["10:00-18:00"]
+    },
+    "tags": ["bağcılık", "şarap", "bağ turu", "tadım", "tarım turizmi"],
+    "popularity_score": 86,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.6,
+    "review_count": 4890,
+    "sources": ["Google Maps", "Instagram", "TripAdvisor"],
+    "photos": [
+      "https://maps.googleapis.com/photo/sarkoy_baglari001",
+      "https://instagram.com/sarkoy_baglari.jpg"
+    ]
+  },
+  {
+    "id": "place_072",
+    "name": "Tekirdağ Stadyumu",
+    "category": ["Stadyum", "Spor"],
+    "coordinates": { "lat": 40.9750, "lng": 27.5250 },
+    "city": "Tekirdağ",
+    "district": "Süleymanpaşa",
+    "average_stay_minutes": 120,
+    "average_spend": { "amount": 80, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Sonbahar", "İlkbahar"],
+      "days": ["Pazar", "Cumartesi", "Çarşamba"],
+      "hours": ["15:00-22:00"]
+    },
+    "tags": ["stadyum", "futbol", "spor", "maç", "Tekirdağspor"],
+    "popularity_score": 74,
+    "virality_trend": "stabil",
+    "average_rating": 4.0,
+    "review_count": 2340,
+    "sources": ["Google Maps", "Instagram"],
+    "photos": [
+      "https://maps.googleapis.com/photo/tekirdag_stadyum001",
+      "https://instagram.com/tekirdag_stadyum.jpg"
+    ]
+  },
+  {
+    "id": "place_073",
+    "name": "Malkara Köprüsü",
+    "category": ["Köprü", "Tarihi"],
+    "coordinates": { "lat": 40.8833, "lng": 26.9000 },
+    "city": "Tekirdağ",
+    "district": "Malkara",
+    "average_stay_minutes": 30,
+    "average_spend": { "amount": 20, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Pazartesi", "Salı", "Çarşamba"],
+      "hours": ["09:00-18:00"]
+    },
+    "tags": ["köprü", "tarihi", "Osmanlı", "mimari", "fotoğrafçılık"],
+    "popularity_score": 69,
+    "virality_trend": "stabil",
+    "average_rating": 3.9,
+    "review_count": 450,
+    "sources": ["Google Maps"],
+    "photos": [
+      "https://maps.googleapis.com/photo/malkara_koprusu001",
+      "https://maps.googleapis.com/photo/malkara_koprusu002"
+    ]
+  },
+  {
+    "id": "place_074",
+    "name": "Çerkezköy Endüstri Müzesi",
+    "category": ["Müze", "Endüstri"],
+    "coordinates": { "lat": 41.2833, "lng": 28.1333 },
+    "city": "Tekirdağ",
+    "district": "Çerkezköy",
+    "average_stay_minutes": 90,
+    "average_spend": { "amount": 60, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "İlkbahar", "Sonbahar"],
+      "days": ["Salı", "Çarşamba", "Perşembe"],
+      "hours": ["09:00-17:00"]
+    },
+    "tags": ["müze", "endüstri", "teknoloji", "eğitim", "modern"],
+    "popularity_score": 71,
+    "virality_trend": "stabil",
+    "average_rating": 4.1,
+    "review_count": 890,
+    "sources": ["Google Maps", "Kültür Bakanlığı"],
+    "photos": [
+      "https://maps.googleapis.com/photo/cerkezkoy_endustri_muze001",
+      "https://kulturvarliklari.gov.tr/cerkezkoy_endustri_muze.jpg"
+    ]
+  },
+  {
+    "id": "place_075",
+    "name": "Tekirdağ Meydan Parkı",
+    "category": ["Park", "Kent Merkezi"],
+    "coordinates": { "lat": 40.9778, "lng": 27.5139 },
+    "city": "Tekirdağ",
+    "district": "Süleymanpaşa",
+    "average_stay_minutes": 75,
+    "average_spend": { "amount": 45, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz", "Sonbahar"],
+      "days": ["Pazar", "Cumartesi", "Çarşamba"],
+      "hours": ["07:00-22:00"]
+    },
+    "tags": ["park", "kent merkezi", "aile dostu", "çocuk oyun alanı", "dinlence"],
+    "popularity_score": 78,
+    "virality_trend": "stabil",
+    "average_rating": 4.2,
+    "review_count": 3450,
+    "sources": ["Google Maps", "Instagram"],
+    "photos": [
+      "https://maps.googleapis.com/photo/tekirdag_meydan_park001",
+      "https://instagram.com/tekirdag_meydan_park.jpg"
+    ]
+  }
+]

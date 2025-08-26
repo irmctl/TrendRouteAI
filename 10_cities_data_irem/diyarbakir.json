@@ -1,0 +1,101 @@
+[
+  {
+    "id": "diy_001",
+    "name": "Diyarbakır Surları",
+    "category": [
+      "Tarihi",
+      "Açık Alan"
+    ],
+    "coordinates": {
+      "lat": 37.9145,
+      "lng": 40.2306
+    },
+    "city": "Diyarbakır",
+    "district": "Sur",
+    "average_stay_minutes": 120,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Sonbahar"
+      ],
+      "days": [
+        "Cumartesi",
+        "Pazar"
+      ],
+      "hours": [
+        "09:00-19:00"
+      ]
+    },
+    "tags": [
+      "tarihi",
+      "UNESCO",
+      "panoramik"
+    ],
+    "popularity_score": 95,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.7,
+    "review_count": 18000,
+    "sources": [
+      "Google Maps",
+      "UNESCO"
+    ],
+    "photos": [
+      "https://maps.googleapis.com/photo/diy_surlar_1",
+      "https://instagram.com/diy_surlar.jpg"
+    ]
+  },
+  {
+    "id": "diy_002",
+    "name": "Ulu Camii (Diyarbakır)",
+    "category": [
+      "Dini",
+      "Tarihi"
+    ],
+    "coordinates": {
+      "lat": 37.9142,
+      "lng": 40.2309
+    },
+    "city": "Diyarbakır",
+    "district": "Sur",
+    "average_stay_minutes": 45,
+    "average_spend": {
+      "amount": 0,
+      "currency": "TRY"
+    },
+    "best_visit_times": {
+      "season": [
+        "İlkbahar",
+        "Yaz"
+      ],
+      "days": [
+        "Pazartesi",
+        "Salı",
+        "Perşembe"
+      ],
+      "hours": [
+        "09:00-18:00"
+      ]
+    },
+    "tags": [
+      "tarihi",
+      "selçuklu",
+      "ibadet"
+    ],
+    "popularity_score": 92,
+    "virality_trend": "stabil",
+    "average_rating": 4.8,
+    "review_count": 14000,
+    "sources": [
+      "Google Maps",
+      "Kültür Portalı"
+    ],
+    "photos": [
+      "https://maps.googleapis.com/photo/diy_ulucami_1",
+      "https://instagram.com/diy_ulucami.jpg"
+    ]
+  }
+]

@@ -1,0 +1,627 @@
+[
+  {
+    "id": "place_001",
+    "name": "Edremit Zeytinyağı Müzesi",
+    "category": ["Müze", "Yerel Üretim"],
+    "coordinates": { "lat": 39.7500, "lng": 27.0000 },
+    "city": "Balıkesir",
+    "district": "Edremit",
+    "average_stay_minutes": 60,
+    "average_spend": { "amount": 50, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Pazartesi", "Çarşamba", "Pazar"],
+      "hours": ["09:00-17:00"]
+    },
+    "tags": ["zeytinyağı", "müze", "yerel"],
+    "popularity_score": 88,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.7,
+    "review_count": 7900,
+    "sources": ["Google Maps", "Tarım Bakanlığı"],
+    "photos": [
+      "https://maps.googleapis.com/photo/edremitolivemuseum  ",
+      "https://tarim.gov.tr/edremit_olive_museum.jpg  "
+    ]
+  },
+  {
+    "id": "place_002",
+    "name": "Ayvalık Aydınlık Kalesi",
+    "category": ["Kale", "Tarihi"],
+    "coordinates": { "lat": 39.3000, "lng": 26.6500 },
+    "city": "Balıkesir",
+    "district": "Ayvalık",
+    "average_stay_minutes": 70,
+    "average_spend": { "amount": 40, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["09:00-18:00"]
+    },
+    "tags": ["kale", "tarihi", "manzara"],
+    "popularity_score": 91,
+    "virality_trend": "yüksek",
+    "average_rating": 4.8,
+    "review_count": 11200,
+    "sources": ["Google Maps", "Kültür Bakanlığı"],
+    "photos": [
+      "https://maps.googleapis.com/photo/ayvalikkale  ",
+      "https://kultur.gov.tr/ayvalik_kalesi.jpg  "
+    ]
+  },
+  {
+    "id": "place_003",
+    "name": "Bandırma Balık Pazarı",
+    "category": ["Pazar", "Deniz Ürünü"],
+    "coordinates": { "lat": 40.3333, "lng": 27.9833 },
+    "city": "Balıkesir",
+    "district": "Bandırma",
+    "average_stay_minutes": 80,
+    "average_spend": { "amount": 150, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "İlkbahar"],
+      "days": ["Pazar", "Cuma"],
+      "hours": ["06:00-13:00"]
+    },
+    "tags": ["balık", "pazar", "yerel"],
+    "popularity_score": 85,
+    "virality_trend": "kararlı",
+    "average_rating": 4.6,
+    "review_count": 6800,
+    "sources": ["Google Maps", "Belediye"],
+    "photos": [
+      "https://maps.googleapis.com/photo/bandirmabalik  ",
+      "https://belediye.bandirma.gov.tr/fish_market.jpg  "
+    ]
+  },
+  {
+    "id": "place_004",
+    "name": "Gönen Termal Ovası",
+    "category": ["Termal", "Doğa"],
+    "coordinates": { "lat": 39.8333, "lng": 27.7500 },
+    "city": "Balıkesir",
+    "district": "Gönen",
+    "average_stay_minutes": 180,
+    "average_spend": { "amount": 300, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "İlkbahar"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["09:00-19:00"]
+    },
+    "tags": ["termal", "kaynak", "sağlık"],
+    "popularity_score": 89,
+    "virality_trend": "yüksek",
+    "average_rating": 4.7,
+    "review_count": 9500,
+    "sources": ["Google Maps", "Sağlık Bakanlığı"],
+    "photos": [
+      "https://maps.googleapis.com/photo/gonenhot  ",
+      "https://saglik.gov.tr/gonen_termal.jpg  "
+    ]
+  },
+  {
+    "id": "place_005",
+    "name": "Burhaniye Zeytin Festivali",
+    "category": ["Festival", "Gastronomi"],
+    "coordinates": { "lat": 39.3833, "lng": 27.0833 },
+    "city": "Balıkesir",
+    "district": "Burhaniye",
+    "average_stay_minutes": 150,
+    "average_spend": { "amount": 120, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Sonbahar"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["10:00-20:00"]
+    },
+    "tags": ["zeytin", "festival", "etkinlik"],
+    "popularity_score": 87,
+    "virality_trend": "yıllık zirve",
+    "average_rating": 4.6,
+    "review_count": 8200,
+    "sources": ["Google Maps", "Belediye"],
+    "photos": [
+      "https://maps.googleapis.com/photo/burhaniyefest  ",
+      "https://belediye.burhaniye.gov.tr/zeytin_fest2024.jpg  "
+    ]
+  },
+  {
+    "id": "place_006",
+    "name": "Manyas Kuş Cenneti",
+    "category": ["Doğa", "Kuş Gözlemi"],
+    "coordinates": { "lat": 40.1000, "lng": 27.7000 },
+    "city": "Balıkesir",
+    "district": "Manyas",
+    "average_stay_minutes": 120,
+    "average_spend": { "amount": 60, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Pazar", "Cumartesi"],
+      "hours": ["07:00-16:00"]
+    },
+    "tags": ["kuş", "doğa", "koruma"],
+    "popularity_score": 92,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.8,
+    "review_count": 10500,
+    "sources": ["Google Maps", "Doğa Koruma"],
+    "photos": [
+      "https://maps.googleapis.com/photo/manyaskus  ",
+      "https://dogakoruma.gov.tr/manyas_birds.jpg  "
+    ]
+  },
+  {
+    "id": "place_007",
+    "name": "Bigadiç El Sanatları Merkezi",
+    "category": ["El Sanatı", "Kültürel"],
+    "coordinates": { "lat": 39.6833, "lng": 27.5833 },
+    "city": "Balıkesir",
+    "district": "Bigadiç",
+    "average_stay_minutes": 60,
+    "average_spend": { "amount": 200, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Pazartesi", "Cuma", "Pazar"],
+      "hours": ["10:00-18:00"]
+    },
+    "tags": ["el sanatı", "seramik", "souvenir"],
+    "popularity_score": 76,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.4,
+    "review_count": 3400,
+    "sources": ["Google Maps", "Kültür"],
+    "photos": [
+      "https://maps.googleapis.com/photo/bigadicel  ",
+      "https://kultur.gov.tr/bigadic_handicraft.jpg  "
+    ]
+  },
+  {
+    "id": "place_008",
+    "name": "Sarımsaklı Plajı",
+    "category": ["Plaj", "Doğa"],
+    "coordinates": { "lat": 39.3500, "lng": 26.6800 },
+    "city": "Balıkesir",
+    "district": "Ayvalık",
+    "average_stay_minutes": 150,
+    "average_spend": { "amount": 100, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Yaz"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["10:00-19:00"]
+    },
+    "tags": ["plaj", "deniz", "aile"],
+    "popularity_score": 84,
+    "virality_trend": "yaz zirvesi",
+    "average_rating": 4.6,
+    "review_count": 7600,
+    "sources": ["Google Maps", "Turizm"],
+    "photos": [
+      "https://maps.googleapis.com/photo/sarimsakli  ",
+      "https://turizm.gov.tr/ayvalik_sarimsakli.jpg  "
+    ]
+  },
+  {
+    "id": "place_009",
+    "name": "Zeytinlik Kebapçısı",
+    "category": ["Restoran", "Yerel Lezzet"],
+    "coordinates": { "lat": 39.6500, "lng": 27.0000 },
+    "city": "Balıkesir",
+    "district": "Edremit",
+    "average_stay_minutes": 60,
+    "average_spend": { "amount": 260, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "İlkbahar"],
+      "days": ["Cuma", "Cumartesi", "Pazar"],
+      "hours": ["12:00-22:00"]
+    },
+    "tags": ["kebap", "meşhur", "lokal"],
+    "popularity_score": 94,
+    "virality_trend": "yüksek",
+    "average_rating": 4.9,
+    "review_count": 14300,
+    "sources": ["Google Maps", "Instagram"],
+    "photos": [
+      "https://maps.googleapis.com/photo/zeytinlikebap  ",
+      "https://instagram.com/balikesir_food/zeytinlik.jpg  "
+    ]
+  },
+  {
+    "id": "place_010",
+    "name": "Balya Tarihi Köy Evleri",
+    "category": ["Köy", "Kültürel"],
+    "coordinates": { "lat": 39.5000, "lng": 27.8000 },
+    "city": "Balıkesir",
+    "district": "Balya",
+    "average_stay_minutes": 90,
+    "average_spend": { "amount": 30, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Pazar"],
+      "hours": ["10:00-16:00"]
+    },
+    "tags": ["köy", "tarihi ev", "fotoğraf"],
+    "popularity_score": 78,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.5,
+    "review_count": 5100,
+    "sources": ["Google Maps", "Yerel Kültür"],
+    "photos": [
+      "https://maps.googleapis.com/photo/balyakoy  ",
+      "https://yerelkultur.gov.tr/balya_village.jpg  "
+    ]
+  },
+  {
+    "id": "place_011",
+    "name": "Ayvalık Tuzla Köyü",
+    "category": ["Köy", "Tarihi"],
+    "coordinates": { "lat": 39.2800, "lng": 26.6200 },
+    "city": "Balıkesir",
+    "district": "Ayvalık",
+    "average_stay_minutes": 100,
+    "average_spend": { "amount": 0, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["09:00-17:00"]
+    },
+    "tags": ["tarihi", "kayıp köy", "fotoğraf"],
+    "popularity_score": 86,
+    "virality_trend": "yüksek",
+    "average_rating": 4.7,
+    "review_count": 8800,
+    "sources": ["Google Maps", "UNESCO"],
+    "photos": [
+      "https://maps.googleapis.com/photo/tuzlakoy  ",
+      "https://unesco.org/sites/ayvalik_tuzla.jpg  "
+    ]
+  },
+  {
+    "id": "place_012",
+    "name": "Dursunbey Sığla Yağı Evi",
+    "category": ["Yerel Ürün", "Tadım"],
+    "coordinates": { "lat": 39.4000, "lng": 28.2000 },
+    "city": "Balıkesir",
+    "district": "Dursunbey",
+    "average_stay_minutes": 50,
+    "average_spend": { "amount": 80, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Sonbahar", "Kış"],
+      "days": ["Pazar"],
+      "hours": ["10:00-16:00"]
+    },
+    "tags": ["sığla yağı", "doğal ürün", "tadım"],
+    "popularity_score": 72,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.4,
+    "review_count": 2900,
+    "sources": ["Google Maps", "Tarım"],
+    "photos": [
+      "https://maps.googleapis.com/photo/dursunbeysigla  ",
+      "https://tarim.gov.tr/dursunbey_sigla.jpg  "
+    ]
+  },
+  {
+    "id": "place_013",
+    "name": "Bandırma Limanı",
+    "category": ["Liman", "Manzara"],
+    "coordinates": { "lat": 40.3500, "lng": 28.0000 },
+    "city": "Balıkesir",
+    "district": "Bandırma",
+    "average_stay_minutes": 60,
+    "average_spend": { "amount": 0, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Yaz", "Sonbahar"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["18:00-21:00"]
+    },
+    "tags": ["liman", "manzara", "gece"],
+    "popularity_score": 80,
+    "virality_trend": "mevsimsel",
+    "average_rating": 4.5,
+    "review_count": 6300,
+    "sources": ["Google Maps", "Belediye"],
+    "photos": [
+      "https://maps.googleapis.com/photo/bandirmaport  ",
+      "https://belediye.bandirma.gov.tr/port_night.jpg  "
+    ]
+  },
+  {
+    "id": "place_014",
+    "name": "Gönen Narlıdere Köyü",
+    "category": ["Köy", "Doğa"],
+    "coordinates": { "lat": 39.8500, "lng": 27.7000 },
+    "city": "Balıkesir",
+    "district": "Gönen",
+    "average_stay_minutes": 120,
+    "average_spend": { "amount": 40, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Pazar"],
+      "hours": ["09:00-17:00"]
+    },
+    "tags": ["köy", "doğa", "huzur"],
+    "popularity_score": 75,
+    "virality_trend": "yavaş yükseliş",
+    "average_rating": 4.3,
+    "review_count": 3800,
+    "sources": ["Google Maps", "Doğa"],
+    "photos": [
+      "https://maps.googleapis.com/photo/narlidere  ",
+      "https://dogaseyahat.com/gonen_koy.jpg  "
+    ]
+  },
+  {
+    "id": "place_015",
+    "name": "Burhaniye Sahili",
+    "category": ["Plaj", "Doğa"],
+    "coordinates": { "lat": 39.4000, "lng": 27.1000 },
+    "city": "Balıkesir",
+    "district": "Burhaniye",
+    "average_stay_minutes": 140,
+    "average_spend": { "amount": 90, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Yaz"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["10:00-19:00"]
+    },
+    "tags": ["plaj", "deniz", "aile"],
+    "popularity_score": 83,
+    "virality_trend": "yaz zirvesi",
+    "average_rating": 4.5,
+    "review_count": 7100,
+    "sources": ["Google Maps", "Turizm"],
+    "photos": [
+      "https://maps.googleapis.com/photo/burhaniyesahil  ",
+      "https://turizm.gov.tr/burhaniye_summer.jpg  "
+    ]
+  },
+  {
+    "id": "place_016",
+    "name": "Edremit Yerel Pazarı",
+    "category": ["Pazar", "Organik"],
+    "coordinates": { "lat": 39.7500, "lng": 27.0000 },
+    "city": "Balıkesir",
+    "district": "Edremit",
+    "average_stay_minutes": 70,
+    "average_spend": { "amount": 140, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Pazar"],
+      "hours": ["07:00-13:00"]
+    },
+    "tags": ["organik", "pazar", "yerel"],
+    "popularity_score": 77,
+    "virality_trend": "kararlı",
+    "average_rating": 4.3,
+    "review_count": 4100,
+    "sources": ["Google Maps", "Belediye"],
+    "photos": [
+      "https://maps.googleapis.com/photo/edremitpazar  ",
+      "https://belediye.edremit.gov.tr/local_market.jpg  "
+    ]
+  },
+  {
+    "id": "place_017",
+    "name": "Erdek Plajı",
+    "category": ["Plaj", "Doğa"],
+    "coordinates": { "lat": 40.3833, "lng": 27.8333 },
+    "city": "Balıkesir",
+    "district": "Erdek",
+    "average_stay_minutes": 160,
+    "average_spend": { "amount": 110, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Yaz"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["10:00-19:00"]
+    },
+    "tags": ["plaj", "deniz", "aile"],
+    "popularity_score": 82,
+    "virality_trend": "yaz mevsiminde zirve",
+    "average_rating": 4.5,
+    "review_count": 6900,
+    "sources": ["Google Maps", "Turizm"],
+    "photos": [
+      "https://maps.googleapis.com/photo/erdekbeach  ",
+      "https://turizm.gov.tr/erdek_summer.jpg  "
+    ]
+  },
+  {
+    "id": "place_018",
+    "name": "Susurluk Termal Kaynakları",
+    "category": ["Termal", "Sağlık"],
+    "coordinates": { "lat": 40.1833, "lng": 27.9167 },
+    "city": "Balıkesir",
+    "district": "Susurluk",
+    "average_stay_minutes": 150,
+    "average_spend": { "amount": 350, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "İlkbahar"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["09:00-18:00"]
+    },
+    "tags": ["termal", "sağlık", "dinlenme"],
+    "popularity_score": 84,
+    "virality_trend": "yüksek",
+    "average_rating": 4.6,
+    "review_count": 7300,
+    "sources": ["Google Maps", "Sağlık Bakanlığı"],
+    "photos": [
+      "https://maps.googleapis.com/photo/susurlukhot  ",
+      "https://saglik.gov.tr/susurluk_termal.jpg  "
+    ]
+  },
+  {
+    "id": "place_019",
+    "name": "Karesi El Sanatları Atölyesi",
+    "category": ["El Sanatı", "Workshop"],
+    "coordinates": { "lat": 39.6333, "lng": 27.8833 },
+    "city": "Balıkesir",
+    "district": "Karesi",
+    "average_stay_minutes": 90,
+    "average_spend": { "amount": 200, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Cumartesi"],
+      "hours": ["10:00-17:00"]
+    },
+    "tags": ["el sanatı", "workshop", "eğitim"],
+    "popularity_score": 74,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.4,
+    "review_count": 3200,
+    "sources": ["Google Maps", "Kültür"],
+    "photos": [
+      "https://maps.googleapis.com/photo/karesiel  ",
+      "https://kultur.gov.tr/karesi_workshop.jpg  "
+    ]
+  },
+  {
+    "id": "place_020",
+    "name": "Gönen Balıkçı Barınağı",
+    "category": ["Balık", "Restoran"],
+    "coordinates": { "lat": 39.8300, "lng": 27.7500 },
+    "city": "Balıkesir",
+    "district": "Gönen",
+    "average_stay_minutes": 90,
+    "average_spend": { "amount": 380, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Yaz", "İlkbahar"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["18:00-22:00"]
+    },
+    "tags": ["balık", "deniz ürünleri", "lokal"],
+    "popularity_score": 86,
+    "virality_trend": "yüksek",
+    "average_rating": 4.7,
+    "review_count": 8100,
+    "sources": ["Google Maps", "Yemek"],
+    "photos": [
+      "https://maps.googleapis.com/photo/gonenbarinak  ",
+      "https://yemek.com/gonen_balik.jpg  "
+    ]
+  },
+  {
+    "id": "place_021",
+    "name": "Ayvalık Kahvesi",
+    "category": ["Kafe", "Manzara"],
+    "coordinates": { "lat": 39.3000, "lng": 26.6500 },
+    "city": "Balıkesir",
+    "district": "Ayvalık",
+    "average_stay_minutes": 60,
+    "average_spend": { "amount": 120, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["09:00-19:00"]
+    },
+    "tags": ["kahve", "manzara", "sohbet"],
+    "popularity_score": 81,
+    "virality_trend": "kararlı",
+    "average_rating": 4.5,
+    "review_count": 6400,
+    "sources": ["Google Maps", "Instagram"],
+    "photos": [
+      "https://maps.googleapis.com/photo/ayvalikkahve  ",
+      "https://instagram.com/ayvalik_coffee.jpg  "
+    ]
+  },
+  {
+    "id": "place_022",
+    "name": "Burhaniye Zeytinlik Yürüyüş Yolu",
+    "category": ["Yürüyüş", "Doğa"],
+    "coordinates": { "lat": 39.3900, "lng": 27.0900 },
+    "city": "Balıkesir",
+    "district": "Burhaniye",
+    "average_stay_minutes": 120,
+    "average_spend": { "amount": 0, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["08:00-16:00"]
+    },
+    "tags": ["yürüyüş", "zeytinlik", "doğa"],
+    "popularity_score": 79,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.4,
+    "review_count": 5200,
+    "sources": ["Google Maps", "Doğa Derneği"],
+    "photos": [
+      "https://maps.googleapis.com/photo/burhaniyewalk  ",
+      "https://dogadernegi.org/burhaniye_olive_walk.jpg  "
+    ]
+  },
+  {
+    "id": "place_023",
+    "name": "Bandırma Tarihi Çarşı",
+    "category": ["Alışveriş", "Tarihi"],
+    "coordinates": { "lat": 40.3300, "lng": 27.9800 },
+    "city": "Balıkesir",
+    "district": "Bandırma",
+    "average_stay_minutes": 90,
+    "average_spend": { "amount": 250, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "Bahar"],
+      "days": ["Cuma", "Cumartesi"],
+      "hours": ["10:00-19:00"]
+    },
+    "tags": ["çarşı", "alışveriş", "tarihi"],
+    "popularity_score": 80,
+    "virality_trend": "kararlı",
+    "average_rating": 4.3,
+    "review_count": 4700,
+    "sources": ["Google Maps", "Belediye"],
+    "photos": [
+      "https://maps.googleapis.com/photo/bandirmacarsi  ",
+      "https://belediye.bandirma.gov.tr/historic_bazaar.jpg  "
+    ]
+  },
+  {
+    "id": "place_024",
+    "name": "Bigadiç Sığla Yağı Festivali",
+    "category": ["Festival", "Yerel Ürün"],
+    "coordinates": { "lat": 39.6800, "lng": 27.5800 },
+    "city": "Balıkesir",
+    "district": "Bigadiç",
+    "average_stay_minutes": 150,
+    "average_spend": { "amount": 130, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["10:00-20:00"]
+    },
+    "tags": ["sığla yağı", "festival", "etkinlik"],
+    "popularity_score": 73,
+    "virality_trend": "yıllık zirve",
+    "average_rating": 4.2,
+    "review_count": 2600,
+    "sources": ["Google Maps", "Belediye"],
+    "photos": [
+      "https://maps.googleapis.com/photo/bigadicsiglafest  ",
+      "https://belediye.bigadic.gov.tr/sigla_fest2024.jpg  "
+    ]
+  },
+  {
+    "id": "place_025",
+    "name": "Balıkesir Hatıra Dükkanı",
+    "category": ["Dükkan", "Souvenir"],
+    "coordinates": { "lat": 39.6480, "lng": 27.8780 },
+    "city": "Balıkesir",
+    "district": "Karesi",
+    "average_stay_minutes": 40,
+    "average_spend": { "amount": 170, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["10:00-19:00"]
+    },
+    "tags": ["souvenir", "hatıra", "el yapımı"],
+    "popularity_score": 70,
+    "virality_trend": "kararlı",
+    "average_rating": 4.3,
+    "review_count": 3100,
+    "sources": ["Google Maps", "Turist"],
+    "photos": [
+      "https://maps.googleapis.com/photo/balikesirsouvenir  ",
+      "https://turistshop.com/balikesir_gifts.jpg  "
+    ]
+  }
+]

@@ -1,0 +1,627 @@
+[
+  {
+    "id": "place_001",
+    "name": "Eskişehir Kapıları",
+    "category": ["Tarihi", "Kapı"],
+    "coordinates": { "lat": 38.7500, "lng": 34.6500 },
+    "city": "Kayseri",
+    "district": "Merkez",
+    "average_stay_minutes": 45,
+    "average_spend": { "amount": 0, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Pazar", "Cumartesi"],
+      "hours": ["09:00-18:00"]
+    },
+    "tags": ["tarihi", "kapı", "kültürel"],
+    "popularity_score": 90,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.8,
+    "review_count": 12000,
+    "sources": ["Google Maps", "Kültür Bakanlığı"],
+    "photos": [
+      "https://maps.googleapis.com/photo/eskisehirkapi  ",
+      "https://kultur.gov.tr/kayseri_eskisehir.jpg  "
+    ]
+  },
+  {
+    "id": "place_002",
+    "name": "Sütçü İmam Kebapçısı",
+    "category": ["Restoran", "Yerel Lezzet"],
+    "coordinates": { "lat": 38.7450, "lng": 34.6480 },
+    "city": "Kayseri",
+    "district": "Merkez",
+    "average_stay_minutes": 60,
+    "average_spend": { "amount": 280, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "İlkbahar"],
+      "days": ["Cuma", "Cumartesi", "Pazar"],
+      "hours": ["12:00-22:00"]
+    },
+    "tags": ["kebap", "meşhur", "kayseri usulü"],
+    "popularity_score": 95,
+    "virality_trend": "yüksek",
+    "average_rating": 4.9,
+    "review_count": 18500,
+    "sources": ["Google Maps", "Instagram"],
+    "photos": [
+      "https://maps.googleapis.com/photo/sutcuiimam  ",
+      "https://instagram.com/kayseri_food/sutcuimam.jpg  "
+    ]
+  },
+  {
+    "id": "place_003",
+    "name": "Göllüdağ Yaylası",
+    "category": ["Doğa", "Yayla"],
+    "coordinates": { "lat": 38.9000, "lng": 34.8500 },
+    "city": "Kayseri",
+    "district": "Develi",
+    "average_stay_minutes": 180,
+    "average_spend": { "amount": 50, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["08:00-18:00"]
+    },
+    "tags": ["yayla", "doğa", "yürüyüş"],
+    "popularity_score": 88,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.7,
+    "review_count": 9200,
+    "sources": ["Google Maps", "Doğa Derneği"],
+    "photos": [
+      "https://maps.googleapis.com/photo/golludag  ",
+      "https://dogadernegi.org/golludag_yayla.jpg  "
+    ]
+  },
+  {
+    "id": "place_004",
+    "name": "Kayseri Arkeoloji Müzesi",
+    "category": ["Müze", "Tarihi"],
+    "coordinates": { "lat": 38.7520, "lng": 34.6500 },
+    "city": "Kayseri",
+    "district": "Merkez",
+    "average_stay_minutes": 90,
+    "average_spend": { "amount": 70, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "İlkbahar"],
+      "days": ["Pazartesi", "Çarşamba", "Cuma"],
+      "hours": ["09:00-17:00"]
+    },
+    "tags": ["arkeoloji", "mozaik", "tarihi"],
+    "popularity_score": 85,
+    "virality_trend": "kararlı",
+    "average_rating": 4.6,
+    "review_count": 7500,
+    "sources": ["Google Maps", "Turizm Bakanlığı"],
+    "photos": [
+      "https://maps.googleapis.com/photo/kayserimuseum  ",
+      "https://museum.gov.tr/kayseri/entry.jpg  "
+    ]
+  },
+  {
+    "id": "place_005",
+    "name": "Yenice Pazarı",
+    "category": ["Pazar", "Yerel"],
+    "coordinates": { "lat": 38.7300, "lng": 34.6400 },
+    "city": "Kayseri",
+    "district": "Merkez",
+    "average_stay_minutes": 75,
+    "average_spend": { "amount": 150, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Pazar"],
+      "hours": ["08:00-14:00"]
+    },
+    "tags": ["pazar", "organik", "yerel"],
+    "popularity_score": 78,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.4,
+    "review_count": 3800,
+    "sources": ["Google Maps", "Yerel Haber"],
+    "photos": [
+      "https://maps.googleapis.com/photo/yenicepazar  ",
+      "https://localnews.com/kayseri_market.jpg  "
+    ]
+  },
+  {
+    "id": "place_006",
+    "name": "Sarıyar Plajı",
+    "category": ["Plaj", "Doğa"],
+    "coordinates": { "lat": 38.7000, "lng": 34.7000 },
+    "city": "Kayseri",
+    "district": "Kocasinan",
+    "average_stay_minutes": 120,
+    "average_spend": { "amount": 80, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Yaz"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["10:00-19:00"]
+    },
+    "tags": ["plaj", "deniz", "aile"],
+    "popularity_score": 82,
+    "virality_trend": "yaz mevsiminde zirve",
+    "average_rating": 4.5,
+    "review_count": 6200,
+    "sources": ["Google Maps", "Belediye"],
+    "photos": [
+      "https://maps.googleapis.com/photo/sariyarbeach  ",
+      "https://belediye.kayseri.gov.tr/sariyar_summer.jpg  "
+    ]
+  },
+  {
+    "id": "place_007",
+    "name": "Kırıkkale Sokakları",
+    "category": ["Tarih", "Sokak"],
+    "coordinates": { "lat": 38.7400, "lng": 34.6550 },
+    "city": "Kayseri",
+    "district": "Merkez",
+    "average_stay_minutes": 120,
+    "average_spend": { "amount": 200, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["10:00-18:00"]
+    },
+    "tags": ["tarihi", "sokak", "gezilecek yer"],
+    "popularity_score": 89,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.7,
+    "review_count": 9400,
+    "sources": ["Google Maps", "Instagram"],
+    "photos": [
+      "https://maps.googleapis.com/photo/kirikkalesokak  ",
+      "https://instagram.com/kayseri_oldtown.jpg  "
+    ]
+  },
+  {
+    "id": "place_008",
+    "name": "Zeytinli Köfteci",
+    "category": ["Restoran", "Yerel"],
+    "coordinates": { "lat": 38.7420, "lng": 34.6450 },
+    "city": "Kayseri",
+    "district": "Merkez",
+    "average_stay_minutes": 55,
+    "average_spend": { "amount": 240, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "İlkbahar"],
+      "days": ["Cuma", "Cumartesi", "Pazar"],
+      "hours": ["12:00-23:00"]
+    },
+    "tags": ["köfte", "meşhur", "uzun kuyruk"],
+    "popularity_score": 93,
+    "virality_trend": "yüksek",
+    "average_rating": 4.8,
+    "review_count": 13800,
+    "sources": ["Google Maps", "YemekSepeti"],
+    "photos": [
+      "https://maps.googleapis.com/photo/zeytinlikoftec  ",
+      "https://yemeksepeti.com.tr/restaurants/zeytinli.jpg  "
+    ]
+  },
+  {
+    "id": "place_009",
+    "name": "Kargı Köyü",
+    "category": ["Köy", "Doğa"],
+    "coordinates": { "lat": 39.0000, "lng": 34.8000 },
+    "city": "Kayseri",
+    "district": "Kargı",
+    "average_stay_minutes": 150,
+    "average_spend": { "amount": 50, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Pazar", "Cumartesi"],
+      "hours": ["09:00-16:00"]
+    },
+    "tags": ["doğa", "köy", "temiz hava"],
+    "popularity_score": 75,
+    "virality_trend": "yavaş yükseliş",
+    "average_rating": 4.3,
+    "review_count": 2900,
+    "sources": ["Google Maps", "Doğa Derneği"],
+    "photos": [
+      "https://maps.googleapis.com/photo/kargikoyu  ",
+      "https://dogadernegi.org/kargi_spring.jpg  "
+    ]
+  },
+  {
+    "id": "place_010",
+    "name": "Kaya Çarşısı",
+    "category": ["Alışveriş", "Çarşı"],
+    "coordinates": { "lat": 38.7350, "lng": 34.6400 },
+    "city": "Kayseri",
+    "district": "Merkez",
+    "average_stay_minutes": 90,
+    "average_spend": { "amount": 350, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "Bahar"],
+      "days": ["Cuma", "Cumartesi"],
+      "hours": ["10:00-20:00"]
+    },
+    "tags": ["alışveriş", "modern", "aile"],
+    "popularity_score": 80,
+    "virality_trend": "kararlı",
+    "average_rating": 4.2,
+    "review_count": 4300,
+    "sources": ["Google Maps", "Belediye"],
+    "photos": [
+      "https://maps.googleapis.com/photo/kayacarsi  ",
+      "https://belediye.kayseri.gov.tr/kaya_mall.jpg  "
+    ]
+  },
+  {
+    "id": "place_011",
+    "name": "Kocasinan Limanı",
+    "category": ["Liman", "Görünümlü"],
+    "coordinates": { "lat": 38.7000, "lng": 34.7000 },
+    "city": "Kayseri",
+    "district": "Kocasinan",
+    "average_stay_minutes": 60,
+    "average_spend": { "amount": 0, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Yaz", "Sonbahar"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["18:00-21:00"]
+    },
+    "tags": ["manzara", "deniz", "gece"],
+    "popularity_score": 77,
+    "virality_trend": "mevsimsel",
+    "average_rating": 4.4,
+    "review_count": 3900,
+    "sources": ["Google Maps", "Turist Rehberi"],
+    "photos": [
+      "https://maps.googleapis.com/photo/kocasinanport  ",
+      "https://touristguide.com.tr/kocasinan_sunset.jpg  "
+    ]
+  },
+  {
+    "id": "place_012",
+    "name": "Hacıbektaş Zeytin Tarlaları",
+    "category": ["Tarım", "Doğa"],
+    "coordinates": { "lat": 39.1000, "lng": 34.9000 },
+    "city": "Kayseri",
+    "district": "Hacıbektaş",
+    "average_stay_minutes": 100,
+    "average_spend": { "amount": 30, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Sonbahar", "Kış"],
+      "days": ["Pazar"],
+      "hours": ["09:00-15:00"]
+    },
+    "tags": ["zeytin", "doğa", "tarım"],
+    "popularity_score": 70,
+    "virality_trend": "yavaş yükseliş",
+    "average_rating": 4.1,
+    "review_count": 2200,
+    "sources": ["Google Maps", "Tarım Bakanlığı"],
+    "photos": [
+      "https://maps.googleapis.com/photo/hacibektasolive  ",
+      "https://tarim.gov.tr/hacibektas_zeytin.jpg  "
+    ]
+  },
+  {
+    "id": "place_013",
+    "name": "Kırıkkale Kayak Merkezi",
+    "category": ["Spor", "Doğa"],
+    "coordinates": { "lat": 38.8000, "lng": 34.7000 },
+    "city": "Kayseri",
+    "district": "Kırıkkale",
+    "average_stay_minutes": 240,
+    "average_spend": { "amount": 400, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["09:00-16:00"]
+    },
+    "tags": ["kayak", "kar", "spor"],
+    "popularity_score": 73,
+    "virality_trend": "kış mevsiminde zirve",
+    "average_rating": 4.3,
+    "review_count": 3200,
+    "sources": ["Google Maps", "Spor Bakanlığı"],
+    "photos": [
+      "https://maps.googleapis.com/photo/kirikkale_ski  ",
+      "https://sporbakanligi.gov.tr/kirikkale_kayak.jpg  "
+    ]
+  },
+  {
+    "id": "place_014",
+    "name": "Tufanbeyli Kalesi",
+    "category": ["Kale", "Tarihi"],
+    "coordinates": { "lat": 38.6000, "lng": 34.5000 },
+    "city": "Kayseri",
+    "district": "Tufanbeyli",
+    "average_stay_minutes": 70,
+    "average_spend": { "amount": 40, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Pazar", "Cumartesi"],
+      "hours": ["10:00-17:00"]
+    },
+    "tags": ["kale", "tarihi", "görsel"],
+    "popularity_score": 79,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.5,
+    "review_count": 5400,
+    "sources": ["Google Maps", "Kültür Bakanlığı"],
+    "photos": [
+      "https://maps.googleapis.com/photo/tufanbeylikale  ",
+      "https://kultur.gov.tr/tufanbeyli_kalesi.jpg  "
+    ]
+  },
+  {
+    "id": "place_015",
+    "name": "Bolu Geçidi",
+    "category": ["Doğa", "Geçit"],
+    "coordinates": { "lat": 38.8500, "lng": 34.7500 },
+    "city": "Kayseri",
+    "district": "Bolu",
+    "average_stay_minutes": 90,
+    "average_spend": { "amount": 0, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["08:00-18:00"]
+    },
+    "tags": ["geçit", "doğa", "manzara"],
+    "popularity_score": 81,
+    "virality_trend": "kararlı",
+    "average_rating": 4.6,
+    "review_count": 6700,
+    "sources": ["Google Maps", "Doğa Derneği"],
+    "photos": [
+      "https://maps.googleapis.com/photo/bolugecidi  ",
+      "https://dogadernegi.org/bolu_pass.jpg  "
+    ]
+  },
+  {
+    "id": "place_016",
+    "name": "Kayseri Yemek Festivali",
+    "category": ["Festival", "Gastronomi"],
+    "coordinates": { "lat": 38.7500, "lng": 34.6500 },
+    "city": "Kayseri",
+    "district": "Merkez",
+    "average_stay_minutes": 180,
+    "average_spend": { "amount": 150, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar"],
+      "days": ["Cuma", "Cumartesi", "Pazar"],
+      "hours": ["11:00-22:00"]
+    },
+    "tags": ["festival", "yemek", "etkinlik"],
+    "popularity_score": 86,
+    "virality_trend": "yıllık zirve",
+    "average_rating": 4.7,
+    "review_count": 8900,
+    "sources": ["Google Maps", "Belediye"],
+    "photos": [
+      "https://maps.googleapis.com/photo/kayserifoodfest  ",
+      "https://belediye.kayseri.gov.tr/festival2024.jpg  "
+    ]
+  },
+  {
+    "id": "place_017",
+    "name": "Kırıkkale Plajı",
+    "category": ["Plaj", "Doğa"],
+    "coordinates": { "lat": 38.7800, "lng": 34.7200 },
+    "city": "Kayseri",
+    "district": "Kırıkkale",
+    "average_stay_minutes": 150,
+    "average_spend": { "amount": 120, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Yaz"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["10:00-19:00"]
+    },
+    "tags": ["plaj", "deniz", "aile"],
+    "popularity_score": 83,
+    "virality_trend": "yaz zirvesi",
+    "average_rating": 4.5,
+    "review_count": 7300,
+    "sources": ["Google Maps", "Turizm"],
+    "photos": [
+      "https://maps.googleapis.com/photo/kirikkalebeach  ",
+      "https://turizm.gov.tr/kirikkale_summer.jpg  "
+    ]
+  },
+  {
+    "id": "place_018",
+    "name": "Kızılırmak Şelalesi",
+    "category": ["Şelale", "Doğa"],
+    "coordinates": { "lat": 38.8500, "lng": 34.7500 },
+    "city": "Kayseri",
+    "district": "Kızılırmak",
+    "average_stay_minutes": 120,
+    "average_spend": { "amount": 20, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Pazar"],
+      "hours": ["09:00-17:00"]
+    },
+    "tags": ["şelale", "doğa", "fotoğraf"],
+    "popularity_score": 76,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.4,
+    "review_count": 4800,
+    "sources": ["Google Maps", "Doğa"],
+    "photos": [
+      "https://maps.googleapis.com/photo/kizilirmakfalls  ",
+      "https://dogaseyahat.com/kizilirmak_spring.jpg  "
+    ]
+  },
+  {
+    "id": "place_019",
+    "name": "Kırıkkale Tarım Pazarı",
+    "category": ["Pazar", "Organik"],
+    "coordinates": { "lat": 38.8000, "lng": 34.7000 },
+    "city": "Kayseri",
+    "district": "Kırıkkale",
+    "average_stay_minutes": 80,
+    "average_spend": { "amount": 130, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Pazar"],
+      "hours": ["07:00-13:00"]
+    },
+    "tags": ["organik", "pazar", "yerel"],
+    "popularity_score": 74,
+    "virality_trend": "kararlı",
+    "average_rating": 4.3,
+    "review_count": 3100,
+    "sources": ["Google Maps", "Tarım"],
+    "photos": [
+      "https://maps.googleapis.com/photo/kirikkaleorganic  ",
+      "https://tarim.gov.tr/kirikkale_pazar.jpg  "
+    ]
+  },
+  {
+    "id": "place_020",
+    "name": "Kırıkkale Ormanları",
+    "category": ["Orman", "Doğa"],
+    "coordinates": { "lat": 38.8200, "lng": 34.7500 },
+    "city": "Kayseri",
+    "district": "Kırıkkale",
+    "average_stay_minutes": 180,
+    "average_spend": { "amount": 0, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["08:00-17:00"]
+    },
+    "tags": ["orman", "yürüyüş", "temiz hava"],
+    "popularity_score": 72,
+    "virality_trend": "yavaş yükseliş",
+    "average_rating": 4.2,
+    "review_count": 2600,
+    "sources": ["Google Maps", "ORMAN"],
+    "photos": [
+      "https://maps.googleapis.com/photo/kirikkaleforest  ",
+      "https://ormangb.gov.tr/kirikkale_orman.jpg  "
+    ]
+  },
+  {
+    "id": "place_021",
+    "name": "Kayseri Hatıra Dükkanı",
+    "category": ["Dükkan", "El Sanatı"],
+    "coordinates": { "lat": 38.7500, "lng": 34.6520 },
+    "city": "Kayseri",
+    "district": "Merkez",
+    "average_stay_minutes": 45,
+    "average_spend": { "amount": 180, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "Bahar"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["10:00-19:00"]
+    },
+    "tags": ["el sanatı", "hatıra", "souvenir"],
+    "popularity_score": 78,
+    "virality_trend": "kararlı",
+    "average_rating": 4.4,
+    "review_count": 4300,
+    "sources": ["Google Maps", "Turist"],
+    "photos": [
+      "https://maps.googleapis.com/photo/kayserisouvenir  ",
+      "https://turistshop.com/kayseri_gifts.jpg  "
+    ]
+  },
+  {
+    "id": "place_022",
+    "name": "Kırıkkale Zeytinyağı Tadımı",
+    "category": ["Tatil", "Lezzet"],
+    "coordinates": { "lat": 38.8100, "lng": 34.7100 },
+    "city": "Kayseri",
+    "district": "Kırıkkale",
+    "average_stay_minutes": 60,
+    "average_spend": { "amount": 100, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Sonbahar", "Kış"],
+      "days": ["Cumartesi"],
+      "hours": ["10:00-16:00"]
+    },
+    "tags": ["zeytinyağı", "tadım", "yerel"],
+    "popularity_score": 71,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.5,
+    "review_count": 2900,
+    "sources": ["Google Maps", "Tarım"],
+    "photos": [
+      "https://maps.googleapis.com/photo/kirikkaleoliveoil  ",
+      "https://tarim.gov.tr/kirikkale_taste.jpg  "
+    ]
+  },
+  {
+    "id": "place_023",
+    "name": "Kırıkkale Balık Restoranları",
+    "category": ["Restoran", "Deniz Ürünü"],
+    "coordinates": { "lat": 38.7800, "lng": 34.7200 },
+    "city": "Kayseri",
+    "district": "Kırıkkale",
+    "average_stay_minutes": 90,
+    "average_spend": { "amount": 400, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Yaz"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["18:00-23:00"]
+    },
+    "tags": ["balık", "deniz ürünleri", "meşhur"],
+    "popularity_score": 84,
+    "virality_trend": "yaz zirvesi",
+    "average_rating": 4.6,
+    "review_count": 7600,
+    "sources": ["Google Maps", "Yemek"],
+    "photos": [
+      "https://maps.googleapis.com/photo/kirikkalefish  ",
+      "https://yemek.com/kirikkale_balik.jpg  "
+    ]
+  },
+  {
+    "id": "place_024",
+    "name": "Kırıkkale Kalesi",
+    "category": ["Kale", "Tarihi"],
+    "coordinates": { "lat": 38.7900, "lng": 34.7300 },
+    "city": "Kayseri",
+    "district": "Kırıkkale",
+    "average_stay_minutes": 80,
+    "average_spend": { "amount": 30, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Pazar"],
+      "hours": ["09:00-17:00"]
+    },
+    "tags": ["kale", "tarihi", "görsel"],
+    "popularity_score": 68,
+    "virality_trend": "yavaş yükseliş",
+    "average_rating": 4.1,
+    "review_count": 1900,
+    "sources": ["Google Maps", "Kültür"],
+    "photos": [
+      "https://maps.googleapis.com/photo/kirikkalekale  ",
+      "https://kultur.gov.tr/kirikkale_kalesi.jpg  "
+    ]
+  },
+  {
+    "id": "place_025",
+    "name": "Kayseri Hatıra Fotoğrafçısı",
+    "category": ["Hizmet", "Fotoğraf"],
+    "coordinates": { "lat": 38.7510, "lng": 34.6510 },
+    "city": "Kayseri",
+    "district": "Merkez",
+    "average_stay_minutes": 30,
+    "average_spend": { "amount": 75, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["10:00-19:00"]
+    },
+    "tags": ["fotoğraf", "hatıra", "turist"],
+    "popularity_score": 65,
+    "virality_trend": "kararlı",
+    "average_rating": 4.3,
+    "review_count": 1500,
+    "sources": ["Google Maps", "Turist"],
+    "photos": [
+      "https://maps.googleapis.com/photo/kayseriphotographer  ",
+      "https://turistphotos.com/kayseri_shoot.jpg  "
+    ]
+  }
+]

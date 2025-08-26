@@ -1,0 +1,627 @@
+[
+  {
+    "id": "place_001",
+    "name": "Habib-i Neccar Camii",
+    "category": ["Camii", "Tarihi"],
+    "coordinates": { "lat": 36.4006, "lng": 36.3489 },
+    "city": "Hatay",
+    "district": "Antakya",
+    "average_stay_minutes": 45,
+    "average_spend": { "amount": 0, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Pazartesi", "Çarşamba", "Pazar"],
+      "hours": ["09:00-17:00"]
+    },
+    "tags": ["tarihi", "dini", "kültürel"],
+    "popularity_score": 92,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.8,
+    "review_count": 9800,
+    "sources": ["Google Maps", "TripAdvisor"],
+    "photos": [
+      "https://maps.googleapis.com/photo/habibineccar1  ",
+      "https://turkishlandmarks.org/habibi-neccar.jpg  "
+    ]
+  },
+  {
+    "id": "place_002",
+    "name": "Vakıflar Kebapçısı",
+    "category": ["Restoran", "Yerel Lezzet"],
+    "coordinates": { "lat": 36.2056, "lng": 36.1658 },
+    "city": "Hatay",
+    "district": "Antakya",
+    "average_stay_minutes": 60,
+    "average_spend": { "amount": 250, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "İlkbahar"],
+      "days": ["Cumartesi", "Pazar", "Cuma"],
+      "hours": ["12:00-22:00"]
+    },
+    "tags": ["kebap", "hatay usulü", "meşhur"],
+    "popularity_score": 95,
+    "virality_trend": "yüksek",
+    "average_rating": 4.9,
+    "review_count": 15200,
+    "sources": ["Google Maps", "Instagram"],
+    "photos": [
+      "https://maps.googleapis.com/photo/vakiflarkebap  ",
+      "https://instagram.com/hatay_food/vakiflar.jpg  "
+    ]
+  },
+  {
+    "id": "place_003",
+    "name": "St. Pierre Kilisesi",
+    "category": ["Kilise", "Tarihi"],
+    "coordinates": { "lat": 36.4050, "lng": 36.3520 },
+    "city": "Hatay",
+    "district": "Antakya",
+    "average_stay_minutes": 50,
+    "average_spend": { "amount": 50, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Salı", "Perşembe", "Pazar"],
+      "hours": ["09:30-17:00"]
+    },
+    "tags": ["hristiyan", "ilk kilise", "UNESCO"],
+    "popularity_score": 88,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.7,
+    "review_count": 8700,
+    "sources": ["Google Maps", "UNESCO"],
+    "photos": [
+      "https://maps.googleapis.com/photo/stpierre  ",
+      "https://unesco.org/sites/stpierre_hatay.jpg  "
+    ]
+  },
+  {
+    "id": "place_004",
+    "name": "Hatay Arkeoloji Müzesi",
+    "category": ["Müze", "Tarihi"],
+    "coordinates": { "lat": 36.4030, "lng": 36.3490 },
+    "city": "Hatay",
+    "district": "Antakya",
+    "average_stay_minutes": 90,
+    "average_spend": { "amount": 75, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "İlkbahar"],
+      "days": ["Pazartesi", "Çarşamba", "Cuma"],
+      "hours": ["09:00-17:00"]
+    },
+    "tags": ["arkeoloji", "mozaik", "tarihi"],
+    "popularity_score": 85,
+    "virality_trend": "kararlı",
+    "average_rating": 4.6,
+    "review_count": 7200,
+    "sources": ["Google Maps", "Turizm Bakanlığı"],
+    "photos": [
+      "https://maps.googleapis.com/photo/hataymuseum  ",
+      "https://museum.gov.tr/hatay/entry.jpg  "
+    ]
+  },
+  {
+    "id": "place_005",
+    "name": "Kırıkhan Pazarı",
+    "category": ["Pazar", "Yerel"],
+    "coordinates": { "lat": 36.6275, "lng": 36.4580 },
+    "city": "Hatay",
+    "district": "Kırıkhan",
+    "average_stay_minutes": 75,
+    "average_spend": { "amount": 150, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Pazar"],
+      "hours": ["08:00-14:00"]
+    },
+    "tags": ["pazar", "organik", "yerel"],
+    "popularity_score": 78,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.4,
+    "review_count": 3400,
+    "sources": ["Google Maps", "Yerel Haber"],
+    "photos": [
+      "https://maps.googleapis.com/photo/kirikhanpazar  ",
+      "https://localnews.com/kirikhan_market.jpg  "
+    ]
+  },
+  {
+    "id": "place_006",
+    "name": "Samandağ Plajı",
+    "category": ["Plaj", "Doğa"],
+    "coordinates": { "lat": 36.2500, "lng": 36.0800 },
+    "city": "Hatay",
+    "district": "Samandağ",
+    "average_stay_minutes": 180,
+    "average_spend": { "amount": 100, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Yaz"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["10:00-19:00"]
+    },
+    "tags": ["plaj", "deniz", "aile"],
+    "popularity_score": 82,
+    "virality_trend": "yaz mevsiminde zirve",
+    "average_rating": 4.5,
+    "review_count": 6100,
+    "sources": ["Google Maps", "Belediye"],
+    "photos": [
+      "https://maps.googleapis.com/photo/samandagbeach  ",
+      "https://belediye.hatay.gov.tr/samandag/summer.jpg  "
+    ]
+  },
+  {
+    "id": "place_007",
+    "name": "Eski Antakya Sokakları",
+    "category": ["Tarih", "Sokak"],
+    "coordinates": { "lat": 36.3950, "lng": 36.3500 },
+    "city": "Hatay",
+    "district": "Antakya",
+    "average_stay_minutes": 120,
+    "average_spend": { "amount": 200, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["10:00-18:00"]
+    },
+    "tags": ["tarihi", "sokak", "gezilecek yer"],
+    "popularity_score": 89,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.7,
+    "review_count": 9100,
+    "sources": ["Google Maps", "Instagram"],
+    "photos": [
+      "https://maps.googleapis.com/photo/antakyastreets  ",
+      "https://instagram.com/hatay_oldtown.jpg  "
+    ]
+  },
+  {
+    "id": "place_008",
+    "name": "Erasmus Kebap",
+    "category": ["Restoran", "Yerel"],
+    "coordinates": { "lat": 36.2040, "lng": 36.1620 },
+    "city": "Hatay",
+    "district": "Antakya",
+    "average_stay_minutes": 55,
+    "average_spend": { "amount": 220, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "İlkbahar"],
+      "days": ["Cuma", "Cumartesi", "Pazar"],
+      "hours": ["12:00-23:00"]
+    },
+    "tags": ["kebap", "meşhur", "uzun kuyruk"],
+    "popularity_score": 93,
+    "virality_trend": "yüksek",
+    "average_rating": 4.8,
+    "review_count": 13400,
+    "sources": ["Google Maps", "YemekSepeti"],
+    "photos": [
+      "https://maps.googleapis.com/photo/erasmuskebap  ",
+      "https://yemeksepeti.com.tr/restaurants/erasmus.jpg  "
+    ]
+  },
+  {
+    "id": "place_009",
+    "name": "Harbiye Köyü",
+    "category": ["Köy", "Doğa"],
+    "coordinates": { "lat": 36.5000, "lng": 36.2000 },
+    "city": "Hatay",
+    "district": "Reyhanlı",
+    "average_stay_minutes": 150,
+    "average_spend": { "amount": 50, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Pazar", "Cumartesi"],
+      "hours": ["09:00-16:00"]
+    },
+    "tags": ["doğa", "köy", "temiz hava"],
+    "popularity_score": 75,
+    "virality_trend": "yavaş yükseliş",
+    "average_rating": 4.3,
+    "review_count": 2800,
+    "sources": ["Google Maps", "Doğa Derneği"],
+    "photos": [
+      "https://maps.googleapis.com/photo/harbiyekoyu  ",
+      "https://dogadernegi.org/harbiye_spring.jpg  "
+    ]
+  },
+  {
+    "id": "place_010",
+    "name": "Defne Çarşısı",
+    "category": ["Alışveriş", "Çarşı"],
+    "coordinates": { "lat": 36.3800, "lng": 36.3000 },
+    "city": "Hatay",
+    "district": "Defne",
+    "average_stay_minutes": 90,
+    "average_spend": { "amount": 300, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "Bahar"],
+      "days": ["Cuma", "Cumartesi"],
+      "hours": ["10:00-20:00"]
+    },
+    "tags": ["alışveriş", "modern", "aile"],
+    "popularity_score": 80,
+    "virality_trend": "kararlı",
+    "average_rating": 4.2,
+    "review_count": 4100,
+    "sources": ["Google Maps", "Belediye"],
+    "photos": [
+      "https://maps.googleapis.com/photo/defnecarsi  ",
+      "https://belediye.defne.gov.tr/defne_mall.jpg  "
+    ]
+  },
+  {
+    "id": "place_011",
+    "name": "İskenderun Limanı",
+    "category": ["Liman", "Görünümlü"],
+    "coordinates": { "lat": 36.5167, "lng": 36.1833 },
+    "city": "Hatay",
+    "district": "İskenderun",
+    "average_stay_minutes": 60,
+    "average_spend": { "amount": 0, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Yaz", "Sonbahar"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["18:00-21:00"]
+    },
+    "tags": ["manzara", "deniz", "gece"],
+    "popularity_score": 77,
+    "virality_trend": "mevsimsel",
+    "average_rating": 4.4,
+    "review_count": 3900,
+    "sources": ["Google Maps", "Turist Rehberi"],
+    "photos": [
+      "https://maps.googleapis.com/photo/iskenderunport  ",
+      "https://touristguide.com.tr/iskenderun_sunset.jpg  "
+    ]
+  },
+  {
+    "id": "place_012",
+    "name": "Dörtyol Zeytinli Tarlaları",
+    "category": ["Tarım", "Doğa"],
+    "coordinates": { "lat": 36.7500, "lng": 36.1000 },
+    "city": "Hatay",
+    "district": "Dörtyol",
+    "average_stay_minutes": 100,
+    "average_spend": { "amount": 30, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Sonbahar", "Kış"],
+      "days": ["Pazar"],
+      "hours": ["09:00-15:00"]
+    },
+    "tags": ["zeytin", "doğa", "tarım"],
+    "popularity_score": 70,
+    "virality_trend": "yavaş yükseliş",
+    "average_rating": 4.1,
+    "review_count": 2100,
+    "sources": ["Google Maps", "Tarım Bakanlığı"],
+    "photos": [
+      "https://maps.googleapis.com/photo/dortyololive  ",
+      "https://tarim.gov.tr/dortyol_zeytin.jpg  "
+    ]
+  },
+  {
+    "id": "place_013",
+    "name": "Kumlu Kayak Merkezi",
+    "category": ["Spor", "Doğa"],
+    "coordinates": { "lat": 36.7000, "lng": 36.3000 },
+    "city": "Hatay",
+    "district": "Kumlu",
+    "average_stay_minutes": 240,
+    "average_spend": { "amount": 400, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["09:00-16:00"]
+    },
+    "tags": ["kayak", "kar", "spor"],
+    "popularity_score": 73,
+    "virality_trend": "kış mevsiminde zirve",
+    "average_rating": 4.3,
+    "review_count": 3200,
+    "sources": ["Google Maps", "Spor Bakanlığı"],
+    "photos": [
+      "https://maps.googleapis.com/photo/kumlu_ski  ",
+      "https://sporbakanligi.gov.tr/kumlu_kayak.jpg  "
+    ]
+  },
+  {
+    "id": "place_014",
+    "name": "Payas Kalesi",
+    "category": ["Kale", "Tarihi"],
+    "coordinates": { "lat": 36.6500, "lng": 36.1500 },
+    "city": "Hatay",
+    "district": "Payas",
+    "average_stay_minutes": 70,
+    "average_spend": { "amount": 40, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Pazar", "Cumartesi"],
+      "hours": ["10:00-17:00"]
+    },
+    "tags": ["kale", "tarihi", "görsel"],
+    "popularity_score": 79,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.5,
+    "review_count": 5400,
+    "sources": ["Google Maps", "Kültür Bakanlığı"],
+    "photos": [
+      "https://maps.googleapis.com/photo/payaskale  ",
+      "https://kultur.gov.tr/payas_kalesi.jpg  "
+    ]
+  },
+  {
+    "id": "place_015",
+    "name": "Belen Geçidi",
+    "category": ["Doğa", "Geçit"],
+    "coordinates": { "lat": 36.3000, "lng": 36.4000 },
+    "city": "Hatay",
+    "district": "Belen",
+    "average_stay_minutes": 90,
+    "average_spend": { "amount": 0, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["08:00-18:00"]
+    },
+    "tags": ["geçit", "doğa", "manzara"],
+    "popularity_score": 81,
+    "virality_trend": "kararlı",
+    "average_rating": 4.6,
+    "review_count": 6700,
+    "sources": ["Google Maps", "Doğa Derneği"],
+    "photos": [
+      "https://maps.googleapis.com/photo/belengecidi  ",
+      "https://dogadernegi.org/belen_pass.jpg  "
+    ]
+  },
+  {
+    "id": "place_016",
+    "name": "Hatay Yemek Festivali",
+    "category": ["Festival", "Gastronomi"],
+    "coordinates": { "lat": 36.4000, "lng": 36.3500 },
+    "city": "Hatay",
+    "district": "Antakya",
+    "average_stay_minutes": 180,
+    "average_spend": { "amount": 150, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar"],
+      "days": ["Cuma", "Cumartesi", "Pazar"],
+      "hours": ["11:00-22:00"]
+    },
+    "tags": ["festival", "yemek", "etkinlik"],
+    "popularity_score": 86,
+    "virality_trend": "yıllık zirve",
+    "average_rating": 4.7,
+    "review_count": 8900,
+    "sources": ["Google Maps", "Belediye"],
+    "photos": [
+      "https://maps.googleapis.com/photo/hatayfoodfest  ",
+      "https://belediye.hatay.gov.tr/festival2024.jpg  "
+    ]
+  },
+  {
+    "id": "place_017",
+    "name": "Arsuz Plajı",
+    "category": ["Plaj", "Doğa"],
+    "coordinates": { "lat": 36.2200, "lng": 36.1000 },
+    "city": "Hatay",
+    "district": "Arsuz",
+    "average_stay_minutes": 150,
+    "average_spend": { "amount": 120, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Yaz"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["10:00-19:00"]
+    },
+    "tags": ["plaj", "deniz", "aile"],
+    "popularity_score": 83,
+    "virality_trend": "yaz zirvesi",
+    "average_rating": 4.5,
+    "review_count": 7300,
+    "sources": ["Google Maps", "Turizm"],
+    "photos": [
+      "https://maps.googleapis.com/photo/arsuzbeach  ",
+      "https://turizm.gov.tr/arsuz_summer.jpg  "
+    ]
+  },
+  {
+    "id": "place_018",
+    "name": "Yakacık Şelalesi",
+    "category": ["Şelale", "Doğa"],
+    "coordinates": { "lat": 36.5500, "lng": 36.2500 },
+    "city": "Hatay",
+    "district": "Reyhanlı",
+    "average_stay_minutes": 120,
+    "average_spend": { "amount": 20, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Pazar"],
+      "hours": ["09:00-17:00"]
+    },
+    "tags": ["şelale", "doğa", "fotoğraf"],
+    "popularity_score": 76,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.4,
+    "review_count": 4800,
+    "sources": ["Google Maps", "Doğa"],
+    "photos": [
+      "https://maps.googleapis.com/photo/yakacikfalls  ",
+      "https://dogaseyahat.com/yakacik_spring.jpg  "
+    ]
+  },
+  {
+    "id": "place_019",
+    "name": "Kırıkhan Tarım Pazarı",
+    "category": ["Pazar", "Organik"],
+    "coordinates": { "lat": 36.6275, "lng": 36.4580 },
+    "city": "Hatay",
+    "district": "Kırıkhan",
+    "average_stay_minutes": 80,
+    "average_spend": { "amount": 130, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Pazar"],
+      "hours": ["07:00-13:00"]
+    },
+    "tags": ["organik", "pazar", "yerel"],
+    "popularity_score": 74,
+    "virality_trend": "kararlı",
+    "average_rating": 4.3,
+    "review_count": 3100,
+    "sources": ["Google Maps", "Tarım"],
+    "photos": [
+      "https://maps.googleapis.com/photo/kirikhanorganic  ",
+      "https://tarim.gov.tr/kirikhan_pazar.jpg  "
+    ]
+  },
+  {
+    "id": "place_020",
+    "name": "Hassa Ormanları",
+    "category": ["Orman", "Doğa"],
+    "coordinates": { "lat": 36.7800, "lng": 36.3500 },
+    "city": "Hatay",
+    "district": "Hassa",
+    "average_stay_minutes": 180,
+    "average_spend": { "amount": 0, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["08:00-17:00"]
+    },
+    "tags": ["orman", "yürüyüş", "temiz hava"],
+    "popularity_score": 72,
+    "virality_trend": "yavaş yükseliş",
+    "average_rating": 4.2,
+    "review_count": 2600,
+    "sources": ["Google Maps", "ORMAN"],
+    "photos": [
+      "https://maps.googleapis.com/photo/hassaforest  ",
+      "https://ormangb.gov.tr/hassa_orman.jpg  "
+    ]
+  },
+  {
+    "id": "place_021",
+    "name": "Antakya Hatıra Dükkanı",
+    "category": ["Dükkan", "El Sanatı"],
+    "coordinates": { "lat": 36.4000, "lng": 36.3520 },
+    "city": "Hatay",
+    "district": "Antakya",
+    "average_stay_minutes": 45,
+    "average_spend": { "amount": 180, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "Bahar"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["10:00-19:00"]
+    },
+    "tags": ["el sanatı", "hatıra", "souvenir"],
+    "popularity_score": 78,
+    "virality_trend": "kararlı",
+    "average_rating": 4.4,
+    "review_count": 4300,
+    "sources": ["Google Maps", "Turist"],
+    "photos": [
+      "https://maps.googleapis.com/photo/antakyasouvenir  ",
+      "https://turistshop.com/hatay_gifts.jpg  "
+    ]
+  },
+  {
+    "id": "place_022",
+    "name": "Kırıkhan Zeytinyağı Tadımı",
+    "category": ["Tatil", "Lezzet"],
+    "coordinates": { "lat": 36.6300, "lng": 36.4600 },
+    "city": "Hatay",
+    "district": "Kırıkhan",
+    "average_stay_minutes": 60,
+    "average_spend": { "amount": 100, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Sonbahar", "Kış"],
+      "days": ["Cumartesi"],
+      "hours": ["10:00-16:00"]
+    },
+    "tags": ["zeytinyağı", "tadım", "yerel"],
+    "popularity_score": 71,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.5,
+    "review_count": 2900,
+    "sources": ["Google Maps", "Tarım"],
+    "photos": [
+      "https://maps.googleapis.com/photo/kirikhanoliveoil  ",
+      "https://tarim.gov.tr/kirikhan_taste.jpg  "
+    ]
+  },
+  {
+    "id": "place_023",
+    "name": "Samandağ Balık Restoranları",
+    "category": ["Restoran", "Deniz Ürünü"],
+    "coordinates": { "lat": 36.2500, "lng": 36.0800 },
+    "city": "Hatay",
+    "district": "Samandağ",
+    "average_stay_minutes": 90,
+    "average_spend": { "amount": 400, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Yaz"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["18:00-23:00"]
+    },
+    "tags": ["balık", "deniz ürünleri", "meşhur"],
+    "popularity_score": 84,
+    "virality_trend": "yaz zirvesi",
+    "average_rating": 4.6,
+    "review_count": 7600,
+    "sources": ["Google Maps", "Yemek"],
+    "photos": [
+      "https://maps.googleapis.com/photo/samandagfish  ",
+      "https://yemek.com/samandag_balik.jpg  "
+    ]
+  },
+  {
+    "id": "place_024",
+    "name": "Kozan Kalesi",
+    "category": ["Kale", "Tarihi"],
+    "coordinates": { "lat": 37.3333, "lng": 36.4500 },
+    "city": "Hatay",
+    "district": "Kozan",
+    "average_stay_minutes": 80,
+    "average_spend": { "amount": 30, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Pazar"],
+      "hours": ["09:00-17:00"]
+    },
+    "tags": ["kale", "tarihi", "görsel"],
+    "popularity_score": 68,
+    "virality_trend": "yavaş yükseliş",
+    "average_rating": 4.1,
+    "review_count": 1900,
+    "sources": ["Google Maps", "Kültür"],
+    "photos": [
+      "https://maps.googleapis.com/photo/kozankale  ",
+      "https://kultur.gov.tr/kozan_kalesi.jpg  "
+    ]
+  },
+  {
+    "id": "place_025",
+    "name": "Hatay Hatıra Fotoğrafçısı",
+    "category": ["Hizmet", "Fotoğraf"],
+    "coordinates": { "lat": 36.4010, "lng": 36.3510 },
+    "city": "Hatay",
+    "district": "Antakya",
+    "average_stay_minutes": 30,
+    "average_spend": { "amount": 75, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["10:00-19:00"]
+    },
+    "tags": ["fotoğraf", "hatıra", "turist"],
+    "popularity_score": 65,
+    "virality_trend": "kararlı",
+    "average_rating": 4.3,
+    "review_count": 1500,
+    "sources": ["Google Maps", "Turist"],
+    "photos": [
+      "https://maps.googleapis.com/photo/hatayphoto  ",
+      "https://turistphotos.com/hatay_shoot.jpg  "
+    ]
+  }
+]

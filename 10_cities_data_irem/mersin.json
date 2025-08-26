@@ -1,0 +1,597 @@
+[
+  {
+    "id": "place_002",
+    "name": "Mersin Marina",
+    "category": ["Marina", "Eğlence"],
+    "coordinates": { "lat": 36.8121, "lng": 34.6415 },
+    "city": "Mersin",
+    "district": "Yenişehir",
+    "average_stay_minutes": 120,
+    "average_spend": { "amount": 200, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz", "Sonbahar"],
+      "days": ["Cumartesi", "Pazar", "Cuma"],
+      "hours": ["18:00-23:00"]
+    },
+    "tags": ["marina", "deniz manzarası", "aile dostu", "romantik"],
+    "popularity_score": 89,
+    "virality_trend": "stabil",
+    "average_rating": 4.5,
+    "review_count": 8750,
+    "sources": ["Google Maps", "Instagram"],
+    "photos": [
+      "https://maps.googleapis.com/photo/marina001",
+      "https://instagram.com/mersin_marina.jpg"
+    ]
+  },
+  {
+    "id": "place_003",
+    "name": "Kızkalesi",
+    "category": ["Tarihi", "Plaj"],
+    "coordinates": { "lat": 36.4561, "lng": 34.1489 },
+    "city": "Mersin",
+    "district": "Erdemli",
+    "average_stay_minutes": 240,
+    "average_spend": { "amount": 150, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Yaz", "İlkbahar"],
+      "days": ["Cumartesi", "Pazar", "Cuma"],
+      "hours": ["09:00-19:00"]
+    },
+    "tags": ["tarihi", "plaj", "kale", "deniz", "fotoğrafçılık"],
+    "popularity_score": 94,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.8,
+    "review_count": 15420,
+    "sources": ["Google Maps", "Instagram", "TripAdvisor"],
+    "photos": [
+      "https://maps.googleapis.com/photo/kizkalesi001",
+      "https://instagram.com/kizkalesi_castle.jpg"
+    ]
+  },
+  {
+    "id": "place_004",
+    "name": "Forum Mersin AVM",
+    "category": ["Alışveriş", "Eğlence"],
+    "coordinates": { "lat": 36.7761, "lng": 34.5947 },
+    "city": "Mersin",
+    "district": "Yenişehir",
+    "average_stay_minutes": 180,
+    "average_spend": { "amount": 300, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "Yaz", "İlkbahar", "Sonbahar"],
+      "days": ["Cumartesi", "Pazar", "Perşembe"],
+      "hours": ["10:00-22:00"]
+    },
+    "tags": ["alışveriş", "sinema", "aile dostu", "yemek"],
+    "popularity_score": 85,
+    "virality_trend": "stabil",
+    "average_rating": 4.3,
+    "review_count": 6890,
+    "sources": ["Google Maps", "Foursquare"],
+    "photos": [
+      "https://maps.googleapis.com/photo/forum_mersin001",
+      "https://foursquare.com/forum_mersin.jpg"
+    ]
+  },
+  {
+    "id": "place_005",
+    "name": "Atatürk Parkı",
+    "category": ["Park", "Açık Hava"],
+    "coordinates": { "lat": 36.8000, "lng": 34.6333 },
+    "city": "Mersin",
+    "district": "Akdeniz",
+    "average_stay_minutes": 90,
+    "average_spend": { "amount": 50, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Pazar", "Cumartesi", "Çarşamba"],
+      "hours": ["07:00-22:00"]
+    },
+    "tags": ["park", "aile dostu", "çocuk oyun alanı", "spor"],
+    "popularity_score": 78,
+    "virality_trend": "stabil",
+    "average_rating": 4.2,
+    "review_count": 4320,
+    "sources": ["Google Maps"],
+    "photos": [
+      "https://maps.googleapis.com/photo/ataturk_park001",
+      "https://maps.googleapis.com/photo/ataturk_park002"
+    ]
+  },
+  {
+    "id": "place_006",
+    "name": "Tarsus Şelalesi",
+    "category": ["Doğal", "Şelale"],
+    "coordinates": { "lat": 36.9167, "lng": 34.8667 },
+    "city": "Mersin",
+    "district": "Tarsus",
+    "average_stay_minutes": 150,
+    "average_spend": { "amount": 80, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Pazar", "Cumartesi", "Cuma"],
+      "hours": ["09:00-18:00"]
+    },
+    "tags": ["doğa", "şelale", "piknik", "fotoğrafçılık", "serin"],
+    "popularity_score": 82,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.6,
+    "review_count": 2890,
+    "sources": ["Google Maps", "Instagram"],
+    "photos": [
+      "https://maps.googleapis.com/photo/tarsus_waterfall001",
+      "https://instagram.com/tarsus_waterfall.jpg"
+    ]
+  },
+  {
+    "id": "place_007",
+    "name": "Mersin Üniversitesi Botanik Bahçesi",
+    "category": ["Botanik", "Eğitim"],
+    "coordinates": { "lat": 36.7250, "lng": 34.4833 },
+    "city": "Mersin",
+    "district": "Yenişehir",
+    "average_stay_minutes": 120,
+    "average_spend": { "amount": 30, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Pazartesi", "Salı", "Çarşamba"],
+      "hours": ["08:00-17:00"]
+    },
+    "tags": ["botanik", "eğitim", "doğa", "araştırma", "sakin"],
+    "popularity_score": 73,
+    "virality_trend": "stabil",
+    "average_rating": 4.4,
+    "review_count": 1560,
+    "sources": ["Google Maps"],
+    "photos": [
+      "https://maps.googleapis.com/photo/botanik_bahce001",
+      "https://maps.googleapis.com/photo/botanik_bahce002"
+    ]
+  },
+  {
+    "id": "place_008",
+    "name": "Cleopatra Plajı",
+    "category": ["Plaj", "Deniz"],
+    "coordinates": { "lat": 36.4500, "lng": 34.1400 },
+    "city": "Mersin",
+    "district": "Erdemli",
+    "average_stay_minutes": 300,
+    "average_spend": { "amount": 120, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Yaz", "İlkbahar"],
+      "days": ["Cumartesi", "Pazar", "Cuma"],
+      "hours": ["08:00-20:00"]
+    },
+    "tags": ["plaj", "deniz", "yüzme", "güneşlenme", "temiz"],
+    "popularity_score": 91,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.7,
+    "review_count": 11240,
+    "sources": ["Google Maps", "Instagram", "TripAdvisor"],
+    "photos": [
+      "https://maps.googleapis.com/photo/cleopatra_beach001",
+      "https://instagram.com/cleopatra_beach.jpg"
+    ]
+  },
+  {
+    "id": "place_009",
+    "name": "Mersin Devlet Opera ve Balesi",
+    "category": ["Kültür", "Sanat"],
+    "coordinates": { "lat": 36.8056, "lng": 34.6389 },
+    "city": "Mersin",
+    "district": "Yenişehir",
+    "average_stay_minutes": 150,
+    "average_spend": { "amount": 180, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "Sonbahar", "İlkbahar"],
+      "days": ["Cumartesi", "Pazar", "Perşembe"],
+      "hours": ["20:00-22:30"]
+    },
+    "tags": ["opera", "bale", "kültür", "sanat", "klasik"],
+    "popularity_score": 76,
+    "virality_trend": "stabil",
+    "average_rating": 4.5,
+    "review_count": 2100,
+    "sources": ["Google Maps", "Biletix"],
+    "photos": [
+      "https://maps.googleapis.com/photo/opera_house001",
+      "https://biletix.com/opera_mersin.jpg"
+    ]
+  },
+  {
+    "id": "place_010",
+    "name": "Soli Pompeipolis Antik Kenti",
+    "category": ["Tarihi", "Arkeoloji"],
+    "coordinates": { "lat": 36.3333, "lng": 34.0833 },
+    "city": "Mersin",
+    "district": "Mezitli",
+    "average_stay_minutes": 180,
+    "average_spend": { "amount": 90, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Salı", "Çarşamba", "Perşembe"],
+      "hours": ["09:00-17:00"]
+    },
+    "tags": ["antik kent", "arkeoloji", "tarihi", "Roma", "sakin"],
+    "popularity_score": 69,
+    "virality_trend": "düşüşte",
+    "average_rating": 4.1,
+    "review_count": 890,
+    "sources": ["Google Maps", "Kültür Bakanlığı"],
+    "photos": [
+      "https://maps.googleapis.com/photo/soli_pompeipolis001",
+      "https://kulturvarliklari.gov.tr/soli_pompeipolis.jpg"
+    ]
+  },
+  {
+    "id": "place_011",
+    "name": "Mersin Sahil Bandı",
+    "category": ["Sahil", "Yürüyüş"],
+    "coordinates": { "lat": 36.8000, "lng": 34.6500 },
+    "city": "Mersin",
+    "district": "Akdeniz",
+    "average_stay_minutes": 90,
+    "average_spend": { "amount": 60, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz", "Sonbahar"],
+      "days": ["Pazar", "Cumartesi", "Cuma"],
+      "hours": ["06:00-23:00"]
+    },
+    "tags": ["sahil", "yürüyüş", "bisiklet", "jogging", "deniz manzarası"],
+    "popularity_score": 88,
+    "virality_trend": "stabil",
+    "average_rating": 4.4,
+    "review_count": 5670,
+    "sources": ["Google Maps", "Instagram"],
+    "photos": [
+      "https://maps.googleapis.com/photo/sahil_bandi001",
+      "https://instagram.com/mersin_sahil.jpg"
+    ]
+  },
+  {
+    "id": "place_012",
+    "name": "Cennet-Cehennem Obrukları",
+    "category": ["Doğal", "Jeoloji"],
+    "coordinates": { "lat": 36.4222, "lng": 34.1417 },
+    "city": "Mersin",
+    "district": "Erdemli",
+    "average_stay_minutes": 120,
+    "average_spend": { "amount": 70, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Salı", "Çarşamba", "Perşembe"],
+      "hours": ["09:00-17:00"]
+    },
+    "tags": ["doğal", "obruk", "jeoloji", "efsane", "macera"],
+    "popularity_score": 81,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.3,
+    "review_count": 3450,
+    "sources": ["Google Maps", "Instagram"],
+    "photos": [
+      "https://maps.googleapis.com/photo/cennet_cehennem001",
+      "https://instagram.com/cennet_cehennem.jpg"
+    ]
+  },
+  {
+    "id": "place_013",
+    "name": "Mersin Büyükşehir Belediyesi Kültür Merkezi",
+    "category": ["Kültür", "Etkinlik"],
+    "coordinates": { "lat": 36.8111, "lng": 34.6222 },
+    "city": "Mersin",
+    "district": "Yenişehir",
+    "average_stay_minutes": 135,
+    "average_spend": { "amount": 120, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "İlkbahar", "Sonbahar"],
+      "days": ["Cumartesi", "Pazar", "Cuma"],
+      "hours": ["19:00-22:00"]
+    },
+    "tags": ["kültür merkezi", "konser", "tiyatro", "etkinlik", "sanat"],
+    "popularity_score": 77,
+    "virality_trend": "stabil",
+    "average_rating": 4.2,
+    "review_count": 1890,
+    "sources": ["Google Maps", "Biletix"],
+    "photos": [
+      "https://maps.googleapis.com/photo/kultur_merkezi001",
+      "https://biletix.com/mersin_kultur_merkezi.jpg"
+    ]
+  },
+  {
+    "id": "place_014",
+    "name": "Astım Mağarası",
+    "category": ["Mağara", "Doğal"],
+    "coordinates": { "lat": 36.4000, "lng": 34.1000 },
+    "city": "Mersin",
+    "district": "Erdemli",
+    "average_stay_minutes": 90,
+    "average_spend": { "amount": 85, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Yaz", "İlkbahar"],
+      "days": ["Cumartesi", "Pazar", "Pazartesi"],
+      "hours": ["09:00-17:00"]
+    },
+    "tags": ["mağara", "doğal", "serin", "jeoloji", "macera"],
+    "popularity_score": 74,
+    "virality_trend": "stabil",
+    "average_rating": 4.0,
+    "review_count": 1240,
+    "sources": ["Google Maps"],
+    "photos": [
+      "https://maps.googleapis.com/photo/astim_cave001",
+      "https://maps.googleapis.com/photo/astim_cave002"
+    ]
+  },
+  {
+    "id": "place_015",
+    "name": "Tarsus Grand Mosque",
+    "category": ["Cami", "Tarihi"],
+    "coordinates": { "lat": 36.9167, "lng": 34.8833 },
+    "city": "Mersin",
+    "district": "Tarsus",
+    "average_stay_minutes": 45,
+    "average_spend": { "amount": 0, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar", "Kış"],
+      "days": ["Pazartesi", "Salı", "Çarşamba"],
+      "hours": ["09:00-17:00"]
+    },
+    "tags": ["cami", "tarihi", "mimari", "dini", "huzur"],
+    "popularity_score": 71,
+    "virality_trend": "stabil",
+    "average_rating": 4.3,
+    "review_count": 980,
+    "sources": ["Google Maps"],
+    "photos": [
+      "https://maps.googleapis.com/photo/tarsus_mosque001",
+      "https://maps.googleapis.com/photo/tarsus_mosque002"
+    ]
+  },
+  {
+    "id": "place_016",
+    "name": "Viranşehir (Olba Antik Kenti)",
+    "category": ["Tarihi", "Arkeoloji"],
+    "coordinates": { "lat": 36.6167, "lng": 34.0833 },
+    "city": "Mersin",
+    "district": "Silifke",
+    "average_stay_minutes": 210,
+    "average_spend": { "amount": 110, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Salı", "Çarşamba", "Perşembe"],
+      "hours": ["09:00-17:00"]
+    },
+    "tags": ["antik kent", "Roma", "arkeoloji", "tarihi", "keşif"],
+    "popularity_score": 68,
+    "virality_trend": "düşüşte",
+    "average_rating": 4.2,
+    "review_count": 650,
+    "sources": ["Google Maps", "Kültür Bakanlığı"],
+    "photos": [
+      "https://maps.googleapis.com/photo/viransehir001",
+      "https://kulturvarliklari.gov.tr/viransehir.jpg"
+    ]
+  },
+  {
+    "id": "place_017",
+    "name": "Mersin Liman",
+    "category": ["Liman", "Endüstri"],
+    "coordinates": { "lat": 36.7833, "lng": 34.6167 },
+    "city": "Mersin",
+    "district": "Akdeniz",
+    "average_stay_minutes": 60,
+    "average_spend": { "amount": 40, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Pazartesi", "Salı", "Çarşamba"],
+      "hours": ["10:00-16:00"]
+    },
+    "tags": ["liman", "endüstri", "gemi", "ticaret", "denizcilik"],
+    "popularity_score": 65,
+    "virality_trend": "stabil",
+    "average_rating": 3.8,
+    "review_count": 420,
+    "sources": ["Google Maps"],
+    "photos": [
+      "https://maps.googleapis.com/photo/mersin_port001",
+      "https://maps.googleapis.com/photo/mersin_port002"
+    ]
+  },
+  {
+    "id": "place_018",
+    "name": "Kanlıdivane Antik Kenti",
+    "category": ["Tarihi", "Arkeoloji"],
+    "coordinates": { "lat": 36.4833, "lng": 34.2167 },
+    "city": "Mersin",
+    "district": "Erdemli",
+    "average_stay_minutes": 150,
+    "average_spend": { "amount": 95, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Salı", "Çarşamba", "Perşembe"],
+      "hours": ["09:00-17:00"]
+    },
+    "tags": ["antik kent", "obruk", "Roma", "Bizans", "tarihi"],
+    "popularity_score": 72,
+    "virality_trend": "stabil",
+    "average_rating": 4.1,
+    "review_count": 780,
+    "sources": ["Google Maps", "Instagram"],
+    "photos": [
+      "https://maps.googleapis.com/photo/kanlidivane001",
+      "https://instagram.com/kanlidivane_antik.jpg"
+    ]
+  },
+  {
+    "id": "place_019",
+    "name": "Pozcu Restaurant ve Plajı",
+    "category": ["Restoran", "Plaj"],
+    "coordinates": { "lat": 36.4722, "lng": 34.1556 },
+    "city": "Mersin",
+    "district": "Erdemli",
+    "average_stay_minutes": 180,
+    "average_spend": { "amount": 250, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Yaz", "İlkbahar"],
+      "days": ["Cumartesi", "Pazar", "Cuma"],
+      "hours": ["12:00-22:00"]
+    },
+    "tags": ["restoran", "plaj", "balık", "deniz ürünleri", "manzara"],
+    "popularity_score": 86,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.6,
+    "review_count": 4560,
+    "sources": ["Google Maps", "Instagram", "TripAdvisor"],
+    "photos": [
+      "https://maps.googleapis.com/photo/pozcu_restaurant001",
+      "https://instagram.com/pozcu_restaurant.jpg"
+    ]
+  },
+  {
+    "id": "place_020",
+    "name": "Mersin Atatürk Kültür Merkezi",
+    "category": ["Kültür", "Tiyatro"],
+    "coordinates": { "lat": 36.8083, "lng": 34.6361 },
+    "city": "Mersin",
+    "district": "Yenişehir",
+    "average_stay_minutes": 140,
+    "average_spend": { "amount": 150, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "İlkbahar", "Sonbahar"],
+      "days": ["Cumartesi", "Pazar", "Perşembe"],
+      "hours": ["20:00-22:30"]
+    },
+    "tags": ["tiyatro", "kültür", "sanat", "gösteri", "klasik"],
+    "popularity_score": 75,
+    "virality_trend": "stabil",
+    "average_rating": 4.3,
+    "review_count": 1650,
+    "sources": ["Google Maps", "Biletix"],
+    "photos": [
+      "https://maps.googleapis.com/photo/ataturk_kultur001",
+      "https://biletix.com/ataturk_kultur_mersin.jpg"
+    ]
+  },
+  {
+    "id": "place_021",
+    "name": "Çamlıbel Yaylası",
+    "category": ["Yayla", "Doğal"],
+    "coordinates": { "lat": 36.7500, "lng": 34.3000 },
+    "city": "Mersin",
+    "district": "Tarsus",
+    "average_stay_minutes": 360,
+    "average_spend": { "amount": 180, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Yaz", "İlkbahar"],
+      "days": ["Cumartesi", "Pazar", "Cuma"],
+      "hours": ["08:00-20:00"]
+    },
+    "tags": ["yayla", "doğa", "serin", "piknik", "kamp"],
+    "popularity_score": 79,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.4,
+    "review_count": 2340,
+    "sources": ["Google Maps", "Instagram"],
+    "photos": [
+      "https://maps.googleapis.com/photo/camlibel_yayla001",
+      "https://instagram.com/camlibel_yayla.jpg"
+    ]
+  },
+  {
+    "id": "place_022",
+    "name": "Elvanlı Tuz Gölü",
+    "category": ["Göl", "Doğal"],
+    "coordinates": { "lat": 36.6833, "lng": 34.2167 },
+    "city": "Mersin",
+    "district": "Tarsus",
+    "average_stay_minutes": 90,
+    "average_spend": { "amount": 60, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Pazar", "Cumartesi", "Pazartesi"],
+      "hours": ["09:00-18:00"]
+    },
+    "tags": ["göl", "tuz gölü", "doğa", "fotoğrafçılık", "sakin"],
+    "popularity_score": 70,
+    "virality_trend": "stabil",
+    "average_rating": 4.0,
+    "review_count": 890,
+    "sources": ["Google Maps", "Instagram"],
+    "photos": [
+      "https://maps.googleapis.com/photo/elvanli_tuz_golu001",
+      "https://instagram.com/elvanli_tuz_golu.jpg"
+    ]
+  },
+  {
+    "id": "place_023",
+    "name": "Mersin Müze Kompleksi",
+    "category": ["Müze", "Kültür"],
+    "coordinates": { "lat": 36.8056, "lng": 34.6278 },
+    "city": "Mersin",
+    "district": "Yenişehir",
+    "average_stay_minutes": 120,
+    "average_spend": { "amount": 75, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "İlkbahar", "Sonbahar"],
+      "days": ["Salı", "Çarşamba", "Perşembe"],
+      "hours": ["09:00-17:00"]
+    },
+    "tags": ["müze", "arkeoloji", "etnografya", "eğitim", "kültür"],
+    "popularity_score": 73,
+    "virality_trend": "stabil",
+    "average_rating": 4.2,
+    "review_count": 1450,
+    "sources": ["Google Maps", "Kültür Bakanlığı"],
+    "photos": [
+      "https://maps.googleapis.com/photo/mersin_muze001",
+      "https://kulturvarliklari.gov.tr/mersin_muze.jpg"
+    ]
+  },
+  {
+    "id": "place_024",
+    "name": "Silifke Kalesi",
+    "category": ["Kale", "Tarihi"],
+    "coordinates": { "lat": 36.3778, "lng": 33.9333 },
+    "city": "Mersin",
+    "district": "Silifke",
+    "average_stay_minutes": 105,
+    "average_spend": { "amount": 80, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Salı", "Çarşamba", "Perşembe"],
+      "hours": ["09:00-17:00"]
+    },
+    "tags": ["kale", "tarihi", "Bizans", "manzara", "mimari"],
+    "popularity_score": 76,
+    "virality_trend": "stabil",
+    "average_rating": 4.3,
+    "review_count": 1890,
+    "sources": ["Google Maps", "Instagram"],
+    "photos": [
+      "https://maps.googleapis.com/photo/silifke_castle001",
+      "https://instagram.com/silifke_kalesi.jpg"
+    ]
+  },
+  {
+    "id": "place_025",
+    "name": "Anamur Kalesi",
+    "category": ["Kale", "Tarihi"],
+    "coordinates": { "lat": 36.0667, "lng": 32.8333 },
+    "city": "Mersin",
+    "district": "Anamur",
+    "average_stay_minutes": 135,
+    "average_spend": { "amount": 90, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Salı", "Çarşamba", "Perşembe"],
+      "hours": ["09:00-17:00"]
+    },
+    "tags": ["kale", "deniz kenarı", "Bizans", "tarihi", "fotoğrafçılık"],
+    "popularity_score": 80,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.5,
+    "review_count": 2890,
+    "sources": ["Google Maps", "Instagram", "TripAdvisor"],
+    "

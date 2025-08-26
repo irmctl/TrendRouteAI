@@ -1,0 +1,627 @@
+[
+  {
+    "id": "place_001",
+    "name": "Kahramanmaraş Dondurmacıları Caddesi",
+    "category": ["Dondurma", "Yerel Lezzet"],
+    "coordinates": { "lat": 37.5800, "lng": 36.9200 },
+    "city": "Kahramanmaraş",
+    "district": "Merkez",
+    "average_stay_minutes": 45,
+    "average_spend": { "amount": 120, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Yaz", "İlkbahar"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["11:00-21:00"]
+    },
+    "tags": ["dondurma", "meşhur", "uzun kuyruk"],
+    "popularity_score": 96,
+    "virality_trend": "yüksek",
+    "average_rating": 4.9,
+    "review_count": 18500,
+    "sources": ["Google Maps", "Instagram"],
+    "photos": [
+      "https://maps.googleapis.com/photo/kmr_dondurma  ",
+      "https://instagram.com/kahramanmaras_food/dondurma.jpg  "
+    ]
+  },
+  {
+    "id": "place_002",
+    "name": "Göksun Kalesi",
+    "category": ["Kale", "Tarihi"],
+    "coordinates": { "lat": 37.4500, "lng": 36.7500 },
+    "city": "Kahramanmaraş",
+    "district": "Göksun",
+    "average_stay_minutes": 70,
+    "average_spend": { "amount": 50, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["09:00-17:00"]
+    },
+    "tags": ["kale", "tarihi", "görsel"],
+    "popularity_score": 88,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.7,
+    "review_count": 7200,
+    "sources": ["Google Maps", "Kültür Bakanlığı"],
+    "photos": [
+      "https://maps.googleapis.com/photo/goksun_kale  ",
+      "https://kultur.gov.tr/goksun_kalesi.jpg  "
+    ]
+  },
+  {
+    "id": "place_003",
+    "name": "Nurhak Ağustos Dağı",
+    "category": ["Doğa", "Yürüyüş"],
+    "coordinates": { "lat": 38.0000, "lng": 37.0000 },
+    "city": "Kahramanmaraş",
+    "district": "Nurhak",
+    "average_stay_minutes": 180,
+    "average_spend": { "amount": 0, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["08:00-17:00"]
+    },
+    "tags": ["dağ", "yürüyüş", "manzara"],
+    "popularity_score": 85,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.8,
+    "review_count": 6800,
+    "sources": ["Google Maps", "Doğa Derneği"],
+    "photos": [
+      "https://maps.googleapis.com/photo/agustos_dagi  ",
+      "https://dogadernegi.org/agustos_dagi.jpg  "
+    ]
+  },
+  {
+    "id": "place_004",
+    "name": "Kahramanmaraş Arkeoloji Müzesi",
+    "category": ["Müze", "Tarihi"],
+    "coordinates": { "lat": 37.5700, "lng": 36.9100 },
+    "city": "Kahramanmaraş",
+    "district": "Merkez",
+    "average_stay_minutes": 90,
+    "average_spend": { "amount": 60, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "İlkbahar"],
+      "days": ["Pazartesi", "Çarşamba", "Cuma"],
+      "hours": ["09:00-17:00"]
+    },
+    "tags": ["arkeoloji", "tarihi", "mozaik"],
+    "popularity_score": 82,
+    "virality_trend": "kararlı",
+    "average_rating": 4.5,
+    "review_count": 5900,
+    "sources": ["Google Maps", "Müze Müdürlüğü"],
+    "photos": [
+      "https://maps.googleapis.com/photo/kmr_museum  ",
+      "https://museum.gov.tr/kahramanmaras/entry.jpg  "
+    ]
+  },
+  {
+    "id": "place_005",
+    "name": "Elbistan Taş Mektep",
+    "category": ["Tarihi", "Eğitim"],
+    "coordinates": { "lat": 38.1000, "lng": 36.7500 },
+    "city": "Kahramanmaraş",
+    "district": "Elbistan",
+    "average_stay_minutes": 60,
+    "average_spend": { "amount": 0, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Pazartesi", "Cuma"],
+      "hours": ["09:00-16:00"]
+    },
+    "tags": ["tarihi", "okul", "kültürel"],
+    "popularity_score": 78,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.4,
+    "review_count": 3800,
+    "sources": ["Google Maps", "Kültür"],
+    "photos": [
+      "https://maps.googleapis.com/photo/elbistan_tasmektep  ",
+      "https://kultur.gov.tr/elbistan_tasmektep.jpg  "
+    ]
+  },
+  {
+    "id": "place_006",
+    "name": "Göksun Vadisi",
+    "category": ["Doğa", "Vadi"],
+    "coordinates": { "lat": 37.4500, "lng": 36.7500 },
+    "city": "Kahramanmaraş",
+    "district": "Göksun",
+    "average_stay_minutes": 120,
+    "average_spend": { "amount": 30, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["08:00-17:00"]
+    },
+    "tags": ["vadi", "doğa", "fotoğraf"],
+    "popularity_score": 84,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.6,
+    "review_count": 6200,
+    "sources": ["Google Maps", "Doğa"],
+    "photos": [
+      "https://maps.googleapis.com/photo/goksun_vadi  ",
+      "https://dogaseyahat.com/goksun_vadi.jpg  "
+    ]
+  },
+  {
+    "id": "place_007",
+    "name": "Ahmet Usta Et Lokantası",
+    "category": ["Restoran", "Yerel Lezzet"],
+    "coordinates": { "lat": 37.5800, "lng": 36.9200 },
+    "city": "Kahramanmaraş",
+    "district": "Merkez",
+    "average_stay_minutes": 60,
+    "average_spend": { "amount": 320, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "İlkbahar"],
+      "days": ["Cuma", "Cumartesi", "Pazar"],
+      "hours": ["12:00-22:00"]
+    },
+    "tags": ["et", "lokal", "meşhur"],
+    "popularity_score": 94,
+    "virality_trend": "yüksek",
+    "average_rating": 4.9,
+    "review_count": 15200,
+    "sources": ["Google Maps", "YemekSepeti"],
+    "photos": [
+      "https://maps.googleapis.com/photo/ahmetusta  ",
+      "https://yemeksepeti.com.tr/restaurants/ahmetusta.jpg  "
+    ]
+  },
+  {
+    "id": "place_008",
+    "name": "Pazarcık Organik Pazarı",
+    "category": ["Pazar", "Organik"],
+    "coordinates": { "lat": 37.6500, "lng": 36.8000 },
+    "city": "Kahramanmaraş",
+    "district": "Pazarcık",
+    "average_stay_minutes": 70,
+    "average_spend": { "amount": 140, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Pazar"],
+      "hours": ["07:00-13:00"]
+    },
+    "tags": ["organik", "pazar", "yerel"],
+    "popularity_score": 75,
+    "virality_trend": "kararlı",
+    "average_rating": 4.3,
+    "review_count": 3100,
+    "sources": ["Google Maps", "Tarım Bakanlığı"],
+    "photos": [
+      "https://maps.googleapis.com/photo/pazarcikpazar  ",
+      "https://tarim.gov.tr/pazarcik_organik.jpg  "
+    ]
+  },
+  {
+    "id": "place_009",
+    "name": "Ekinözü Köyü",
+    "category": ["Köy", "Doğa"],
+    "coordinates": { "lat": 38.1500, "lng": 37.2000 },
+    "city": "Kahramanmaraş",
+    "district": "Ekinözü",
+    "average_stay_minutes": 100,
+    "average_spend": { "amount": 40, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Pazar"],
+      "hours": ["09:00-17:00"]
+    },
+    "tags": ["köy", "doğa", "huzur"],
+    "popularity_score": 72,
+    "virality_trend": "yavaş yükseliş",
+    "average_rating": 4.2,
+    "review_count": 2400,
+    "sources": ["Google Maps", "Yerel Kültür"],
+    "photos": [
+      "https://maps.googleapis.com/photo/ekinozu_koy  ",
+      "https://yerelkultur.gov.tr/ekinozu_koyu.jpg  "
+    ]
+  },
+  {
+    "id": "place_010",
+    "name": "Afşin Tarihi Çarşı",
+    "category": ["Alışveriş", "Tarihi"],
+    "coordinates": { "lat": 38.0000, "lng": 37.1000 },
+    "city": "Kahramanmaraş",
+    "district": "Afşin",
+    "average_stay_minutes": 80,
+    "average_spend": { "amount": 220, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "Bahar"],
+      "days": ["Cuma", "Cumartesi"],
+      "hours": ["10:00-19:00"]
+    },
+    "tags": ["çarşı", "alışveriş", "tarihi"],
+    "popularity_score": 79,
+    "virality_trend": "kararlı",
+    "average_rating": 4.4,
+    "review_count": 4300,
+    "sources": ["Google Maps", "Belediye"],
+    "photos": [
+      "https://maps.googleapis.com/photo/afsincarsi  ",
+      "https://belediye.afsin.gov.tr/tarihi_carsi.jpg  "
+    ]
+  },
+  {
+    "id": "place_011",
+    "name": "Kahramanmaraş Şehir Parkı",
+    "category": ["Park", "Doğa"],
+    "coordinates": { "lat": 37.5800, "lng": 36.9300 },
+    "city": "Kahramanmaraş",
+    "district": "Merkez",
+    "average_stay_minutes": 90,
+    "average_spend": { "amount": 0, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["08:00-20:00"]
+    },
+    "tags": ["park", "aile", "yürüyüş"],
+    "popularity_score": 83,
+    "virality_trend": "kararlı",
+    "average_rating": 4.5,
+    "review_count": 7100,
+    "sources": ["Google Maps", "Belediye"],
+    "photos": [
+      "https://maps.googleapis.com/photo/kmr_park  ",
+      "https://belediye.kahramanmaras.gov.tr/sehir_park.jpg  "
+    ]
+  },
+  {
+    "id": "place_012",
+    "name": "Göksun Zeytinlik Yolu",
+    "category": ["Yürüyüş", "Doğa"],
+    "coordinates": { "lat": 37.4500, "lng": 36.7500 },
+    "city": "Kahramanmaraş",
+    "district": "Göksun",
+    "average_stay_minutes": 110,
+    "average_spend": { "amount": 0, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["08:00-16:00"]
+    },
+    "tags": ["zeytinlik", "yürüyüş", "doğa"],
+    "popularity_score": 77,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.4,
+    "review_count": 3900,
+    "sources": ["Google Maps", "Doğa Derneği"],
+    "photos": [
+      "https://maps.googleapis.com/photo/goksun_zeytinlik  ",
+      "https://dogadernegi.org/goksun_zeytinlik.jpg  "
+    ]
+  },
+  {
+    "id": "place_013",
+    "name": "Nurhak Yaylası",
+    "category": ["Yayla", "Doğa"],
+    "coordinates": { "lat": 38.0000, "lng": 37.0000 },
+    "city": "Kahramanmaraş",
+    "district": "Nurhak",
+    "average_stay_minutes": 150,
+    "average_spend": { "amount": 60, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Yaz"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["09:00-17:00"]
+    },
+    "tags": ["yayla", "doğa", "temiz hava"],
+    "popularity_score": 81,
+    "virality_trend": "yaz mevsiminde zirve",
+    "average_rating": 4.6,
+    "review_count": 5400,
+    "sources": ["Google Maps", "Doğa"],
+    "photos": [
+      "https://maps.googleapis.com/photo/nurhak_yayla  ",
+      "https://dogaseyahat.com/nurhak_yayla.jpg  "
+    ]
+  },
+  {
+    "id": "place_014",
+    "name": "Elbistan Sıcak Su Kaynakları",
+    "category": ["Termal", "Doğa"],
+    "coordinates": { "lat": 38.1000, "lng": 36.7500 },
+    "city": "Kahramanmaraş",
+    "district": "Elbistan",
+    "average_stay_minutes": 140,
+    "average_spend": { "amount": 280, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "İlkbahar"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["09:00-18:00"]
+    },
+    "tags": ["termal", "kaynak", "sağlık"],
+    "popularity_score": 76,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.5,
+    "review_count": 4800,
+    "sources": ["Google Maps", "Sağlık Bakanlığı"],
+    "photos": [
+      "https://maps.googleapis.com/photo/elbistan_termal  ",
+      "https://saglik.gov.tr/elbistan_kaynak.jpg  "
+    ]
+  },
+  {
+    "id": "place_015",
+    "name": "Kahramanmaraş Bici Dükkanı",
+    "category": ["Yerel Lezzet", "Dükkan"],
+    "coordinates": { "lat": 37.5800, "lng": 36.9200 },
+    "city": "Kahramanmaraş",
+    "district": "Merkez",
+    "average_stay_minutes": 40,
+    "average_spend": { "amount": 150, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "İlkbahar"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["10:00-19:00"]
+    },
+    "tags": ["bici", "yerel", "kuruyemiş"],
+    "popularity_score": 86,
+    "virality_trend": "kararlı",
+    "average_rating": 4.7,
+    "review_count": 8200,
+    "sources": ["Google Maps", "Yerel"],
+    "photos": [
+      "https://maps.googleapis.com/photo/kmr_bici  ",
+      "https://yerelurunler.gov.tr/kmr_bici_dukkan.jpg  "
+    ]
+  },
+  {
+    "id": "place_016",
+    "name": "Afşin Kale",
+    "category": ["Kale", "Tarihi"],
+    "coordinates": { "lat": 38.0000, "lng": 37.1000 },
+    "city": "Kahramanmaraş",
+    "district": "Afşin",
+    "average_stay_minutes": 65,
+    "average_spend": { "amount": 40, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Pazar", "Cumartesi"],
+      "hours": ["10:00-17:00"]
+    },
+    "tags": ["kale", "tarihi", "görsel"],
+    "popularity_score": 78,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.5,
+    "review_count": 5100,
+    "sources": ["Google Maps", "Kültür"],
+    "photos": [
+      "https://maps.googleapis.com/photo/afsinkale  ",
+      "https://kultur.gov.tr/afsin_kalesi.jpg  "
+    ]
+  },
+  {
+    "id": "place_017",
+    "name": "Pazarcık Tarım Alanları",
+    "category": ["Tarım", "Doğa"],
+    "coordinates": { "lat": 37.6500, "lng": 36.8000 },
+    "city": "Kahramanmaraş",
+    "district": "Pazarcık",
+    "average_stay_minutes": 90,
+    "average_spend": { "amount": 30, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Sonbahar"],
+      "days": ["Pazar"],
+      "hours": ["09:00-15:00"]
+    },
+    "tags": ["tarım", "organik", "yerel"],
+    "popularity_score": 70,
+    "virality_trend": "yavaş yükseliş",
+    "average_rating": 4.1,
+    "review_count": 2200,
+    "sources": ["Google Maps", "Tarım"],
+    "photos": [
+      "https://maps.googleapis.com/photo/pazarcik_tarim  ",
+      "https://tarim.gov.tr/pazarcik_tarla.jpg  "
+    ]
+  },
+  {
+    "id": "place_018",
+    "name": "Ekinözü Ormanları",
+    "category": ["Orman", "Doğa"],
+    "coordinates": { "lat": 38.1500, "lng": 37.2000 },
+    "city": "Kahramanmaraş",
+    "district": "Ekinözü",
+    "average_stay_minutes": 120,
+    "average_spend": { "amount": 0, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["08:00-17:00"]
+    },
+    "tags": ["orman", "yürüyüş", "temiz hava"],
+    "popularity_score": 73,
+    "virality_trend": "yavaş yükseliş",
+    "average_rating": 4.2,
+    "review_count": 2700,
+    "sources": ["Google Maps", "ORMAN"],
+    "photos": [
+      "https://maps.googleapis.com/photo/ekinozu_orman  ",
+      "https://ormangb.gov.tr/ekinozu_orman.jpg  "
+    ]
+  },
+  {
+    "id": "place_019",
+    "name": "Kahramanmaraş Hatıra Dükkanı",
+    "category": ["Dükkan", "Souvenir"],
+    "coordinates": { "lat": 37.5800, "lng": 36.9200 },
+    "city": "Kahramanmaraş",
+    "district": "Merkez",
+    "average_stay_minutes": 45,
+    "average_spend": { "amount": 180, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "Yaz"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["10:00-19:00"]
+    },
+    "tags": ["souvenir", "hatıra", "dondurma"],
+    "popularity_score": 80,
+    "virality_trend": "kararlı",
+    "average_rating": 4.4,
+    "review_count": 4600,
+    "sources": ["Google Maps", "Turist"],
+    "photos": [
+      "https://maps.googleapis.com/photo/kmr_souvenir  ",
+      "https://turistshop.com/kahramanmaras_gifts.jpg  "
+    ]
+  },
+  {
+    "id": "place_020",
+    "name": "Göksun Tarihi Hamam",
+    "category": ["Hamam", "Tarihi"],
+    "coordinates": { "lat": 37.4500, "lng": 36.7500 },
+    "city": "Kahramanmaraş",
+    "district": "Göksun",
+    "average_stay_minutes": 90,
+    "average_spend": { "amount": 200, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "İlkbahar"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["09:00-20:00"]
+    },
+    "tags": ["hamam", "tarihi", "geleneksel"],
+    "popularity_score": 74,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.3,
+    "review_count": 3400,
+    "sources": ["Google Maps", "Kültür"],
+    "photos": [
+      "https://maps.googleapis.com/photo/goksun_hamam  ",
+      "https://kultur.gov.tr/goksun_hamam.jpg  "
+    ]
+  },
+  {
+    "id": "place_021",
+    "name": "Nurhak Şelalesi",
+    "category": ["Şelale", "Doğa"],
+    "coordinates": { "lat": 38.0000, "lng": 37.0000 },
+    "city": "Kahramanmaraş",
+    "district": "Nurhak",
+    "average_stay_minutes": 100,
+    "average_spend": { "amount": 20, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Pazar"],
+      "hours": ["09:00-17:00"]
+    },
+    "tags": ["şelale", "doğa", "fotoğraf"],
+    "popularity_score": 75,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.4,
+    "review_count": 3800,
+    "sources": ["Google Maps", "Doğa"],
+    "photos": [
+      "https://maps.googleapis.com/photo/nurhak_selay  ",
+      "https://dogaseyahat.com/nurhak_selay.jpg  "
+    ]
+  },
+  {
+    "id": "place_022",
+    "name": "Elbistan El Sanatları Atölyesi",
+    "category": ["El Sanatı", "Workshop"],
+    "coordinates": { "lat": 38.1000, "lng": 36.7500 },
+    "city": "Kahramanmaraş",
+    "district": "Elbistan",
+    "average_stay_minutes": 90,
+    "average_spend": { "amount": 190, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Cumartesi"],
+      "hours": ["10:00-17:00"]
+    },
+    "tags": ["el sanatı", "seramik", "workshop"],
+    "popularity_score": 76,
+    "virality_trend": "yükselişte",
+    "average_rating": 4.4,
+    "review_count": 3300,
+    "sources": ["Google Maps", "Kültür"],
+    "photos": [
+      "https://maps.googleapis.com/photo/elbistan_elsanat  ",
+      "https://kultur.gov.tr/elbistan_atolye.jpg  "
+    ]
+  },
+  {
+    "id": "place_023",
+    "name": "Pazarcık Zeytin Festivali",
+    "category": ["Festival", "Gastronomi"],
+    "coordinates": { "lat": 37.6500, "lng": 36.8000 },
+    "city": "Kahramanmaraş",
+    "district": "Pazarcık",
+    "average_stay_minutes": 140,
+    "average_spend": { "amount": 130, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Sonbahar"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["10:00-20:00"]
+    },
+    "tags": ["zeytin", "festival", "etkinlik"],
+    "popularity_score": 77,
+    "virality_trend": "yıllık zirve",
+    "average_rating": 4.3,
+    "review_count": 4100,
+    "sources": ["Google Maps", "Belediye"],
+    "photos": [
+      "https://maps.googleapis.com/photo/pazarcik_fest  ",
+      "https://belediye.pazarcik.gov.tr/zeytin_fest2024.jpg  "
+    ]
+  },
+  {
+    "id": "place_024",
+    "name": "Kahramanmaraş Şehitlik",
+    "category": ["Anıt", "Tarih"],
+    "coordinates": { "lat": 37.5750, "lng": 36.9150 },
+    "city": "Kahramanmaraş",
+    "district": "Merkez",
+    "average_stay_minutes": 50,
+    "average_spend": { "amount": 0, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["Kış", "İlkbahar"],
+      "days": ["Pazartesi", "Cuma"],
+      "hours": ["08:00-18:00"]
+    },
+    "tags": ["şehitlik", "anıt", "saygı"],
+    "popularity_score": 89,
+    "virality_trend": "kararlı",
+    "average_rating": 4.8,
+    "review_count": 9200,
+    "sources": ["Google Maps", "Devlet"],
+    "photos": [
+      "https://maps.googleapis.com/photo/kmr_sehitlik  ",
+      "https://devlet.gov.tr/kmr_sehitlik.jpg  "
+    ]
+  },
+  {
+    "id": "place_025",
+    "name": "Kahramanmaraş Fotoğrafçısı",
+    "category": ["Hizmet", "Fotoğraf"],
+    "coordinates": { "lat": 37.5800, "lng": 36.9200 },
+    "city": "Kahramanmaraş",
+    "district": "Merkez",
+    "average_stay_minutes": 30,
+    "average_spend": { "amount": 80, "currency": "TRY" },
+    "best_visit_times": {
+      "season": ["İlkbahar", "Yaz"],
+      "days": ["Cumartesi", "Pazar"],
+      "hours": ["10:00-19:00"]
+    },
+    "tags": ["fotoğraf", "hatıra", "turist"],
+    "popularity_score": 68,
+    "virality_trend": "kararlı",
+    "average_rating": 4.3,
+    "review_count": 1900,
+    "sources": ["Google Maps", "Turist"],
+    "photos": [
+      "https://maps.googleapis.com/photo/kmr_fotograf  ",
+      "https://turistphotos.com/kahramanmaras_shoot.jpg  "
+    ]
+  }
+]

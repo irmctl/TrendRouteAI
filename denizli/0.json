@@ -1,0 +1,503 @@
+[
+    {
+      "id": "place_001",
+      "name": "Pamukkale Travertenleri",
+      "category": ["Doğa", "UNESCO"],
+      "coordinates": { "lat": 37.9244, "lng": 29.1200 },
+      "city": "Denizli",
+      "district": "Pamukkale",
+      "average_stay_minutes": 180,
+      "average_spend": { "amount": 150, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz", "Sonbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["08:00-20:00"]
+      },
+      "tags": ["doğa", "termal", "fotoğraf"],
+      "popularity_score": 98,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.9,
+      "review_count": 45000,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/pamukkale_1",
+        "https://instagram.com/pamukkale.jpg"
+      ]
+    },
+    {
+      "id": "place_002",
+      "name": "Hierapolis Antik Kenti",
+      "category": ["Tarihi", "Antik Kent"],
+      "coordinates": { "lat": 37.9275, "lng": 29.1219 },
+      "city": "Denizli",
+      "district": "Pamukkale",
+      "average_stay_minutes": 150,
+      "average_spend": { "amount": 100, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz", "Sonbahar"],
+        "days": ["Salı", "Cumartesi"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["arkeoloji", "tarih", "müze"],
+      "popularity_score": 95,
+      "virality_trend": "stabil",
+      "average_rating": 4.8,
+      "review_count": 32000,
+      "sources": ["Google Maps", "TripAdvisor"],
+      "photos": [
+        "https://maps.googleapis.com/photo/hierapolis_1",
+        "https://instagram.com/hierapolis.jpg"
+      ]
+    },
+    {
+      "id": "place_003",
+      "name": "Laodikeia Antik Kenti",
+      "category": ["Tarihi", "Antik Kent"],
+      "coordinates": { "lat": 37.8333, "lng": 29.1167 },
+      "city": "Denizli",
+      "district": "Pamukkale",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 80, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Her gün"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["antik kent", "arkeoloji"],
+      "popularity_score": 90,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.7,
+      "review_count": 14000,
+      "sources": ["Google Maps", "Wikipedia"],
+      "photos": [
+        "https://maps.googleapis.com/photo/laodikeia_1",
+        "https://instagram.com/laodikeia.jpg"
+      ]
+    },
+    {
+      "id": "place_004",
+      "name": "Karahayıt Kaplıcaları",
+      "category": ["Termal", "Kaplıca"],
+      "coordinates": { "lat": 37.9495, "lng": 29.1089 },
+      "city": "Denizli",
+      "district": "Pamukkale",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 200, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Kış", "İlkbahar"],
+        "days": ["Her gün"],
+        "hours": ["08:00-22:00"]
+      },
+      "tags": ["termal", "sağlık", "dinlenme"],
+      "popularity_score": 88,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.6,
+      "review_count": 8200,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/karahayit_1",
+        "https://instagram.com/karahayit.jpg"
+      ]
+    },
+    {
+      "id": "place_005",
+      "name": "Kaklık Mağarası",
+      "category": ["Doğa", "Mağara"],
+      "coordinates": { "lat": 37.8160, "lng": 29.5140 },
+      "city": "Denizli",
+      "district": "Honaz",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 20, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-19:00"]
+      },
+      "tags": ["doğa", "mağara", "fotoğraf"],
+      "popularity_score": 82,
+      "virality_trend": "stabil",
+      "average_rating": 4.5,
+      "review_count": 3100,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/kaklik_1",
+        "https://instagram.com/kaklik.jpg"
+      ]
+    },
+    {
+      "id": "place_006",
+      "name": "Çardak Havalimanı Seyir Noktası",
+      "category": ["Manzara", "Ulaşım"],
+      "coordinates": { "lat": 37.8573, "lng": 29.7010 },
+      "city": "Denizli",
+      "district": "Çardak",
+      "average_stay_minutes": 45,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Her gün"],
+        "hours": ["07:00-21:00"]
+      },
+      "tags": ["uçak", "seyir", "fotoğraf"],
+      "popularity_score": 70,
+      "virality_trend": "düşüşte",
+      "average_rating": 4.1,
+      "review_count": 500,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/cardak_1",
+        "https://instagram.com/cardak.jpg"
+      ]
+    },
+    {
+      "id": "place_007",
+      "name": "Honaz Dağı Milli Parkı",
+      "category": ["Doğa", "Milli Park"],
+      "coordinates": { "lat": 37.7175, "lng": 29.3139 },
+      "city": "Denizli",
+      "district": "Honaz",
+      "average_stay_minutes": 180,
+      "average_spend": { "amount": 50, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz", "Sonbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["08:00-19:00"]
+      },
+      "tags": ["dağ", "doğa yürüyüşü", "kamp"],
+      "popularity_score": 85,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.6,
+      "review_count": 2100,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/honaz_1",
+        "https://instagram.com/honaz.jpg"
+      ]
+    },
+    {
+      "id": "place_008",
+      "name": "Denizli Teleferik ve Bağbaşı Yaylası",
+      "category": ["Doğa", "Yayla"],
+      "coordinates": { "lat": 37.7860, "lng": 29.1165 },
+      "city": "Denizli",
+      "district": "Pamukkale",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 100, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-19:00"]
+      },
+      "tags": ["teleferik", "yayla", "doğa"],
+      "popularity_score": 89,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.7,
+      "review_count": 7600,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/bagbasi_1",
+        "https://instagram.com/bagbasi.jpg"
+      ]
+    },
+    {
+      "id": "place_009",
+      "name": "Tripolis Antik Kenti",
+      "category": ["Tarihi", "Antik Kent"],
+      "coordinates": { "lat": 37.8290, "lng": 28.9450 },
+      "city": "Denizli",
+      "district": "Buldan",
+      "average_stay_minutes": 100,
+      "average_spend": { "amount": 40, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Her gün"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["antik kent", "arkeoloji"],
+      "popularity_score": 78,
+      "virality_trend": "stabil",
+      "average_rating": 4.3,
+      "review_count": 1700,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/tripolis_1",
+        "https://instagram.com/tripolis.jpg"
+      ]
+    },
+    {
+      "id": "place_010",
+      "name": "Keloğlan Mağarası",
+      "category": ["Doğa", "Mağara"],
+      "coordinates": { "lat": 37.6180, "lng": 29.4190 },
+      "city": "Denizli",
+      "district": "Acıpayam",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 20, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["mağara", "doğa", "jeoloji"],
+      "popularity_score": 77,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.4,
+      "review_count": 1500,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/keloglan_1",
+        "https://instagram.com/keloglan.jpg"
+      ]
+    },
+    {
+      "id": "place_011",
+      "name": "Çamlık Mesireliği",
+      "category": ["Doğa", "Piknik"],
+      "coordinates": { "lat": 37.7760, "lng": 29.0860 },
+      "city": "Denizli",
+      "district": "Merkezefendi",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 50, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz", "Sonbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["08:00-22:00"]
+      },
+      "tags": ["piknik", "doğa", "aile dostu"],
+      "popularity_score": 80,
+      "virality_trend": "stabil",
+      "average_rating": 4.2,
+      "review_count": 2200,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/camlik_1",
+        "https://instagram.com/camlik.jpg"
+      ]
+    },
+    {
+      "id": "place_012",
+      "name": "Servergazi Türbesi",
+      "category": ["Tarihi", "Dini"],
+      "coordinates": { "lat": 37.7700, "lng": 29.0800 },
+      "city": "Denizli",
+      "district": "Pamukkale",
+      "average_stay_minutes": 40,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Her gün"],
+        "hours": ["08:00-18:00"]
+      },
+      "tags": ["dini", "ziyaret", "tarih"],
+      "popularity_score": 68,
+      "virality_trend": "düşüşte",
+      "average_rating": 4.1,
+      "review_count": 700,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/servergazi_1",
+        "https://instagram.com/servergazi.jpg"
+      ]
+    },
+    {
+      "id": "place_013",
+      "name": "Denizli Atatürk ve Etnoğrafya Müzesi",
+      "category": ["Müze", "Tarihi"],
+      "coordinates": { "lat": 37.7830, "lng": 29.0850 },
+      "city": "Denizli",
+      "district": "Pamukkale",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 30, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Salı", "Perşembe", "Cumartesi"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["müze", "tarih", "kültür"],
+      "popularity_score": 75,
+      "virality_trend": "stabil",
+      "average_rating": 4.3,
+      "review_count": 1600,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/etnografya_1",
+        "https://instagram.com/etnografya.jpg"
+      ]
+    },
+    {
+      "id": "place_014",
+      "name": "İncilipınar Parkı",
+      "category": ["Park", "Doğa"],
+      "coordinates": { "lat": 37.7770, "lng": 29.1000 },
+      "city": "Denizli",
+      "district": "Pamukkale",
+      "average_stay_minutes": 80,
+      "average_spend": { "amount": 20, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz", "Sonbahar"],
+        "days": ["Her gün"],
+        "hours": ["09:00-21:00"]
+      },
+      "tags": ["park", "aile dostu", "yürüyüş"],
+      "popularity_score": 79,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.4,
+      "review_count": 2500,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/incilipinar_1",
+        "https://instagram.com/incilipinar.jpg"
+      ]
+    },
+    {
+      "id": "place_015",
+      "name": "Buldan Dokuma Çarşısı",
+      "category": ["Alışveriş", "Kültür"],
+      "coordinates": { "lat": 37.9200, "lng": 28.8300 },
+      "city": "Denizli",
+      "district": "Buldan",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 150, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Her gün"],
+        "hours": ["09:00-20:00"]
+      },
+      "tags": ["dokuma", "alışveriş", "kültür"],
+      "popularity_score": 82,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.5,
+      "review_count": 1900,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/buldan_1",
+        "https://instagram.com/buldan.jpg"
+      ]
+    },
+    {
+      "id": "place_016",
+      "name": "Denizli Hierapolis Arkeoloji Müzesi",
+      "category": ["Müze", "Arkeoloji"],
+      "coordinates": { "lat": 37.9260, "lng": 29.1200 },
+      "city": "Denizli",
+      "district": "Pamukkale",
+      "average_stay_minutes": 100,
+      "average_spend": { "amount": 40, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Salı", "Perşembe", "Cumartesi"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["arkeoloji", "müze", "tarih"],
+      "popularity_score": 84,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.6,
+      "review_count": 2300,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/hierapolis_muze_1",
+        "https://instagram.com/hierapolis_muze.jpg"
+      ]
+    },
+    {
+      "id": "place_017",
+      "name": "Yatağan Baba Türbesi",
+      "category": ["Dini", "Tarihi"],
+      "coordinates": { "lat": 37.8300, "lng": 29.2100 },
+      "city": "Denizli",
+      "district": "Serinhisar",
+      "average_stay_minutes": 30,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Her gün"],
+        "hours": ["08:00-18:00"]
+      },
+      "tags": ["dini", "ziyaret"],
+      "popularity_score": 65,
+      "virality_trend": "düşüşte",
+      "average_rating": 4.0,
+      "review_count": 600,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/yatagan_1",
+        "https://instagram.com/yatagan.jpg"
+      ]
+    },
+    {
+      "id": "place_018",
+      "name": "Denizli Kaleiçi Çarşısı",
+      "category": ["Alışveriş", "Tarihi"],
+      "coordinates": { "lat": 37.7835, "lng": 29.0840 },
+      "city": "Denizli",
+      "district": "Merkezefendi",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 120, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-21:00"]
+      },
+      "tags": ["alışveriş", "tarih", "kültür"],
+      "popularity_score": 83,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.4,
+      "review_count": 3200,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/kaleici_1",
+        "https://instagram.com/kaleici.jpg"
+      ]
+    },
+    {
+      "id": "place_019",
+      "name": "Adalet Parkı",
+      "category": ["Park", "Doğa"],
+      "coordinates": { "lat": 37.7750, "lng": 29.0850 },
+      "city": "Denizli",
+      "district": "Merkezefendi",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 10, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz", "Sonbahar"],
+        "days": ["Her gün"],
+        "hours": ["09:00-22:00"]
+      },
+      "tags": ["park", "doğa", "yürüyüş"],
+      "popularity_score": 76,
+      "virality_trend": "stabil",
+      "average_rating": 4.3,
+      "review_count": 1400,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/adaletpark_1",
+        "https://instagram.com/adaletpark.jpg"
+      ]
+    },
+    {
+      "id": "place_020",
+      "name": "Akköy Antik Tiyatrosu",
+      "category": ["Tarihi", "Antik Tiyatro"],
+      "coordinates": { "lat": 37.9500, "lng": 29.1700 },
+      "city": "Denizli",
+      "district": "Pamukkale",
+      "average_stay_minutes": 80,
+      "average_spend": { "amount": 20, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Her gün"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["antik", "tiyatro", "tarih"],
+      "popularity_score": 72,
+      "virality_trend": "stabil",
+      "average_rating": 4.2,
+      "review_count": 900,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/akkoy_1",
+        "https://instagram.com/akkoy.jpg"
+      ]
+    }
+  ]
+  

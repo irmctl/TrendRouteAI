@@ -1,0 +1,504 @@
+[
+    {
+      "id": "place_001",
+      "name": "Mardin Ulu Camii",
+      "category": ["Tarihi", "Dini"],
+      "coordinates": { "lat": 37.3122, "lng": 40.7350 },
+      "city": "Mardin",
+      "district": "Artuklu",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Her gün"],
+        "hours": ["08:00-20:00"]
+      },
+      "tags": ["cami", "tarih", "ibadet"],
+      "popularity_score": 90,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.8,
+      "review_count": 8700,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/ulucami1.jpg",
+        "https://example.com/ulucami2.jpg"
+      ]
+    },
+    {
+      "id": "place_002",
+      "name": "Zinciriye Medresesi",
+      "category": ["Tarihi", "Eğitim"],
+      "coordinates": { "lat": 37.3125, "lng": 40.7347 },
+      "city": "Mardin",
+      "district": "Artuklu",
+      "average_stay_minutes": 75,
+      "average_spend": { "amount": 20, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Her gün"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["medrese", "tarih", "manzara"],
+      "popularity_score": 88,
+      "virality_trend": "stabil",
+      "average_rating": 4.7,
+      "review_count": 5600,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/zinciriye1.jpg",
+        "https://example.com/zinciriye2.jpg"
+      ]
+    },
+    {
+      "id": "place_003",
+      "name": "Deyrulzafaran Manastırı",
+      "category": ["Tarihi", "Dini"],
+      "coordinates": { "lat": 37.3411, "lng": 40.7894 },
+      "city": "Mardin",
+      "district": "Artuklu",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 40, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Her gün"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["süryani", "manastır", "tarih"],
+      "popularity_score": 95,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.9,
+      "review_count": 11200,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://example.com/deyrul1.jpg",
+        "https://example.com/deyrul2.jpg"
+      ]
+    },
+    {
+      "id": "place_004",
+      "name": "Mardin Kalesi",
+      "category": ["Tarihi", "Kale"],
+      "coordinates": { "lat": 37.3170, "lng": 40.7438 },
+      "city": "Mardin",
+      "district": "Artuklu",
+      "average_stay_minutes": 100,
+      "average_spend": { "amount": 30, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["kale", "tarih", "panoramik"],
+      "popularity_score": 89,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.6,
+      "review_count": 7300,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/kale1.jpg",
+        "https://example.com/kale2.jpg"
+      ]
+    },
+    {
+      "id": "place_005",
+      "name": "Kasımiye Medresesi",
+      "category": ["Tarihi", "Eğitim"],
+      "coordinates": { "lat": 37.3091, "lng": 40.7265 },
+      "city": "Mardin",
+      "district": "Artuklu",
+      "average_stay_minutes": 70,
+      "average_spend": { "amount": 15, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Her gün"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["medrese", "tarih", "manzara"],
+      "popularity_score": 87,
+      "virality_trend": "stabil",
+      "average_rating": 4.7,
+      "review_count": 4800,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/kasimiye1.jpg",
+        "https://example.com/kasimiye2.jpg"
+      ]
+    },
+    {
+      "id": "place_006",
+      "name": "Mor Behnam Kilisesi",
+      "category": ["Tarihi", "Dini"],
+      "coordinates": { "lat": 37.3172, "lng": 40.7400 },
+      "city": "Mardin",
+      "district": "Artuklu",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 10, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Her gün"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["kilise", "süryani", "tarih"],
+      "popularity_score": 82,
+      "virality_trend": "stabil",
+      "average_rating": 4.5,
+      "review_count": 3200,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/morbehnam1.jpg",
+        "https://example.com/morbehnam2.jpg"
+      ]
+    },
+    {
+      "id": "place_007",
+      "name": "Midyat Konuk Evi",
+      "category": ["Kültürel", "Tarihi"],
+      "coordinates": { "lat": 37.4225, "lng": 41.3377 },
+      "city": "Mardin",
+      "district": "Midyat",
+      "average_stay_minutes": 80,
+      "average_spend": { "amount": 50, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Her gün"],
+        "hours": ["09:00-19:00"]
+      },
+      "tags": ["dizi çekim", "tarih", "kültür"],
+      "popularity_score": 88,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.7,
+      "review_count": 5900,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://example.com/midyatkonuk1.jpg",
+        "https://example.com/midyatkonuk2.jpg"
+      ]
+    },
+    {
+      "id": "place_008",
+      "name": "Mor Gabriel Manastırı",
+      "category": ["Tarihi", "Dini"],
+      "coordinates": { "lat": 37.4220, "lng": 41.5086 },
+      "city": "Mardin",
+      "district": "Midyat",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 30, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Her gün"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["süryani", "manastır", "tarih"],
+      "popularity_score": 93,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.9,
+      "review_count": 9800,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/morgabriel1.jpg",
+        "https://example.com/morgabriel2.jpg"
+      ]
+    },
+    {
+      "id": "place_009",
+      "name": "Mardin Müzesi",
+      "category": ["Müze", "Tarihi"],
+      "coordinates": { "lat": 37.3168, "lng": 40.7421 },
+      "city": "Mardin",
+      "district": "Artuklu",
+      "average_stay_minutes": 70,
+      "average_spend": { "amount": 25, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["arkeoloji", "tarih", "müze"],
+      "popularity_score": 86,
+      "virality_trend": "stabil",
+      "average_rating": 4.6,
+      "review_count": 4500,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/mardinmuseum1.jpg",
+        "https://example.com/mardinmuseum2.jpg"
+      ]
+    },
+    {
+      "id": "place_010",
+      "name": "Savur Çarşısı",
+      "category": ["Kültürel", "Alışveriş"],
+      "coordinates": { "lat": 37.5380, "lng": 40.8832 },
+      "city": "Mardin",
+      "district": "Savur",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 150, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-20:00"]
+      },
+      "tags": ["çarşı", "alışveriş", "yerel ürün"],
+      "popularity_score": 80,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.4,
+      "review_count": 2800,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/savurcarsi1.jpg",
+        "https://example.com/savurcarsi2.jpg"
+      ]
+    },
+  
+    {
+      "id": "place_011",
+      "name": "Mor Yakup Kilisesi",
+      "category": ["Tarihi", "Dini"],
+      "coordinates": { "lat": 37.4148, "lng": 41.3369 },
+      "city": "Mardin",
+      "district": "Midyat",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 20, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Her gün"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["kilise", "süryani", "tarih"],
+      "popularity_score": 84,
+      "virality_trend": "stabil",
+      "average_rating": 4.6,
+      "review_count": 3100,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/moryakup1.jpg",
+        "https://example.com/moryakup2.jpg"
+      ]
+    },
+    {
+      "id": "place_012",
+      "name": "Hasankeyf Antik Kenti",
+      "category": ["Tarihi", "Arkeoloji"],
+      "coordinates": { "lat": 37.7158, "lng": 41.4140 },
+      "city": "Mardin",
+      "district": "Dargeçit",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 35, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Her gün"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["antik kent", "tarih", "dicle"],
+      "popularity_score": 91,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.8,
+      "review_count": 8400,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/hasankeyf1.jpg",
+        "https://example.com/hasankeyf2.jpg"
+      ]
+    },
+    {
+      "id": "place_013",
+      "name": "Mardin Taş Evler",
+      "category": ["Mimari", "Kültürel"],
+      "coordinates": { "lat": 37.3130, "lng": 40.7430 },
+      "city": "Mardin",
+      "district": "Artuklu",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Her gün"],
+        "hours": ["08:00-20:00"]
+      },
+      "tags": ["mimari", "fotoğraf", "tarih"],
+      "popularity_score": 92,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.9,
+      "review_count": 9700,
+      "sources": ["Instagram", "Google Maps"],
+      "photos": [
+        "https://example.com/tasevler1.jpg",
+        "https://example.com/tasevler2.jpg"
+      ]
+    },
+    {
+      "id": "place_014",
+      "name": "Midyat Gümüşçüler Çarşısı",
+      "category": ["Kültürel", "Alışveriş"],
+      "coordinates": { "lat": 37.4195, "lng": 41.3390 },
+      "city": "Mardin",
+      "district": "Midyat",
+      "average_stay_minutes": 100,
+      "average_spend": { "amount": 200, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-20:00"]
+      },
+      "tags": ["gümüş", "alışveriş", "hediyelik"],
+      "popularity_score": 83,
+      "virality_trend": "stabil",
+      "average_rating": 4.5,
+      "review_count": 3600,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/midyatgumus1.jpg",
+        "https://example.com/midyatgumus2.jpg"
+      ]
+    },
+    {
+      "id": "place_015",
+      "name": "Mor Evgin Manastırı",
+      "category": ["Tarihi", "Dini"],
+      "coordinates": { "lat": 37.3802, "lng": 40.9821 },
+      "city": "Mardin",
+      "district": "Nusaybin",
+      "average_stay_minutes": 80,
+      "average_spend": { "amount": 15, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Her gün"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["manastır", "süryani", "tarih"],
+      "popularity_score": 81,
+      "virality_trend": "stabil",
+      "average_rating": 4.4,
+      "review_count": 2200,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/morevgin1.jpg",
+        "https://example.com/morevgin2.jpg"
+      ]
+    },
+    {
+      "id": "place_016",
+      "name": "Mardin Dara Antik Kenti",
+      "category": ["Tarihi", "Arkeoloji"],
+      "coordinates": { "lat": 37.2267, "lng": 40.9470 },
+      "city": "Mardin",
+      "district": "Oğuz",
+      "average_stay_minutes": 150,
+      "average_spend": { "amount": 40, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz", "Sonbahar"],
+        "days": ["Her gün"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["antik kent", "arkeoloji", "tarih"],
+      "popularity_score": 94,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.9,
+      "review_count": 10300,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/dara1.jpg",
+        "https://example.com/dara2.jpg"
+      ]
+    },
+    {
+      "id": "place_017",
+      "name": "Mor Mihail Kilisesi",
+      "category": ["Tarihi", "Dini"],
+      "coordinates": { "lat": 37.3175, "lng": 40.7392 },
+      "city": "Mardin",
+      "district": "Artuklu",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 10, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Her gün"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["kilise", "süryani", "tarih"],
+      "popularity_score": 80,
+      "virality_trend": "stabil",
+      "average_rating": 4.3,
+      "review_count": 2000,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/mormihail1.jpg",
+        "https://example.com/mormihail2.jpg"
+      ]
+    },
+    {
+      "id": "place_018",
+      "name": "Mardin Taşhan",
+      "category": ["Kültürel", "Alışveriş"],
+      "coordinates": { "lat": 37.3160, "lng": 40.7410 },
+      "city": "Mardin",
+      "district": "Artuklu",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 120, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Her gün"],
+        "hours": ["09:00-21:00"]
+      },
+      "tags": ["han", "alışveriş", "kültür"],
+      "popularity_score": 85,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.5,
+      "review_count": 4200,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/tashan1.jpg",
+        "https://example.com/tashan2.jpg"
+      ]
+    },
+    {
+      "id": "place_019",
+      "name": "Mardin Çarşısı",
+      "category": ["Kültürel", "Alışveriş"],
+      "coordinates": { "lat": 37.3169, "lng": 40.7409 },
+      "city": "Mardin",
+      "district": "Artuklu",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 200, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-21:00"]
+      },
+      "tags": ["çarşı", "hediyelik", "baharat"],
+      "popularity_score": 89,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.7,
+      "review_count": 7100,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://example.com/mardincarsi1.jpg",
+        "https://example.com/mardincarsi2.jpg"
+      ]
+    },
+    {
+      "id": "place_020",
+      "name": "Mardin Sokakları ve Seyir Noktası",
+      "category": ["Doğa", "Kültürel"],
+      "coordinates": { "lat": 37.3167, "lng": 40.7420 },
+      "city": "Mardin",
+      "district": "Artuklu",
+      "average_stay_minutes": 100,
+      "average_spend": { "amount": 50, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Her gün"],
+        "hours": ["08:00-22:00"]
+      },
+      "tags": ["fotoğraf", "tarih", "manzara"],
+      "popularity_score": 96,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.9,
+      "review_count": 12400,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://example.com/mardinsokak1.jpg",
+        "https://example.com/mardinsokak2.jpg"
+      ]
+    }
+  ]
+  

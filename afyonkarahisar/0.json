@@ -1,0 +1,502 @@
+[
+    {
+      "id": "place_001",
+      "name": "Afyon Kalesi",
+      "category": ["Tarihi", "Kale", "Görülecek Yer"],
+      "coordinates": { "lat": 38.7656, "lng": 30.5366 },
+      "city": "Afyonkarahisar",
+      "district": "Merkez",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar"],
+        "hours": ["10:00-17:00"]
+      },
+      "tags": ["tarihi", "kale", "panoramik manzara"],
+      "popularity_score": 92,
+      "virality_trend": "durağan",
+      "average_rating": 4.8,
+      "review_count": 8500,
+      "sources": ["Google Maps", "TripAdvisor"],
+      "photos": [
+        "https://maps.googleapis.com/photo/a_1",
+        "https://instagram.com/a_2.jpg"
+      ]
+    },
+    {
+      "id": "place_002",
+      "name": "Frig Vadisi",
+      "category": ["Doğa", "Tarihi", "Vadi"],
+      "coordinates": { "lat": 39.0667, "lng": 30.6489 },
+      "city": "Afyonkarahisar",
+      "district": "İhsaniye",
+      "average_stay_minutes": 180,
+      "average_spend": { "amount": 20, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz", "Sonbahar"],
+        "days": ["Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar"],
+        "hours": ["09:00-19:00"]
+      },
+      "tags": ["doğa", "tarihi", "arkeoloji", "yürüyüş"],
+      "popularity_score": 88,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.6,
+      "review_count": 4200,
+      "sources": ["Google Maps", "Wikipedia"],
+      "photos": [
+        "https://maps.googleapis.com/photo/b_1",
+        "https://instagram.com/b_2.jpg"
+      ]
+    },
+    {
+      "id": "place_003",
+      "name": "Afyonkarahisar Arkeoloji Müzesi",
+      "category": ["Müze", "Tarihi"],
+      "coordinates": { "lat": 38.7758, "lng": 30.5381 },
+      "city": "Afyonkarahisar",
+      "district": "Merkez",
+      "average_stay_minutes": 75,
+      "average_spend": { "amount": 50, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm Yıl"],
+        "days": ["Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["müze", "arkeoloji", "kültür"],
+      "popularity_score": 85,
+      "virality_trend": "durağan",
+      "average_rating": 4.5,
+      "review_count": 3100,
+      "sources": ["Google Maps", "Kültür ve Turizm Bakanlığı"],
+      "photos": [
+        "https://maps.googleapis.com/photo/c_1",
+        "https://instagram.com/c_2.jpg"
+      ]
+    },
+    {
+      "id": "place_004",
+      "name": "Afyonkarahisar Ulu Camii",
+      "category": ["Tarihi", "Camii", "İbadethane"],
+      "coordinates": { "lat": 38.7667, "lng": 30.5361 },
+      "city": "Afyonkarahisar",
+      "district": "Merkez",
+      "average_stay_minutes": 30,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm Yıl"],
+        "days": ["Tüm Günler"],
+        "hours": ["08:00-21:00"]
+      },
+      "tags": ["tarihi", "mimari", "kültür"],
+      "popularity_score": 89,
+      "virality_trend": "durağan",
+      "average_rating": 4.7,
+      "review_count": 6800,
+      "sources": ["Google Maps", "Wikimapia"],
+      "photos": [
+        "https://maps.googleapis.com/photo/d_1",
+        "https://instagram.com/d_2.jpg"
+      ]
+    },
+    {
+      "id": "place_005",
+      "name": "Gediz Kayak Merkezi",
+      "category": ["Spor", "Kış Sporları", "Doğa"],
+      "coordinates": { "lat": 39.0112, "lng": 30.2976 },
+      "city": "Afyonkarahisar",
+      "district": "Gediz",
+      "average_stay_minutes": 240,
+      "average_spend": { "amount": 350, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Kış"],
+        "days": ["Cuma", "Cumartesi", "Pazar"],
+        "hours": ["09:00-16:00"]
+      },
+      "tags": ["kayak", "kış", "spor", "eğlence"],
+      "popularity_score": 75,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.3,
+      "review_count": 1500,
+      "sources": ["Google Maps", "Kayak Merkezleri Rehberi"],
+      "photos": [
+        "https://maps.googleapis.com/photo/e_1",
+        "https://instagram.com/e_2.jpg"
+      ]
+    },
+    {
+      "id": "place_006",
+      "name": "Eber Gölü",
+      "category": ["Doğa", "Göl", "Manzara"],
+      "coordinates": { "lat": 38.6489, "lng": 31.0634 },
+      "city": "Afyonkarahisar",
+      "district": "Çay",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 10, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["göl", "doğa", "kuş gözlem", "manzara"],
+      "popularity_score": 78,
+      "virality_trend": "durağan",
+      "average_rating": 4.4,
+      "review_count": 950,
+      "sources": ["Google Maps", "Doğa Rehberi"],
+      "photos": [
+        "https://maps.googleapis.com/photo/f_1",
+        "https://instagram.com/f_2.jpg"
+      ]
+    },
+    {
+      "id": "place_007",
+      "name": "Zafer Müzesi",
+      "category": ["Müze", "Tarihi"],
+      "coordinates": { "lat": 38.7750, "lng": 30.5404 },
+      "city": "Afyonkarahisar",
+      "district": "Merkez",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 30, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm Yıl"],
+        "days": ["Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["müze", "tarih", "Kurtuluş Savaşı"],
+      "popularity_score": 83,
+      "virality_trend": "durağan",
+      "average_rating": 4.6,
+      "review_count": 2800,
+      "sources": ["Google Maps", "Müze Rehberi"],
+      "photos": [
+        "https://maps.googleapis.com/photo/g_1",
+        "https://instagram.com/g_2.jpg"
+      ]
+    },
+    {
+      "id": "place_008",
+      "name": "Afyon Karahisar Konakları",
+      "category": ["Tarihi", "Mimari"],
+      "coordinates": { "lat": 38.7672, "lng": 30.5369 },
+      "city": "Afyonkarahisar",
+      "district": "Merkez",
+      "average_stay_minutes": 45,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm Yıl"],
+        "days": ["Tüm Günler"],
+        "hours": ["09:00-19:00"]
+      },
+      "tags": ["konak", "tarihi", "mimari", "eski Afyon"],
+      "popularity_score": 80,
+      "virality_trend": "durağan",
+      "average_rating": 4.5,
+      "review_count": 1800,
+      "sources": ["Google Maps", "Yerel Turizm Ofisi"],
+      "photos": [
+        "https://maps.googleapis.com/photo/h_1",
+        "https://instagram.com/h_2.jpg"
+      ]
+    },
+    {
+      "id": "place_009",
+      "name": "Ömer-Gecek Termal Turizm Merkezi",
+      "category": ["Termal", "Dinlenme", "Sağlık"],
+      "coordinates": { "lat": 38.8344, "lng": 30.4355 },
+      "city": "Afyonkarahisar",
+      "district": "Merkez",
+      "average_stay_minutes": 300,
+      "average_spend": { "amount": 500, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm Yıl"],
+        "days": ["Tüm Günler"],
+        "hours": ["09:00-22:00"]
+      },
+      "tags": ["termal", "sağlık", "spa", "dinlenme"],
+      "popularity_score": 95,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.9,
+      "review_count": 15000,
+      "sources": ["Google Maps", "Termal Oteller Rehberi"],
+      "photos": [
+        "https://maps.googleapis.com/photo/i_1",
+        "https://instagram.com/i_2.jpg"
+      ]
+    },
+    {
+      "id": "place_010",
+      "name": "Taşhan",
+      "category": ["Tarihi", "Alışveriş", "Gastronomi"],
+      "coordinates": { "lat": 38.7699, "lng": 30.5376 },
+      "city": "Afyonkarahisar",
+      "district": "Merkez",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 150, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm Yıl"],
+        "days": ["Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi"],
+        "hours": ["09:00-19:00"]
+      },
+      "tags": ["tarihi", "alışveriş", "gastronomi", "hediyelik"],
+      "popularity_score": 82,
+      "virality_trend": "durağan",
+      "average_rating": 4.6,
+      "review_count": 2500,
+      "sources": ["Google Maps", "Yerel Dükkan Rehberi"],
+      "photos": [
+        "https://maps.googleapis.com/photo/j_1",
+        "https://instagram.com/j_2.jpg"
+      ]
+    },
+    {
+      "id": "place_011",
+      "name": "Afyonkarahisar Şehir Merkezi",
+      "category": ["Şehir Merkezi", "Alışveriş", "Eğlence"],
+      "coordinates": { "lat": 38.7735, "lng": 30.5401 },
+      "city": "Afyonkarahisar",
+      "district": "Merkez",
+      "average_stay_minutes": 180,
+      "average_spend": { "amount": 200, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm Yıl"],
+        "days": ["Tüm Günler"],
+        "hours": ["10:00-22:00"]
+      },
+      "tags": ["şehir merkezi", "alışveriş", "restoran", "kafe"],
+      "popularity_score": 90,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.5,
+      "review_count": 11000,
+      "sources": ["Google Maps", "Foursquare"],
+      "photos": [
+        "https://maps.googleapis.com/photo/k_1",
+        "https://instagram.com/k_2.jpg"
+      ]
+    },
+    {
+      "id": "place_012",
+      "name": "Bolvadin Horan Parkı",
+      "category": ["Park", "Doğa", "Dinlenme"],
+      "coordinates": { "lat": 38.7298, "lng": 31.0210 },
+      "city": "Afyonkarahisar",
+      "district": "Bolvadin",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 25, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Tüm Günler"],
+        "hours": ["08:00-20:00"]
+      },
+      "tags": ["park", "piknik", "aile", "doğa"],
+      "popularity_score": 70,
+      "virality_trend": "durağan",
+      "average_rating": 4.2,
+      "review_count": 800,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/l_1",
+        "https://instagram.com/l_2.jpg"
+      ]
+    },
+    {
+      "id": "place_013",
+      "name": "Akdağ Tabiat Parkı",
+      "category": ["Doğa", "Tabiat Parkı", "Yürüyüş"],
+      "coordinates": { "lat": 38.9876, "lng": 29.8015 },
+      "city": "Afyonkarahisar",
+      "district": "Sandıklı",
+      "average_stay_minutes": 180,
+      "average_spend": { "amount": 40, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Tüm Günler"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["doğa", "yürüyüş", "piknik", "tabiat"],
+      "popularity_score": 84,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.7,
+      "review_count": 3500,
+      "sources": ["Google Maps", "Doğal Parklar Rehberi"],
+      "photos": [
+        "https://maps.googleapis.com/photo/m_1",
+        "https://instagram.com/m_2.jpg"
+      ]
+    },
+    {
+      "id": "place_014",
+      "name": "Kocabaş Termal Otelleri",
+      "category": ["Termal", "Spa", "Konaklama"],
+      "coordinates": { "lat": 38.7788, "lng": 30.5521 },
+      "city": "Afyonkarahisar",
+      "district": "Merkez",
+      "average_stay_minutes": 300,
+      "average_spend": { "amount": 600, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Kış"],
+        "days": ["Tüm Günler"],
+        "hours": ["Tüm Gün"]
+      },
+      "tags": ["termal", "spa", "konaklama", "tatil"],
+      "popularity_score": 91,
+      "virality_trend": "durağan",
+      "average_rating": 4.8,
+      "review_count": 9500,
+      "sources": ["Booking.com", "TripAdvisor"],
+      "photos": [
+        "https://maps.googleapis.com/photo/n_1",
+        "https://instagram.com/n_2.jpg"
+      ]
+    },
+    {
+      "id": "place_015",
+      "name": "Afyon Karahisar Müzesi",
+      "category": ["Müze", "Tarihi"],
+      "coordinates": { "lat": 38.7758, "lng": 30.5381 },
+      "city": "Afyonkarahisar",
+      "district": "Merkez",
+      "average_stay_minutes": 75,
+      "average_spend": { "amount": 50, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm Yıl"],
+        "days": ["Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["müze", "arkeoloji", "kültür"],
+      "popularity_score": 85,
+      "virality_trend": "durağan",
+      "average_rating": 4.5,
+      "review_count": 3100,
+      "sources": ["Google Maps", "Kültür ve Turizm Bakanlığı"],
+      "photos": [
+        "https://maps.googleapis.com/photo/o_1",
+        "https://instagram.com/o_2.jpg"
+      ]
+    },
+    {
+      "id": "place_016",
+      "name": "Afyonkarahisar Buzluk Mağarası",
+      "category": ["Mağara", "Doğa", "Gezi"],
+      "coordinates": { "lat": 38.7051, "lng": 30.3340 },
+      "city": "Afyonkarahisar",
+      "district": "Sinanpaşa",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 15, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz", "Sonbahar"],
+        "days": ["Tüm Günler"],
+        "hours": ["10:00-16:00"]
+      },
+      "tags": ["mağara", "doğa", "gezi", "buz"],
+      "popularity_score": 72,
+      "virality_trend": "durağan",
+      "average_rating": 4.1,
+      "review_count": 750,
+      "sources": ["Google Maps", "Yerel Gezi Blogları"],
+      "photos": [
+        "https://maps.googleapis.com/photo/p_1",
+        "https://instagram.com/p_2.jpg"
+      ]
+    },
+    {
+      "id": "place_017",
+      "name": "Afyonkarahisar Lokum Evi",
+      "category": ["Gastronomi", "Alışveriş"],
+      "coordinates": { "lat": 38.7725, "lng": 30.5398 },
+      "city": "Afyonkarahisar",
+      "district": "Merkez",
+      "average_stay_minutes": 30,
+      "average_spend": { "amount": 100, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm Yıl"],
+        "days": ["Tüm Günler"],
+        "hours": ["09:00-21:00"]
+      },
+      "tags": ["lokum", "gastronomi", "hediyelik", "alışveriş"],
+      "popularity_score": 88,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.7,
+      "review_count": 5000,
+      "sources": ["Google Maps", "Yemek Rehberi"],
+      "photos": [
+        "https://maps.googleapis.com/photo/q_1",
+        "https://instagram.com/q_2.jpg"
+      ]
+    },
+    {
+      "id": "place_018",
+      "name": "Ayazini Köyü",
+      "category": ["Köy", "Tarihi", "Doğa"],
+      "coordinates": { "lat": 38.9912, "lng": 30.6489 },
+      "city": "Afyonkarahisar",
+      "district": "İhsaniye",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 30, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Tüm Günler"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["köy", "tarihi", "kaya mezarları", "doğa"],
+      "popularity_score": 81,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.6,
+      "review_count": 1200,
+      "sources": ["Google Maps", "Yerel Gezi Blogları"],
+      "photos": [
+        "https://maps.googleapis.com/photo/r_1",
+        "https://instagram.com/r_2.jpg"
+      ]
+    },
+    {
+      "id": "place_019",
+      "name": "Afyonkarahisar Sanat Merkezi",
+      "category": ["Sanat", "Kültür", "Etkinlik"],
+      "coordinates": { "lat": 38.7750, "lng": 30.5361 },
+      "city": "Afyonkarahisar",
+      "district": "Merkez",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 50, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm Yıl"],
+        "days": ["Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar"],
+        "hours": ["10:00-20:00"]
+      },
+      "tags": ["sanat", "kültür", "sergi", "konser"],
+      "popularity_score": 79,
+      "virality_trend": "durağan",
+      "average_rating": 4.5,
+      "review_count": 900,
+      "sources": ["Google Maps", "Etkinlik Takvimi"],
+      "photos": [
+        "https://maps.googleapis.com/photo/s_1",
+        "https://instagram.com/s_2.jpg"
+      ]
+    },
+    {
+      "id": "place_020",
+      "name": "Afyonkarahisar Park Afyon AVM",
+      "category": ["Alışveriş Merkezi", "Eğlence", "Alışveriş"],
+      "coordinates": { "lat": 38.7792, "lng": 30.5601 },
+      "city": "Afyonkarahisar",
+      "district": "Merkez",
+      "average_stay_minutes": 150,
+      "average_spend": { "amount": 250, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm Yıl"],
+        "days": ["Tüm Günler"],
+        "hours": ["10:00-22:00"]
+      },
+      "tags": ["alışveriş", "eğlence", "AVM", "sinema"],
+      "popularity_score": 93,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.6,
+      "review_count": 18000,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/t_1",
+        "https://instagram.com/t_2.jpg"
+      ]
+    }
+  ]

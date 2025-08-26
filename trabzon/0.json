@@ -1,0 +1,503 @@
+[
+    {
+      "id": "place_001",
+      "name": "Uzungöl Tabiat Parkı",
+      "category": ["Doğa", "Göl", "Milli Park"],
+      "coordinates": { "lat": 40.6167, "lng": 40.3000 },
+      "city": "Trabzon",
+      "district": "Çaykara",
+      "average_stay_minutes": 180,
+      "average_spend": { "amount": 150, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz", "Sonbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["08:00-21:00"]
+      },
+      "tags": ["doğa", "yürüyüş", "fotoğraf"],
+      "popularity_score": 96,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.7,
+      "review_count": 24500,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/trabzon_uzungol_1",
+        "https://instagram.com/uzungol_official.jpg"
+      ]
+    },
+    {
+      "id": "place_002",
+      "name": "Sümela Manastırı",
+      "category": ["Tarihi", "Dini", "Müze"],
+      "coordinates": { "lat": 40.6908, "lng": 39.6583 },
+      "city": "Trabzon",
+      "district": "Maçka",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 90, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz", "Sonbahar"],
+        "days": ["Salı", "Perşembe", "Cumartesi"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["tarihi", "arkeoloji", "manzara"],
+      "popularity_score": 95,
+      "virality_trend": "stabil",
+      "average_rating": 4.8,
+      "review_count": 18000,
+      "sources": ["Google Maps", "TripAdvisor"],
+      "photos": [
+        "https://maps.googleapis.com/photo/sumela_1",
+        "https://instagram.com/sumela_manastiri.jpg"
+      ]
+    },
+    {
+      "id": "place_003",
+      "name": "Trabzon Ayasofya Camii (Hagia Sophia)",
+      "category": ["Tarihi", "Dini", "Müze"],
+      "coordinates": { "lat": 41.0028, "lng": 39.6933 },
+      "city": "Trabzon",
+      "district": "Ortahisar",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 30, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Her gün"],
+        "hours": ["09:00-19:00"]
+      },
+      "tags": ["tarihi", "sanat", "mimari"],
+      "popularity_score": 89,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.6,
+      "review_count": 9200,
+      "sources": ["Google Maps", "Wikipedia"],
+      "photos": [
+        "https://maps.googleapis.com/photo/trabzon_ayasofya_1",
+        "https://instagram.com/trabzon_ayasofya.jpg"
+      ]
+    },
+    {
+      "id": "place_004",
+      "name": "Boztepe Seyir Terası",
+      "category": ["Doğa", "Seyir Noktası"],
+      "coordinates": { "lat": 41.0069, "lng": 39.7336 },
+      "city": "Trabzon",
+      "district": "Ortahisar",
+      "average_stay_minutes": 75,
+      "average_spend": { "amount": 60, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Cuma", "Cumartesi", "Pazar"],
+        "hours": ["16:00-22:00"]
+      },
+      "tags": ["manzara", "çay bahçesi", "günbatımı"],
+      "popularity_score": 88,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.5,
+      "review_count": 7600,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/boztepe_1",
+        "https://instagram.com/boztepe_trabzon.jpg"
+      ]
+    },
+    {
+      "id": "place_005",
+      "name": "Atatürk Köşkü",
+      "category": ["Tarihi", "Müze"],
+      "coordinates": { "lat": 41.0107, "lng": 39.6769 },
+      "city": "Trabzon",
+      "district": "Ortahisar",
+      "average_stay_minutes": 70,
+      "average_spend": { "amount": 40, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Salı", "Perşembe", "Pazar"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["tarihi", "mimari", "müze"],
+      "popularity_score": 87,
+      "virality_trend": "stabil",
+      "average_rating": 4.6,
+      "review_count": 6800,
+      "sources": ["Google Maps", "Kültür Bakanlığı"],
+      "photos": [
+        "https://maps.googleapis.com/photo/ataturk_kosku_1",
+        "https://instagram.com/ataturkkosku_trabzon.jpg"
+      ]
+    },
+    {
+      "id": "place_006",
+      "name": "Ganita–Faroz Sahil Parkı",
+      "category": ["Doğa", "Sahil Parkı"],
+      "coordinates": { "lat": 41.0019, "lng": 39.7160 },
+      "city": "Trabzon",
+      "district": "Ortahisar",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 50, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz", "Sonbahar"],
+        "days": ["Her gün"],
+        "hours": ["08:00-23:00"]
+      },
+      "tags": ["yürüyüş", "bisiklet", "deniz"],
+      "popularity_score": 85,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.4,
+      "review_count": 5400,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/ganita_1",
+        "https://instagram.com/ganita_faroz.jpg"
+      ]
+    },
+    {
+      "id": "place_007",
+      "name": "Sera Gölü",
+      "category": ["Doğa", "Göl"],
+      "coordinates": { "lat": 40.9815, "lng": 39.5518 },
+      "city": "Trabzon",
+      "district": "Akçaabat",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 80, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-20:00"]
+      },
+      "tags": ["göl", "kayık", "piknik"],
+      "popularity_score": 84,
+      "virality_trend": "stabil",
+      "average_rating": 4.4,
+      "review_count": 6300,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/sera_1",
+        "https://instagram.com/sera_golu.jpg"
+      ]
+    },
+    {
+      "id": "place_008",
+      "name": "Çal Mağarası",
+      "category": ["Doğa", "Mağara"],
+      "coordinates": { "lat": 40.8722, "lng": 39.3447 },
+      "city": "Trabzon",
+      "district": "Düzköy",
+      "average_stay_minutes": 80,
+      "average_spend": { "amount": 30, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz", "Sonbahar"],
+        "days": ["Her gün"],
+        "hours": ["09:00-18:30"]
+      },
+      "tags": ["doğa", "jeoloji", "yürüyüş"],
+      "popularity_score": 82,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.5,
+      "review_count": 4100,
+      "sources": ["Google Maps", "TripAdvisor"],
+      "photos": [
+        "https://maps.googleapis.com/photo/cal_1",
+        "https://instagram.com/cal_magarasi.jpg"
+      ]
+    },
+    {
+      "id": "place_009",
+      "name": "Hıdırnebi Yaylası",
+      "category": ["Doğa", "Yayla"],
+      "coordinates": { "lat": 40.9500, "lng": 39.4500 },
+      "city": "Trabzon",
+      "district": "Akçaabat",
+      "average_stay_minutes": 150,
+      "average_spend": { "amount": 70, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["08:00-20:00"]
+      },
+      "tags": ["yayla", "sis denizi", "fotoğraf"],
+      "popularity_score": 86,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.6,
+      "review_count": 5200,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/hidirnebi_1",
+        "https://instagram.com/hidirnebi.jpg"
+      ]
+    },
+    {
+      "id": "place_010",
+      "name": "Kadırga Yaylası",
+      "category": ["Doğa", "Yayla", "Festival"],
+      "coordinates": { "lat": 40.7850, "lng": 39.2250 },
+      "city": "Trabzon",
+      "district": "Şalpazarı",
+      "average_stay_minutes": 180,
+      "average_spend": { "amount": 80, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz"],
+        "days": ["Temmuz Festival Dönemi"],
+        "hours": ["09:00-19:00"]
+      },
+      "tags": ["yayla", "horon", "kültür"],
+      "popularity_score": 83,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.5,
+      "review_count": 3000,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/kadirga_1",
+        "https://instagram.com/kadirga_yaylasi.jpg"
+      ]
+    },
+    {
+      "id": "place_011",
+      "name": "Vazelon Manastırı",
+      "category": ["Tarihi", "Dini"],
+      "coordinates": { "lat": 40.7505, "lng": 39.4305 },
+      "city": "Trabzon",
+      "district": "Maçka",
+      "average_stay_minutes": 70,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Her gün"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["tarihi", "manastır", "doğa"],
+      "popularity_score": 74,
+      "virality_trend": "stabil",
+      "average_rating": 4.2,
+      "review_count": 1200,
+      "sources": ["Google Maps", "Wikipedia"],
+      "photos": [
+        "https://maps.googleapis.com/photo/vazelon_1",
+        "https://instagram.com/vazelon.jpg"
+      ]
+    },
+    {
+      "id": "place_012",
+      "name": "Kuştul (Peristera) Manastırı",
+      "category": ["Tarihi", "Dini"],
+      "coordinates": { "lat": 40.7440, "lng": 39.5190 },
+      "city": "Trabzon",
+      "district": "Maçka",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz", "Sonbahar"],
+        "days": ["Her gün"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["tarihi", "yürüyüş", "manzara"],
+      "popularity_score": 72,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.3,
+      "review_count": 900,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/kustul_1",
+        "https://instagram.com/kustul.jpg"
+      ]
+    },
+    {
+      "id": "place_013",
+      "name": "Hamsiköy",
+      "category": ["Köy", "Gastronomi"],
+      "coordinates": { "lat": 40.6795, "lng": 39.5918 },
+      "city": "Trabzon",
+      "district": "Maçka",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 120, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Her gün"],
+        "hours": ["10:00-21:00"]
+      },
+      "tags": ["sütlaç", "yerel lezzet", "manzara"],
+      "popularity_score": 85,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.6,
+      "review_count": 4800,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/hamsikoy_1",
+        "https://instagram.com/hamsikoy_sutlaci.jpg"
+      ]
+    },
+    {
+      "id": "place_014",
+      "name": "Trabzon Meydan Parkı",
+      "category": ["Park", "Şehir"],
+      "coordinates": { "lat": 41.0023, "lng": 39.7167 },
+      "city": "Trabzon",
+      "district": "Ortahisar",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 40, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Her gün"],
+        "hours": ["08:00-22:00"]
+      },
+      "tags": ["şehir merkezi", "yürüyüş", "alışveriş"],
+      "popularity_score": 80,
+      "virality_trend": "stabil",
+      "average_rating": 4.3,
+      "review_count": 7000,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/meydan_1",
+        "https://instagram.com/trabzon_meydan.jpg"
+      ]
+    },
+    {
+      "id": "place_015",
+      "name": "Şenol Güneş Spor Kompleksi (Akyazı Stadyumu)",
+      "category": ["Spor", "Stadyum"],
+      "coordinates": { "lat": 41.0012, "lng": 39.6502 },
+      "city": "Trabzon",
+      "district": "Ortahisar",
+      "average_stay_minutes": 150,
+      "average_spend": { "amount": 200, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Futbol Sezonu"],
+        "days": ["Maç Günleri"],
+        "hours": ["17:00-23:00"]
+      },
+      "tags": ["futbol", "etkinlik", "taraftar"],
+      "popularity_score": 91,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.7,
+      "review_count": 10500,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/akyazi_1",
+        "https://instagram.com/akyazi_stadyumu.jpg"
+      ]
+    },
+    {
+      "id": "place_016",
+      "name": "Trabzonspor Müzesi (Şamil Ekinci)",
+      "category": ["Müze", "Spor Tarihi"],
+      "coordinates": { "lat": 41.0038, "lng": 39.7234 },
+      "city": "Trabzon",
+      "district": "Ortahisar",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 30, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Salı", "Perşembe", "Cumartesi"],
+        "hours": ["10:00-18:00"]
+      },
+      "tags": ["müze", "futbol", "koleksiyon"],
+      "popularity_score": 78,
+      "virality_trend": "stabil",
+      "average_rating": 4.5,
+      "review_count": 2100,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/ts_muze_1",
+        "https://instagram.com/trabzonspor_muzesi.jpg"
+      ]
+    },
+    {
+      "id": "place_017",
+      "name": "Ortahisar Tarihi Evler ve Kaleiçi",
+      "category": ["Tarihi", "Şehir Gezisi"],
+      "coordinates": { "lat": 41.0015, "lng": 39.7220 },
+      "city": "Trabzon",
+      "district": "Ortahisar",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 50, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz", "Sonbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["10:00-19:00"]
+      },
+      "tags": ["tarihi sokaklar", "mimari", "fotoğraf"],
+      "popularity_score": 79,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.4,
+      "review_count": 2600,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/ortahisar_1",
+        "https://instagram.com/ortahisar_oldtown.jpg"
+      ]
+    },
+    {
+      "id": "place_018",
+      "name": "Akçaabat Sahil ve Köfteciler Çarşısı",
+      "category": ["Yeme-İçme", "Sahil"],
+      "coordinates": { "lat": 41.0210, "lng": 39.5618 },
+      "city": "Trabzon",
+      "district": "Akçaabat",
+      "average_stay_minutes": 100,
+      "average_spend": { "amount": 180, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Her gün"],
+        "hours": ["11:00-22:00"]
+      },
+      "tags": ["akçaabat köftesi", "sahil", "aile dostu"],
+      "popularity_score": 84,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.5,
+      "review_count": 5400,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/akcaabat_1",
+        "https://instagram.com/akcaabat_kofte.jpg"
+      ]
+    },
+    {
+      "id": "place_019",
+      "name": "Altındere Vadisi Milli Parkı",
+      "category": ["Doğa", "Milli Park"],
+      "coordinates": { "lat": 40.6865, "lng": 39.6512 },
+      "city": "Trabzon",
+      "district": "Maçka",
+      "average_stay_minutes": 180,
+      "average_spend": { "amount": 60, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz", "Sonbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["08:00-19:00"]
+      },
+      "tags": ["yürüyüş parkuru", "piknik", "doğa"],
+      "popularity_score": 88,
+      "virality_trend": "stabil",
+      "average_rating": 4.7,
+      "review_count": 6700,
+      "sources": ["Google Maps", "TripAdvisor"],
+      "photos": [
+        "https://maps.googleapis.com/photo/altindere_1",
+        "https://instagram.com/altindere_valley.jpg"
+      ]
+    },
+    {
+      "id": "place_020",
+      "name": "Faroz Balıkçı Barınağı",
+      "category": ["Sahil", "Yerel Yaşam"],
+      "coordinates": { "lat": 41.0045, "lng": 39.7269 },
+      "city": "Trabzon",
+      "district": "Ortahisar",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 70, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz", "Sonbahar"],
+        "days": ["Her gün"],
+        "hours": ["09:00-21:00"]
+      },
+      "tags": ["balık", "sahil yürüyüşü", "fotoğraf"],
+      "popularity_score": 76,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.3,
+      "review_count": 1800,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/faroz_1",
+        "https://instagram.com/faroz_trabzon.jpg"
+      ]
+    }
+  ]
+  

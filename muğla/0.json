@@ -1,0 +1,503 @@
+[
+    {
+      "id": "place_001",
+      "name": "Ölüdeniz Plajı ve Lagün",
+      "category": ["Plaj", "Doğa"],
+      "coordinates": { "lat": 36.5494, "lng": 29.1150 },
+      "city": "Muğla",
+      "district": "Fethiye",
+      "average_stay_minutes": 240,
+      "average_spend": { "amount": 250, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz", "Sonbahar"],
+        "days": ["Her gün"],
+        "hours": ["08:00-19:00"]
+      },
+      "tags": ["deniz", "yüzme", "fotoğraf"],
+      "popularity_score": 97,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.9,
+      "review_count": 28500,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://example.com/oludeniz1.jpg",
+        "https://example.com/oludeniz2.jpg"
+      ]
+    },
+    {
+      "id": "place_002",
+      "name": "Kelebekler Vadisi",
+      "category": ["Doğa", "Kanyon"],
+      "coordinates": { "lat": 36.5166, "lng": 29.1225 },
+      "city": "Muğla",
+      "district": "Fethiye",
+      "average_stay_minutes": 180,
+      "average_spend": { "amount": 150, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Her gün"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["tekne turu", "kamp", "doğa"],
+      "popularity_score": 94,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.8,
+      "review_count": 14500,
+      "sources": ["Google Maps", "Tripadvisor"],
+      "photos": [
+        "https://example.com/kelebekler1.jpg",
+        "https://example.com/kelebekler2.jpg"
+      ]
+    },
+    {
+      "id": "place_003",
+      "name": "Saklıkent Kanyonu",
+      "category": ["Doğa", "Macera"],
+      "coordinates": { "lat": 36.4942, "lng": 29.4188 },
+      "city": "Muğla",
+      "district": "Seydikemer",
+      "average_stay_minutes": 150,
+      "average_spend": { "amount": 120, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz"],
+        "days": ["Her gün"],
+        "hours": ["09:00-17:30"]
+      },
+      "tags": ["kanyon", "trekking", "soğuk su"],
+      "popularity_score": 90,
+      "virality_trend": "stabil",
+      "average_rating": 4.7,
+      "review_count": 8700,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/saklikent1.jpg",
+        "https://example.com/saklikent2.jpg"
+      ]
+    },
+    {
+      "id": "place_004",
+      "name": "Bodrum Kalesi ve Sualtı Arkeoloji Müzesi",
+      "category": ["Tarihi", "Müze"],
+      "coordinates": { "lat": 37.0311, "lng": 27.4296 },
+      "city": "Muğla",
+      "district": "Bodrum",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 200, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz", "Sonbahar"],
+        "days": ["Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar"],
+        "hours": ["09:00-18:30"]
+      },
+      "tags": ["tarih", "müze", "manzara"],
+      "popularity_score": 92,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.7,
+      "review_count": 11200,
+      "sources": ["Google Maps", "Kültür Bakanlığı"],
+      "photos": [
+        "https://example.com/bodrumkale1.jpg",
+        "https://example.com/bodrumkale2.jpg"
+      ]
+    },
+    {
+      "id": "place_005",
+      "name": "Bodrum Marina",
+      "category": ["Marina", "Gece Hayatı"],
+      "coordinates": { "lat": 37.0347, "lng": 27.4290 },
+      "city": "Muğla",
+      "district": "Bodrum",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 300, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz"],
+        "days": ["Cuma", "Cumartesi", "Pazar"],
+        "hours": ["18:00-01:00"]
+      },
+      "tags": ["yemek", "alışveriş", "tekne"],
+      "popularity_score": 89,
+      "virality_trend": "stabil",
+      "average_rating": 4.5,
+      "review_count": 9800,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://example.com/bodrummarina1.jpg",
+        "https://example.com/bodrummarina2.jpg"
+      ]
+    },
+    {
+      "id": "place_006",
+      "name": "Marmaris Kalesi ve Müzesi",
+      "category": ["Tarihi", "Müze"],
+      "coordinates": { "lat": 36.8522, "lng": 28.2751 },
+      "city": "Muğla",
+      "district": "Marmaris",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 120, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Her gün"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["tarih", "müze", "panoramik"],
+      "popularity_score": 85,
+      "virality_trend": "stabil",
+      "average_rating": 4.6,
+      "review_count": 5200,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/marmariskale1.jpg",
+        "https://example.com/marmariskale2.jpg"
+      ]
+    },
+    {
+      "id": "place_007",
+      "name": "İçmeler Plajı",
+      "category": ["Plaj", "Sahil"],
+      "coordinates": { "lat": 36.8005, "lng": 28.2418 },
+      "city": "Muğla",
+      "district": "Marmaris",
+      "average_stay_minutes": 210,
+      "average_spend": { "amount": 180, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz"],
+        "days": ["Her gün"],
+        "hours": ["09:00-19:00"]
+      },
+      "tags": ["deniz", "aile dostu", "su sporları"],
+      "popularity_score": 88,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.6,
+      "review_count": 7600,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/icmeler1.jpg",
+        "https://example.com/icmeler2.jpg"
+      ]
+    },
+    {
+      "id": "place_008",
+      "name": "Akyaka Azmak Nehri",
+      "category": ["Doğa", "Nehir"],
+      "coordinates": { "lat": 37.0467, "lng": 28.3228 },
+      "city": "Muğla",
+      "district": "Ula",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 120, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Her gün"],
+        "hours": ["09:00-20:00"]
+      },
+      "tags": ["tekne turu", "doğa", "serin"],
+      "popularity_score": 91,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.8,
+      "review_count": 13400,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://example.com/azmak1.jpg",
+        "https://example.com/azmak2.jpg"
+      ]
+    },
+    {
+      "id": "place_009",
+      "name": "Akyaka Plajı",
+      "category": ["Plaj", "Sörf"],
+      "coordinates": { "lat": 37.0502, "lng": 28.3197 },
+      "city": "Muğla",
+      "district": "Ula",
+      "average_stay_minutes": 180,
+      "average_spend": { "amount": 160, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz", "Sonbahar"],
+        "days": ["Her gün"],
+        "hours": ["10:00-19:00"]
+      },
+      "tags": ["kite surf", "sığ deniz", "rüzgar"],
+      "popularity_score": 87,
+      "virality_trend": "stabil",
+      "average_rating": 4.6,
+      "review_count": 6800,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/akyakaplaj1.jpg",
+        "https://example.com/akyakaplaj2.jpg"
+      ]
+    },
+    {
+      "id": "place_010",
+      "name": "Dalyan Kaunos Kral Mezarları",
+      "category": ["Tarihi", "Arkeoloji"],
+      "coordinates": { "lat": 36.8358, "lng": 28.6205 },
+      "city": "Muğla",
+      "district": "Ortaca",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 100, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz", "Sonbahar"],
+        "days": ["Her gün"],
+        "hours": ["09:00-18:30"]
+      },
+      "tags": ["tekne", "tarih", "fotoğraf"],
+      "popularity_score": 93,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.8,
+      "review_count": 15400,
+      "sources": ["Google Maps", "Kültür Bakanlığı"],
+      "photos": [
+        "https://example.com/kralmezar1.jpg",
+        "https://example.com/kralmezar2.jpg"
+      ]
+    },
+    {
+      "id": "place_011",
+      "name": "İztuzu Plajı (Caretta Caretta)",
+      "category": ["Plaj", "Doğa"],
+      "coordinates": { "lat": 36.7921, "lng": 28.6202 },
+      "city": "Muğla",
+      "district": "Ortaca",
+      "average_stay_minutes": 180,
+      "average_spend": { "amount": 120, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz", "Sonbahar"],
+        "days": ["Her gün"],
+        "hours": ["08:00-19:00"]
+      },
+      "tags": ["kaplumbağa", "doğa koruma", "deniz"],
+      "popularity_score": 95,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.9,
+      "review_count": 21000,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://example.com/iztuzu1.jpg",
+        "https://example.com/iztuzu2.jpg"
+      ]
+    },
+    {
+      "id": "place_012",
+      "name": "Köyceğiz Gölü",
+      "category": ["Doğa", "Göl"],
+      "coordinates": { "lat": 36.9690, "lng": 28.6850 },
+      "city": "Muğla",
+      "district": "Köyceğiz",
+      "average_stay_minutes": 150,
+      "average_spend": { "amount": 90, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz", "Sonbahar"],
+        "days": ["Her gün"],
+        "hours": ["09:00-19:00"]
+      },
+      "tags": ["tekne turu", "gün batımı", "doğa"],
+      "popularity_score": 84,
+      "virality_trend": "stabil",
+      "average_rating": 4.6,
+      "review_count": 4600,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/koycegiz1.jpg",
+        "https://example.com/koycegiz2.jpg"
+      ]
+    },
+    {
+      "id": "place_013",
+      "name": "Sultaniye Kaplıcaları",
+      "category": ["Sağlık", "Kaplıca"],
+      "coordinates": { "lat": 36.8976, "lng": 28.6454 },
+      "city": "Muğla",
+      "district": "Köyceğiz",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 140, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Her gün"],
+        "hours": ["09:00-20:00"]
+      },
+      "tags": ["termal", "çamur banyosu", "dinlenme"],
+      "popularity_score": 82,
+      "virality_trend": "stabil",
+      "average_rating": 4.4,
+      "review_count": 3900,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/sultaniye1.jpg",
+        "https://example.com/sultaniye2.jpg"
+      ]
+    },
+    {
+      "id": "place_014",
+      "name": "Datça Knidos Antik Kenti",
+      "category": ["Tarihi", "Arkeoloji"],
+      "coordinates": { "lat": 36.6866, "lng": 27.3787 },
+      "city": "Muğla",
+      "district": "Datça",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 160, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz", "Sonbahar"],
+        "days": ["Her gün"],
+        "hours": ["09:00-19:00"]
+      },
+      "tags": ["antik kent", "gün batımı", "tarih"],
+      "popularity_score": 88,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.7,
+      "review_count": 8100,
+      "sources": ["Google Maps", "Kültür Bakanlığı"],
+      "photos": [
+        "https://example.com/knidos1.jpg",
+        "https://example.com/knidos2.jpg"
+      ]
+    },
+    {
+      "id": "place_015",
+      "name": "Datça Eski Çarşı",
+      "category": ["Kültürel", "Alışveriş"],
+      "coordinates": { "lat": 36.7266, "lng": 27.6867 },
+      "city": "Muğla",
+      "district": "Datça",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 200, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz"],
+        "days": ["Cuma", "Cumartesi", "Pazar"],
+        "hours": ["18:00-23:30"]
+      },
+      "tags": ["yerel ürün", "bademezmesi", "gece yürüyüşü"],
+      "popularity_score": 83,
+      "virality_trend": "stabil",
+      "average_rating": 4.5,
+      "review_count": 5200,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/datcacarsi1.jpg",
+        "https://example.com/datcacarsi2.jpg"
+      ]
+    },
+    {
+      "id": "place_016",
+      "name": "Milas Beçin Kalesi",
+      "category": ["Tarihi", "Kültürel"],
+      "coordinates": { "lat": 37.2904, "lng": 27.7927 },
+      "city": "Muğla",
+      "district": "Milas",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 60, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["kale", "tarih", "panoramik"],
+      "popularity_score": 76,
+      "virality_trend": "stabil",
+      "average_rating": 4.4,
+      "review_count": 1700,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/becin1.jpg",
+        "https://example.com/becin2.jpg"
+      ]
+    },
+    {
+      "id": "place_017",
+      "name": "Gökova Körfezi Seyir Terası",
+      "category": ["Manzara", "Doğa"],
+      "coordinates": { "lat": 37.0509, "lng": 28.3277 },
+      "city": "Muğla",
+      "district": "Ula",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 40, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz", "Sonbahar"],
+        "days": ["Her gün"],
+        "hours": ["08:00-20:30"]
+      },
+      "tags": ["drone", "fotoğraf", "manzara"],
+      "popularity_score": 80,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.6,
+      "review_count": 2600,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://example.com/gokovaseyir1.jpg",
+        "https://example.com/gokovaseyir2.jpg"
+      ]
+    },
+    {
+      "id": "place_018",
+      "name": "Akyaka Orman Kampı",
+      "category": ["Kamp", "Doğa"],
+      "coordinates": { "lat": 37.0543, "lng": 28.3146 },
+      "city": "Muğla",
+      "district": "Ula",
+      "average_stay_minutes": 720,
+      "average_spend": { "amount": 350, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Her gün"],
+        "hours": ["00:00-23:59"]
+      },
+      "tags": ["kamp", "deniz", "çam ormanı"],
+      "popularity_score": 86,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.5,
+      "review_count": 4100,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/akyakakamp1.jpg",
+        "https://example.com/akyakakamp2.jpg"
+      ]
+    },
+    {
+      "id": "place_019",
+      "name": "Yatağan Stratonikeia Antik Kenti",
+      "category": ["Tarihi", "Arkeoloji"],
+      "coordinates": { "lat": 37.3245, "lng": 28.0968 },
+      "city": "Muğla",
+      "district": "Yatağan",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 80, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Her gün"],
+        "hours": ["09:00-18:30"]
+      },
+      "tags": ["antik kent", "tarih", "arkeoloji"],
+      "popularity_score": 78,
+      "virality_trend": "stabil",
+      "average_rating": 4.6,
+      "review_count": 2400,
+      "sources": ["Google Maps", "Kültür Bakanlığı"],
+      "photos": [
+        "https://example.com/stratonikeia1.jpg",
+        "https://example.com/stratonikeia2.jpg"
+      ]
+    },
+    {
+      "id": "place_020",
+      "name": "Datça Palamutbükü Plajı",
+      "category": ["Plaj", "Sahil"],
+      "coordinates": { "lat": 36.6894, "lng": 27.5616 },
+      "city": "Muğla",
+      "district": "Datça",
+      "average_stay_minutes": 210,
+      "average_spend": { "amount": 160, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz", "Sonbahar"],
+        "days": ["Her gün"],
+        "hours": ["09:00-19:30"]
+      },
+      "tags": ["çakıl plaj", "temiz deniz", "şnorkel"],
+      "popularity_score": 90,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.8,
+      "review_count": 7300,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://example.com/palamutbuku1.jpg",
+        "https://example.com/palamutbuku2.jpg"
+      ]
+    }
+  ]
+  

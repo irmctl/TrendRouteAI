@@ -1,0 +1,502 @@
+[
+    {
+      "id": "place_001",
+      "name": "Odunpazarı Evleri",
+      "category": ["Tarihi", "Mimari", "Mahalle"],
+      "coordinates": { "lat": 39.7667, "lng": 30.5283 },
+      "city": "Eskişehir",
+      "district": "Odunpazarı",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 150, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar"],
+        "hours": ["10:00-19:00"]
+      },
+      "tags": ["tarihi", "Osmanlı mimarisi", "sokaklar", "fotoğrafçılık"],
+      "popularity_score": 95,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.8,
+      "review_count": 25000,
+      "sources": ["Google Maps", "TripAdvisor"],
+      "photos": [
+        "https://maps.googleapis.com/photo/odunpazari1",
+        "https://instagram.com/odunpazari_evleri.jpg"
+      ]
+    },
+    {
+      "id": "place_002",
+      "name": "Sazova Bilim Kültür ve Sanat Parkı",
+      "category": ["Park", "Eğlence", "Bilim"],
+      "coordinates": { "lat": 39.7891, "lng": 30.4682 },
+      "city": "Eskişehir",
+      "district": "Tepebaşı",
+      "average_stay_minutes": 180,
+      "average_spend": { "amount": 100, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Tüm Günler"],
+        "hours": ["09:00-22:00"]
+      },
+      "tags": ["park", "aile dostu", "bilim", "masal şatosu", "korsan gemisi"],
+      "popularity_score": 97,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.9,
+      "review_count": 45000,
+      "sources": ["Google Maps", "TripAdvisor", "Foursquare"],
+      "photos": [
+        "https://maps.googleapis.com/photo/sazova1",
+        "https://instagram.com/sazova_park.jpg"
+      ]
+    },
+    {
+      "id": "place_003",
+      "name": "Porsuk Çayı",
+      "category": ["Doğa", "Nehir", "Gezi"],
+      "coordinates": { "lat": 39.7719, "lng": 30.5222 },
+      "city": "Eskişehir",
+      "district": "Odunpazarı",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 80, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz", "Sonbahar"],
+        "days": ["Tüm Günler"],
+        "hours": ["10:00-23:00"]
+      },
+      "tags": ["nehrin kıyısı", "gondol", "tekne turu", "manzara"],
+      "popularity_score": 94,
+      "virality_trend": "durağan",
+      "average_rating": 4.7,
+      "review_count": 20000,
+      "sources": ["Google Maps", "Yerel Turizm Ofisi"],
+      "photos": [
+        "https://maps.googleapis.com/photo/porsuk1",
+        "https://instagram.com/porsuk_cayi.jpg"
+      ]
+    },
+    {
+      "id": "place_004",
+      "name": "Eskişehir Balmumu Heykeller Müzesi (Yılmaz Büyükerşen)",
+      "category": ["Müze", "Sanat"],
+      "coordinates": { "lat": 39.7667, "lng": 30.5283 },
+      "city": "Eskişehir",
+      "district": "Odunpazarı",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 75, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm Yıl"],
+        "days": ["Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar"],
+        "hours": ["10:00-18:00"]
+      },
+      "tags": ["müze", "balmumu heykeller", "ünlüler", "sanat"],
+      "popularity_score": 90,
+      "virality_trend": "durağan",
+      "average_rating": 4.6,
+      "review_count": 18000,
+      "sources": ["Google Maps", "Müze Rehberi"],
+      "photos": [
+        "https://maps.googleapis.com/photo/balmumu1",
+        "https://instagram.com/balmumu_muzesi.jpg"
+      ]
+    },
+    {
+      "id": "place_005",
+      "name": "Eskişehir Eti Arkeoloji Müzesi",
+      "category": ["Müze", "Tarihi"],
+      "coordinates": { "lat": 39.7709, "lng": 30.5186 },
+      "city": "Eskişehir",
+      "district": "Odunpazarı",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 40, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm Yıl"],
+        "days": ["Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["arkeoloji", "tarihi eserler", "müze", "kültür"],
+      "popularity_score": 85,
+      "virality_trend": "durağan",
+      "average_rating": 4.5,
+      "review_count": 6000,
+      "sources": ["Google Maps", "Kültür ve Turizm Bakanlığı"],
+      "photos": [
+        "https://maps.googleapis.com/photo/arkeoloji1",
+        "https://instagram.com/eti_arkeoloji_muzesi.jpg"
+      ]
+    },
+    {
+      "id": "place_006",
+      "name": "Çağdaş Cam Sanatları Müzesi",
+      "category": ["Müze", "Sanat"],
+      "coordinates": { "lat": 39.7663, "lng": 30.5280 },
+      "city": "Eskişehir",
+      "district": "Odunpazarı",
+      "average_stay_minutes": 45,
+      "average_spend": { "amount": 20, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm Yıl"],
+        "days": ["Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar"],
+        "hours": ["10:00-18:00"]
+      },
+      "tags": ["cam sanatı", "müze", "sanat", "hediyelik eşya"],
+      "popularity_score": 88,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.7,
+      "review_count": 9000,
+      "sources": ["Google Maps", "Müze Rehberi"],
+      "photos": [
+        "https://maps.googleapis.com/photo/cam1",
+        "https://instagram.com/cagdas_cam.jpg"
+      ]
+    },
+    {
+      "id": "place_007",
+      "name": "Lületaşı Müzesi",
+      "category": ["Müze", "El Sanatları"],
+      "coordinates": { "lat": 39.7659, "lng": 30.5278 },
+      "city": "Eskişehir",
+      "district": "Odunpazarı",
+      "average_stay_minutes": 30,
+      "average_spend": { "amount": 10, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm Yıl"],
+        "days": ["Tüm Günler"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["lületaşı", "müze", "el sanatları", "hediyelik"],
+      "popularity_score": 80,
+      "virality_trend": "durağan",
+      "average_rating": 4.4,
+      "review_count": 4500,
+      "sources": ["Google Maps", "Yerel Dükkan Rehberi"],
+      "photos": [
+        "https://maps.googleapis.com/photo/luletasi1",
+        "https://instagram.com/luletasi_muzesi.jpg"
+      ]
+    },
+    {
+      "id": "place_008",
+      "name": "Kurşunlu Camii ve Külliyesi",
+      "category": ["Tarihi", "Dini Yapı", "Külliye"],
+      "coordinates": { "lat": 39.7657, "lng": 30.5281 },
+      "city": "Eskişehir",
+      "district": "Odunpazarı",
+      "average_stay_minutes": 40,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm Yıl"],
+        "days": ["Tüm Günler"],
+        "hours": ["08:00-20:00"]
+      },
+      "tags": ["tarihi", "cami", "Osmanlı mimarisi", "kültür"],
+      "popularity_score": 87,
+      "virality_trend": "durağan",
+      "average_rating": 4.7,
+      "review_count": 10000,
+      "sources": ["Google Maps", "Wikimapia"],
+      "photos": [
+        "https://maps.googleapis.com/photo/kursunlu1",
+        "https://instagram.com/kursunlu_camii.jpg"
+      ]
+    },
+    {
+      "id": "place_009",
+      "name": "Kent Park",
+      "category": ["Park", "Dinlenme", "Eğlence"],
+      "coordinates": { "lat": 39.7674, "lng": 30.5188 },
+      "city": "Eskişehir",
+      "district": "Tepebaşı",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 50, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz", "İlkbahar"],
+        "days": ["Tüm Günler"],
+        "hours": ["08:00-23:00"]
+      },
+      "tags": ["park", "yapay plaj", "açık hava havuzu", "aile dostu"],
+      "popularity_score": 92,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.6,
+      "review_count": 15000,
+      "sources": ["Google Maps", "Foursquare"],
+      "photos": [
+        "https://maps.googleapis.com/photo/kentpark1",
+        "https://instagram.com/kent_park_eskisehir.jpg"
+      ]
+    },
+    {
+      "id": "place_010",
+      "name": "Eskişehir Havacılık Müzesi",
+      "category": ["Müze", "Havacılık"],
+      "coordinates": { "lat": 39.8146, "lng": 30.5250 },
+      "city": "Eskişehir",
+      "district": "Tepebaşı",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 10, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm Yıl"],
+        "days": ["Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["müze", "havacılık", "uçaklar", "tarihi"],
+      "popularity_score": 83,
+      "virality_trend": "durağan",
+      "average_rating": 4.5,
+      "review_count": 7000,
+      "sources": ["Google Maps", "Havacılık Rehberi"],
+      "photos": [
+        "https://maps.googleapis.com/photo/havacilik1",
+        "https://instagram.com/havacilik_muzesi.jpg"
+      ]
+    },
+    {
+      "id": "place_011",
+      "name": "Doktorlar Caddesi",
+      "category": ["Cadde", "Alışveriş", "Eğlence"],
+      "coordinates": { "lat": 39.7719, "lng": 30.5204 },
+      "city": "Eskişehir",
+      "district": "Odunpazarı",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 200, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm Yıl"],
+        "days": ["Tüm Günler"],
+        "hours": ["10:00-23:00"]
+      },
+      "tags": ["alışveriş", "kafe", "restoran", "canlılık"],
+      "popularity_score": 91,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.6,
+      "review_count": 14000,
+      "sources": ["Google Maps", "Foursquare"],
+      "photos": [
+        "https://maps.googleapis.com/photo/doktorlar1",
+        "https://instagram.com/doktorlar_caddesi.jpg"
+      ]
+    },
+    {
+      "id": "place_012",
+      "name": "Şelale Park",
+      "category": ["Park", "Manzara"],
+      "coordinates": { "lat": 39.7423, "lng": 30.5376 },
+      "city": "Eskişehir",
+      "district": "Odunpazarı",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 30, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Tüm Günler"],
+        "hours": ["09:00-21:00"]
+      },
+      "tags": ["park", "şelale", "manzara", "dinlenme"],
+      "popularity_score": 86,
+      "virality_trend": "durağan",
+      "average_rating": 4.5,
+      "review_count": 8000,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/selale1",
+        "https://instagram.com/selale_park.jpg"
+      ]
+    },
+    {
+      "id": "place_013",
+      "name": "Espark Alışveriş Merkezi",
+      "category": ["Alışveriş Merkezi", "Alışveriş", "Eğlence"],
+      "coordinates": { "lat": 39.7744, "lng": 30.5135 },
+      "city": "Eskişehir",
+      "district": "Tepebaşı",
+      "average_stay_minutes": 180,
+      "average_spend": { "amount": 300, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm Yıl"],
+        "days": ["Tüm Günler"],
+        "hours": ["10:00-22:00"]
+      },
+      "tags": ["alışveriş", "AVM", "restoran", "sinema"],
+      "popularity_score": 96,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.7,
+      "review_count": 30000,
+      "sources": ["Google Maps", "Foursquare"],
+      "photos": [
+        "https://maps.googleapis.com/photo/espark1",
+        "https://instagram.com/espark_avm.jpg"
+      ]
+    },
+    {
+      "id": "place_014",
+      "name": "Korsan Gemisi",
+      "category": ["Eğlence", "Tema Parkı"],
+      "coordinates": { "lat": 39.7891, "lng": 30.4682 },
+      "city": "Eskişehir",
+      "district": "Tepebaşı",
+      "average_stay_minutes": 45,
+      "average_spend": { "amount": 50, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz", "İlkbahar"],
+        "days": ["Tüm Günler"],
+        "hours": ["09:00-19:00"]
+      },
+      "tags": ["eğlence", "park", "gemi", "çocuk dostu"],
+      "popularity_score": 89,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.6,
+      "review_count": 11000,
+      "sources": ["Google Maps", "Sazova Parkı web sitesi"],
+      "photos": [
+        "https://maps.googleapis.com/photo/korsangemisi1",
+        "https://instagram.com/korsan_gemisi_eskisehir.jpg"
+      ]
+    },
+    {
+      "id": "place_015",
+      "name": "Eskişehir Balmumu Heykeller Müzesi (Madame Tussauds Eskişehir)",
+      "category": ["Müze", "Sanat"],
+      "coordinates": { "lat": 39.7667, "lng": 30.5283 },
+      "city": "Eskişehir",
+      "district": "Odunpazarı",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 75, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm Yıl"],
+        "days": ["Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar"],
+        "hours": ["10:00-18:00"]
+      },
+      "tags": ["müze", "balmumu heykeller", "ünlüler", "sanat"],
+      "popularity_score": 90,
+      "virality_trend": "durağan",
+      "average_rating": 4.6,
+      "review_count": 18000,
+      "sources": ["Google Maps", "Müze Rehberi"],
+      "photos": [
+        "https://maps.googleapis.com/photo/balmumu_tussauds1",
+        "https://instagram.com/madame_tussauds_eskisehir.jpg"
+      ]
+    },
+    {
+      "id": "place_016",
+      "name": "TCDD Müzesi",
+      "category": ["Müze", "Tarihi", "Ulaşım"],
+      "coordinates": { "lat": 39.7820, "lng": 30.5132 },
+      "city": "Eskişehir",
+      "district": "Odunpazarı",
+      "average_stay_minutes": 45,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm Yıl"],
+        "days": ["Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["müze", "tren", "demiryolu", "tarihi"],
+      "popularity_score": 75,
+      "virality_trend": "durağan",
+      "average_rating": 4.3,
+      "review_count": 2500,
+      "sources": ["Google Maps", "Demiryolu Dergisi"],
+      "photos": [
+        "https://maps.googleapis.com/photo/tcdd1",
+        "https://instagram.com/tcdd_muzesi_eskisehir.jpg"
+      ]
+    },
+    {
+      "id": "place_017",
+      "name": "Eskişehir Haller Gençlik Merkezi",
+      "category": ["Sosyal Merkez", "Eğlence", "Yemek"],
+      "coordinates": { "lat": 39.7719, "lng": 30.5215 },
+      "city": "Eskişehir",
+      "district": "Odunpazarı",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 120, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm Yıl"],
+        "days": ["Tüm Günler"],
+        "hours": ["09:00-00:00"]
+      },
+      "tags": ["gençlik merkezi", "kafe", "restoran", "sosyalleşme"],
+      "popularity_score": 88,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.6,
+      "review_count": 9500,
+      "sources": ["Google Maps", "Foursquare"],
+      "photos": [
+        "https://maps.googleapis.com/photo/haller1",
+        "https://instagram.com/haller_genclik_merkezi.jpg"
+      ]
+    },
+    {
+      "id": "place_018",
+      "name": "Eskişehir Büyükşehir Belediyesi Bilim Deney Merkezi",
+      "category": ["Bilim", "Eğitim", "Etkinlik"],
+      "coordinates": { "lat": 39.7891, "lng": 30.4682 },
+      "city": "Eskişehir",
+      "district": "Tepebaşı",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 20, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm Yıl"],
+        "days": ["Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["bilim", "deney", "eğitim", "çocuk dostu"],
+      "popularity_score": 84,
+      "virality_trend": "durağan",
+      "average_rating": 4.5,
+      "review_count": 5500,
+      "sources": ["Google Maps", "Bilim Merkezleri Rehberi"],
+      "photos": [
+        "https://maps.googleapis.com/photo/bilimdeney1",
+        "https://instagram.com/bilim_deney_merkezi.jpg"
+      ]
+    },
+    {
+      "id": "place_019",
+      "name": "Midas Anıtı (Yazılıkaya)",
+      "category": ["Tarihi", "Arkeoloji"],
+      "coordinates": { "lat": 39.6953, "lng": 30.8290 },
+      "city": "Eskişehir",
+      "district": "Han",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 10, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Tüm Günler"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["frig vadisi", "tarihi", "arkeoloji", "açık hava müzesi"],
+      "popularity_score": 82,
+      "virality_trend": "durağan",
+      "average_rating": 4.7,
+      "review_count": 4000,
+      "sources": ["Google Maps", "Wikipedia"],
+      "photos": [
+        "https://maps.googleapis.com/photo/midas1",
+        "https://instagram.com/midas_anit.jpg"
+      ]
+    },
+    {
+      "id": "place_020",
+      "name": "Kanlıkavak Parkı",
+      "category": ["Park", "Doğa", "Dinlenme"],
+      "coordinates": { "lat": 39.7698, "lng": 30.5097 },
+      "city": "Eskişehir",
+      "district": "Tepebaşı",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Tüm Günler"],
+        "hours": ["07:00-23:00"]
+      },
+      "tags": ["park", "doğa", "yürüyüş", "piknik"],
+      "popularity_score": 85,
+      "virality_trend": "durağan",
+      "average_rating": 4.5,
+      "review_count": 7500,
+      "sources": ["Google Maps", "Yerel Gezi Blogları"],
+      "photos": [
+        "https://maps.googleapis.com/photo/kanlikavak1",
+        "https://instagram.com/kanlikavak_parki.jpg"
+      ]
+    }
+  ]

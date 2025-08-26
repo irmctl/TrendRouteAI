@@ -1,0 +1,502 @@
+[
+    {
+      "id": "place_001",
+      "name": "Malatya Arslantepe Höyüğü",
+      "category": ["Arkeoloji", "Tarihi", "UNESCO"],
+      "coordinates": { "lat": 38.3992, "lng": 38.3842 },
+      "city": "Malatya",
+      "district": "Yeşilyurt",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 25, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["arkeoloji", "höyük", "tarihi", "UNESCO miras"],
+      "popularity_score": 92,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.8,
+      "review_count": 5500,
+      "sources": ["Google Maps", "UNESCO web sitesi"],
+      "photos": [
+        "https://maps.googleapis.com/photo/arslantepe1",
+        "https://instagram.com/arslantepe_hoyugu.jpg"
+      ]
+    },
+    {
+      "id": "place_002",
+      "name": "Malatya Beşkonaklar Etnografya Müzesi",
+      "category": ["Müze", "Tarihi", "Kültür"],
+      "coordinates": { "lat": 38.3582, "lng": 38.3188 },
+      "city": "Malatya",
+      "district": "Battalgazi",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm Yıl"],
+        "days": ["Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["müze", "konak", "etnografya", "kültür"],
+      "popularity_score": 85,
+      "virality_trend": "durağan",
+      "average_rating": 4.6,
+      "review_count": 2500,
+      "sources": ["Google Maps", "Kültür ve Turizm Bakanlığı"],
+      "photos": [
+        "https://maps.googleapis.com/photo/beskonaklar1",
+        "https://instagram.com/beskonaklar_muzesi.jpg"
+      ]
+    },
+    {
+      "id": "place_003",
+      "name": "Malatya Şehir Müzesi",
+      "category": ["Müze", "Kültür"],
+      "coordinates": { "lat": 38.3591, "lng": 38.3193 },
+      "city": "Malatya",
+      "district": "Battalgazi",
+      "average_stay_minutes": 75,
+      "average_spend": { "amount": 15, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm Yıl"],
+        "days": ["Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["müze", "şehir tarihi", "kültür", "yerel"],
+      "popularity_score": 80,
+      "virality_trend": "durağan",
+      "average_rating": 4.5,
+      "review_count": 1800,
+      "sources": ["Google Maps", "Müze Rehberi"],
+      "photos": [
+        "https://maps.googleapis.com/photo/sehirmuseum1",
+        "https://instagram.com/malatya_sehirmuseum.jpg"
+      ]
+    },
+    {
+      "id": "place_004",
+      "name": "Malatya Yeni Camii",
+      "category": ["Dini Yapı", "Camii"],
+      "coordinates": { "lat": 38.3562, "lng": 38.3204 },
+      "city": "Malatya",
+      "district": "Battalgazi",
+      "average_stay_minutes": 20,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm Yıl"],
+        "days": ["Tüm Günler"],
+        "hours": ["08:00-21:00"]
+      },
+      "tags": ["cami", "ibadethane", "merkez", "mimari"],
+      "popularity_score": 88,
+      "virality_trend": "durağan",
+      "average_rating": 4.7,
+      "review_count": 7000,
+      "sources": ["Google Maps", "Wikimapia"],
+      "photos": [
+        "https://maps.googleapis.com/photo/yenicamii1",
+        "https://instagram.com/malatya_yenicamii.jpg"
+      ]
+    },
+    {
+      "id": "place_005",
+      "name": "Battalgazi Kervansarayı (Taş Han)",
+      "category": ["Tarihi", "Kervansaray"],
+      "coordinates": { "lat": 38.3751, "lng": 38.3746 },
+      "city": "Malatya",
+      "district": "Battalgazi",
+      "average_stay_minutes": 45,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Tüm Günler"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["tarihi", "kervansaray", "mimari", "kültür"],
+      "popularity_score": 83,
+      "virality_trend": "durağan",
+      "average_rating": 4.6,
+      "review_count": 1500,
+      "sources": ["Google Maps", "Turizm Ofisi"],
+      "photos": [
+        "https://maps.googleapis.com/photo/tashan1",
+        "https://instagram.com/battalgazi_tashan.jpg"
+      ]
+    },
+    {
+      "id": "place_006",
+      "name": "Levent Vadisi Seyir Terası",
+      "category": ["Doğa", "Vadi", "Manzara"],
+      "coordinates": { "lat": 38.6416, "lng": 38.1691 },
+      "city": "Malatya",
+      "district": "Akçadağ",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 10, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz", "Sonbahar"],
+        "days": ["Tüm Günler"],
+        "hours": ["09:00-20:00"]
+      },
+      "tags": ["doğa", "vadi", "manzara", "seyir terası"],
+      "popularity_score": 90,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.7,
+      "review_count": 6800,
+      "sources": ["Google Maps", "Gezi Blogları"],
+      "photos": [
+        "https://maps.googleapis.com/photo/leventvadisi1",
+        "https://instagram.com/levent_vadisi.jpg"
+      ]
+    },
+    {
+      "id": "place_007",
+      "name": "Darende Somuncu Baba Külliyesi",
+      "category": ["Dini Yapı", "Külliye"],
+      "coordinates": { "lat": 38.4552, "lng": 37.5240 },
+      "city": "Malatya",
+      "district": "Darende",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm Yıl"],
+        "days": ["Tüm Günler"],
+        "hours": ["08:00-21:00"]
+      },
+      "tags": ["külliye", "manevi", "türbe", "tarihi"],
+      "popularity_score": 94,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.9,
+      "review_count": 10000,
+      "sources": ["Google Maps", "Darende Belediyesi"],
+      "photos": [
+        "https://maps.googleapis.com/photo/somuncubaba1",
+        "https://instagram.com/somuncubaba_kulliyesi.jpg"
+      ]
+    },
+    {
+      "id": "place_008",
+      "name": "Malatya Kernek Şelalesi",
+      "category": ["Doğa", "Şelale", "Park"],
+      "coordinates": { "lat": 38.3585, "lng": 38.3180 },
+      "city": "Malatya",
+      "district": "Yeşilyurt",
+      "average_stay_minutes": 45,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz", "İlkbahar"],
+        "days": ["Tüm Günler"],
+        "hours": ["09:00-23:00"]
+      },
+      "tags": ["şelale", "park", "doğa", "dinlenme"],
+      "popularity_score": 87,
+      "virality_trend": "durağan",
+      "average_rating": 4.6,
+      "review_count": 4500,
+      "sources": ["Google Maps", "Yerel Gezi Rehberi"],
+      "photos": [
+        "https://maps.googleapis.com/photo/kernek1",
+        "https://instagram.com/kernek_selalesi.jpg"
+      ]
+    },
+    {
+      "id": "place_009",
+      "name": "Orduzu Pınarbaşı Mesire Alanı",
+      "category": ["Mesire Alanı", "Doğa", "Park"],
+      "coordinates": { "lat": 38.3980, "lng": 38.3750 },
+      "city": "Malatya",
+      "district": "Battalgazi",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 50, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz", "İlkbahar"],
+        "days": ["Tüm Günler"],
+        "hours": ["08:00-22:00"]
+      },
+      "tags": ["piknik", "mesire", "doğa", "aile dostu"],
+      "popularity_score": 84,
+      "virality_trend": "durağan",
+      "average_rating": 4.5,
+      "review_count": 3200,
+      "sources": ["Google Maps", "Foursquare"],
+      "photos": [
+        "https://maps.googleapis.com/photo/pinarbasi1",
+        "https://instagram.com/orduza_pinarbasi.jpg"
+      ]
+    },
+    {
+      "id": "place_010",
+      "name": "Sultansuyu Harası",
+      "category": ["Tarihi", "Çiftlik"],
+      "coordinates": { "lat": 38.2711, "lng": 38.2435 },
+      "city": "Malatya",
+      "district": "Akçadağ",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm Yıl"],
+        "days": ["Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["at çiftliği", "tarihi", "harası", "doğa"],
+      "popularity_score": 78,
+      "virality_trend": "durağan",
+      "average_rating": 4.4,
+      "review_count": 900,
+      "sources": ["Google Maps", "Yerel Rehberler"],
+      "photos": [
+        "https://maps.googleapis.com/photo/sultansuyu1",
+        "https://instagram.com/sultansuyu_harasi.jpg"
+      ]
+    },
+    {
+      "id": "place_011",
+      "name": "Malatya Kapalı Çarşı",
+      "category": ["Alışveriş", "Tarihi", "Pazar"],
+      "coordinates": { "lat": 38.3588, "lng": 38.3201 },
+      "city": "Malatya",
+      "district": "Battalgazi",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 100, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm Yıl"],
+        "days": ["Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi"],
+        "hours": ["09:00-19:00"]
+      },
+      "tags": ["alışveriş", "çarşı", "kapalıçarşı", "baharat"],
+      "popularity_score": 89,
+      "virality_trend": "durağan",
+      "average_rating": 4.6,
+      "review_count": 8000,
+      "sources": ["Google Maps", "Yerel Dükkan Rehberi"],
+      "photos": [
+        "https://maps.googleapis.com/photo/kapalicarsi1",
+        "https://instagram.com/malatya_kapalicarsi.jpg"
+      ]
+    },
+    {
+      "id": "place_012",
+      "name": "Tohma Kanyonu",
+      "category": ["Doğa", "Kanyon", "Manzara"],
+      "coordinates": { "lat": 38.4419, "lng": 37.5145 },
+      "city": "Malatya",
+      "district": "Darende",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 20, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Tüm Günler"],
+        "hours": ["09:00-19:00"]
+      },
+      "tags": ["kanyon", "doğa", "yürüyüş", "manzara"],
+      "popularity_score": 86,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.7,
+      "review_count": 3800,
+      "sources": ["Google Maps", "Doğa Sporları Rehberi"],
+      "photos": [
+        "https://maps.googleapis.com/photo/tohmakanyon1",
+        "https://instagram.com/tohma_kanyonu.jpg"
+      ]
+    },
+    {
+      "id": "place_013",
+      "name": "Malatya Atatürk Evi Müzesi",
+      "category": ["Müze", "Tarihi"],
+      "coordinates": { "lat": 38.3571, "lng": 38.3185 },
+      "city": "Malatya",
+      "district": "Battalgazi",
+      "average_stay_minutes": 30,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm Yıl"],
+        "days": ["Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["Atatürk", "müze", "tarihi", "konak"],
+      "popularity_score": 79,
+      "virality_trend": "durağan",
+      "average_rating": 4.4,
+      "review_count": 1100,
+      "sources": ["Google Maps", "Müze Rehberi"],
+      "photos": [
+        "https://maps.googleapis.com/photo/ataturk_evi1",
+        "https://instagram.com/ataturk_evi_muzesi.jpg"
+      ]
+    },
+    {
+      "id": "place_014",
+      "name": "Malatya Fuar Alanı",
+      "category": ["Etkinlik", "Fuar"],
+      "coordinates": { "lat": 38.3705, "lng": 38.3526 },
+      "city": "Malatya",
+      "district": "Battalgazi",
+      "average_stay_minutes": 180,
+      "average_spend": { "amount": 75, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm Yıl"],
+        "days": ["Etkinliklere göre değişir"],
+        "hours": ["Etkinliklere göre değişir"]
+      },
+      "tags": ["fuar", "etkinlik", "konser", "festival"],
+      "popularity_score": 82,
+      "virality_trend": "durağan",
+      "average_rating": 4.3,
+      "review_count": 2500,
+      "sources": ["Malatya Fuarı web sitesi", "Sosyal medya"],
+      "photos": [
+        "https://maps.googleapis.com/photo/fuara1",
+        "https://instagram.com/malatya_fuar.jpg"
+      ]
+    },
+    {
+      "id": "place_015",
+      "name": "Günpınar Şelalesi",
+      "category": ["Doğa", "Şelale", "Gezi"],
+      "coordinates": { "lat": 38.5135, "lng": 37.5250 },
+      "city": "Malatya",
+      "district": "Darende",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 10, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Tüm Günler"],
+        "hours": ["09:00-19:00"]
+      },
+      "tags": ["şelale", "doğa", "piknik", "manzara"],
+      "popularity_score": 89,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.8,
+      "review_count": 4500,
+      "sources": ["Google Maps", "Gezi Rehberi"],
+      "photos": [
+        "https://maps.googleapis.com/photo/gunpinar1",
+        "https://instagram.com/gunpinar_selalesi.jpg"
+      ]
+    },
+    {
+      "id": "place_016",
+      "name": "Malatya Atatürk Heykeli",
+      "category": ["Anıt", "Heykel"],
+      "coordinates": { "lat": 38.3582, "lng": 38.3195 },
+      "city": "Malatya",
+      "district": "Battalgazi",
+      "average_stay_minutes": 10,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm Yıl"],
+        "days": ["Tüm Günler"],
+        "hours": ["Tüm Gün"]
+      },
+      "tags": ["anıt", "Atatürk", "meydan", "tarihi"],
+      "popularity_score": 85,
+      "virality_trend": "durağan",
+      "average_rating": 4.6,
+      "review_count": 5000,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/atatürk_heykeli1",
+        "https://instagram.com/malatya_atatürk_heykel.jpg"
+      ]
+    },
+    {
+      "id": "place_017",
+      "name": "Malatya Kayısı Evi",
+      "category": ["Gastronomi", "Alışveriş"],
+      "coordinates": { "lat": 38.3575, "lng": 38.3201 },
+      "city": "Malatya",
+      "district": "Battalgazi",
+      "average_stay_minutes": 20,
+      "average_spend": { "amount": 50, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm Yıl"],
+        "days": ["Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi"],
+        "hours": ["09:00-20:00"]
+      },
+      "tags": ["kayısı", "hediyelik", "gastronomi", "yerel ürün"],
+      "popularity_score": 91,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.8,
+      "review_count": 7500,
+      "sources": ["Google Maps", "Yerel Dükkan Rehberi"],
+      "photos": [
+        "https://maps.googleapis.com/photo/kayisievi1",
+        "https://instagram.com/malatya_kayisi_evi.jpg"
+      ]
+    },
+    {
+      "id": "place_018",
+      "name": "Sürgü Şelalesi",
+      "category": ["Doğa", "Şelale", "Mesire Alanı"],
+      "coordinates": { "lat": 37.9317, "lng": 37.8922 },
+      "city": "Malatya",
+      "district": "Doğanşehir",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 10, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Tüm Günler"],
+        "hours": ["09:00-19:00"]
+      },
+      "tags": ["şelale", "doğa", "piknik", "manzara"],
+      "popularity_score": 75,
+      "virality_trend": "durağan",
+      "average_rating": 4.3,
+      "review_count": 1200,
+      "sources": ["Google Maps", "Gezi Rehberi"],
+      "photos": [
+        "https://maps.googleapis.com/photo/surguselalesi1",
+        "https://instagram.com/surgu_selalesi.jpg"
+      ]
+    },
+    {
+      "id": "place_019",
+      "name": "Yeşilyurt Kanal Boyu",
+      "category": ["Park", "Dinlenme", "Yürüyüş"],
+      "coordinates": { "lat": 38.3560, "lng": 38.3090 },
+      "city": "Malatya",
+      "district": "Yeşilyurt",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 30, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Tüm Yıl"],
+        "days": ["Tüm Günler"],
+        "hours": ["Tüm Gün"]
+      },
+      "tags": ["park", "yürüyüş", "kafe", "dinlenme"],
+      "popularity_score": 86,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.6,
+      "review_count": 6500,
+      "sources": ["Google Maps", "Foursquare"],
+      "photos": [
+        "https://maps.googleapis.com/photo/kanalbasi1",
+        "https://instagram.com/yesilyurt_kanalbasi.jpg"
+      ]
+    },
+    {
+      "id": "place_020",
+      "name": "Malatya Battalgazi Kalesi",
+      "category": ["Tarihi", "Kale", "Arkeoloji"],
+      "coordinates": { "lat": 38.3751, "lng": 38.3746 },
+      "city": "Malatya",
+      "district": "Battalgazi",
+      "average_stay_minutes": 45,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Tüm Günler"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["kale", "tarihi", "arkeoloji", "kalıntı"],
+      "popularity_score": 81,
+      "virality_trend": "durağan",
+      "average_rating": 4.5,
+      "review_count": 2000,
+      "sources": ["Google Maps", "Wikipedia"],
+      "photos": [
+        "https://maps.googleapis.com/photo/battalgazikale1",
+        "https://instagram.com/battalgazi_kalesi.jpg"
+      ]
+    }
+  ]

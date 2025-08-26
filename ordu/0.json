@@ -1,0 +1,503 @@
+[
+    {
+      "id": "place_001",
+      "name": "Boztepe",
+      "category": ["Doğa", "Manzara"],
+      "coordinates": { "lat": 40.9847, "lng": 37.8786 },
+      "city": "Ordu",
+      "district": "Altınordu",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 50, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz", "Sonbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["08:00-20:00"]
+      },
+      "tags": ["teleferik", "manzara", "piknik"],
+      "popularity_score": 92,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.8,
+      "review_count": 18500,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://example.com/boztepe1.jpg",
+        "https://example.com/boztepe2.jpg"
+      ]
+    },
+    {
+      "id": "place_002",
+      "name": "Ordu Teleferik",
+      "category": ["Aktivite", "Turistik"],
+      "coordinates": { "lat": 40.9815, "lng": 37.8792 },
+      "city": "Ordu",
+      "district": "Altınordu",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 150, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz", "Sonbahar"],
+        "days": ["Her gün"],
+        "hours": ["09:00-19:00"]
+      },
+      "tags": ["teleferik", "manzara", "fotoğraf"],
+      "popularity_score": 89,
+      "virality_trend": "stabil",
+      "average_rating": 4.6,
+      "review_count": 9600,
+      "sources": ["Google Maps", "Tripadvisor"],
+      "photos": [
+        "https://example.com/teleferik1.jpg",
+        "https://example.com/teleferik2.jpg"
+      ]
+    },
+    {
+      "id": "place_003",
+      "name": "Kurul Kalesi",
+      "category": ["Tarihi", "Kültürel"],
+      "coordinates": { "lat": 40.9003, "lng": 37.7599 },
+      "city": "Ordu",
+      "district": "Altınordu",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 30, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["10:00-18:00"]
+      },
+      "tags": ["arkeoloji", "tarih", "antik"],
+      "popularity_score": 80,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.4,
+      "review_count": 2100,
+      "sources": ["Google Maps", "Kültür Bakanlığı"],
+      "photos": [
+        "https://example.com/kurulkalesi1.jpg",
+        "https://example.com/kurulkalesi2.jpg"
+      ]
+    },
+    {
+      "id": "place_004",
+      "name": "Yason Burnu",
+      "category": ["Doğa", "Tarihi"],
+      "coordinates": { "lat": 41.0772, "lng": 37.6402 },
+      "city": "Ordu",
+      "district": "Perşembe",
+      "average_stay_minutes": 100,
+      "average_spend": { "amount": 40, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz", "İlkbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["08:00-19:00"]
+      },
+      "tags": ["kilise", "doğa", "deniz"],
+      "popularity_score": 85,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.7,
+      "review_count": 5400,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://example.com/yason1.jpg",
+        "https://example.com/yason2.jpg"
+      ]
+    },
+    {
+      "id": "place_005",
+      "name": "Ohtamış Şelalesi",
+      "category": ["Doğa", "Şelale"],
+      "coordinates": { "lat": 40.7746, "lng": 37.6984 },
+      "city": "Ordu",
+      "district": "Ulubey",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 20, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["08:00-18:00"]
+      },
+      "tags": ["şelale", "doğa", "piknik"],
+      "popularity_score": 88,
+      "virality_trend": "stabil",
+      "average_rating": 4.6,
+      "review_count": 3200,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/ohtamis1.jpg",
+        "https://example.com/ohtamis2.jpg"
+      ]
+    },
+    {
+      "id": "place_006",
+      "name": "Ünye Kalesi",
+      "category": ["Tarihi", "Kültürel"],
+      "coordinates": { "lat": 41.1271, "lng": 37.2865 },
+      "city": "Ordu",
+      "district": "Ünye",
+      "average_stay_minutes": 80,
+      "average_spend": { "amount": 25, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["kale", "tarih", "gezi"],
+      "popularity_score": 78,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.5,
+      "review_count": 2700,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/unye1.jpg",
+        "https://example.com/unye2.jpg"
+      ]
+    },
+    {
+      "id": "place_007",
+      "name": "Perşembe Yaylası",
+      "category": ["Doğa", "Yayla"],
+      "coordinates": { "lat": 40.5420, "lng": 37.9511 },
+      "city": "Ordu",
+      "district": "Aybastı",
+      "average_stay_minutes": 240,
+      "average_spend": { "amount": 100, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz"],
+        "days": ["Her gün"],
+        "hours": ["09:00-20:00"]
+      },
+      "tags": ["yayla", "doğa", "festival"],
+      "popularity_score": 91,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.8,
+      "review_count": 6100,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://example.com/persembe1.jpg",
+        "https://example.com/persembe2.jpg"
+      ]
+    },
+    {
+      "id": "place_008",
+      "name": "Ordu Sahil Yürüyüş Yolu",
+      "category": ["Doğa", "Sahil"],
+      "coordinates": { "lat": 40.9870, "lng": 37.8761 },
+      "city": "Ordu",
+      "district": "Altınordu",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Her gün"],
+        "hours": ["07:00-23:00"]
+      },
+      "tags": ["yürüyüş", "bisiklet", "deniz"],
+      "popularity_score": 95,
+      "virality_trend": "stabil",
+      "average_rating": 4.9,
+      "review_count": 12500,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/sahil1.jpg",
+        "https://example.com/sahil2.jpg"
+      ]
+    },
+    {
+      "id": "place_009",
+      "name": "Çambaşı Yaylası",
+      "category": ["Doğa", "Yayla"],
+      "coordinates": { "lat": 40.7048, "lng": 37.8472 },
+      "city": "Ordu",
+      "district": "Kabadüz",
+      "average_stay_minutes": 300,
+      "average_spend": { "amount": 150, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz", "Kış"],
+        "days": ["Her gün"],
+        "hours": ["08:00-21:00"]
+      },
+      "tags": ["yayla", "kayak", "doğa"],
+      "popularity_score": 90,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.7,
+      "review_count": 5400,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/cambasi1.jpg",
+        "https://example.com/cambasi2.jpg"
+      ]
+    },
+    {
+      "id": "place_010",
+      "name": "Hoynat Adası",
+      "category": ["Doğa", "Ada"],
+      "coordinates": { "lat": 41.0750, "lng": 37.4632 },
+      "city": "Ordu",
+      "district": "Perşembe",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 20, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["kuş gözlemi", "ada", "deniz"],
+      "popularity_score": 84,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.6,
+      "review_count": 2300,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/hoynat1.jpg",
+        "https://example.com/hoynat2.jpg"
+      ]
+    },
+    {
+      "id": "place_011",
+      "name": "Paşaoğlu Konağı ve Etnografya Müzesi",
+      "category": ["Müze", "Tarihi"],
+      "coordinates": { "lat": 40.9876, "lng": 37.8780 },
+      "city": "Ordu",
+      "district": "Altınordu",
+      "average_stay_minutes": 75,
+      "average_spend": { "amount": 20, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Her gün"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["müze", "tarih", "etnografya"],
+      "popularity_score": 83,
+      "virality_trend": "stabil",
+      "average_rating": 4.5,
+      "review_count": 2100,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/pasaoglu1.jpg",
+        "https://example.com/pasaoglu2.jpg"
+      ]
+    },
+    {
+      "id": "place_012",
+      "name": "Ulugöl Tabiat Parkı",
+      "category": ["Doğa", "Park"],
+      "coordinates": { "lat": 40.6906, "lng": 37.8044 },
+      "city": "Ordu",
+      "district": "Gölköy",
+      "average_stay_minutes": 180,
+      "average_spend": { "amount": 70, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz", "Sonbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["08:00-19:00"]
+      },
+      "tags": ["göl", "doğa", "kamp"],
+      "popularity_score": 87,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.7,
+      "review_count": 3900,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/ulugol1.jpg",
+        "https://example.com/ulugol2.jpg"
+      ]
+    },
+    {
+      "id": "place_013",
+      "name": "Gaga Gölü",
+      "category": ["Doğa", "Göl"],
+      "coordinates": { "lat": 40.8186, "lng": 37.4501 },
+      "city": "Ordu",
+      "district": "Fatsa",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 50, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["göl", "doğa", "piknik"],
+      "popularity_score": 82,
+      "virality_trend": "stabil",
+      "average_rating": 4.5,
+      "review_count": 1800,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/gaga1.jpg",
+        "https://example.com/gaga2.jpg"
+      ]
+    },
+    {
+      "id": "place_014",
+      "name": "Yoroz Kent Ormanı",
+      "category": ["Doğa", "Orman"],
+      "coordinates": { "lat": 40.9825, "lng": 37.9089 },
+      "city": "Ordu",
+      "district": "Altınordu",
+      "average_stay_minutes": 150,
+      "average_spend": { "amount": 30, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz", "Sonbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["08:00-19:00"]
+      },
+      "tags": ["doğa", "yürüyüş", "orman"],
+      "popularity_score": 81,
+      "virality_trend": "stabil",
+      "average_rating": 4.4,
+      "review_count": 2100,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/yoroz1.jpg",
+        "https://example.com/yoroz2.jpg"
+      ]
+    },
+    {
+      "id": "place_015",
+      "name": "Çaka Plajı",
+      "category": ["Plaj", "Deniz"],
+      "coordinates": { "lat": 41.1085, "lng": 37.3562 },
+      "city": "Ordu",
+      "district": "Perşembe",
+      "average_stay_minutes": 180,
+      "average_spend": { "amount": 70, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz"],
+        "days": ["Her gün"],
+        "hours": ["09:00-20:00"]
+      },
+      "tags": ["plaj", "deniz", "yüzme"],
+      "popularity_score": 90,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.8,
+      "review_count": 5400,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/caka1.jpg",
+        "https://example.com/caka2.jpg"
+      ]
+    },
+    {
+      "id": "place_016",
+      "name": "Bolaman Kalesi",
+      "category": ["Tarihi", "Kültürel"],
+      "coordinates": { "lat": 41.0377, "lng": 37.5571 },
+      "city": "Ordu",
+      "district": "Fatsa",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 25, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["kale", "tarih", "gezi"],
+      "popularity_score": 79,
+      "virality_trend": "stabil",
+      "average_rating": 4.3,
+      "review_count": 1600,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/bolaman1.jpg",
+        "https://example.com/bolaman2.jpg"
+      ]
+    },
+    {
+      "id": "place_017",
+      "name": "Taşbaşı Kilisesi",
+      "category": ["Tarihi", "Kültürel"],
+      "coordinates": { "lat": 40.9867, "lng": 37.8783 },
+      "city": "Ordu",
+      "district": "Altınordu",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 20, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Her gün"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["kilise", "tarih", "kültür"],
+      "popularity_score": 82,
+      "virality_trend": "stabil",
+      "average_rating": 4.5,
+      "review_count": 1700,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/tasbasi1.jpg",
+        "https://example.com/tasbasi2.jpg"
+      ]
+    },
+    {
+      "id": "place_018",
+      "name": "Yoroz Seyir Terası",
+      "category": ["Doğa", "Manzara"],
+      "coordinates": { "lat": 40.9820, "lng": 37.9095 },
+      "city": "Ordu",
+      "district": "Altınordu",
+      "average_stay_minutes": 100,
+      "average_spend": { "amount": 30, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["08:00-19:00"]
+      },
+      "tags": ["seyir", "manzara", "fotoğraf"],
+      "popularity_score": 85,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.6,
+      "review_count": 2600,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/yoroz1.jpg",
+        "https://example.com/yoroz2.jpg"
+      ]
+    },
+    {
+      "id": "place_019",
+      "name": "Ünye Sahili",
+      "category": ["Plaj", "Sahil"],
+      "coordinates": { "lat": 41.1290, "lng": 37.2820 },
+      "city": "Ordu",
+      "district": "Ünye",
+      "average_stay_minutes": 150,
+      "average_spend": { "amount": 60, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz"],
+        "days": ["Her gün"],
+        "hours": ["09:00-21:00"]
+      },
+      "tags": ["plaj", "sahil", "yüzme"],
+      "popularity_score": 88,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.7,
+      "review_count": 4200,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/unyeplaj1.jpg",
+        "https://example.com/unyeplaj2.jpg"
+      ]
+    },
+    {
+      "id": "place_020",
+      "name": "Eskipazar Camii",
+      "category": ["Tarihi", "Dini"],
+      "coordinates": { "lat": 40.9869, "lng": 37.8791 },
+      "city": "Ordu",
+      "district": "Altınordu",
+      "average_stay_minutes": 40,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Her gün"],
+        "hours": ["09:00-19:00"]
+      },
+      "tags": ["cami", "tarih", "ibadet"],
+      "popularity_score": 77,
+      "virality_trend": "stabil",
+      "average_rating": 4.3,
+      "review_count": 1200,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://example.com/eskipazar1.jpg",
+        "https://example.com/eskipazar2.jpg"
+      ]
+    }
+  ]
+  

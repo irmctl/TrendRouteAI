@@ -1,0 +1,503 @@
+[
+    {
+      "id": "place_001",
+      "name": "Van Gölü",
+      "category": ["Doğa", "Göl"],
+      "coordinates": { "lat": 38.6753, "lng": 43.3710 },
+      "city": "Van",
+      "district": "Merkez",
+      "average_stay_minutes": 180,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["07:00-20:00"]
+      },
+      "tags": ["doğa", "manzara", "piknik"],
+      "popularity_score": 95,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.8,
+      "review_count": 15200,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/vangolu",
+        "https://instagram.com/vangolu.jpg"
+      ]
+    },
+    {
+      "id": "place_002",
+      "name": "Akdamar Adası",
+      "category": ["Tarihi", "Ada"],
+      "coordinates": { "lat": 38.3317, "lng": 43.0258 },
+      "city": "Van",
+      "district": "Gevaş",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 50, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz", "Sonbahar"],
+        "days": ["Pazartesi", "Çarşamba", "Cumartesi"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["tarihi", "kilise", "doğa"],
+      "popularity_score": 93,
+      "virality_trend": "stabil",
+      "average_rating": 4.9,
+      "review_count": 8900,
+      "sources": ["Google Maps", "TripAdvisor"],
+      "photos": [
+        "https://maps.googleapis.com/photo/akdamar",
+        "https://instagram.com/akdamar.jpg"
+      ]
+    },
+    {
+      "id": "place_003",
+      "name": "Van Kalesi",
+      "category": ["Tarihi", "Kale"],
+      "coordinates": { "lat": 38.4944, "lng": 43.3833 },
+      "city": "Van",
+      "district": "İpekyolu",
+      "average_stay_minutes": 100,
+      "average_spend": { "amount": 30, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Salı", "Perşembe", "Pazar"],
+        "hours": ["08:00-19:00"]
+      },
+      "tags": ["tarihi", "arkeoloji", "manzara"],
+      "popularity_score": 90,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.6,
+      "review_count": 6400,
+      "sources": ["Google Maps", "Kültür Bakanlığı"],
+      "photos": [
+        "https://maps.googleapis.com/photo/vankalesi",
+        "https://instagram.com/vankalesi.jpg"
+      ]
+    },
+    {
+      "id": "place_004",
+      "name": "Muradiye Şelalesi",
+      "category": ["Doğa", "Şelale"],
+      "coordinates": { "lat": 39.0014, "lng": 43.7606 },
+      "city": "Van",
+      "district": "Muradiye",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 20, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["08:00-20:00"]
+      },
+      "tags": ["doğa", "fotoğraf", "piknik"],
+      "popularity_score": 92,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.7,
+      "review_count": 7200,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/muradiye",
+        "https://instagram.com/muradiyeselale.jpg"
+      ]
+    },
+    {
+      "id": "place_005",
+      "name": "Hoşap Kalesi",
+      "category": ["Tarihi", "Kale"],
+      "coordinates": { "lat": 38.2908, "lng": 43.7481 },
+      "city": "Van",
+      "district": "Gürpınar",
+      "average_stay_minutes": 80,
+      "average_spend": { "amount": 15, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz", "Sonbahar"],
+        "days": ["Salı", "Cumartesi"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["tarihi", "manzara", "fotoğraf"],
+      "popularity_score": 85,
+      "virality_trend": "düşüşte",
+      "average_rating": 4.5,
+      "review_count": 4100,
+      "sources": ["Google Maps", "Wikipedia"],
+      "photos": [
+        "https://maps.googleapis.com/photo/hosap",
+        "https://instagram.com/hosapkalesi.jpg"
+      ]
+    },
+    {
+      "id": "place_006",
+      "name": "Van Kedisi Evi",
+      "category": ["Hayvanat", "Müze"],
+      "coordinates": { "lat": 38.5013, "lng": 43.3836 },
+      "city": "Van",
+      "district": "İpekyolu",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 25, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz", "Kış"],
+        "days": ["Her gün"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["kedi", "hayvan", "aile dostu"],
+      "popularity_score": 88,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.8,
+      "review_count": 5600,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/vankedisi",
+        "https://instagram.com/vankedisi.jpg"
+      ]
+    },
+    {
+      "id": "place_007",
+      "name": "Van Urartu Müzesi",
+      "category": ["Müze", "Tarihi"],
+      "coordinates": { "lat": 38.4972, "lng": 43.3839 },
+      "city": "Van",
+      "district": "İpekyolu",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 40, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz", "Sonbahar"],
+        "days": ["Salı", "Çarşamba", "Cuma"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["arkeoloji", "tarih", "müze"],
+      "popularity_score": 87,
+      "virality_trend": "stabil",
+      "average_rating": 4.6,
+      "review_count": 3700,
+      "sources": ["Google Maps", "TripAdvisor"],
+      "photos": [
+        "https://maps.googleapis.com/photo/urartumuze",
+        "https://instagram.com/urartu.jpg"
+      ]
+    },
+    {
+      "id": "place_008",
+      "name": "Çatak Kanyonu",
+      "category": ["Doğa", "Kanyon"],
+      "coordinates": { "lat": 38.0045, "lng": 43.0600 },
+      "city": "Van",
+      "district": "Çatak",
+      "average_stay_minutes": 150,
+      "average_spend": { "amount": 10, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["07:00-19:00"]
+      },
+      "tags": ["doğa", "kamp", "fotoğraf"],
+      "popularity_score": 83,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.5,
+      "review_count": 2200,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/catak",
+        "https://instagram.com/catak.jpg"
+      ]
+    },
+    {
+      "id": "place_009",
+      "name": "Erciş Balık Bendi",
+      "category": ["Doğa", "Balık Göçü"],
+      "coordinates": { "lat": 39.0283, "lng": 43.3611 },
+      "city": "Van",
+      "district": "Erciş",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 15, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Sonbahar"],
+        "days": ["Her gün"],
+        "hours": ["08:00-18:00"]
+      },
+      "tags": ["doğa", "balık", "ekoloji"],
+      "popularity_score": 80,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.4,
+      "review_count": 1600,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/ercisbalik",
+        "https://instagram.com/ercisbalik.jpg"
+      ]
+    },
+    {
+      "id": "place_010",
+      "name": "Abalı Kayak Merkezi",
+      "category": ["Spor", "Kış"],
+      "coordinates": { "lat": 38.8701, "lng": 43.0345 },
+      "city": "Van",
+      "district": "Gevaş",
+      "average_stay_minutes": 240,
+      "average_spend": { "amount": 200, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Kış"],
+        "days": ["Cuma", "Cumartesi", "Pazar"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["kayak", "spor", "kış"],
+      "popularity_score": 89,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.7,
+      "review_count": 3100,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/abali",
+        "https://instagram.com/abali.jpg"
+      ]
+    },
+    {
+      "id": "place_011",
+      "name": "Edremit Sahili",
+      "category": ["Doğa", "Plaj"],
+      "coordinates": { "lat": 38.4236, "lng": 43.3147 },
+      "city": "Van",
+      "district": "Edremit",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 50, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["08:00-21:00"]
+      },
+      "tags": ["deniz", "plaj", "piknik"],
+      "popularity_score": 86,
+      "virality_trend": "stabil",
+      "average_rating": 4.5,
+      "review_count": 2800,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/edremit",
+        "https://instagram.com/edremit.jpg"
+      ]
+    },
+    {
+      "id": "place_012",
+      "name": "Ayanis Kalesi",
+      "category": ["Tarihi", "Arkeoloji"],
+      "coordinates": { "lat": 38.7022, "lng": 43.5156 },
+      "city": "Van",
+      "district": "Tuşba",
+      "average_stay_minutes": 100,
+      "average_spend": { "amount": 20, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz", "Sonbahar"],
+        "days": ["Çarşamba", "Cumartesi"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["arkeoloji", "tarih"],
+      "popularity_score": 84,
+      "virality_trend": "stabil",
+      "average_rating": 4.4,
+      "review_count": 1900,
+      "sources": ["Google Maps", "TripAdvisor"],
+      "photos": [
+        "https://maps.googleapis.com/photo/ayanis",
+        "https://instagram.com/ayanis.jpg"
+      ]
+    },
+    {
+      "id": "place_013",
+      "name": "Halime Hatun Türbesi",
+      "category": ["Tarihi", "Dini"],
+      "coordinates": { "lat": 38.9575, "lng": 43.3747 },
+      "city": "Van",
+      "district": "Gevaş",
+      "average_stay_minutes": 40,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Her gün"],
+        "hours": ["08:00-20:00"]
+      },
+      "tags": ["dini", "tarihi", "ziyaret"],
+      "popularity_score": 75,
+      "virality_trend": "düşüşte",
+      "average_rating": 4.3,
+      "review_count": 1100,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/halime",
+        "https://instagram.com/halime.jpg"
+      ]
+    },
+    {
+      "id": "place_014",
+      "name": "Vanadokya Peri Bacaları",
+      "category": ["Doğa", "Jeolojik"],
+      "coordinates": { "lat": 38.5750, "lng": 43.2610 },
+      "city": "Van",
+      "district": "Başkale",
+      "average_stay_minutes": 100,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["08:00-19:00"]
+      },
+      "tags": ["doğa", "peri bacası", "fotoğraf"],
+      "popularity_score": 82,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.5,
+      "review_count": 1750,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/vanadokya",
+        "https://instagram.com/vanadokya.jpg"
+      ]
+    },
+    {
+      "id": "place_015",
+      "name": "Zernek Barajı",
+      "category": ["Doğa", "Baraj"],
+      "coordinates": { "lat": 38.3264, "lng": 43.7730 },
+      "city": "Van",
+      "district": "Gürpınar",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 10, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-20:00"]
+      },
+      "tags": ["doğa", "balıkçılık", "piknik"],
+      "popularity_score": 78,
+      "virality_trend": "stabil",
+      "average_rating": 4.2,
+      "review_count": 900,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/zernek",
+        "https://instagram.com/zernek.jpg"
+      ]
+    },
+    {
+      "id": "place_016",
+      "name": "Adır Adası",
+      "category": ["Doğa", "Ada"],
+      "coordinates": { "lat": 38.9381, "lng": 42.9311 },
+      "city": "Van",
+      "district": "Tuşba",
+      "average_stay_minutes": 150,
+      "average_spend": { "amount": 30, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz", "Sonbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["08:00-18:00"]
+      },
+      "tags": ["doğa", "ada", "tarihi"],
+      "popularity_score": 81,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.4,
+      "review_count": 1300,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/adir",
+        "https://instagram.com/adir.jpg"
+      ]
+    },
+    {
+      "id": "place_017",
+      "name": "Norduz Yaylası",
+      "category": ["Doğa", "Yayla"],
+      "coordinates": { "lat": 38.1900, "lng": 43.9000 },
+      "city": "Van",
+      "district": "Gürpınar",
+      "average_stay_minutes": 200,
+      "average_spend": { "amount": 20, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["08:00-20:00"]
+      },
+      "tags": ["doğa", "yayla", "otantik"],
+      "popularity_score": 77,
+      "virality_trend": "stabil",
+      "average_rating": 4.3,
+      "review_count": 800,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/norduz",
+        "https://instagram.com/norduz.jpg"
+      ]
+    },
+    {
+      "id": "place_018",
+      "name": "Artos Dağı",
+      "category": ["Doğa", "Dağ"],
+      "coordinates": { "lat": 38.4000, "lng": 43.0500 },
+      "city": "Van",
+      "district": "Gevaş",
+      "average_stay_minutes": 300,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["06:00-19:00"]
+      },
+      "tags": ["dağcılık", "doğa", "manzara"],
+      "popularity_score": 85,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.7,
+      "review_count": 1400,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/artos",
+        "https://instagram.com/artos.jpg"
+      ]
+    },
+    {
+      "id": "place_019",
+      "name": "Kevenli Yaylası",
+      "category": ["Doğa", "Yayla"],
+      "coordinates": { "lat": 38.5500, "lng": 43.3000 },
+      "city": "Van",
+      "district": "Edremit",
+      "average_stay_minutes": 180,
+      "average_spend": { "amount": 15, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["08:00-20:00"]
+      },
+      "tags": ["yayla", "doğa", "piknik"],
+      "popularity_score": 79,
+      "virality_trend": "stabil",
+      "average_rating": 4.2,
+      "review_count": 950,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/kevenli",
+        "https://instagram.com/kevenli.jpg"
+      ]
+    },
+    {
+      "id": "place_020",
+      "name": "Van Arkeoloji Müzesi",
+      "category": ["Müze", "Tarih"],
+      "coordinates": { "lat": 38.4990, "lng": 43.3830 },
+      "city": "Van",
+      "district": "İpekyolu",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 30, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz", "Sonbahar"],
+        "days": ["Salı", "Çarşamba", "Perşembe"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["arkeoloji", "müze", "tarih"],
+      "popularity_score": 88,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.6,
+      "review_count": 2500,
+      "sources": ["Google Maps", "TripAdvisor"],
+      "photos": [
+        "https://maps.googleapis.com/photo/vanarcheo",
+        "https://instagram.com/vanarcheo.jpg"
+      ]
+    }
+  ]
+  

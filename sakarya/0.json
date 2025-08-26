@@ -1,0 +1,503 @@
+[
+    {
+      "id": "place_001",
+      "name": "Sapanca Gölü",
+      "category": ["Doğa", "Göl"],
+      "coordinates": { "lat": 40.6910, "lng": 30.2670 },
+      "city": "Sakarya",
+      "district": "Sapanca",
+      "average_stay_minutes": 150,
+      "average_spend": { "amount": 120, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz", "Sonbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["08:00-21:00"]
+      },
+      "tags": ["göl", "yürüyüş", "fotoğraf"],
+      "popularity_score": 95,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.8,
+      "review_count": 28500,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/sapanca_golu_1",
+        "https://instagram.com/sapanca_golu.jpg"
+      ]
+    },
+    {
+      "id": "place_002",
+      "name": "Acarlar Longozu",
+      "category": ["Doğa", "Longoz Ormanı"],
+      "coordinates": { "lat": 41.0580, "lng": 30.7800 },
+      "city": "Sakarya",
+      "district": "Karasu",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 80, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-19:00"]
+      },
+      "tags": ["longoz", "kayık", "kuş gözlemi"],
+      "popularity_score": 92,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.7,
+      "review_count": 9800,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/acarlar_1",
+        "https://instagram.com/acarlar_longozu.jpg"
+      ]
+    },
+    {
+      "id": "place_003",
+      "name": "Beşköprü (Justinianus Köprüsü)",
+      "category": ["Tarihi", "Köprü"],
+      "coordinates": { "lat": 40.7400, "lng": 30.4040 },
+      "city": "Sakarya",
+      "district": "Serdivan",
+      "average_stay_minutes": 45,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Her gün"],
+        "hours": ["09:00-20:00"]
+      },
+      "tags": ["roma", "tarihi eser", "fotoğraf"],
+      "popularity_score": 82,
+      "virality_trend": "stabil",
+      "average_rating": 4.5,
+      "review_count": 2600,
+      "sources": ["Google Maps", "Wikipedia"],
+      "photos": [
+        "https://maps.googleapis.com/photo/beskopru_1",
+        "https://instagram.com/beskopru.jpg"
+      ]
+    },
+    {
+      "id": "place_004",
+      "name": "Poyrazlar Gölü Tabiat Parkı",
+      "category": ["Doğa", "Tabiat Parkı"],
+      "coordinates": { "lat": 40.8430, "lng": 30.4450 },
+      "city": "Sakarya",
+      "district": "Adapazarı",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 60, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz", "Sonbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-20:00"]
+      },
+      "tags": ["piknik", "bisiklet", "kamp"],
+      "popularity_score": 88,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.6,
+      "review_count": 6200,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/poyrazlar_1",
+        "https://instagram.com/poyrazlar_golu.jpg"
+      ]
+    },
+    {
+      "id": "place_005",
+      "name": "Maden Deresi ve Şelalesi",
+      "category": ["Doğa", "Şelale"],
+      "coordinates": { "lat": 41.0710, "lng": 30.8580 },
+      "city": "Sakarya",
+      "district": "Kocaali",
+      "average_stay_minutes": 150,
+      "average_spend": { "amount": 70, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["08:00-19:00"]
+      },
+      "tags": ["şelale", "trekking", "piknik"],
+      "popularity_score": 86,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.5,
+      "review_count": 4300,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/madenderesi_1",
+        "https://instagram.com/maden_deresi.jpg"
+      ]
+    },
+    {
+      "id": "place_006",
+      "name": "Doğançay Şelalesi",
+      "category": ["Doğa", "Şelale"],
+      "coordinates": { "lat": 40.5200, "lng": 30.3510 },
+      "city": "Sakarya",
+      "district": "Geyve",
+      "average_stay_minutes": 100,
+      "average_spend": { "amount": 30, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-18:00"]
+      },
+      "tags": ["doğa yürüyüşü", "fotoğraf"],
+      "popularity_score": 80,
+      "virality_trend": "stabil",
+      "average_rating": 4.4,
+      "review_count": 2100,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/dogancay_1",
+        "https://instagram.com/dogancay_selalesi.jpg"
+      ]
+    },
+    {
+      "id": "place_007",
+      "name": "Kuzuluk Kaplıcaları",
+      "category": ["Termal", "Kaplıca"],
+      "coordinates": { "lat": 40.6770, "lng": 30.6210 },
+      "city": "Sakarya",
+      "district": "Akyazı",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 200, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Kış", "İlkbahar"],
+        "days": ["Her gün"],
+        "hours": ["09:00-22:00"]
+      },
+      "tags": ["termal", "spa", "dinlenme"],
+      "popularity_score": 84,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.5,
+      "review_count": 3900,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/kuzuluk_1",
+        "https://instagram.com/kuzuluk_kaplicasi.jpg"
+      ]
+    },
+    {
+      "id": "place_008",
+      "name": "Karasu Sahili",
+      "category": ["Doğa", "Plaj"],
+      "coordinates": { "lat": 41.0780, "lng": 30.7000 },
+      "city": "Sakarya",
+      "district": "Karasu",
+      "average_stay_minutes": 180,
+      "average_spend": { "amount": 140, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz"],
+        "days": ["Cuma", "Cumartesi", "Pazar"],
+        "hours": ["09:00-21:00"]
+      },
+      "tags": ["plaj", "deniz", "yürüyüş"],
+      "popularity_score": 89,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.3,
+      "review_count": 8400,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/karasu_1",
+        "https://instagram.com/karasu_beach.jpg"
+      ]
+    },
+    {
+      "id": "place_009",
+      "name": "Kocaali Sahili",
+      "category": ["Doğa", "Plaj"],
+      "coordinates": { "lat": 41.0550, "lng": 30.8530 },
+      "city": "Sakarya",
+      "district": "Kocaali",
+      "average_stay_minutes": 150,
+      "average_spend": { "amount": 120, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-20:00"]
+      },
+      "tags": ["plaj", "deniz", "kamp"],
+      "popularity_score": 85,
+      "virality_trend": "stabil",
+      "average_rating": 4.2,
+      "review_count": 5100,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/kocaali_1",
+        "https://instagram.com/kocaali_sahil.jpg"
+      ]
+    },
+    {
+      "id": "place_010",
+      "name": "Taraklı Osmanlı Konakları",
+      "category": ["Tarihi", "Kültür"],
+      "coordinates": { "lat": 40.3970, "lng": 30.4930 },
+      "city": "Sakarya",
+      "district": "Taraklı",
+      "average_stay_minutes": 120,
+      "average_spend": { "amount": 100, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Sonbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["10:00-19:00"]
+      },
+      "tags": ["osmanlı", "tarihi sokaklar", "fotoğraf"],
+      "popularity_score": 90,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.7,
+      "review_count": 6200,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/tarakli_1",
+        "https://instagram.com/tarakli_turkey.jpg"
+      ]
+    },
+    {
+      "id": "place_011",
+      "name": "Karagöl Yaylası",
+      "category": ["Doğa", "Yayla"],
+      "coordinates": { "lat": 40.6710, "lng": 30.9110 },
+      "city": "Sakarya",
+      "district": "Hendek",
+      "average_stay_minutes": 240,
+      "average_spend": { "amount": 70, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["08:00-20:00"]
+      },
+      "tags": ["yayla", "kamp", "yıldız izleme"],
+      "popularity_score": 84,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.6,
+      "review_count": 2900,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/karagol_1",
+        "https://instagram.com/karagol_yaylasi.jpg"
+      ]
+    },
+    {
+      "id": "place_012",
+      "name": "Soğucak Yaylası",
+      "category": ["Doğa", "Yayla"],
+      "coordinates": { "lat": 40.6520, "lng": 30.2880 },
+      "city": "Sakarya",
+      "district": "Sapanca",
+      "average_stay_minutes": 180,
+      "average_spend": { "amount": 60, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz", "Sonbahar"],
+        "days": ["Cumartesi", "Pazar"],
+        "hours": ["09:00-19:00"]
+      },
+      "tags": ["yayla", "mangal", "manzara"],
+      "popularity_score": 81,
+      "virality_trend": "stabil",
+      "average_rating": 4.4,
+      "review_count": 2100,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/sogucak_1",
+        "https://instagram.com/sogucak_yayla.jpg"
+      ]
+    },
+    {
+      "id": "place_013",
+      "name": "Dikmen Yaylası",
+      "category": ["Doğa", "Yayla"],
+      "coordinates": { "lat": 40.7350, "lng": 30.7670 },
+      "city": "Sakarya",
+      "district": "Hendek",
+      "average_stay_minutes": 180,
+      "average_spend": { "amount": 50, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Yaz"],
+        "days": ["Pazar"],
+        "hours": ["09:00-19:00"]
+      },
+      "tags": ["yayla şenliği", "doğa", "fotoğraf"],
+      "popularity_score": 79,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.3,
+      "review_count": 1900,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/dikmen_1",
+        "https://instagram.com/dikmen_yaylasi.jpg"
+      ]
+    },
+    {
+      "id": "place_014",
+      "name": "Orhan Camii",
+      "category": ["Tarihi", "Dini"],
+      "coordinates": { "lat": 40.7760, "lng": 30.4030 },
+      "city": "Sakarya",
+      "district": "Adapazarı",
+      "average_stay_minutes": 30,
+      "average_spend": { "amount": 0, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Her gün"],
+        "hours": ["10:00-18:00"]
+      },
+      "tags": ["tarihi cami", "mimari"],
+      "popularity_score": 72,
+      "virality_trend": "stabil",
+      "average_rating": 4.4,
+      "review_count": 800,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/orhan_1",
+        "https://instagram.com/orhan_camii.jpg"
+      ]
+    },
+    {
+      "id": "place_015",
+      "name": "Sakarya Müzesi (Atatürk Evi)",
+      "category": ["Müze", "Tarihi"],
+      "coordinates": { "lat": 40.7780, "lng": 30.4035 },
+      "city": "Sakarya",
+      "district": "Adapazarı",
+      "average_stay_minutes": 60,
+      "average_spend": { "amount": 20, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Salı", "Perşembe", "Cumartesi"],
+        "hours": ["09:00-17:00"]
+      },
+      "tags": ["müze", "cumhuriyet", "kültür"],
+      "popularity_score": 75,
+      "virality_trend": "stabil",
+      "average_rating": 4.5,
+      "review_count": 1300,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/sakarya_muze_1",
+        "https://instagram.com/sakarya_muzesi.jpg"
+      ]
+    },
+    {
+      "id": "place_016",
+      "name": "Sakarya Deprem Kültür Müzesi",
+      "category": ["Müze", "Eğitim"],
+      "coordinates": { "lat": 40.7765, "lng": 30.4040 },
+      "city": "Sakarya",
+      "district": "Adapazarı",
+      "average_stay_minutes": 50,
+      "average_spend": { "amount": 10, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Salı", "Perşembe"],
+        "hours": ["10:00-17:00"]
+      },
+      "tags": ["afet bilinci", "eğitim", "müze"],
+      "popularity_score": 70,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.4,
+      "review_count": 900,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/deprem_muze_1",
+        "https://instagram.com/sakarya_deprem_muzesi.jpg"
+      ]
+    },
+    {
+      "id": "place_017",
+      "name": "Serdivan Gölpark",
+      "category": ["Park", "Göl Kenarı"],
+      "coordinates": { "lat": 40.7450, "lng": 30.3790 },
+      "city": "Sakarya",
+      "district": "Serdivan",
+      "average_stay_minutes": 100,
+      "average_spend": { "amount": 80, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz"],
+        "days": ["Cuma", "Cumartesi", "Pazar"],
+        "hours": ["10:00-22:00"]
+      },
+      "tags": ["yürüyüş", "kafe", "günbatımı"],
+      "popularity_score": 83,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.5,
+      "review_count": 3500,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/golpark_1",
+        "https://instagram.com/serdivan_golpark.jpg"
+      ]
+    },
+    {
+      "id": "place_018",
+      "name": "Sakarya Kent Park",
+      "category": ["Park", "Şehir"],
+      "coordinates": { "lat": 40.7770, "lng": 30.3810 },
+      "city": "Sakarya",
+      "district": "Adapazarı",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 40, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Her gün"],
+        "hours": ["09:00-22:00"]
+      },
+      "tags": ["park", "aile dostu", "yürüyüş"],
+      "popularity_score": 78,
+      "virality_trend": "stabil",
+      "average_rating": 4.4,
+      "review_count": 4100,
+      "sources": ["Google Maps"],
+      "photos": [
+        "https://maps.googleapis.com/photo/kentpark_1",
+        "https://instagram.com/sakarya_kentpark.jpg"
+      ]
+    },
+    {
+      "id": "place_019",
+      "name": "Çark Caddesi",
+      "category": ["Alışveriş", "Şehir Gezisi"],
+      "coordinates": { "lat": 40.7768, "lng": 30.3940 },
+      "city": "Sakarya",
+      "district": "Adapazarı",
+      "average_stay_minutes": 80,
+      "average_spend": { "amount": 150, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["Her mevsim"],
+        "days": ["Cuma", "Cumartesi"],
+        "hours": ["11:00-22:00"]
+      },
+      "tags": ["alışveriş", "kafe", "yürüyüş"],
+      "popularity_score": 81,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.3,
+      "review_count": 5200,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/cark_1",
+        "https://instagram.com/cark_caddesi.jpg"
+      ]
+    },
+    {
+      "id": "place_020",
+      "name": "Kırkpınar Sahil Yürüyüş Yolu",
+      "category": ["Doğa", "Sahil Yürüyüşü"],
+      "coordinates": { "lat": 40.7000, "lng": 30.2700 },
+      "city": "Sakarya",
+      "district": "Sapanca",
+      "average_stay_minutes": 90,
+      "average_spend": { "amount": 60, "currency": "TRY" },
+      "best_visit_times": {
+        "season": ["İlkbahar", "Yaz", "Sonbahar"],
+        "days": ["Her gün"],
+        "hours": ["08:00-22:00"]
+      },
+      "tags": ["yürüyüş", "göl manzarası", "bisiklet"],
+      "popularity_score": 84,
+      "virality_trend": "yükselişte",
+      "average_rating": 4.6,
+      "review_count": 3000,
+      "sources": ["Google Maps", "Instagram"],
+      "photos": [
+        "https://maps.googleapis.com/photo/kirkpinar_1",
+        "https://instagram.com/kirkpinar_sahil.jpg"
+      ]
+    }
+  ]
+  

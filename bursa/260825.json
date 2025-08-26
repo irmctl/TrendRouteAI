@@ -1,0 +1,1363 @@
+[
+    {
+        "id": "bursa_001",
+        "name": "Ulu Cami (Bursa Ulu Camii)",
+        "category": [
+            "Tarihi",
+            "Dini"
+        ],
+        "coordinates": {
+            "lat": 40.195,
+            "lng": 29.06
+        },
+        "city": "Bursa",
+        "district": "Osmangazi",
+        "average_stay_minutes": 60,
+        "average_spend": {
+            "amount": 0,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz",
+                "Sonbahar"
+            ],
+            "days": [
+                "Pazartesi",
+                "Salı",
+                "Çarşamba",
+                "Perşembe",
+                "Cuma",
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "09:00-18:00"
+            ]
+        },
+        "tags": [
+            "dini",
+            "tarihi"
+        ],
+        "popularity_score": 61,
+        "virality_trend": "stabil",
+        "average_rating": 4.4,
+        "review_count": 550,
+        "sources": [
+            "GoTürkiye",
+            "Tripadvisor",
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://maps.google.com/?q=Ulu+Cami+(Bursa+Ulu+Camii)+Bursa",
+            "https://tr.wikipedia.org/wiki/Ulu_Cami_Bursa_Ulu_Camii"
+        ]
+    },
+    {
+        "id": "bursa_002",
+        "name": "Koza Han",
+        "category": [
+            "Tarihi",
+            "Alışveriş"
+        ],
+        "coordinates": {
+            "lat": 40.195,
+            "lng": 29.06
+        },
+        "city": "Bursa",
+        "district": "Osmangazi",
+        "average_stay_minutes": 60,
+        "average_spend": {
+            "amount": 100,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz",
+                "Sonbahar"
+            ],
+            "days": [
+                "Pazartesi",
+                "Salı",
+                "Çarşamba",
+                "Perşembe",
+                "Cuma",
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "09:00-18:00"
+            ]
+        },
+        "tags": [
+            "alışveriş",
+            "tarihi"
+        ],
+        "popularity_score": 62,
+        "virality_trend": "stabil",
+        "average_rating": 4.5,
+        "review_count": 600,
+        "sources": [
+            "GoTürkiye",
+            "Tripadvisor",
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://maps.google.com/?q=Koza+Han+Bursa",
+            "https://tr.wikipedia.org/wiki/Koza_Han"
+        ]
+    },
+    {
+        "id": "bursa_003",
+        "name": "Tophane Saat Kulesi",
+        "category": [
+            "Tarihi",
+            "Manzara"
+        ],
+        "coordinates": {
+            "lat": 40.195,
+            "lng": 29.06
+        },
+        "city": "Bursa",
+        "district": "Osmangazi",
+        "average_stay_minutes": 60,
+        "average_spend": {
+            "amount": 100,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz",
+                "Sonbahar"
+            ],
+            "days": [
+                "Pazartesi",
+                "Salı",
+                "Çarşamba",
+                "Perşembe",
+                "Cuma",
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "09:00-18:00"
+            ]
+        },
+        "tags": [
+            "manzara",
+            "tarihi"
+        ],
+        "popularity_score": 63,
+        "virality_trend": "yükselişte",
+        "average_rating": 4.6,
+        "review_count": 650,
+        "sources": [
+            "GoTürkiye",
+            "Tripadvisor",
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://maps.google.com/?q=Tophane+Saat+Kulesi+Bursa",
+            "https://tr.wikipedia.org/wiki/Tophane_Saat_Kulesi"
+        ]
+    },
+    {
+        "id": "bursa_004",
+        "name": "Osman Gazi Türbesi",
+        "category": [
+            "Tarihi",
+            "Dini"
+        ],
+        "coordinates": {
+            "lat": 40.195,
+            "lng": 29.06
+        },
+        "city": "Bursa",
+        "district": "Osmangazi",
+        "average_stay_minutes": 60,
+        "average_spend": {
+            "amount": 0,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz",
+                "Sonbahar"
+            ],
+            "days": [
+                "Pazartesi",
+                "Salı",
+                "Çarşamba",
+                "Perşembe",
+                "Cuma",
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "09:00-18:00"
+            ]
+        },
+        "tags": [
+            "dini",
+            "tarihi"
+        ],
+        "popularity_score": 64,
+        "virality_trend": "stabil",
+        "average_rating": 4.7,
+        "review_count": 700,
+        "sources": [
+            "GoTürkiye",
+            "Tripadvisor",
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://maps.google.com/?q=Osman+Gazi+Türbesi+Bursa",
+            "https://tr.wikipedia.org/wiki/Osman_Gazi_Türbesi"
+        ]
+    },
+    {
+        "id": "bursa_005",
+        "name": "Orhan Gazi Türbesi",
+        "category": [
+            "Tarihi",
+            "Dini"
+        ],
+        "coordinates": {
+            "lat": 40.195,
+            "lng": 29.06
+        },
+        "city": "Bursa",
+        "district": "Osmangazi",
+        "average_stay_minutes": 60,
+        "average_spend": {
+            "amount": 0,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz",
+                "Sonbahar"
+            ],
+            "days": [
+                "Pazartesi",
+                "Salı",
+                "Çarşamba",
+                "Perşembe",
+                "Cuma",
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "09:00-18:00"
+            ]
+        },
+        "tags": [
+            "dini",
+            "tarihi"
+        ],
+        "popularity_score": 65,
+        "virality_trend": "stabil",
+        "average_rating": 4.3,
+        "review_count": 750,
+        "sources": [
+            "GoTürkiye",
+            "Tripadvisor",
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://maps.google.com/?q=Orhan+Gazi+Türbesi+Bursa",
+            "https://tr.wikipedia.org/wiki/Orhan_Gazi_Türbesi"
+        ]
+    },
+    {
+        "id": "bursa_006",
+        "name": "Bursa Kapalı Çarşı",
+        "category": [
+            "Tarihi",
+            "Alışveriş"
+        ],
+        "coordinates": {
+            "lat": 40.195,
+            "lng": 29.06
+        },
+        "city": "Bursa",
+        "district": "Osmangazi",
+        "average_stay_minutes": 60,
+        "average_spend": {
+            "amount": 100,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz",
+                "Sonbahar"
+            ],
+            "days": [
+                "Pazartesi",
+                "Salı",
+                "Çarşamba",
+                "Perşembe",
+                "Cuma",
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "09:00-18:00"
+            ]
+        },
+        "tags": [
+            "alışveriş",
+            "tarihi"
+        ],
+        "popularity_score": 66,
+        "virality_trend": "yükselişte",
+        "average_rating": 4.4,
+        "review_count": 800,
+        "sources": [
+            "GoTürkiye",
+            "Tripadvisor",
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://maps.google.com/?q=Bursa+Kapalı+Çarşı+Bursa",
+            "https://tr.wikipedia.org/wiki/Bursa_Kapalı_Çarşı"
+        ]
+    },
+    {
+        "id": "bursa_007",
+        "name": "Irgandı Köprüsü",
+        "category": [
+            "Tarihi"
+        ],
+        "coordinates": {
+            "lat": 40.195,
+            "lng": 29.06
+        },
+        "city": "Bursa",
+        "district": "Osmangazi",
+        "average_stay_minutes": 60,
+        "average_spend": {
+            "amount": 100,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz",
+                "Sonbahar"
+            ],
+            "days": [
+                "Pazartesi",
+                "Salı",
+                "Çarşamba",
+                "Perşembe",
+                "Cuma",
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "09:00-18:00"
+            ]
+        },
+        "tags": [
+            "tarihi"
+        ],
+        "popularity_score": 67,
+        "virality_trend": "stabil",
+        "average_rating": 4.5,
+        "review_count": 850,
+        "sources": [
+            "GoTürkiye",
+            "Tripadvisor",
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://maps.google.com/?q=Irgandı+Köprüsü+Bursa",
+            "https://tr.wikipedia.org/wiki/Irgandı_Köprüsü"
+        ]
+    },
+    {
+        "id": "bursa_008",
+        "name": "Bursa Kent Müzesi",
+        "category": [
+            "Müze",
+            "Tarihi"
+        ],
+        "coordinates": {
+            "lat": 40.195,
+            "lng": 29.06
+        },
+        "city": "Bursa",
+        "district": "Osmangazi",
+        "average_stay_minutes": 75,
+        "average_spend": {
+            "amount": 100,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz",
+                "Sonbahar",
+                "Kış"
+            ],
+            "days": [
+                "Pazartesi",
+                "Salı",
+                "Çarşamba",
+                "Perşembe",
+                "Cuma",
+                "Cumartesi"
+            ],
+            "hours": [
+                "10:00-17:00"
+            ]
+        },
+        "tags": [
+            "aile dostu",
+            "müze",
+            "tarihi"
+        ],
+        "popularity_score": 68,
+        "virality_trend": "stabil",
+        "average_rating": 4.6,
+        "review_count": 900,
+        "sources": [
+            "GoTürkiye",
+            "Tripadvisor",
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://maps.google.com/?q=Bursa+Kent+Müzesi+Bursa",
+            "https://tr.wikipedia.org/wiki/Bursa_Kent_Müzesi"
+        ]
+    },
+    {
+        "id": "bursa_009",
+        "name": "Bursa Arkeoloji Müzesi",
+        "category": [
+            "Müze",
+            "Tarihi"
+        ],
+        "coordinates": {
+            "lat": 40.195,
+            "lng": 29.06
+        },
+        "city": "Bursa",
+        "district": "Osmangazi",
+        "average_stay_minutes": 75,
+        "average_spend": {
+            "amount": 100,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz",
+                "Sonbahar",
+                "Kış"
+            ],
+            "days": [
+                "Pazartesi",
+                "Salı",
+                "Çarşamba",
+                "Perşembe",
+                "Cuma",
+                "Cumartesi"
+            ],
+            "hours": [
+                "10:00-17:00"
+            ]
+        },
+        "tags": [
+            "aile dostu",
+            "müze",
+            "tarihi"
+        ],
+        "popularity_score": 69,
+        "virality_trend": "yükselişte",
+        "average_rating": 4.7,
+        "review_count": 950,
+        "sources": [
+            "GoTürkiye",
+            "Tripadvisor",
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://maps.google.com/?q=Bursa+Arkeoloji+Müzesi+Bursa",
+            "https://tr.wikipedia.org/wiki/Bursa_Arkeoloji_Müzesi"
+        ]
+    },
+    {
+        "id": "bursa_010",
+        "name": "Bursa Atatürk Müzesi",
+        "category": [
+            "Müze",
+            "Tarihi"
+        ],
+        "coordinates": {
+            "lat": 40.195,
+            "lng": 29.06
+        },
+        "city": "Bursa",
+        "district": "Osmangazi",
+        "average_stay_minutes": 75,
+        "average_spend": {
+            "amount": 100,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz",
+                "Sonbahar",
+                "Kış"
+            ],
+            "days": [
+                "Pazartesi",
+                "Salı",
+                "Çarşamba",
+                "Perşembe",
+                "Cuma",
+                "Cumartesi"
+            ],
+            "hours": [
+                "10:00-17:00"
+            ]
+        },
+        "tags": [
+            "aile dostu",
+            "müze",
+            "tarihi"
+        ],
+        "popularity_score": 70,
+        "virality_trend": "stabil",
+        "average_rating": 4.3,
+        "review_count": 1000,
+        "sources": [
+            "GoTürkiye",
+            "Tripadvisor",
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://maps.google.com/?q=Bursa+Atatürk+Müzesi+Bursa",
+            "https://tr.wikipedia.org/wiki/Bursa_Atatürk_Müzesi"
+        ]
+    },
+    {
+        "id": "bursa_011",
+        "name": "Panorama 1326 Bursa Fetih Müzesi",
+        "category": [
+            "Müze",
+            "Tarihi"
+        ],
+        "coordinates": {
+            "lat": 40.195,
+            "lng": 29.06
+        },
+        "city": "Bursa",
+        "district": "Osmangazi",
+        "average_stay_minutes": 75,
+        "average_spend": {
+            "amount": 100,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz",
+                "Sonbahar",
+                "Kış"
+            ],
+            "days": [
+                "Pazartesi",
+                "Salı",
+                "Çarşamba",
+                "Perşembe",
+                "Cuma",
+                "Cumartesi"
+            ],
+            "hours": [
+                "10:00-17:00"
+            ]
+        },
+        "tags": [
+            "aile dostu",
+            "müze",
+            "tarihi"
+        ],
+        "popularity_score": 71,
+        "virality_trend": "stabil",
+        "average_rating": 4.4,
+        "review_count": 1050,
+        "sources": [
+            "GoTürkiye",
+            "Tripadvisor",
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://maps.google.com/?q=Panorama+1326+Bursa+Fetih+Müzesi+Bursa",
+            "https://tr.wikipedia.org/wiki/Panorama_1326_Bursa_Fetih_Müzesi"
+        ]
+    },
+    {
+        "id": "bursa_012",
+        "name": "Reşat Oyal Kültürparkı",
+        "category": [
+            "Park",
+            "Aile"
+        ],
+        "coordinates": {
+            "lat": 40.195,
+            "lng": 29.06
+        },
+        "city": "Bursa",
+        "district": "Osmangazi",
+        "average_stay_minutes": 90,
+        "average_spend": {
+            "amount": 50,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz",
+                "Sonbahar"
+            ],
+            "days": [
+                "Pazartesi",
+                "Salı",
+                "Çarşamba",
+                "Perşembe",
+                "Cuma",
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "09:00-18:00"
+            ]
+        },
+        "tags": [
+            "aile dostu",
+            "park"
+        ],
+        "popularity_score": 72,
+        "virality_trend": "yükselişte",
+        "average_rating": 4.5,
+        "review_count": 1100,
+        "sources": [
+            "GoTürkiye",
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://maps.google.com/?q=Reşat+Oyal+Kültürparkı+Bursa",
+            "https://tr.wikipedia.org/wiki/Reşat_Oyal_Kültürparkı"
+        ]
+    },
+    {
+        "id": "bursa_013",
+        "name": "Bursa Botanik Parkı",
+        "category": [
+            "Park",
+            "Doğa"
+        ],
+        "coordinates": {
+            "lat": 40.195,
+            "lng": 29.06
+        },
+        "city": "Bursa",
+        "district": "Osmangazi",
+        "average_stay_minutes": 90,
+        "average_spend": {
+            "amount": 50,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz"
+            ],
+            "days": [
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "08:00-19:00"
+            ]
+        },
+        "tags": [
+            "aile dostu",
+            "doğa",
+            "park"
+        ],
+        "popularity_score": 73,
+        "virality_trend": "stabil",
+        "average_rating": 4.6,
+        "review_count": 1150,
+        "sources": [
+            "GoTürkiye",
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://maps.google.com/?q=Bursa+Botanik+Parkı+Bursa",
+            "https://tr.wikipedia.org/wiki/Bursa_Botanik_Parkı"
+        ]
+    },
+    {
+        "id": "bursa_014",
+        "name": "Soğanlı Hayvanat Bahçesi (Bursa Zoo)",
+        "category": [
+            "Park",
+            "Aile"
+        ],
+        "coordinates": {
+            "lat": 40.195,
+            "lng": 29.06
+        },
+        "city": "Bursa",
+        "district": "Osmangazi",
+        "average_stay_minutes": 90,
+        "average_spend": {
+            "amount": 50,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz",
+                "Sonbahar"
+            ],
+            "days": [
+                "Pazartesi",
+                "Salı",
+                "Çarşamba",
+                "Perşembe",
+                "Cuma",
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "09:00-18:00"
+            ]
+        },
+        "tags": [
+            "aile dostu",
+            "park"
+        ],
+        "popularity_score": 74,
+        "virality_trend": "stabil",
+        "average_rating": 4.7,
+        "review_count": 1200,
+        "sources": [
+            "GoTürkiye",
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://maps.google.com/?q=Soğanlı+Hayvanat+Bahçesi+(Bursa+Zoo)+Bursa",
+            "https://tr.wikipedia.org/wiki/Soğanlı_Hayvanat_Bahçesi_Bursa_Zoo"
+        ]
+    },
+    {
+        "id": "bursa_015",
+        "name": "Uluumay Osmanlı Halk Kıyafetleri ve Takıları Müzesi",
+        "category": [
+            "Müze",
+            "Kültür"
+        ],
+        "coordinates": {
+            "lat": 40.195,
+            "lng": 29.06
+        },
+        "city": "Bursa",
+        "district": "Osmangazi",
+        "average_stay_minutes": 75,
+        "average_spend": {
+            "amount": 100,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz",
+                "Sonbahar",
+                "Kış"
+            ],
+            "days": [
+                "Pazartesi",
+                "Salı",
+                "Çarşamba",
+                "Perşembe",
+                "Cuma",
+                "Cumartesi"
+            ],
+            "hours": [
+                "10:00-17:00"
+            ]
+        },
+        "tags": [
+            "aile dostu",
+            "müze"
+        ],
+        "popularity_score": 75,
+        "virality_trend": "yükselişte",
+        "average_rating": 4.3,
+        "review_count": 1250,
+        "sources": [
+            "GoTürkiye",
+            "Tripadvisor",
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://maps.google.com/?q=Uluumay+Osmanlı+Halk+Kıyafetleri+ve+Takıları+Müzesi+Bursa",
+            "https://tr.wikipedia.org/wiki/Uluumay_Osmanlı_Halk_Kıyafetleri_ve_Takıları_Müzesi"
+        ]
+    },
+    {
+        "id": "bursa_016",
+        "name": "Merinos Tekstil Sanayi Müzesi",
+        "category": [
+            "Müze",
+            "Endüstri"
+        ],
+        "coordinates": {
+            "lat": 40.195,
+            "lng": 29.06
+        },
+        "city": "Bursa",
+        "district": "Osmangazi",
+        "average_stay_minutes": 75,
+        "average_spend": {
+            "amount": 100,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz",
+                "Sonbahar",
+                "Kış"
+            ],
+            "days": [
+                "Pazartesi",
+                "Salı",
+                "Çarşamba",
+                "Perşembe",
+                "Cuma",
+                "Cumartesi"
+            ],
+            "hours": [
+                "10:00-17:00"
+            ]
+        },
+        "tags": [
+            "aile dostu",
+            "müze"
+        ],
+        "popularity_score": 76,
+        "virality_trend": "stabil",
+        "average_rating": 4.4,
+        "review_count": 1300,
+        "sources": [
+            "GoTürkiye",
+            "Tripadvisor",
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://maps.google.com/?q=Merinos+Tekstil+Sanayi+Müzesi+Bursa",
+            "https://tr.wikipedia.org/wiki/Merinos_Tekstil_Sanayi_Müzesi"
+        ]
+    },
+    {
+        "id": "bursa_017",
+        "name": "Bursa Bilim ve Teknoloji Merkezi",
+        "category": [
+            "Müze",
+            "Bilim"
+        ],
+        "coordinates": {
+            "lat": 40.195,
+            "lng": 29.06
+        },
+        "city": "Bursa",
+        "district": "Osmangazi",
+        "average_stay_minutes": 75,
+        "average_spend": {
+            "amount": 100,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz",
+                "Sonbahar",
+                "Kış"
+            ],
+            "days": [
+                "Pazartesi",
+                "Salı",
+                "Çarşamba",
+                "Perşembe",
+                "Cuma",
+                "Cumartesi"
+            ],
+            "hours": [
+                "10:00-17:00"
+            ]
+        },
+        "tags": [
+            "aile dostu",
+            "müze"
+        ],
+        "popularity_score": 77,
+        "virality_trend": "stabil",
+        "average_rating": 4.5,
+        "review_count": 1350,
+        "sources": [
+            "GoTürkiye",
+            "Tripadvisor",
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://maps.google.com/?q=Bursa+Bilim+ve+Teknoloji+Merkezi+Bursa",
+            "https://tr.wikipedia.org/wiki/Bursa_Bilim_ve_Teknoloji_Merkezi"
+        ]
+    },
+    {
+        "id": "bursa_018",
+        "name": "Hünkar Köşkü Müzesi",
+        "category": [
+            "Müze",
+            "Tarihi"
+        ],
+        "coordinates": {
+            "lat": 40.187,
+            "lng": 29.111
+        },
+        "city": "Bursa",
+        "district": "Yıldırım",
+        "average_stay_minutes": 75,
+        "average_spend": {
+            "amount": 100,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz",
+                "Sonbahar",
+                "Kış"
+            ],
+            "days": [
+                "Pazartesi",
+                "Salı",
+                "Çarşamba",
+                "Perşembe",
+                "Cuma",
+                "Cumartesi"
+            ],
+            "hours": [
+                "10:00-17:00"
+            ]
+        },
+        "tags": [
+            "aile dostu",
+            "müze",
+            "tarihi"
+        ],
+        "popularity_score": 78,
+        "virality_trend": "yükselişte",
+        "average_rating": 4.6,
+        "review_count": 1400,
+        "sources": [
+            "GoTürkiye",
+            "Tripadvisor",
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://maps.google.com/?q=Hünkar+Köşkü+Müzesi+Bursa",
+            "https://tr.wikipedia.org/wiki/Hünkar_Köşkü_Müzesi"
+        ]
+    },
+    {
+        "id": "bursa_019",
+        "name": "Yeşil Camii",
+        "category": [
+            "Tarihi",
+            "Dini"
+        ],
+        "coordinates": {
+            "lat": 40.187,
+            "lng": 29.111
+        },
+        "city": "Bursa",
+        "district": "Yıldırım",
+        "average_stay_minutes": 60,
+        "average_spend": {
+            "amount": 0,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz",
+                "Sonbahar"
+            ],
+            "days": [
+                "Pazartesi",
+                "Salı",
+                "Çarşamba",
+                "Perşembe",
+                "Cuma",
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "09:00-18:00"
+            ]
+        },
+        "tags": [
+            "dini",
+            "tarihi"
+        ],
+        "popularity_score": 79,
+        "virality_trend": "stabil",
+        "average_rating": 4.7,
+        "review_count": 1450,
+        "sources": [
+            "GoTürkiye",
+            "Tripadvisor",
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://maps.google.com/?q=Yeşil+Camii+Bursa",
+            "https://tr.wikipedia.org/wiki/Yeşil_Camii"
+        ]
+    },
+    {
+        "id": "bursa_020",
+        "name": "Yeşil Türbe",
+        "category": [
+            "Tarihi",
+            "Dini"
+        ],
+        "coordinates": {
+            "lat": 40.187,
+            "lng": 29.111
+        },
+        "city": "Bursa",
+        "district": "Yıldırım",
+        "average_stay_minutes": 60,
+        "average_spend": {
+            "amount": 0,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz",
+                "Sonbahar"
+            ],
+            "days": [
+                "Pazartesi",
+                "Salı",
+                "Çarşamba",
+                "Perşembe",
+                "Cuma",
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "09:00-18:00"
+            ]
+        },
+        "tags": [
+            "dini",
+            "tarihi"
+        ],
+        "popularity_score": 80,
+        "virality_trend": "stabil",
+        "average_rating": 4.3,
+        "review_count": 1500,
+        "sources": [
+            "GoTürkiye",
+            "Tripadvisor",
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://maps.google.com/?q=Yeşil+Türbe+Bursa",
+            "https://tr.wikipedia.org/wiki/Yeşil_Türbe"
+        ]
+    },
+    {
+        "id": "bursa_021",
+        "name": "Emir Sultan Camii",
+        "category": [
+            "Tarihi",
+            "Dini"
+        ],
+        "coordinates": {
+            "lat": 40.187,
+            "lng": 29.111
+        },
+        "city": "Bursa",
+        "district": "Yıldırım",
+        "average_stay_minutes": 60,
+        "average_spend": {
+            "amount": 0,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz",
+                "Sonbahar"
+            ],
+            "days": [
+                "Pazartesi",
+                "Salı",
+                "Çarşamba",
+                "Perşembe",
+                "Cuma",
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "09:00-18:00"
+            ]
+        },
+        "tags": [
+            "dini",
+            "tarihi"
+        ],
+        "popularity_score": 81,
+        "virality_trend": "yükselişte",
+        "average_rating": 4.4,
+        "review_count": 1550,
+        "sources": [
+            "GoTürkiye",
+            "Tripadvisor",
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://maps.google.com/?q=Emir+Sultan+Camii+Bursa",
+            "https://tr.wikipedia.org/wiki/Emir_Sultan_Camii"
+        ]
+    },
+    {
+        "id": "bursa_022",
+        "name": "Cumalıkızık Köyü (UNESCO)",
+        "category": [
+            "Tarihi",
+            "Köy"
+        ],
+        "coordinates": {
+            "lat": 40.187,
+            "lng": 29.111
+        },
+        "city": "Bursa",
+        "district": "Yıldırım",
+        "average_stay_minutes": 120,
+        "average_spend": {
+            "amount": 100,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz",
+                "Sonbahar"
+            ],
+            "days": [
+                "Pazartesi",
+                "Salı",
+                "Çarşamba",
+                "Perşembe",
+                "Cuma",
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "09:00-18:00"
+            ]
+        },
+        "tags": [
+            "köy",
+            "tarihi"
+        ],
+        "popularity_score": 82,
+        "virality_trend": "stabil",
+        "average_rating": 4.5,
+        "review_count": 1600,
+        "sources": [
+            "GoTürkiye",
+            "Tripadvisor",
+            "UNESCO",
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://maps.google.com/?q=Cumalıkızık+Köyü+(UNESCO)+Bursa",
+            "https://tr.wikipedia.org/wiki/Cumalıkızık_Köyü_UNESCO"
+        ]
+    },
+    {
+        "id": "bursa_023",
+        "name": "Bursa Teleferik (Teferrüç İstasyonu)",
+        "category": [
+            "Manzara",
+            "Ulaşım"
+        ],
+        "coordinates": {
+            "lat": 40.187,
+            "lng": 29.111
+        },
+        "city": "Bursa",
+        "district": "Yıldırım",
+        "average_stay_minutes": 60,
+        "average_spend": {
+            "amount": 100,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz",
+                "Sonbahar"
+            ],
+            "days": [
+                "Pazartesi",
+                "Salı",
+                "Çarşamba",
+                "Perşembe",
+                "Cuma",
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "09:00-18:00"
+            ]
+        },
+        "tags": [
+            "manzara"
+        ],
+        "popularity_score": 83,
+        "virality_trend": "stabil",
+        "average_rating": 4.6,
+        "review_count": 1650,
+        "sources": [
+            "GoTürkiye",
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://maps.google.com/?q=Bursa+Teleferik+(Teferrüç+İstasyonu)+Bursa",
+            "https://tr.wikipedia.org/wiki/Bursa_Teleferik_Teferrüç_İstasyonu"
+        ]
+    },
+    {
+        "id": "bursa_024",
+        "name": "Küreklidere Şelalesi",
+        "category": [
+            "Doğa",
+            "Şelale"
+        ],
+        "coordinates": {
+            "lat": 40.187,
+            "lng": 29.111
+        },
+        "city": "Bursa",
+        "district": "Yıldırım",
+        "average_stay_minutes": 90,
+        "average_spend": {
+            "amount": 50,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz"
+            ],
+            "days": [
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "08:00-19:00"
+            ]
+        },
+        "tags": [
+            "aile dostu",
+            "doğa"
+        ],
+        "popularity_score": 84,
+        "virality_trend": "yükselişte",
+        "average_rating": 4.7,
+        "review_count": 1700,
+        "sources": [
+            "GoTürkiye",
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://maps.google.com/?q=Küreklidere+Şelalesi+Bursa",
+            "https://tr.wikipedia.org/wiki/Küreklidere_Şelalesi"
+        ]
+    },
+    {
+        "id": "bursa_025",
+        "name": "Hüdavendigar Kent Parkı (Mihraplı)",
+        "category": [
+            "Park",
+            "Aile"
+        ],
+        "coordinates": {
+            "lat": 40.21,
+            "lng": 28.98
+        },
+        "city": "Bursa",
+        "district": "Nilüfer",
+        "average_stay_minutes": 90,
+        "average_spend": {
+            "amount": 50,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz",
+                "Sonbahar"
+            ],
+            "days": [
+                "Pazartesi",
+                "Salı",
+                "Çarşamba",
+                "Perşembe",
+                "Cuma",
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "09:00-18:00"
+            ]
+        },
+        "tags": [
+            "aile dostu",
+            "park"
+        ],
+        "popularity_score": 85,
+        "virality_trend": "stabil",
+        "average_rating": 4.3,
+        "review_count": 1750,
+        "sources": [
+            "GoTürkiye",
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://maps.google.com/?q=Hüdavendigar+Kent+Parkı+(Mihraplı)+Bursa",
+            "https://tr.wikipedia.org/wiki/Hüdavendigar_Kent_Parkı_Mihraplı"
+        ]
+    }
+]

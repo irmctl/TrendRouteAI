@@ -1,0 +1,947 @@
+[
+    {
+        "id": "place_001",
+        "name": "Ormanya (Doğal Yaşam Parkı)",
+        "category": [
+            "Doğal",
+            "Park"
+        ],
+        "coordinates": {
+            "lat": 40.7353,
+            "lng": 30.1445
+        },
+        "city": "Kocaeli",
+        "district": "Kartepe",
+        "average_stay_minutes": 180,
+        "average_spend": {
+            "amount": 50,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz"
+            ],
+            "days": [
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "09:00-18:00"
+            ]
+        },
+        "tags": [
+            "doğa",
+            "hayvanat bahçesi",
+            "aile dostu"
+        ],
+        "popularity_score": 98,
+        "virality_trend": "yüksek",
+        "average_rating": 4.9,
+        "review_count": 35000,
+        "sources": [
+            "Tripadvisor",
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://example.com/photos/ormanya1.jpg"
+        ]
+    },
+    {
+        "id": "place_002",
+        "name": "Seka Park",
+        "category": [
+            "Park",
+            "Sahil"
+        ],
+        "coordinates": {
+            "lat": 40.7703,
+            "lng": 29.9465
+        },
+        "city": "Kocaeli",
+        "district": "İzmit",
+        "average_stay_minutes": 120,
+        "average_spend": {
+            "amount": 40,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz"
+            ],
+            "days": [
+                "Cuma",
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "08:00-20:00"
+            ]
+        },
+        "tags": [
+            "park",
+            "deniz",
+            "yürüyüş"
+        ],
+        "popularity_score": 94,
+        "virality_trend": "yüksek",
+        "average_rating": 4.8,
+        "review_count": 22000,
+        "sources": [
+            "Tripadvisor",
+            "Gezimanya"
+        ],
+        "photos": [
+            "https://example.com/photos/sekapark1.jpg"
+        ]
+    },
+    {
+        "id": "place_003",
+        "name": "Faruk Yalçın Hayvanat Bahçesi ve Botanik Parkı",
+        "category": [
+            "Hayvanat Bahçesi",
+            "Doğa"
+        ],
+        "coordinates": {
+            "lat": 40.7762,
+            "lng": 29.3707
+        },
+        "city": "Kocaeli",
+        "district": "Darıca",
+        "average_stay_minutes": 150,
+        "average_spend": {
+            "amount": 120,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Sonbahar"
+            ],
+            "days": [
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "09:00-18:00"
+            ]
+        },
+        "tags": [
+            "hayvanlar",
+            "botanik",
+            "doğa"
+        ],
+        "popularity_score": 96,
+        "virality_trend": "yüksek",
+        "average_rating": 4.7,
+        "review_count": 15000,
+        "sources": [
+            "Wikipedia",
+            "Tripadvisor"
+        ],
+        "photos": [
+            "https://example.com/photos/farukyalcin1.jpg"
+        ]
+    },
+    {
+        "id": "place_004",
+        "name": "Kocaeli Kent Ormanı",
+        "category": [
+            "Doğal",
+            "Orman"
+        ],
+        "coordinates": {
+            "lat": 40.7917,
+            "lng": 29.9308
+        },
+        "city": "Kocaeli",
+        "district": "İzmit",
+        "average_stay_minutes": 150,
+        "average_spend": {
+            "amount": 30,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Sonbahar"
+            ],
+            "days": [
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "09:00-19:00"
+            ]
+        },
+        "tags": [
+            "doğa",
+            "piknik",
+            "yürüyüş"
+        ],
+        "popularity_score": 85,
+        "virality_trend": "artıyor",
+        "average_rating": 4.5,
+        "review_count": 8000,
+        "sources": [
+            "Gezimanya",
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://example.com/photos/kentor1.jpg"
+        ]
+    },
+    {
+        "id": "place_005",
+        "name": "Kuzuyayla Tabiat Parkı",
+        "category": [
+            "Doğal",
+            "Yayla"
+        ],
+        "coordinates": {
+            "lat": 40.7155,
+            "lng": 30.1727
+        },
+        "city": "Kocaeli",
+        "district": "Kartepe",
+        "average_stay_minutes": 240,
+        "average_spend": {
+            "amount": 70,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz",
+                "Sonbahar"
+            ],
+            "days": [
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "08:00-18:00"
+            ]
+        },
+        "tags": [
+            "yayla",
+            "doğa",
+            "kamp"
+        ],
+        "popularity_score": 89,
+        "virality_trend": "yüksek",
+        "average_rating": 4.6,
+        "review_count": 6000,
+        "sources": [
+            "Enuygun",
+            "Gezimanya"
+        ],
+        "photos": [
+            "https://example.com/photos/kuzuyayla1.jpg"
+        ]
+    },
+    {
+        "id": "place_006",
+        "name": "Ayrı Gezegen Cam Teras",
+        "category": [
+            "Manzara",
+            "Macera"
+        ],
+        "coordinates": {
+            "lat": 40.7501,
+            "lng": 30.0376
+        },
+        "city": "Kocaeli",
+        "district": "Başiskele",
+        "average_stay_minutes": 60,
+        "average_spend": {
+            "amount": 50,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Sonbahar"
+            ],
+            "days": [
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "10:00-17:00"
+            ]
+        },
+        "tags": [
+            "cam teras",
+            "manzara",
+            "fotoğraf"
+        ],
+        "popularity_score": 88,
+        "virality_trend": "yüksek",
+        "average_rating": 4.7,
+        "review_count": 4500,
+        "sources": [
+            "EtsTur",
+            "Tripadvisor"
+        ],
+        "photos": [
+            "https://example.com/photos/camteras1.jpg"
+        ]
+    },
+    {
+        "id": "place_007",
+        "name": "Sapanca Gölü",
+        "category": [
+            "Doğal",
+            "Göl"
+        ],
+        "coordinates": {
+            "lat": 40.6913,
+            "lng": 30.2663
+        },
+        "city": "Kocaeli",
+        "district": "Maşukiye Yakını",
+        "average_stay_minutes": 180,
+        "average_spend": {
+            "amount": 80,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Sonbahar"
+            ],
+            "days": [
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "08:00-19:00"
+            ]
+        },
+        "tags": [
+            "doğa",
+            "göl",
+            "piknik"
+        ],
+        "popularity_score": 95,
+        "virality_trend": "yüksek",
+        "average_rating": 4.8,
+        "review_count": 22000,
+        "sources": [
+            "EtsTur",
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://example.com/photos/sapanca1.jpg"
+        ]
+    },
+    {
+        "id": "place_008",
+        "name": "Gayret Gemi Müzesi",
+        "category": [
+            "Müze",
+            "Tarihi"
+        ],
+        "coordinates": {
+            "lat": 40.7723,
+            "lng": 29.9484
+        },
+        "city": "Kocaeli",
+        "district": "İzmit",
+        "average_stay_minutes": 90,
+        "average_spend": {
+            "amount": 30,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz"
+            ],
+            "days": [
+                "Cuma",
+                "Cumartesi"
+            ],
+            "hours": [
+                "09:00-17:00"
+            ]
+        },
+        "tags": [
+            "müze",
+            "gemi",
+            "tarih"
+        ],
+        "popularity_score": 86,
+        "virality_trend": "sabit",
+        "average_rating": 4.5,
+        "review_count": 4000,
+        "sources": [
+            "Tripadvisor",
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://example.com/photos/gayretgemi1.jpg"
+        ]
+    },
+    {
+        "id": "place_009",
+        "name": "Kerpe Kayalıkları (Kartal Kayaları)",
+        "category": [
+            "Doğal",
+            "Sahil"
+        ],
+        "coordinates": {
+            "lat": 41.0796,
+            "lng": 30.1447
+        },
+        "city": "Kocaeli",
+        "district": "Kandıra",
+        "average_stay_minutes": 120,
+        "average_spend": {
+            "amount": 50,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "Yaz"
+            ],
+            "days": [
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "08:00-19:00"
+            ]
+        },
+        "tags": [
+            "doğa",
+            "kayalık",
+            "deniz"
+        ],
+        "popularity_score": 90,
+        "virality_trend": "yüksek",
+        "average_rating": 4.7,
+        "review_count": 8000,
+        "sources": [
+            "EtsTur",
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://example.com/photos/kerpe1.jpg"
+        ]
+    },
+    {
+        "id": "place_010",
+        "name": "Kartepe Kayak Merkezi",
+        "category": [
+            "Doğal",
+            "Spor"
+        ],
+        "coordinates": {
+            "lat": 40.7131,
+            "lng": 30.2056
+        },
+        "city": "Kocaeli",
+        "district": "Kartepe",
+        "average_stay_minutes": 300,
+        "average_spend": {
+            "amount": 150,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "Kış"
+            ],
+            "days": [
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "09:00-17:00"
+            ]
+        },
+        "tags": [
+            "kayak",
+            "spor",
+            "doğa"
+        ],
+        "popularity_score": 94,
+        "virality_trend": "yüksek",
+        "average_rating": 4.9,
+        "review_count": 18000,
+        "sources": [
+            "Tripadvisor",
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://example.com/photos/kartepe1.jpg"
+        ]
+    },
+    {
+        "id": "place_011",
+        "name": "İzmit Saat Kulesi",
+        "category": [
+            "Tarihi",
+            "Mimari"
+        ],
+        "coordinates": {
+            "lat": 40.7662,
+            "lng": 29.9168
+        },
+        "city": "Kocaeli",
+        "district": "İzmit",
+        "average_stay_minutes": 30,
+        "average_spend": {
+            "amount": 0,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Sonbahar"
+            ],
+            "days": [
+                "Her Gün"
+            ],
+            "hours": [
+                "09:00-18:00"
+            ]
+        },
+        "tags": [
+            "tarihi",
+            "mimari",
+            "sembol"
+        ],
+        "popularity_score": 88,
+        "virality_trend": "sabit",
+        "average_rating": 4.6,
+        "review_count": 5000,
+        "sources": [
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://example.com/photos/saatkulesi1.jpg"
+        ]
+    },
+    {
+        "id": "place_012",
+        "name": "Kocaeli Müzesi",
+        "category": [
+            "Müze",
+            "Tarihi"
+        ],
+        "coordinates": {
+            "lat": 40.7669,
+            "lng": 29.9184
+        },
+        "city": "Kocaeli",
+        "district": "İzmit",
+        "average_stay_minutes": 90,
+        "average_spend": {
+            "amount": 40,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz"
+            ],
+            "days": [
+                "Salı",
+                "Cumartesi"
+            ],
+            "hours": [
+                "09:00-17:00"
+            ]
+        },
+        "tags": [
+            "arkeoloji",
+            "müze",
+            "tarih"
+        ],
+        "popularity_score": 84,
+        "virality_trend": "sabit",
+        "average_rating": 4.5,
+        "review_count": 3500,
+        "sources": [
+            "Wikipedia",
+            "Tripadvisor"
+        ],
+        "photos": [
+            "https://example.com/photos/kocaelimuzesi1.jpg"
+        ]
+    },
+    {
+        "id": "place_013",
+        "name": "Pertev Paşa Camii",
+        "category": [
+            "Tarihi",
+            "Dini"
+        ],
+        "coordinates": {
+            "lat": 40.7655,
+            "lng": 29.9175
+        },
+        "city": "Kocaeli",
+        "district": "İzmit",
+        "average_stay_minutes": 30,
+        "average_spend": {
+            "amount": 0,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Sonbahar"
+            ],
+            "days": [
+                "Her Gün"
+            ],
+            "hours": [
+                "09:00-18:00"
+            ]
+        },
+        "tags": [
+            "cami",
+            "mimar sinan",
+            "tarih"
+        ],
+        "popularity_score": 80,
+        "virality_trend": "sabit",
+        "average_rating": 4.5,
+        "review_count": 2000,
+        "sources": [
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://example.com/photos/pertevpasa1.jpg"
+        ]
+    },
+    {
+        "id": "place_014",
+        "name": "SEKA Kağıt Müzesi",
+        "category": [
+            "Müze",
+            "Endüstri"
+        ],
+        "coordinates": {
+            "lat": 40.7674,
+            "lng": 29.9497
+        },
+        "city": "Kocaeli",
+        "district": "İzmit",
+        "average_stay_minutes": 120,
+        "average_spend": {
+            "amount": 50,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Sonbahar"
+            ],
+            "days": [
+                "Salı",
+                "Cumartesi"
+            ],
+            "hours": [
+                "09:00-17:00"
+            ]
+        },
+        "tags": [
+            "kağıt",
+            "müze",
+            "tarih"
+        ],
+        "popularity_score": 83,
+        "virality_trend": "artıyor",
+        "average_rating": 4.6,
+        "review_count": 3000,
+        "sources": [
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://example.com/photos/sekakagit1.jpg"
+        ]
+    },
+    {
+        "id": "place_015",
+        "name": "Uzunkum Tabiat Parkı",
+        "category": [
+            "Doğal",
+            "Park"
+        ],
+        "coordinates": {
+            "lat": 41.0992,
+            "lng": 30.1807
+        },
+        "city": "Kocaeli",
+        "district": "Kandıra",
+        "average_stay_minutes": 150,
+        "average_spend": {
+            "amount": 40,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "Yaz"
+            ],
+            "days": [
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "08:00-19:00"
+            ]
+        },
+        "tags": [
+            "doğa",
+            "deniz",
+            "piknik"
+        ],
+        "popularity_score": 85,
+        "virality_trend": "yüksek",
+        "average_rating": 4.7,
+        "review_count": 5000,
+        "sources": [
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://example.com/photos/uzunkum1.jpg"
+        ]
+    },
+    {
+        "id": "place_016",
+        "name": "Harikalar Sahili",
+        "category": [
+            "Sahil",
+            "Park"
+        ],
+        "coordinates": {
+            "lat": 40.7645,
+            "lng": 29.9340
+        },
+        "city": "Kocaeli",
+        "district": "İzmit",
+        "average_stay_minutes": 120,
+        "average_spend": {
+            "amount": 40,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "Yaz"
+            ],
+            "days": [
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "09:00-19:00"
+            ]
+        },
+        "tags": [
+            "sahil",
+            "aile",
+            "çocuk"
+        ],
+        "popularity_score": 82,
+        "virality_trend": "artıyor",
+        "average_rating": 4.5,
+        "review_count": 4200,
+        "sources": [
+            "Gezimanya"
+        ],
+        "photos": [
+            "https://example.com/photos/harikalar1.jpg"
+        ]
+    },
+    {
+        "id": "place_017",
+        "name": "Yuvacık Barajı",
+        "category": [
+            "Doğal",
+            "Baraj"
+        ],
+        "coordinates": {
+            "lat": 40.6361,
+            "lng": 29.9531
+        },
+        "city": "Kocaeli",
+        "district": "Başiskele",
+        "average_stay_minutes": 150,
+        "average_spend": {
+            "amount": 50,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz"
+            ],
+            "days": [
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "09:00-18:00"
+            ]
+        },
+        "tags": [
+            "baraj",
+            "doğa",
+            "piknik"
+        ],
+        "popularity_score": 87,
+        "virality_trend": "yüksek",
+        "average_rating": 4.7,
+        "review_count": 7000,
+        "sources": [
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://example.com/photos/yuvacik1.jpg"
+        ]
+    },
+    {
+        "id": "place_018",
+        "name": "Kefken Plajı ve Pembe Kayalar",
+        "category": [
+            "Doğal",
+            "Plaj"
+        ],
+        "coordinates": {
+            "lat": 41.1741,
+            "lng": 30.1823
+        },
+        "city": "Kocaeli",
+        "district": "Kandıra",
+        "average_stay_minutes": 180,
+        "average_spend": {
+            "amount": 70,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "Yaz"
+            ],
+            "days": [
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "08:00-19:00"
+            ]
+        },
+        "tags": [
+            "plaj",
+            "kayalık",
+            "deniz"
+        ],
+        "popularity_score": 89,
+        "virality_trend": "yüksek",
+        "average_rating": 4.8,
+        "review_count": 8500,
+        "sources": [
+            "Kocaeli Belediyesi"
+        ],
+        "photos": [
+            "https://example.com/photos/kefken1.jpg"
+        ]
+    },
+    {
+        "id": "place_019",
+        "name": "Başiskele Sahili",
+        "category": [
+            "Sahil",
+            "Park"
+        ],
+        "coordinates": {
+            "lat": 40.6507,
+            "lng": 29.9395
+        },
+        "city": "Kocaeli",
+        "district": "Başiskele",
+        "average_stay_minutes": 120,
+        "average_spend": {
+            "amount": 30,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "Yaz"
+            ],
+            "days": [
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "09:00-19:00"
+            ]
+        },
+        "tags": [
+            "sahil",
+            "deniz",
+            "yürüyüş"
+        ],
+        "popularity_score": 81,
+        "virality_trend": "sabit",
+        "average_rating": 4.4,
+        "review_count": 3000,
+        "sources": [
+            "Tripadvisor"
+        ],
+        "photos": [
+            "https://example.com/photos/basiskele1.jpg"
+        ]
+    },
+    {
+        "id": "place_020",
+        "name": "Menekşe Yaylası",
+        "category": [
+            "Doğal",
+            "Yayla"
+        ],
+        "coordinates": {
+            "lat": 40.7765,
+            "lng": 30.0954
+        },
+        "city": "Kocaeli",
+        "district": "Kartepe",
+        "average_stay_minutes": 240,
+        "average_spend": {
+            "amount": 60,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz"
+            ],
+            "days": [
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "08:00-18:00"
+            ]
+        },
+        "tags": [
+            "yayla",
+            "doğa",
+            "kamp"
+        ],
+        "popularity_score": 84,
+        "virality_trend": "artıyor",
+        "average_rating": 4.6,
+        "review_count": 4000,
+        "sources": [
+            "Gezimanya"
+        ],
+        "photos": [
+            "https://example.com/photos/menekse1.jpg"
+        ]
+    }
+]

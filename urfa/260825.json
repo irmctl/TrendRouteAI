@@ -1,0 +1,952 @@
+[
+    {
+        "id": "place_001",
+        "name": "Balıklıgöl",
+        "category": [
+            "Tarihi",
+            "Dini"
+        ],
+        "coordinates": {
+            "lat": 37.7850,
+            "lng": 38.9900
+        },
+        "city": "Şanlıurfa",
+        "district": "Merkez",
+        "average_stay_minutes": 60,
+        "average_spend": {
+            "amount": 50,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Sonbahar"
+            ],
+            "days": [
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "08:00-12:00",
+                "16:00-19:00"
+            ]
+        },
+        "tags": [
+            "tarih",
+            "dini",
+            "efsanevi"
+        ],
+        "popularity_score": 95,
+        "virality_trend": "yüksek",
+        "average_rating": 4.8,
+        "review_count": 20000,
+        "sources": [
+            "Wikipedia",
+            "Yerel Rehber"
+        ],
+        "photos": [
+            "https://example.com/photos/balikligol1.jpg"
+        ]
+    },
+    {
+        "id": "place_002",
+        "name": "Ayn Zeliha Gölü",
+        "category": [
+            "Tarihi",
+            "Dini"
+        ],
+        "coordinates": {
+            "lat": 37.7845,
+            "lng": 38.9905
+        },
+        "city": "Şanlıurfa",
+        "district": "Merkez",
+        "average_stay_minutes": 30,
+        "average_spend": {
+            "amount": 20,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Sonbahar"
+            ],
+            "days": [
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "09:00-11:00",
+                "17:00-19:00"
+            ]
+        },
+        "tags": [
+            "romantik",
+            "efsanevi",
+            "göl"
+        ],
+        "popularity_score": 85,
+        "virality_trend": "artıyor",
+        "average_rating": 4.6,
+        "review_count": 15000,
+        "sources": [
+            "Wikipedia",
+            "Rehber"
+        ],
+        "photos": [
+            "https://example.com/photos/aynzeliha1.jpg"
+        ]
+    },
+    {
+        "id": "place_003",
+        "name": "Urfa Kalesi",
+        "category": [
+            "Tarihi",
+            "Kale"
+        ],
+        "coordinates": {
+            "lat": 37.7930,
+            "lng": 38.9980
+        },
+        "city": "Şanlıurfa",
+        "district": "Merkez",
+        "average_stay_minutes": 45,
+        "average_spend": {
+            "amount": 30,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Sonbahar"
+            ],
+            "days": [
+                "Pazartesi",
+                "Cumartesi"
+            ],
+            "hours": [
+                "10:00-16:00"
+            ]
+        },
+        "tags": [
+            "tarih",
+            "manzara",
+            "kale"
+        ],
+        "popularity_score": 80,
+        "virality_trend": "sabit",
+        "average_rating": 4.5,
+        "review_count": 8000,
+        "sources": [
+            "Wikipedia",
+            "Belediye"
+        ],
+        "photos": [
+            "https://example.com/photos/urfakalesi1.jpg"
+        ]
+    },
+    {
+        "id": "place_004",
+        "name": "Göbeklitepe",
+        "category": [
+            "Arkeolojik",
+            "Tarihi"
+        ],
+        "coordinates": {
+            "lat": 37.2234,
+            "lng": 38.9226
+        },
+        "city": "Şanlıurfa",
+        "district": "Siverek Yakını",
+        "average_stay_minutes": 120,
+        "average_spend": {
+            "amount": 100,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Sonbahar"
+            ],
+            "days": [
+                "Salı",
+                "Perşembe"
+            ],
+            "hours": [
+                "09:00-12:00",
+                "14:00-17:00"
+            ]
+        },
+        "tags": [
+            "arkeoloji",
+            "tarih",
+            "tapınak"
+        ],
+        "popularity_score": 98,
+        "virality_trend": "çok yüksek",
+        "average_rating": 4.9,
+        "review_count": 25000,
+        "sources": [
+            "Wikipedia",
+            "Arkeoloji Rehberi"
+        ],
+        "photos": [
+            "https://example.com/photos/gobeklitepe1.jpg"
+        ]
+    },
+    {
+        "id": "place_005",
+        "name": "Şanlıurfa Arkeoloji ve Mozaik Müzesi",
+        "category": [
+            "Müze",
+            "Arkeolojik"
+        ],
+        "coordinates": {
+            "lat": 37.7835,
+            "lng": 38.9910
+        },
+        "city": "Şanlıurfa",
+        "district": "Merkez",
+        "average_stay_minutes": 90,
+        "average_spend": {
+            "amount": 60,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz"
+            ],
+            "days": [
+                "Çarşamba",
+                "Pazar"
+            ],
+            "hours": [
+                "10:00-16:00"
+            ]
+        },
+        "tags": [
+            "müze",
+            "arkeoloji",
+            "mozaik"
+        ],
+        "popularity_score": 90,
+        "virality_trend": "artıyor",
+        "average_rating": 4.7,
+        "review_count": 12000,
+        "sources": [
+            "Wikipedia",
+            "Kültür Portalı"
+        ],
+        "photos": [
+            "https://example.com/photos/muze1.jpg"
+        ]
+    },
+    {
+        "id": "place_006",
+        "name": "Harran (Harran Kubbeli Evler)",
+        "category": [
+            "Tarihi",
+            "Antik Kent"
+        ],
+        "coordinates": {
+            "lat": 37.2400,
+            "lng": 39.0230
+        },
+        "city": "Şanlıurfa",
+        "district": "Harran",
+        "average_stay_minutes": 120,
+        "average_spend": {
+            "amount": 80,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Sonbahar"
+            ],
+            "days": [
+                "Salı",
+                "Cumartesi"
+            ],
+            "hours": [
+                "09:00-15:00"
+            ]
+        },
+        "tags": [
+            "tarih",
+            "antik",
+            "yerel yaşam"
+        ],
+        "popularity_score": 85,
+        "virality_trend": "yükselişte",
+        "average_rating": 4.4,
+        "review_count": 7000,
+        "sources": [
+            "Belediye Sayfası",
+            "Rehber"
+        ],
+        "photos": [
+            "https://example.com/photos/harran1.jpg"
+        ]
+    },
+    {
+        "id": "place_007",
+        "name": "Halfeti",
+        "category": [
+            "Doğal",
+            "Tarihi"
+        ],
+        "coordinates": {
+            "lat": 37.3960,
+            "lng": 38.1100
+        },
+        "city": "Şanlıurfa",
+        "district": "Halfeti",
+        "average_stay_minutes": 180,
+        "average_spend": {
+            "amount": 120,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Sonbahar"
+            ],
+            "days": [
+                "Çarşamba",
+                "Pazar"
+            ],
+            "hours": [
+                "10:00-14:00"
+            ]
+        },
+        "tags": [
+            "doğa",
+            "nehir",
+            "gemi turları"
+        ],
+        "popularity_score": 88,
+        "virality_trend": "artıyor",
+        "average_rating": 4.6,
+        "review_count": 9000,
+        "sources": [
+            "Belediye",
+            "Blog"
+        ],
+        "photos": [
+            "https://example.com/photos/halfeti1.jpg"
+        ]
+    },
+    {
+        "id": "place_008",
+        "name": "Germuş Kilisesi",
+        "category": [
+            "Tarihi",
+            "Dini"
+        ],
+        "coordinates": {
+            "lat": 37.7900,
+            "lng": 38.9950
+        },
+        "city": "Şanlıurfa",
+        "district": "Merkez",
+        "average_stay_minutes": 40,
+        "average_spend": {
+            "amount": 30,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Sonbahar"
+            ],
+            "days": [
+                "Pazartesi",
+                "Perşembe"
+            ],
+            "hours": [
+                "10:00-12:00"
+            ]
+        },
+        "tags": [
+            "miras",
+            "kilise",
+            "tarih"
+        ],
+        "popularity_score": 70,
+        "virality_trend": "istikrarlı",
+        "average_rating": 4.3,
+        "review_count": 3000,
+        "sources": [
+            "Belediye"
+        ],
+        "photos": [
+            "https://example.com/photos/germus1.jpg"
+        ]
+    },
+    {
+        "id": "place_009",
+        "name": "Deyr Yakup (Yakup Manastırı)",
+        "category": [
+            "Tarihi",
+            "Dini"
+        ],
+        "coordinates": {
+            "lat": 37.7800,
+            "lng": 38.9800
+        },
+        "city": "Şanlıurfa",
+        "district": "Merkez",
+        "average_stay_minutes": 50,
+        "average_spend": {
+            "amount": 25,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Sonbahar"
+            ],
+            "days": [
+                "Salı",
+                "Cumartesi"
+            ],
+            "hours": [
+                "11:00-13:00"
+            ]
+        },
+        "tags": [
+            "manastır",
+            "tarih",
+            "dini"
+        ],
+        "popularity_score": 75,
+        "virality_trend": "sabit",
+        "average_rating": 4.4,
+        "review_count": 3200,
+        "sources": [
+            "Belediye"
+        ],
+        "photos": [
+            "https://example.com/photos/deyryakup1.jpg"
+        ]
+    },
+    {
+        "id": "place_010",
+        "name": "Rızvaniye Cami",
+        "category": [
+            "Tarihi",
+            "Dini"
+        ],
+        "coordinates": {
+            "lat": 37.7855,
+            "lng": 38.9895
+        },
+        "city": "Şanlıurfa",
+        "district": "Merkez",
+        "average_stay_minutes": 30,
+        "average_spend": {
+            "amount": 10,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz"
+            ],
+            "days": [
+                "Pazar",
+                "Perşembe"
+            ],
+            "hours": [
+                "09:00-11:00"
+            ]
+        },
+        "tags": [
+            "cami",
+            "tarih",
+            "mimari"
+        ],
+        "popularity_score": 78,
+        "virality_trend": "artıyor",
+        "average_rating": 4.5,
+        "review_count": 4500,
+        "sources": [
+            "Gezilecek Tarihi Yerler"
+        ],
+        "photos": [
+            "https://example.com/photos/rizvaniye1.jpg"
+        ]
+    },
+    {
+        "id": "place_011",
+        "name": "Hilal-ür Rahman Cami (Halil-ür Rahman)",
+        "category": [
+            "Tarihi",
+            "Dini"
+        ],
+        "coordinates": {
+            "lat": 37.7852,
+            "lng": 38.9898
+        },
+        "city": "Şanlıurfa",
+        "district": "Merkez",
+        "average_stay_minutes": 35,
+        "average_spend": {
+            "amount": 15,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz"
+            ],
+            "days": [
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "09:00-11:00"
+            ]
+        },
+        "tags": [
+            "cami",
+            "tarih",
+            "ibadet"
+        ],
+        "popularity_score": 82,
+        "virality_trend": "sabit",
+        "average_rating": 4.6,
+        "review_count": 6000,
+        "sources": [
+            "Tripadvisor",
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://example.com/photos/halilcamii1.jpg"
+        ]
+    },
+    {
+        "id": "place_012",
+        "name": "Nevalı Çori",
+        "category": [
+            "Arkeolojik",
+            "Antik Kent"
+        ],
+        "coordinates": {
+            "lat": 37.9000,
+            "lng": 38.8500
+        },
+        "city": "Şanlıurfa",
+        "district": "Viranşehir Yakını",
+        "average_stay_minutes": 110,
+        "average_spend": {
+            "amount": 90,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Sonbahar"
+            ],
+            "days": [
+                "Çarşamba",
+                "Cuma"
+            ],
+            "hours": [
+                "09:00-15:00"
+            ]
+        },
+        "tags": [
+            "arkeoloji",
+            "yerleşim",
+            "antik"
+        ],
+        "popularity_score": 72,
+        "virality_trend": "düşük",
+        "average_rating": 4.2,
+        "review_count": 2000,
+        "sources": [
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://example.com/photos/nevali1.jpg"
+        ]
+    },
+    {
+        "id": "place_013",
+        "name": "Kapalı Çarşı",
+        "category": [
+            "Çarşı",
+            "Tarihi"
+        ],
+        "coordinates": {
+            "lat": 37.7840,
+            "lng": 38.9880
+        },
+        "city": "Şanlıurfa",
+        "district": "Merkez",
+        "average_stay_minutes": 90,
+        "average_spend": {
+            "amount": 70,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Sonbahar"
+            ],
+            "days": [
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "10:00-17:00"
+            ]
+        },
+        "tags": [
+            "alışveriş",
+            "yerel",
+            "çarşı"
+        ],
+        "popularity_score": 88,
+        "virality_trend": "yüksek",
+        "average_rating": 4.7,
+        "review_count": 11000,
+        "sources": [
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://example.com/photos/carsi1.jpg"
+        ]
+    },
+    {
+        "id": "place_014",
+        "name": "Tektek Dağları Milli Parkı",
+        "category": [
+            "Doğal",
+            "Tarih"
+        ],
+        "coordinates": {
+            "lat": 37.6000,
+            "lng": 38.8000
+        },
+        "city": "Şanlıurfa",
+        "district": "Merkez Yakını",
+        "average_stay_minutes": 180,
+        "average_spend": {
+            "amount": 100,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Sonbahar"
+            ],
+            "days": [
+                "Pazar",
+                "Cumartesi"
+            ],
+            "hours": [
+                "08:00-18:00"
+            ]
+        },
+        "tags": [
+            "doğa",
+            "flora",
+            "park"
+        ],
+        "popularity_score": 75,
+        "virality_trend": "sabit",
+        "average_rating": 4.4,
+        "review_count": 5000,
+        "sources": [
+            "Gezimanya"
+        ],
+        "photos": [
+            "https://example.com/photos/tektek1.jpg"
+        ]
+    },
+    {
+        "id": "place_015",
+        "name": "Müslüm Gürses Müzesi",
+        "category": [
+            "Müze",
+            "Kültürel"
+        ],
+        "coordinates": {
+            "lat": 37.8000,
+            "lng": 38.9900
+        },
+        "city": "Şanlıurfa",
+        "district": "Merkez",
+        "average_stay_minutes": 45,
+        "average_spend": {
+            "amount": 40,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "Yaz",
+                "İlkbahar"
+            ],
+            "days": [
+                "Perşembe",
+                "Cumartesi"
+            ],
+            "hours": [
+                "10:00-14:00"
+            ]
+        },
+        "tags": [
+            "müzik",
+            "kültürel",
+            "sanatçı"
+        ],
+        "popularity_score": 65,
+        "virality_trend": "ölçülü",
+        "average_rating": 4.3,
+        "review_count": 2500,
+        "sources": [
+            "Rehber"
+        ],
+        "photos": [
+            "https://example.com/photos/muslum1.jpg"
+        ]
+    },
+    {
+        "id": "place_016",
+        "name": "Birecik Kalesi",
+        "category": [
+            "Tarihi",
+            "Kale"
+        ],
+        "coordinates": {
+            "lat": 37.8760,
+            "lng": 38.4180
+        },
+        "city": "Şanlıurfa",
+        "district": "Birecik",
+        "average_stay_minutes": 60,
+        "average_spend": {
+            "amount": 50,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Sonbahar"
+            ],
+            "days": [
+                "Salı",
+                "Cuma"
+            ],
+            "hours": [
+                "09:00-12:00"
+            ]
+        },
+        "tags": [
+            "kale",
+            "tarih",
+            "nehir"
+        ],
+        "popularity_score": 70,
+        "virality_trend": "sabit",
+        "average_rating": 4.2,
+        "review_count": 3500,
+        "sources": [
+            "Rehber"
+        ],
+        "photos": [
+            "https://example.com/photos/birecik1.jpg"
+        ]
+    },
+    {
+        "id": "place_017",
+        "name": "Karacadağ (kayak merkezi)",
+        "category": [
+            "Doğal",
+            "Spor"
+        ],
+        "coordinates": {
+            "lat": 37.4500,
+            "lng": 38.6500
+        },
+        "city": "Şanlıurfa",
+        "district": "Karacadağ",
+        "average_stay_minutes": 240,
+        "average_spend": {
+            "amount": 150,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "Kış"
+            ],
+            "days": [
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "09:00-16:00"
+            ]
+        },
+        "tags": [
+            "kayak",
+            "doğa",
+            "spor"
+        ],
+        "popularity_score": 60,
+        "virality_trend": "artıyor",
+        "average_rating": 4.1,
+        "review_count": 1800,
+        "sources": [
+            "Rehber"
+        ],
+        "photos": [
+            "https://example.com/photos/karacadag1.jpg"
+        ]
+    },
+    {
+        "id": "place_018",
+        "name": "Atatürk Barajı Yakını",
+        "category": [
+            "Doğal",
+            "Göl"
+        ],
+        "coordinates": {
+            "lat": 37.8000,
+            "lng": 38.3800
+        },
+        "city": "Şanlıurfa",
+        "district": "Merkez Yakını",
+        "average_stay_minutes": 120,
+        "average_spend": {
+            "amount": 70,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz"
+            ],
+            "days": [
+                "Pazar"
+            ],
+            "hours": [
+                "09:00-17:00"
+            ]
+        },
+        "tags": [
+            "göl",
+            "doğa",
+            "su"
+        ],
+        "popularity_score": 68,
+        "virality_trend": "sabit",
+        "average_rating": 4.2,
+        "review_count": 3000,
+        "sources": [
+            "Gezilecek Yerler"
+        ],
+        "photos": [
+            "https://example.com/photos/ataturkbarajı1.jpg"
+        ]
+    },
+    {
+        "id": "place_019",
+        "name": "Bakırcılar Çarşısı & Sipahi Pazarı",
+        "category": [
+            "Çarşı",
+            "El Sanatı"
+        ],
+        "coordinates": {
+            "lat": 37.7845,
+            "lng": 38.9890
+        },
+        "city": "Şanlıurfa",
+        "district": "Merkez",
+        "average_stay_minutes": 90,
+        "average_spend": {
+            "amount": 80,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Yaz"
+            ],
+            "days": [
+                "Cumartesi",
+                "Pazar"
+            ],
+            "hours": [
+                "10:00-18:00"
+            ]
+        },
+        "tags": [
+            "alışveriş",
+            "geleneksel",
+            "el sanatları"
+        ],
+        "popularity_score": 90,
+        "virality_trend": "yüksek",
+        "average_rating": 4.7,
+        "review_count": 10000,
+        "sources": [
+            "Enuygun",
+            "Rehber"
+        ],
+        "photos": [
+            "https://example.com/photos/carsi2.jpg"
+        ]
+    },
+    {
+        "id": "place_020",
+        "name": "Gürcütepe",
+        "category": [
+            "Arkeolojik",
+            "Antik Yerleşim"
+        ],
+        "coordinates": {
+            "lat": 37.8000,
+            "lng": 38.9900
+        },
+        "city": "Şanlıurfa",
+        "district": "Merkez Yakını",
+        "average_stay_minutes": 100,
+        "average_spend": {
+            "amount": 90,
+            "currency": "TRY"
+        },
+        "best_visit_times": {
+            "season": [
+                "İlkbahar",
+                "Sonbahar"
+            ],
+            "days": [
+                "Çarşamba",
+                "Cuma"
+            ],
+            "hours": [
+                "09:00-15:00"
+            ]
+        },
+        "tags": [
+            "arkeoloji",
+            "yerleşim",
+            "geçmiş"
+        ],
+        "popularity_score": 60,
+        "virality_trend": "düşük",
+        "average_rating": 4.0,
+        "review_count": 1500,
+        "sources": [
+            "Wikipedia"
+        ],
+        "photos": [
+            "https://example.com/photos/gurcut1.jpg"
+        ]
+    }
+]
